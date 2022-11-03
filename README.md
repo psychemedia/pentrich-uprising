@@ -2,7 +2,7 @@
 
 Contemporary accounts of the Pentrich Uprising
 
-A cracking story I learned about from a [Ferocious Dog song](https://www.youtube.com/watch?v=iqwEsFnAqg4), follows on from the Luuddite tale in much of the setting and conspiracy.
+A cracking story I learned about from a [Ferocious Dog song](https://www.youtube.com/watch?v=iqwEsFnAqg4), follows on from the Luddite tale in much of the setting and conspiracy.
 
 A prequel is a gathering and riot at Spa Fields, London, December 1816: a State Trial of Messrs Watson, Hooper, Preston, Thistlewood for High Treason is set for June, 1817.
 
