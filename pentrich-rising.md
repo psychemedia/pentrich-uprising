@@ -1,5 +1,7 @@
 # Pentrich Rising
 
+# Pentrich Rising
+
 ```text
 I bring you a tale, 
 Of treason, and lies.  
@@ -27,7 +29,7 @@ Fifty men had set out from Pentrich, intending to take part in a co-ordinated ra
 
 But it seems that the magistrates and the Yeomanry knew what was likely to be afoot. It seems almost as if they had been forewarned. The men left the ironworks and headed towards Nottingham. The numbers grew, to 500 or so, but by now the authorities had the evidence they needed, and the insurrectionists were dispersed. The leaders, identified by who knows what intelligence, were later arrested. At the local assizes, they are summoned to appear before a Special Commission to be held in the Autumn on the charge of High Treason. Four in particular accused of being the leaders. Or perhaps, make that three, Because one of the leaders, who had avoided action on the night in question, and who had been the contact man for a certain Mr William Oliver, was treated differently. It would not do for *his* evidence to come before the jurors, let alone the public. Controls were placed on reporting of the trial by the press, and outside the court, graffiti'd messages to the jurors were daubed on the courthouse wall: "Jurymen – remember Oliver!"
 
-By the end of the trial, the three leaders, and sundry others, were found guilty of High Treason. For the leaders, a sentence of hanging, drawing and quartering. For the others, just hanging, although in a 19th century style plea bargain, that was commuted to deportation.
+By the end of the trial, the three leaders, and sundry others, were found guilty of High Treason. For the leaders, a sentence of hanging, the severing of the head from the neck, and quartering. For the others, just hanging, although in a 19th century style plea bargain, that was commuted to deportation.
 
 For three leaders — Jeremiah Brandreth, William Turner & Isaac Ludlam — they also received clemency of a sort, from the Prince Regent: their bodies would not be quartered.
 
@@ -37,40 +39,43 @@ Later that afternoon, their bodies were dumped in an unmarked grave.
 
 And that is the story of the Pentrich Uprising.
 
+*FOR A MORE COMPREHENSIVE SET OF STORYNOTES RELATING TO THE PENRICH UPRISING, SEE https://github.com/psychemedia/pentrich-uprising*
 
 --
 https://www.youtube.com/watch?v=iqwEsFnAqg4
 
 Pentrich Rising, Ferocious Dog
 
-Oh my name is William Turner and my tale I'll tell to thee
-about the revolution in 1817
-With Brandreth and Ludlam and a band of fifty strong
-With hundreds more to meet us
+Oh my name is William Turner and my tale I'll tell to thee  
+about the revolution in 1817  
+With Brandreth and Ludlam and a band of fifty strong  
+With hundreds more to meet us  
 on the road, as we march on
 
-A night for revolution, a night to fight
-A call to arms in England
-All workers must unite
-Tonight we march on Pentrich
-with London in our sights
-A night for revolution
-All workers must unite
+A night for revolution, a night to fight  
+A call to arms in England  
+All workers must unite  
+Tonight we march on Pentrich  
+with London in our sights  
+A night for revolution  
+All workers must unite  
 And then we fight
 
-Little did we know there was a traitorous government spy
-William J. Oliver a man I now despise
-The Pentrich revolution was always doomed to fail
+Little did we know there was a traitorous government spy  
+William J. Oliver a man I now despise  
+The Pentrich revolution was always doomed to fail  
 For high treason, I was sentenced and hung in Derby Gaol
 
-A night for revolution a night to fight
-A call to arms in England
-All workers must unite
-Tonight we march on Pentrich
-with London in our sights
-A night for revolution
-All workers must unite
+A night for revolution a night to fight  
+A call to arms in England  
+All workers must unite  
+Tonight we march on Pentrich  
+with London in our sights  
+A night for revolution  
+All workers must unite  
 And then we fight
+
+
 
 ---
 
@@ -166,7 +171,7 @@ https://huddersfield.exposed/wiki/The_History_of_Honley_(1914)_-_Chapter_III#FOL
 https://archive.org/details/sim_notes-and-queries_1896-06-13_9_233/page/468/mode/2up
 Notes and Queries  1896-06-13: Vol 9 Iss 233
 p468
-"A Green Baker."—What was the origin of the term "a Green Bag Maker"? In 1817 a political spy named Oliver was so termed by Mr. Baines, of Leeds: " What the trade of this man may be we cannot pretend to say—but that he is a Green Bag Maker by profession is, we think, sufficiently obvious." St. Swithin.
+"A Green Bag Mker."—What was the origin of the term "a Green Bag Maker"? In 1817 a political spy named Oliver was so termed by Mr. Baines, of Leeds: " What the trade of this man may be we cannot pretend to say—but that he is a Green Bag Maker by profession is, we think, sufficiently obvious." St. Swithin.
 
 https://archive.org/details/sim_notes-and-queries_1896-06-20_9_234/page/494/mode/2up
 Notes and Queries  1896-06-20: Vol 9 Iss 234
@@ -298,7 +303,7 @@ Mr. Justice Abbott—— After consulting with the gaoler here (Mr. Eaton), and 
 
 After a considerable interval, the following Prisoners were led to the bar through the Court: "Thomas Bacon (an aged man, charged to have planned the alledged insurrection,) Jeremiah Brandreth (designated the Nottingham Captain, little, thin, old man). Joseph Wightman (an uncommonly stout and good-looking young man,) William Turner (a young man, but rather disfigured by enormous black beard, apparently the growth of several months), Isaac Ludlam the elder, William Ludlam, and Samuel Hunt.
 
-Mr. Justice Abhott addressed them in precisely the same terms he had addressed the others.
+Mr. Justice Abbott addressed them in precisely the same terms he had addressed the others.
 
 Edward Turner, Robert Turner, John McKessick, John Hill, Joseph Rawson (alias Thorp,) John Moore, William Wightman, and Thomas Wightman, were next brought up, and disposed at in like manner.
 
@@ -308,9 +313,9 @@ Joseph Turner and Samuel Ludlam were so sick that they could not brought into co
 
 Thus 35 persons altogether are to take their trials here on the 15th of October, upon a charge of high treason. All are evidently the lowest and labouring class of the community; manv ot them appeared in Court in their blue smock-frocks.
 
-Mr. Attorney-General— " I have a motion to submit to the Court, that Mr. Henry Litchfield, the Solicitor for the prosecution, instructed to deliver to the prisoners a list the Jurors, their professions, and places of residence, at the same time with the indictment. Your Lordships may recollect a simmilar order by the Court of King's Bench at the trial Watson."
+Mr. Attorney-General— " I have a motion to submit to the Court, that Mr. Henry Litchfield, the Solicitor for the prosecution, instructed to deliver to the prisoners a list the Jurors, their professions, and places of residence, at the same time with the indictment. Your Lordships may recollect a simmilar order by the Court of King's Bench at the trial of Watson."
 
-Mr. Justice Abbott—" AN order shall be made to that effect." 
+Mr. Justice Abbott—" AN order shall be made to that effect."
 
 The Court adjourned at half past ten, to Wednesday, the 15th of October, at twelve o'clock.
 
@@ -382,7 +387,7 @@ Lord Chief Baron. " Gentlemen, his Majesty's Attorney-General having declined of
 
 The foreman pronounced a verdict according to tbe direction of the Learned Judge, who addressed the prisoners in a most impressive manner. Mr. Denman now rose, evidently much affected, and in a few words expressed his hope with respect to tbe young men at bar, in coincidence with the sentiments the Attorney-General. So surprised were these unfortunate men, that they stood motionless the bar for short time, and were much affected.— Those prisoners who had pleaded guilty were now conducted into Court. After them came Brandreth, Isaac Ludlam the elder, William Turner, and George Weightman, whose appearance was announced by the clanking of the irons, which echoed through the silent Hall in a horrid manner. All of them begged for mercy on being asked what they had to say why judgment to die according to law should not be passed. Tbe Chief Baron then addressed them:
 
-" Prisoners at the bar, —In the unhappy situation in which you now stand, it becomes my duty to pass upon you the sentence of the law, which you have incurred by the violation of the laws of your country,. It must some consolation to you, however, that you have had every assistance and every advantage, that men in your situation could have. You have been defended by Counsel of your own selection, who, without any interruption from any quarter, used every exertion your favour which their experience, their learning, and their great abilities suggested to them. I am speaking of those among you who pleaded not guilty. You were tried by several Juries, wjose respectability was undoubted. During the whole of the investigation on this most important and solemn occasion, every attention has been paid to every side of the question, and yet those juries found themselves compelled, by the most irresistible evidence, to find you guilty of High Treason. Those of you who were not tried by Jury desired have the liberty of withdrawing your pleas. You knew that your cases had been decided by the verdicts which had been given. You are, therefore, all of you, before the world, guilty of High Treason— the highest offence known to our laws. Your insurrection, thank God, did not last long, but whilst it continued it was marked with violence, and with the murder of an innocent young man, who did not offer the least provocation. Your object was to wade through the blood of your countrymen ; to extinguish the Law and Constitution of the country ; and to substitute for the liberty of your fellow subjects, anarchy and ruin. Thank God your purpose failed. It is not my intention to dwell on this dreadful picture, but I hope may be allowed to express my sincere hopes and sincere wishes, that the example which you will furnish this important day, may deter others from yielding to the wild and frantic delusions of rapacious spirits, and warn others, if such others there be, from being made instruments in the hands of hellish agitators. Let me beseech you to weigh well your condition ; your lives have become forfeited to the violated laws of your country. Make the most of the small portion of that life which is left, and endeavour to make some compensation to society by repentance. I cannot trust myself say more, [Here his Lordship was deeply affected,] but must pass upon you the awful sentence of the law, which is, that you, and each of you, be taken hence to the gaol, whence you came, from whence you must be drawn a hurdle to the place of execution, and be there severally hanged by the neck until you are dead ; your head must then be severed from your bodies, which are to be divided into four quarters, and to be at his Majesty's disposal."
+" Prisoners at the bar, —In the unhappy situation in which you now stand, it becomes my duty to pass upon you the sentence of the law, which you have incurred by the violation of the laws of your country. It must be some consolation to you, however, that you have had every assistance and every advantage, that men in your situation could have. You have been defended by Counsel of your own selection, who, without any interruption from any quarter, used every exertion your favour which their experience, their learning, and their great abilities suggested to them. I am speaking of those among you who pleaded not guilty. You were tried by several Juries, whose respectability was undoubted. During the whole of the investigation on this most important and solemn occasion, every attention has been paid to every side of the question, and yet those juries found themselves compelled, by the most irresistible evidence, to find you guilty of High Treason. Those of you who were not tried by Jury desired have the liberty of withdrawing your pleas. You knew that your cases had been decided by the verdicts which had been given. You are, therefore, all of you, before the world, guilty of High Treason— the highest offence known to our laws. Your insurrection, thank God, did not last long, but whilst it continued it was marked with violence, and with the murder of an innocent young man, who did not offer the least provocation. Your object was to wade through the blood of your countrymen ; to extinguish the Law and Constitution of the country ; and to substitute for the liberty of your fellow subjects, anarchy and ruin. Thank God your purpose failed. It is not my intention to dwell on this dreadful picture, but I hope may be allowed to express my sincere hopes and sincere wishes, that the example which you will furnish this important day, may deter others from yielding to the wild and frantic delusions of rapacious spirits, and warn others, if such others there be, from being made instruments in the hands of hellish agitators. Let me beseech you to weigh well your condition ; your lives have become forfeited to the violated laws of your country. Make the most of the small portion of that life which is left, and endeavour to make some compensation to society by repentance. I cannot trust myself say more, [Here his Lordship was deeply affected,] but must pass upon you the awful sentence of the law, which is, that you, and each of you, be taken hence to the gaol, whence you came, from whence you must be drawn a hurdle to the place of execution, and be there severally hanged by the neck until you are dead ; your head must then be severed from your bodies, which are to be divided into four quarters, and to be at his Majesty's disposal."
 
 The greater part the unhappy men seemed deeply affected by tbe solemn address ; but Brandreth remained unmoved. The prisoners were then conveyed back to gaol, followed immense concourse of people. Thirty-five persons had been originally brought for trial for this crime. Of these twelve were discharged on Saturday, the Attorney-General having declined to prosecute, and the Jury having in consequence found them not guilty. Of the 23, four were tried at length, and convicted. The remaining nineteen withdrew their plea of not guilty, and pleaded guilty. The four convicts are confined in the condemned cells, and walk by themselves in the adjoining yard. They are heavily ironed. Brandreth continues to cherish his beard. He wears the same dress, and looks exactly the same as during bis trial— he walks with a very firm pace, and has much intrepidity in his air and manner.— Turner, in his look, gait, and general appearance, is the very picture of absolute despondency; never did a human eye more strikingly express "helpless, hopeless, brokenness heart."— Ludlam has a singular appearance of melancholy composure, the obvious result of deep distress, supported and tempered resolution and reflection — Weightman has no mark of despondency about him . it is remarkable that never associates with the other three, but while they are walking together drives backwards and forwards by himself. It may be worthy of notice, too, that Turner, Ludlam, and Weightman, have their work clothes, and not the dress they wore during the trial. The other nineteen prisoners are not ironed, and they have the free use ot tbe common yard.
 
@@ -471,6 +476,18 @@ transcripts advertised in advance
 Watson, Hooper, Preston, Thistlewood
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000237/18170606/063/0003
 
+
+https://archive.org/details/fairburnseditio00watsgoog/page/n8/mode/2up
+Fairburn's Edition of the Whole Proceedings on the Trial of James Watson ...
+by James Watson
+Publication date 1817
+
+https://archive.org/details/trialjameswatso01gurngoog/page/n3/mode/2up - vol 1
+https://archive.org/details/trialjameswatso00gurngoog/page/n3/mode/2up - vol 2
+The trial of James Watson for high treason : at the bar of the Court of King's Bench on Monday the 9th, Tuesday the 10th, Wednesday the 11th, Thursday the 12th, Friday the 13th, Saturday the 14th, and Monday the 16th of June, 1817 : with the antecedent proceedings
+by Watson, James, 1766?-1838; Gurney, William Brodie, 1777-1855; Great Britain. Court of King's Bench
+Publication date 1817
+
 https://archive.org/details/hightreasontria00thisgoog
 High-treason, the trials at bar of Arthur Thistlewood, gent., James Watson, the elder, surgeon, Thomas Preston, cordwainer, and John Hooper, labourer, for high-treason ... in the Court of King's Bench, Westminster, on ... June 9, 1817 [microform]
 by Great Britain. Court of King's Bench
@@ -500,3 +517,32 @@ The trials of Jeremiah Brandreth, William Turner, Isaac Ludlam, George Weightman
 by Brandreth, Jeremiah, d. 1817; Turner, William, d. 1817; Ludlam, Isaac, d. 1817; Gurney, William Brodie, 1777-1855
 
 Publication date 1817
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001724/18831205/060/0003
+Eastern Daily Press - Wednesday 05 December 1883
+JEREMIAH BRANDRETH
+
+To The Editor. Sir—In the *Standard*'s review of Sir Theodore Martin’s "Life of Lord Lyndhurst," mention is made of his lordship having increased his reputation by the prosecution of Brandreth, the Luddite, at Nottingham in 1817. I happen to possess am engraved portrait of Brandretb. It is a ghastly affair. The executioner's hands are seen holding the head of Brandreth after the axe had preformed its horrid office. A slight colouration is given touches of brown to the hair of the head and beard—the lips are of livid purple hue—the blood from the neck is strongly marked natural colour!
+
+Can any of your readers tell me whether this engraving is common or not? I have never any but the one I have.—I am, sir, yours truly, J. LAWSON SISSON
+Edingthorpe, December4th, 1883.
+
+
+
+Nov 1817  
+Death princess charlotte
+
+---
+
+Hansard
+
+https://hansard.parliament.uk/search/Contributions?searchTerm=oliver&startDate=01%2F01%2F1817%2000%3A00%3A00&endDate=12%2F22%2F1817%2000%3A00%3A00
+
+https://hansard.parliament.uk/search/Contributions?searchTerm=oliver%20spy&startDate=01%2F01%2F1817%2000%3A00%3A00&endDate=12%2F22%2F1817%2000%3A00%3A00
+
+
+Pentrich and South Wingfield Revolution Group
+https://pentrichrevolution.org.uk/
