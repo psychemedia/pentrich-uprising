@@ -44,3 +44,97 @@ Mr. Wynn said, that if the hon. baronet had objected to the supply because the q
 Mr. Curwen thought it most disgraceful in ministers to employ such a man as Reynolds in any public situation. He trusted that the noble lord would undo what had been done on this subject; because, though Reynolds might be rewarded for his services, it certainly was not fit to hold him up as a person to be employed in a public capacity.
 
 The resolutions were then agreed to.
+
+
+---
+
+
+https://api.parliament.uk/historic-hansard/lords/1817/feb/18/report-of-the-secret-committee-of-the
+REPORT OF THE SECRET COMMITTEE OF THE HOUSE OF LORDS RESPECTING CERTAIN DANGEROUS MEETINGS AND COMBINATIONS.
+HL Deb 18 February 1817 vol 35 cc411-20
+
+
+https://api.parliament.uk/historic-hansard/commons/1817/feb/19/report
+REPORT OF THE SECRET COMMITTEE OF THE HOUSE OF COMMONS, RESPECTING CERTAIN MEETINGS AND DANGEROUS COMBINATIONS.
+HC Deb 19 February 1817 vol 35 cc438-47
+
+https://api.parliament.uk/historic-hansard/lords/1817/feb/18/petitions-relating-to-reform-c
+PETITIONS RELATING TO REFORM, &c
+HL Deb 18 February 1817 vol 35 cc420-8
+
+https://api.parliament.uk/historic-hansard/lords/1817/jun/12/second-report-of-the-secret-committee-of
+SECOND REPORT OF THE SECRET COMMITTEE OF THE HOUSE OF LORDS RESPECTING CERTAIN DANGEROUS MEETINGS AND COMBINATIONS.
+HL Deb 12 June 1817 vol 36 cc949-56
+
+https://api.parliament.uk/historic-hansard/commons/1817/jun/19/spies-and-informers
+SPIES AND INFORMERS.
+HC Deb 19 June 1817 vol 36 cc1069-70
+
+https://api.parliament.uk/historic-hansard/lords/1817/jun/19/habeas-corpus-suspension-bill
+HABEAS CORPUS SUSPENSION BILL.
+HL Deb 19 June 1817 vol 36 cc1044-63
+
+https://api.parliament.uk/historic-hansard/commons/1817/jun/20/habeas-corpus-suspension
+HABEAS CORPUS SUSPENSION.
+HC Deb 20 June 1817 vol 36 cc1077-81
+
+https://api.parliament.uk/historic-hansard/commons/1817/jun/20/committee-of-secrecy
+COMMITTEE OF SECRECY.
+HC Deb 20 June 1817 vol 36 cc1081-8
+
+https://api.parliament.uk/historic-hansard/commons/1817/jun/20/second-report-from-the-committee-of
+SECOND REPORT FROM THE COMMITTEE OF SECRECY.
+HC Deb 20 June 1817 vol 36 cc1088-98
+
+
+https://api.parliament.uk/historic-hansard/commons/1817/jun/23/habeas-corpus-suspension-bill
+HABEAS CORPUS SUSPENSION BILL.
+HC Deb 23 June 1817 vol 36 cc1109-43
+
+HABEAS CORPUS SUSPENSION BILL.
+HC Deb 26 June 1817 vol 36 cc1198-204
+https://api.parliament.uk/historic-hansard/commons/1817/jun/26/habeas-corpus-suspension-bill
+
+---
+
+https://api.parliament.uk/historic-hansard/lords/1817/apr/30/lord-sidmouths-circular-letter
+LORD SIDMOUTH'S CIRCULAR LETTER.
+
+https://api.parliament.uk/historic-hansard/lords/1817/may/12/lord-sidmouths-circular-letter
+LORD SIDMOUTH'S CIRCULAR LETTER.
+HL Deb 12 May 1817 vol 36 cc445-516
+
+https://api.parliament.uk/historic-hansard/commons/1817/jun/25/lord-sidmouths-circular-letter
+LORD SIDMOUTH'S CIRCULAR LETTER.—
+HC Deb 25 June 1817 vol 36 cc1158-87
+
+--
+
+https://api.parliament.uk/historic-hansard/commons/1818/jan/29/habeas-corpus-suspension-repeal-bill
+HABEAS CORPUS SUSPENSION REPEAL BILL.
+HC Deb 29 January 1818 vol 37 cc91-104
+
+
+
+
+https://api.parliament.uk/historic-hansard/commons/1818/feb/05/motion-for-a-secret-committee-on-the
+MOTION FOR A SECRET COMMITTEE ON THE STATE OF THE COUNTRY.
+HC Deb 05 February 1818 vol 37 cc162-91
+
+https://api.parliament.uk/historic-hansard/commons/1818/feb/11/motion-respecting-the-conduct-of-certain
+MOTION RESPECTING THE CONDUCT OF CERTAIN SPIES AND INFORMERS.
+HC Deb 11 February 1818 vol 37 cc338-95
+
+https://api.parliament.uk/historic-hansard/lords/1818/feb/23/report-of-the-secret-committee-of-the
+REPORT OF THE SECRET COMMITTEE OF THE HOUSE OF LORDS ON THE INTERNAL STATE OF THE COUNTRY.
+HL Deb 23 February 1818 vol 37 cc568-75
+
+
+https://api.parliament.uk/historic-hansard/commons/1818/mar/05/motion-for-an-inquiry-into-the-conduct
+MOTION FOR AN INQUIRY INTO THE CONDUCT OF SPIES AND INFORMERS WITH RESPECT TO TREASONABLE AND SEDITIOUS PRACTICES.
+HC Deb 05 March 1818 vol 37 cc820-62
+
+
+https://api.parliament.uk/historic-hansard/commons/1820/may/09/motion-respecting-the-criminal-conduct
+MOTION RESPECTING THE CRIMINAL CONDUCT AND PROCEEDINGS OF GEORGE EDWARDS.
+HC Deb 09 May 1820 vol 1 cc242-93
