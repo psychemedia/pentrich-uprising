@@ -391,7 +391,46 @@ The foreman pronounced a verdict according to tbe direction of the Learned Judge
 
 The greater part the unhappy men seemed deeply affected by tbe solemn address ; but Brandreth remained unmoved. The prisoners were then conveyed back to gaol, followed immense concourse of people. Thirty-five persons had been originally brought for trial for this crime. Of these twelve were discharged on Saturday, the Attorney-General having declined to prosecute, and the Jury having in consequence found them not guilty. Of the 23, four were tried at length, and convicted. The remaining nineteen withdrew their plea of not guilty, and pleaded guilty. The four convicts are confined in the condemned cells, and walk by themselves in the adjoining yard. They are heavily ironed. Brandreth continues to cherish his beard. He wears the same dress, and looks exactly the same as during bis trial— he walks with a very firm pace, and has much intrepidity in his air and manner.— Turner, in his look, gait, and general appearance, is the very picture of absolute despondency; never did a human eye more strikingly express "helpless, hopeless, brokenness heart."— Ludlam has a singular appearance of melancholy composure, the obvious result of deep distress, supported and tempered resolution and reflection — Weightman has no mark of despondency about him . it is remarkable that never associates with the other three, but while they are walking together drives backwards and forwards by himself. It may be worthy of notice, too, that Turner, Ludlam, and Weightman, have their work clothes, and not the dress they wore during the trial. The other nineteen prisoners are not ironed, and they have the free use ot tbe common yard.
 
+---
 
+Manchester blanketeer - trial collapsed;
+
+March 1817
+
+https://en.wikipedia.org/wiki/Blanketeers
+
+https://victorianweb.org/history/riots/blanket.html
+
+
+Bagguley and Drummond keep getting into trouble over the voming years...
+
+
+
+Report from the committee of secrecy - mentions blanketeers
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001057/18170627/001/0001
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001316/18170623/004/0001
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000239/18170701/011/0004
+Manchester Mercury - Tuesday 01 July 1817
+
+Derbyshire Insurrection.
+
+An inquest has been taken by Mr. Gosling, the Coroner, upon the body of Robert Walter, Mr. Hepworth's servant, who was shot in the night Tuesday the 10th ult. in his master's house in Wingfield Park ; and a verdict of *Wilful Murder* has been returned by the Jury against William Turner, otherwise Manchester Turner, Robert Turner, Isaac Ludlam, William Ludlam, and William Barker.
+
+It has come out in the examinations of the prisoners, now in custody in our county gaol, on charges of being concerned in the late treasonable outrages, that several of them were in situations far above want, being persons of small property, and that others were in the habit of earning from 15s, to 25s and upwards, weekly.— (*Nottingham Journal*.)
+
+Ann Weightman, widow, who has kept the White Horse public-house at Pentridge, for several years was convicted before the Magistrates at the County Hall on Friday last, of having permitted seditious meetings, and particulatly a meeting on Sunday the. 8th instant, to be held at her house; and her licence to sell ale was adjudged to be forfeited. — We hope and trust that this example will be followed in other places on the Nottinghamshire side of this county. We hear with great pleasure that strict enquiry will made into the conduct of the Duke of Devonshire's tenantry in Pentridge ; and that no man will be permitted to remain on his Grace's rental who has in any manner aided, or has been in the least degree concerned in the late insurrection.— *Derby Mercury*.)
+
+---
+britishnewspaperarchive.co.uk/viewer/bl/0001476/18170620/008/0004
+London Courier and Evening Gazette - Friday 20 June 1817
+- report includes mention of committal to trial of Huddersfield as well as Pentridge rebels
+
+---
+
+THe charge of wilful murder against Robort Walter seems to have been dropped as the charge fo hight reason was pursued?
 
 ---
 
@@ -400,6 +439,35 @@ Oliver the spy
 
 also leeds_mercury.md
 skilled_labourer.md
+
+
+--
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001255/18170609/011/0002
+Public Ledger and Daily Advertiser - Monday 09 June 1817
+Watson, Thistlewood trial, prequel
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001255/18170606/016/0002
+Public Ledger and Daily Advertiser - Friday 06 June 1817
+ecret committee, Heabea corpu, treason trial
+
+----
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000498/18170614/006/0002
+York Herald - Saturday 14 June 1817
+
+Watson, Thistelwood trial etc - charges laid ; also press restrictions
+
+...
+
+The officer of the Court then, by the consent of all sides, only recited the general counts, four in number of -,the indictment, without reciting the Overt Acts. The substance of the whole may be considered as ?? comprised in the following extract: ".The jurors aforesaid, upon their oath ..foresaid, do farther present, that the said Arthur Thistlewoud, James Watson the elder, James Watson tbe younger, Thomas Preston, and John Hooper, being subjects of our Still Land the King, not having the tear of God in their hearts nor weighing the duty of their allegiancß, -but being moved and seduced by the instigation oi'-tha Delias fake traitors against our said Lord the' king, ■and wholly withdrawing the love, obedience, fidelity, and sllrgiar.ee, which eveiy true und faithfiil*pubje(t pf our said Lord the King, should and uf right ought to bear toward our said Lord the King, on the 2d day of December in the .*>7th year of the reign afoies.-iid.with force and arms, in the said pat is' i vi St. James, C lerken- well, in the said county of Middlesex, together with a great multitude of false traitors, whose names are to the said Jurors unknown, to die number of five thou- sand and more, arrayed and armed in a warlike manner that is to say with' flags, banners, and ensign*, swords, pistols dubs, bludgeons and other weapons, being then and there unlawfully, maliciously and traitorously as- sembled and gathered together against our said Lon, the King, must wickedly, maliciously aad traitorously did levy and make war against our said Lord the King, and being so assembled together, arrayed and armed against our said Lord the King as aforesaid, did then and there with great force and violence, parade and march in an hostile manner through divers public streets and highways, aad did then and there malici- ously aw} traitorously attempt and endeavour, by force *"•• arms, w.subvert end destroy tke gove:r. rtier. t and constitution. i*f this realm, a* by law established; and to deprive and depose our said Lord the King of and from th* style, honour, and Kingly name of the Impe- rial Crown of fhis realm, in contempt of our said Lord die King aad hi* laws, to the evil example of all other*. contrary to the duty of the allegiance ofthem the said Arthur Thistlewix.il, James Watson the elder, James Watson the younger, Thomas Preston and John Hoo- per, against the form of the* statue in such case made and pnwided,*and against die peace of our said Lord the King, his Crown and dignity. " At one o'clock the Attorney-General rose to address the Jury ; which he did in a speech that occupied two hours in the delivery. After haidng stated the history of the transactions, he endeavoured to identify with them the prisoner James Watson; and concluded by asserting, that he possessed indubitable evidence of the criminality ofthe prisoher. The first witness called was Thomas Storcr, a printer in Fetter-lane, who had refused to print the petition, and a hand-bill invitine a meeting in S*»-*ields. ' . Arta^Stsly another printer in Tottenham-* court-road, proved his having printed hOOO large and small bills for said meeting, copies of which were read. The evidence of two other witnesses was rejected. John Monkhoase.-of the Merlin's Cave de- posed that about So,'»o persons were present at and near his public-house and grounds among whom were Mr. Puunsford, the mairi- ttrate, and many peaci-iifTtctrs. J. Fitzprrtrivk and V. G. Dowling both de- posed to seeing Vi'atsaii and Prestoa at the meet- ing; and the fawer-atatctt that frtshfh audit was a' glorious <kiy. Mr. Dowling was giving a ininutt- history of the transactions, when Air. Serjeant Ccph-y and .Mrs Wc-therall took the most iißport-mt objection th j t will prttba'oly be made during the trial— that tbe .speeches to which the evidence here applied, ought to have been set out in the indictment as overt acts of treason. The Court, however, over-ruled the objection, thinking they were set out with suf- ficient precision. [Here Lord EHeHhorough said, that the Ciuirt expected that no part of the proct-itfinga shfiuld. be made public, pending tne trial, on .pain of cofatempt.l ?? ' Mr. V. G. Howling was at this time under examination. When his examination waa con- cluded, Mr. Howling addretaed the Bench, ami ob- served, that he had to solicit their Lordship's attention to himself. Their I.oriishiiis had just intimated their pleasure' that no part of the proceeding* should be ?? - till the trial was concluded. Unfortunately, being ignorant of their Lordship's determination, a Paper with which be was connected, had already published a full account of the proceedings up to a late hour, and unfortunately they, sinning in igno- rance, had nhv-ndy sent if <nit ftito fhe world. Lord EUtriborough - observed, what was already done could not be remedied ; those who had thus published the proceedings of the Court, whilst yet in ap unfinished state, had done it at the peril of being punished for a contempt. Should any one, however, presume to publish any part of the r»oceedwigs, atter this notice, till the whole was finished, the Court would not fail to visit the offender with iv severest ani- madversion. At eight o'clock the Court adjourned till nine o'clock on Tuesday morning. Four Officers having been previously sworn in to uke charge ot the Jury, who are lodged at tbe King's Anns- Tavern. I'he prisoners were removed from the Court under the same escort with which they came down in the morning; a large crowd hail col. lected in the Hall to see thetn taken from the Court, and as they proceeded down the Hall to take coach at the great gate, they were loudly greeted by the populace. The trial of James Watson, sen. was resumed on Tuesday. Tiie following witnesses were examined for the Crown :— C. Shearman the younger, C. Slmtrman the elder, and Mr. J. Stafrcrd, Chief Clerk at Row-street l\*ice-Office, Air. Bwck- with, Mr. Piatt, Mr. Rae, Air. Rnu.don, Mr. Hall, Limbcrick, the Bow-street O&or^-Mr. Miikilet/.n, of Sldnher-slreet, Sir J. Shaw, Mr. White the common councilman, Mr. Ha> ward, a stock-broker, two privatts of the eoldstrear; Regiment of Guards, and several otbers. Their Lordships being under the necessity to attend certain term business this evenii*', Lord Filk-iiborottgh intimated at hall'past live o'clock, that the Court wonld pr
+
+...
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001286/18170615/009/0003
+Bell's Weekly Messenger - Sunday 15 June 1817
+
+Accounts from Hudersfield and Notts, also summary of Thistlewood et al trial
 
 ---
 
@@ -462,6 +530,23 @@ The letter to which he refers, and which came from London enclosed to Mr. Eaton,
 
 It appears that Brandreth has several relations living in the neighbourhood of Nottingham.
 
+---
+
+
+TO DO 
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000050/18180516/002/0008?browse=true
+Cobbett's Weekly Political Register - Saturday 16 May 1818
+Deposition of William Stevens re: Thomas Bacon and William Oliver
+Cobbett's Weekly Political Register - Saturday 16 May 1818 -facts relating to WIlliam Oliver
+
+
+Summary of the affair
+Cobbett's Weekly Political Register - Saturday 25 April 1818
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000050/18180425/001/0001?browse=true TO Henry Hunt
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000050/18180926/001/0009
+
+Henry Hunt British radical
 
 
 --
@@ -546,3 +631,184 @@ https://hansard.parliament.uk/search/Contributions?searchTerm=oliver%20spy&start
 
 Pentrich and South Wingfield Revolution Group
 https://pentrichrevolution.org.uk/
+
+
+Observer supplement reprinted over 2 pages in https://www.britishnewspaperarchive.co.uk/viewer/bl/0002925/18180407/028/0008 
+
+
+
+Derby Assizes that provided the committal of prisoners to the special commission 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18170731/007/0003
+Derby Mercury - Thursday 31 July 1817
+
+
+Summary in Derby Mercury - Thursday 06 November 1817 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18171106/004/0002 reprinted from the Morning Post of "friday last"
+
+
+
+https://archive.org/details/cottonmanufact00bain/page/n29/mode/1up?q=luddites
+History of the cotton manufacture in Great Britain : with a notice of its early history in the East, and in all the quarters of the globe : a description of the great mechanical inventions, which have caused its unexampled extension in Britain, and a view of the present state of the manufacture and the condition of the classes engaged in its several departments
+by Baines, Edward, Sir, 1800-1890 
+Publication date 1835
+
+
+https://books.google.co.uk/books?id=KHToAAAAMAAJ&printsec=frontcover&dq=baines+history+george&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=baines%20history%20george&f=false
+History of the Reign of George III, King of the United Kingdom of Great Britain and Ireland, Volume 4
+Edward Baines 1823
+History 1816-18 etc
+
+
+luddite june 1816 55 frames loughborough, Heathocte and Boden's factory; James Towle hanged nobv 1816,
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18161130/019/0004  Leeds Mercury - Saturday 30 November 1816
+
+ more in 1817
+
+trial - https://www.britishnewspaperarchive.co.uk/viewer/bl/0002785/18170405/016/0003 Commercial Chronicle (London) - Saturday 05 April 1817
+
+execution https://www.britishnewspaperarchive.co.uk/viewer/bl/0000081/18170425/004/0002 Liverpool Mercury - Friday 25 April 1817
+
+
+History of the Derbyshire Insurrection
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000365/18171129/016/0004
+
+Joseph Mitchell ? Thomas Savage ?
+
+
+
+Peel - Risings of the Luddites, Chartists and Plugdrawers serialised in Huddersfield Daily Examiner eg https://www.britishnewspaperarchive.co.uk/viewer/bl/0000901/18950413/205/0009
+
+Denman seems to be a really interesting character
+https://en.wikipedia.org/wiki/Thomas_Denman,_1st_Baron_Denman ?
+https://api.parliament.uk/historic-hansard/people/mr-thomas-denman/index.html
+eg TRIAL BY BATTLE ABOLITION BILL.
+https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Denman,_Thomas_(1779-1854)
+https://www.historyofparliamentonline.org/volume/1820-1832/member/denman-thomas-1779-1854
+
+
+https://archive.org/details/memoirthomasfir01arnogoog
+Memoir of Thomas, first Lord Denman, formerly Lord Chief Justice of England;
+by Arnould, Joseph, Sir, 1814?-1886
+Publication date 1873
+eg ch VI https://archive.org/details/memoirthomasfir01arnogoog/page/n114/mode/2up?q=brandreth DEFENCE OP BRANDRETH AND OTHERS FOR HIGH TREASON
+
+Denman - libel letter from Luddites —  Court of Kin's bench, King v Sutton - free speech trial ? Leicester Journal - Friday 04 August 1815
+and again at appeal? https://www.britishnewspaperarchive.co.uk/viewer/bl/0000237/18151110/002/0002
+
+
+Denman speaking on " bill for abolishing death punishment in cases of forgery, June 4, 1821 "
+
+Spoke on wager of battel repeal
+
+
+
+--
+
+call to arms
+HO-40-17_15.pdf p6
+
+
+https://discovery.nationalarchives.gov.uk/details/r/C3083308
+HO 40. Precis of information and reports received from magistrates, agents, prisoners, etc. H) 40/6
+Subseries within HO 40 - Revival of Luddism and formation of movements for Parliamentary Reform
+
+https://discovery.nationalarchives.gov.uk/browse/r/h/C8905
+HO 41 1815-1916 Home Office: Disturbances Entry Books
+Home Office entries of out-letters, warrants, etc. relating to riots, disturbances and political activities
+
+
+https://archive.org/details/throughfraytaleo00hentuoft/page/n5/mode/2up
+Through the fray; a tale of the Luddite riots. With twelve full pages
+by Henty, G. A. (George Alfred), 1832-1902
+Publication date [1895?]
+
+Search Home office papers by date
+https://discovery.nationalarchives.gov.uk/results/r?_dss=range&_sd=1817&_ed=1817&_q=%22thomas+bacon%22
+
+Search home office papers by tag eg HO 40
+https://discovery.nationalarchives.gov.uk/results/r?_q=bacon&_dss=range&_sd=1817&_ed=1817&_ser=HO%2040&id=C8904
+
+https://blog.nationalarchives.gov.uk/pentrich-seditions-petitions/
+HO 40/9/5 - john cope
+HO 40/9/2 Oliver signature
+HO 17 (criminal petitions) Weightman, HO 17/73/138 1831 Robert Goodacre petitions obo Weightman; 2 August 1834 Weightman is listed with his co-accused in a petition from some Derbyshire magistrates and MPs - received pardon ? https://discovery.nationalarchives.gov.uk/details/r/C16276907 HO 17/70/8 1834 Mar 27 - 1834 July 11
+
+Letter Brandreth's wife to Brandreth
+HO-42-171_3.pdf p6-8
+
+From Isaac Ludlam to family
+HO-42-171_3.pdf p9, p10, p11
+
+Lists of witnesses in HO-42-171_3.pdf c. p20
+
+ALso docs in HO-42-171_1.pdf and HO-42-171_2.pdf 
+Looks like court transcripts
+
+
+George Weightman transported and then pardoned 1835 ?
+https://convictrecords.com.au/convicts/weightman/george/63920
+"George was granted an absolute pardon 1st Jan 1835 due to being sentenced by government entrapment,"?
+" All serving life sentences received a pardon on 1st January 1835" -> https://pentrichrevolution.org.uk/mobile/the-revolution-part2.html
+
+https://uhra.herts.ac.uk/handle/2299/21566
+The Home Office and Public Disturbance, c. 1800-1832 Thesis
+https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.784162
+
+
+https://etheses.whiterose.ac.uk/441/
+Thornton, David (1999) Mr Mercury : a biographical study of Edward Baines with special reference to his role as editor, author and politician. PhD thesis, University of Leeds.
+
+https://books.google.co.uk/books?id=5j1cAAAAcAAJ&printsec=frontcover&dq=%22green+bag%22+hunt&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=%22green%20bag%22%20hunt&f=false
+The Green Bag Plot; Being a Detailed Account of Some of the Transactions which ... Led to the Suspension of the Habeas Corpus Act, Including an Extract from the Green Bag, Purporting to be a Memorandum Relative to the Origin of the Conspiracy at Pentridge ... which Ended in ... the Execution of Brandreth Turner, & Ludlam for High Treason
+Front Cover
+Henry HUNT (M.P., for Preston.)
+1819
+Incl notes on Thomas bacon
+Provides an a/c of Pentrich revolt
+
+ALso a response:
+https://books.google.co.uk/books?id=a6FhAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+A Reply to the Falsehoods of Mr. Hunt
+Front Cover
+Thomas Cleary
+J. Onwhyn, 1819
+
+As well as Pentrich , eg Pentridge (eg in Hunt/Green Bag)
+
+
+Despard Plot https://en.wikipedia.org/wiki/Despard_Plot 1802  
+
+?Brandreth spectator at execution of Despard eg https://www.britishnewspaperarchive.co.uk/viewer/bl/0001316/18171105/002/0002 (widely syndicated?)
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18030228/006/0002
+Salisbury and Winchester Journal - Monday 28 February 1803
+EXECUTION COLONEL DESPARD, &c. 
+Hung and decapitated ; disembowelling/quartering remitted
+
+Sentence
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18020226/014/0004
+
+
+Execution speech
+Morning Post - Tuesday 22 February 1803
+britishnewspaperarchive.co.uk/viewer/bl/0000175/18030222/006/0004
+
+
+Advert
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002429/18030329/003/0001
+
+https://archive.org/details/trialedwardmarc00britgoog
+The trial of Edward Marcus Despard for high treason : at the Session House, Newington, Surry, on Monday the seventh of February, 1803
+by Despard, Edward Marcus, 1751-1803; Gurney, Joseph, 1744-1815; Gurney, William Brodie, 1777-1855
+Publication date 1803
+
+
+Thomas Hardy - Trial High treason  - london corresponding society - acquitted https://en.wikipedia.org/wiki/Thomas_Hardy_(political_reformer)
+
+The Language of High Treason: Thomas Hardy, John Horne Tooke, and the Edinburgh Seven
+https://www.jstor.org/stable/3817744
+
+
+https://archive.org/details/statetrialsorac01philgoog/page/n15/mode/2up
+State trials, or, A collection of the most interesting trials prior to the Revolution of 1688
+by Phillipps, S. M. (Samuel March), 1780-1862
+Publication date 1826
