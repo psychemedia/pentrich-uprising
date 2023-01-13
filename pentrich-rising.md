@@ -763,6 +763,17 @@ This day is Published. Price Sixpence.
 
 Reports of the trials james towle, at Leicester, Angnti 10. 1816. for shooting at John Asher; of DANIEL. DIG'ILE. in the Shire Hall, at Nottingham, March 18, 18.7. for shooting at George Kerrv; alsoof JOHN CLARKE alias LITTLE SAM, ??AS SAVAGE, WILLIAM WITHERS. JOSHUA MITCHELL. WILLIAM TOWLE, JOHN CROWDER. JOHN AMOS, and JAMES WATSON, in the Castle, at Leicester, March 31, and April I, 1817, for firing John Asher, in the Attack Messrs. Hetulicoal and Boden’s Factory, at Loughborough ; including variety of INTERESTING PARTICULARS relative to Samuel Co.dwell alias Big Sam, John Disney alias Sheepsbead Jack, Hudson alias Aaron Daykin, John and Christopher Blnekhotne, null William Burton, who along with James Towle, were the whole the Men concerned in that MEMORABLE OUTRAGE. To had of T. TnnMPsnie, the printer of ibis paper, and G. Calladive, bookseller, Leicester. Of whom may had. Mr. CORBKTT'S TAKING LKAVE HIS COUNTRYMEN, price Sd.; and PAPER AGAINST GOLD, eitlier in Numbers, (at 2d. each,) or in vo Innie in hoards at 3s. Persons desirous of having the whole, or part of the back numbers of the 2d Register, may supplied above, by making an early application. 
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18120125/008/0003
+London Courier and Evening Gazette - Saturday 25 January 1812
+
+...
+
+Nottingham Riots.—The outrages in this town and counties adjacent are continued with as much activity-and malignity ever, and may be said to have assumed a more decided character than any period since the commencement of the malpractices. A letter received in town yesterday morning states, that between 30 and 40 frames were broken Sunday night and several the following evening. The most turbulent spirit is strongly manifested in all the proceedings of the *Luddites*, which have been extended to Yorkshire. They have destroyed fire, a crop mill at Leeds, merely because, upon a new plan, it was found to do the work of a number of men, consequently was considerable saving the proprietors. Catmankey, Basford, New Radford, and Lidley, were scenes of the most daring depredations in the beginning of the week.
+
+Yesterday morning additional troops of the Horse Guards (Blue) marched from Reading to Nottingham ; and orders are issued for the dispatch of two infantry regiments, in consequence of the unfortunate existence of the continual destruction of private property in that neighbourhood.
+
+...
+
 ---
 
 trial - https://www.britishnewspaperarchive.co.uk/viewer/bl/0002785/18170405/016/0003 Commercial Chronicle (London) - Saturday 05 April 1817
