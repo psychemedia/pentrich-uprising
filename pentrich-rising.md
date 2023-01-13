@@ -665,9 +665,35 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18161130/019/0004  L
 
 trial - https://www.britishnewspaperarchive.co.uk/viewer/bl/0002785/18170405/016/0003 Commercial Chronicle (London) - Saturday 05 April 1817
 
-execution https://www.britishnewspaperarchive.co.uk/viewer/bl/0000081/18170425/004/0002 Liverpool Mercury - Friday 25 April 1817
+TRIAL OF THE LUDDITES. LEICESTER, APRIL 2.
 
+After a protracted trial of two days (on Monday ten hours, and Tuesday fourteen), eight of the *Luddites* have been condemned to death— in the whole, there were twelve committed. *Blackburn* and *Burton* were admitted evidences. *Caldwell*, taken in fits during the trial, remains for next Assize. *Slater*, tried last Assize, under the Black Act (that is, for shooting), was again put to trial for frame breaking, to which charge he pleaded guilty, and is to be transported for life. The names of those condemned are *Savage*, *Withers*, *Towle*, *Amos*, *Crowder*, *Mitchell*, *Clark*, and *Watson*. Much important evidence was given on the trial. Fifteen others, for various offences, have been condemned. One was seized with convulsion fits during his trial, and being reported by a medical person to be incapable of attending to his defence, was remanded to prison. The town has been very peaceable during the Assize.
 
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000081/18170425/004/0002 Liverpool Mercury - Friday 25 April 1817
+
+EXECUTION OF LUDDITES, &c.
+
+Leiester, April 17.— The most melancholy spectacle ever witnessed at Leicester took place this day, in the execution of the seven men under sentence of death, viz, the six Luddites, for destroying lace machines, and firing with intent to kill, in the factory of Messrs. Heathcote and Boden, at Loughborough, last June; the other for arson, or setting stacks on fire, at Newbold, in the said county. The names of the Luddites were— Joshua Mitchell, John Crowder, John Amos, William Towle, William Withers and Thomas Savidge; the name of the other Thomas Beavington. As early as six to o'clock in the morning they were removed, under military escort; from the jail to the new Bridewell, to be executed on the new drop. On their way, the Ludditea very cheerfully sung hymns all the time they passed. Beavington seemed very dejected.— Many thousands of spectators kept assembling until noon to witness this truly tragic scene, and conducted themselves in the most peaceable manner. About twelve o'clock the unhappy men appeared on the platform, attended by the Rev. Mr. Hayton, chaplain to the to the jail; the Rev. Mr. Vaughan, the Sheriff, and other officers. Since their condemnation the Luddites had conducted themselves in the most becoming manner, desiring forgiveness of God, and forgiving Blackburn and Burton, (by far the worse characters) who were admitted evidence against them. Beavington,an ignorant man, was insensible of his situation to the last. Savidge thanked the Reverend Ministers for their kindness and attention on their behalf; he said he had intended to say more, but the time was too far gone, hoped the people would take warning by their fate, fear no man, but fear God; and declared their innocence of shooting.— Amos addressed the people:—" Friends and fellow countrymen! You see here six men going to suffer innocently ; the man who committed the crime will soon be at large. Take warning by our fate— Farewell." Mitchell said a few words, much similar ; and without any apparent agitation they spoke to several friends in the crowd; and threw oranges, &c. to some of them, and desired to be remembered to their Nottingham acquaintances.— When all things were ready for the fatal moment, Amos, with a firm and undaunted voice, said they would now sing a hymn, and desired the people to join them, which was readily complied with by numbers. The hymn he chose, and to which he pitched the tune, was from Dr. Watts.
+
+All the Luddites joined very earnestly in singing the hymn; immediately after which the platform  fell, and launched them into eternity.
+
+Beavington declared his innocence to the last, and *called God to witness* he did not set the stacks on fire.
+
+We lament to say, that the most of these misguided men, in the bloom of life, have left *widaos*, and more than *thirty children*, to add to the miseries of the present truly calamitous times !!
+
+---
+
+Serial
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002113/18841016/027/0002
+Melton Mowbray Mercury and Oakham and Uppingham News - Thursday 16 October 1884
+
+FORCE & FRAUD, OR TO LUDDITES IN LEICESTER
+JAS. S. BORLASE
+
+---
 History of the Derbyshire Insurrection
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000365/18171129/016/0004
 
