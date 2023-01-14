@@ -1000,6 +1000,17 @@ Publication date 1826
 
 
 ---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/18160817/011/0004
+Northampton Mercury - Saturday 17 August 1816
+
+ASSIZE INTELLIGENCE.
+
+...
+
+NOTTINGHAM. Thomas Glover and John Chettle were charged upon the oath of Wm. Wright and others, with having, in company with divers other persons, on the morning the 9th of June, with force and arms entered the dwelling house of the said Wm. Wright, at Radford, and wilfully broken and destroyed 12 lace frames. Upwards of 70 witnesses were examined their trial, which occupied the Court for 13 hours; and in the end the prisoners were acquitted. They were also acquitted upon another indictment for breaking seven frames on the premises of Thomas Mullen, at Radford, and a third indictment for stealing lace upon the premises of Wright. ,,,
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000172/18390202/011/0003
 
 Leicester Chronicle - Saturday 02 February 1839
