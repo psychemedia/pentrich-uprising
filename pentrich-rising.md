@@ -999,6 +999,19 @@ by Phillipps, S. M. (Samuel March), 1780-1862
 Publication date 1826
 
 
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000237/18160628/034/0004
+
+Stamford Mercury - Friday 28 June 1816
+
+...
+
+On Saturday se'nnight *Thomas Glover* and *John Chettle* were committed to Nottingham county gaol, for trial at the next assizes, charged with being concerned breaking frames at Radford, on the 8th instant.
+
+...
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/18160817/011/0004
