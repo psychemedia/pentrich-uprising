@@ -784,8 +784,6 @@ TH: eg trouble started in Notts in 1811 and 1812; at start of 1812 events in New
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002647/18120115/017/0002
 Statesman (London) - Wednesday 15 January 1812
 
-TO DO
-
 NOTTINGHAM RIOTS
 
 We received the following letter this forenoon, upon this distressing subject, from our Correspondent at Nottingham.
