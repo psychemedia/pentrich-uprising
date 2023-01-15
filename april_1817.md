@@ -273,8 +273,7 @@ All the Luddites joined very earnestly in singing the hymn; immediately after wh
 
 Beavington declared his innocence to the last, and *called God to witness* he did not set the stacks on fire.
 
-We lament to say, that the most of these misguided men, in the bloom of life, have left *widaos*, and more than *thirty children*, to add to the miseries of the present truly calamitous times !!
-
+We lament to say, that the most of these misguided men, in the bloom of life, have left *widows*, and more than *thirty children*, to add to the miseries of the present truly calamitous times !!
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000172/18170426/018/0004
@@ -290,6 +289,7 @@ After the business of the Meeting was over, Lord Middleton spoke at some length 
 
 ---
 
+TH TO DO - what was the attack on the Prince Regent?
 
 ---
 
