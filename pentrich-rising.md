@@ -815,7 +815,10 @@ Trials of the Luddites. In 1816, and 1817.
 
 This day is Published. Price Sixpence.
 
-Reports of the trials james towle, at Leicester, Angnti 10. 1816. for shooting at John Asher; of DANIEL. DIG'ILE. in the Shire Hall, at Nottingham, March 18, 18.7. for shooting at George Kerrv; alsoof JOHN CLARKE alias LITTLE SAM, ??AS SAVAGE, WILLIAM WITHERS. JOSHUA MITCHELL. WILLIAM TOWLE, JOHN CROWDER. JOHN AMOS, and JAMES WATSON, in the Castle, at Leicester, March 31, and April I, 1817, for firing John Asher, in the Attack Messrs. Hetulicoal and Boden’s Factory, at Loughborough ; including variety of INTERESTING PARTICULARS relative to Samuel Co.dwell alias Big Sam, John Disney alias Sheepsbead Jack, Hudson alias Aaron Daykin, John and Christopher Blnekhotne, null William Burton, who along with James Towle, were the whole the Men concerned in that MEMORABLE OUTRAGE. To had of T. TnnMPsnie, the printer of ibis paper, and G. Calladive, bookseller, Leicester. Of whom may had. Mr. CORBKTT'S TAKING LKAVE HIS COUNTRYMEN, price Sd.; and PAPER AGAINST GOLD, eitlier in Numbers, (at 2d. each,) or in vo Innie in hoards at 3s. Persons desirous of having the whole, or part of the back numbers of the 2d Register, may supplied above, by making an early application. 
+Reports of the trials James Towle, at Leicester, August 10. 1816. for shooting at John Asher; of DANIEL DIGGLE, in the Shire Hall, at Nottingham, March 18, 1817, for shooting at George Kerry; also of JOHN CLARKE alias LITTLE SAM, THOMAS SAVAGE, WILLIAM WITHERS. JOSHUA MITCHELL. WILLIAM TOWLE, JOHN CROWDER. JOHN AMOS, and JAMES WATSON, in the Castle, at Leicester, March 31, and April 1, 1817, for firing at John Asher, in the Attack of Messrs. Heathcoat and Boden’s Factory, at Loughborough ; including variety of INTERESTING PARTICULARS relative to Samuel Cordwell alias Big Sam, John Disney alias Sheepshead Jack, ——— Hudson alias Aaron Daykin, John and Christopher Blackborne, and William Burton, who along with James Towle, were the whole the Men concerned in that MEMORABLE OUTRAGE.
+
+To be had of T. THOMPSON, the printer of this paper, and G. Calladine, bookseller, Leicester.
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18170405/010/0003
