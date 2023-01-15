@@ -1150,3 +1150,27 @@ Leicester Chronicle - Saturday 02 February 1839
 Death of an alleged Luddite.
 
 On Friday, Mr. Thos Glover, lacemaker, died at Nottingham, aged 54. His death was very sudden ; he fell down in a fit, when at work, and an inquest was held upon his body. The deceased was well known, in consequence of being tried, along with John Chettle, before Baron Graham, in the county hall at Nottingham, on Saturday the 3rd of August, 1816, charged with breaking the lace machines of Mr. Mullen and Mr. Wright, at New Radford. That memorable trial commenced on Saturday afternoon, and did not terminate until after two o'clock on Sunday morning. Mr. Clarke and Mr. Reader were counsel for the prosecution ; the present Lord Chief Justice, then Mr. Denman, was the sole counsel for the prisoners, and added to his well-earned reputation by the ability with which he conducted and established the *alibi* set up, unquestionably the moat complete of any it waa ever our lot to witness in a court of justice. Fortunately for the public peace, the reault of the trial was the acquittal of both prisoners. Had it been otherwise, the most fearful consequences would doubtless have ensued, for the body of the hall was for hours in possession of a number of men, who would not suffer a light to appear in court, excepting on the bench and the counsel table. It is notorious that armed men were in the outer hall, and the constables and javelin-men were quite unable to maintain order. Never shall we forget the shout with which the verdict of Not Guilty was received, and the unavailing attempts of the Judge to silence it. Since that period, Glover has sustained many vicissitudes of fortune, but latterly he has been much reduced in consequence of the great depreciation in the value of lace machinery. John Chettle, his fellow prisoner, died on the 15th of July last.— *Nottingham Review*.
+
+
+# TH Set for Ventnor — Story Parts
+
+1811 Notts brief- crappy work; truck payments
+1812
+Nottingham ; violence Jan 1812, hanging
+Huddersfield March-July
+Notts JUn/July/Aug
+Hudds Oct-Dec,
+1813 Jan hanging
+181? Loughboourough
+1816 Spa fields
+1817 Oliver, Trial in London for Spa Field; Lougbborough tiral, Huddersfield  revolt
+Leeds Mercury - Oliver Spy; Huddersfielf trial; questions in parliament
+Pentrich - bound over
+October
+ 
+
+ THemes - press blackouts
+ working men and soldiers
+ Callbacks on place names
+
+ Luddite thread; Notss vs Hudds Luddism; revolt thread; anti-government feeling / state oppressive use of capital sentences
