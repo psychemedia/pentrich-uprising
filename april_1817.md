@@ -1,6 +1,52 @@
 ## Leicester
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000196/18161230/012/0002
+Aris's Birmingham Gazette - Monday 30 December 1816
 
+It is with the greatest concern we feel it our duty, this week, to record one of the most atrocious attempts at murder that has ever disgraced this county :—On Sunday evening last, about a quarter before eight o'clock, as George Kerry and his family (who reside at a lone house, by the road leading from Bobbers mill to Bilborotigh) were sitting by the fire, at supper, their house was entered by two men in disguise. Kerry, in attempting to seize the foremost man, was shot at by him, but without effect ; during the struggle the other man fired, but fortunately the slugs only grazed his head. The murderers thinking their object attained, instantly departed. The most prompt assistance was rendered by the neighbours, and the police from Nottingham; but owing to the frost and the extreme darkness of the night, no trace whatever could be discovered of their retreat. On further enquiry, we learn, that a third person was standing at the door during the transaction, and the prevailing opinion is, that the party were *Luddites*, and that they came from New Radford. *Nottingham Journal*
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18170124/035/0003
+Nottingham Review - Friday 24 January 1817
+
+We find that James Towle, nn the morning previous to his execution, made a full and particular disclosure, to the High Sheriff of Leicestershire, and to a Justice of the Peace, for that county, of every person, directly or indirectly concerned in the felony and destruction, at Mr. Heathcoat's factory, at Loughborough, and of the Luddites in general, which has been kept secret, until it could be made subservient to the ends of justice ;—he died penitent ; assured the gentlemen that what he had stated to them was true, observing, it would be of no service to him then to say what was false, and lamented that he had not made this discovery sooner, to have saved his life :—his comrades are now doing so; the Luddites are impeaching one another, and the Magistrates are in possession, we are credibly informed, of their whole history. Of the 15 men now apprehended, ten are charged with the offence at Loughborough. It is hoped that the wicked and mischievous proceedings of the Luddites are now at an end : they have driven the best part of our manufactory from the town, and the destruction of property employed in trade, has injured the great bulk of manufacturers and the public in general. We hope and trust that the time will be revived, when the ingenuity and industry of our mechanics will again raise the trade of this empire above the rest of the world ; and we feel confident, that the skill of the workman, will be powerfully aided by the great capital this country can bring into trade, whenever it can be done with security, and the master and servant are free to make what contracts they may choose to enter into with each other. As none of the men have yet been examined before the magistrates, we decline entering into further particulars until next week.
+
+...
+
+On the 15th instant, Joseph Mellors, Nathan Diggle, and Daniel Diggle were committed to the county gaol, for trial at the next assizes, charged with shooting at William Cooke and Francis Thorley, at Trowell, in this County.
+
+The three men, for whose apprehension a reward was offered; they being charged with assaulting the Earl of Chesterfield's gamekeepers, have been taken up, and were lodged in our county gaol on Wednesday night; but they have not yet been examinied before the magistrates.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18170314/029/0003
+Nottingham Review - Friday 14 March 1817
+
+Joseph Mellors, aged 22, Nathan Diggle, aged 22, and Daniel Diggle, aged 20, charged upon the oaths of William Cooke and Francis Thorley, with shooting at the said William Cooke and Francis Thorley.
+
+[The above named Daniel Diggle is also charged with having shot at George Kerry, in his dwelling-house, in the parish of Radford, on the 22d of December.]
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18170324/006/0002
+London Courier and Evening Gazette - Monday 24 March 1817
+
+NOTTINGHAM, MARCH 21.
+
+Attempt at Murder.— Tuesday *Daniel Diggle* was tried for shooting at George Kerry, in his dwellingghouse, in the parish of Radford, near Nottingham, on the evening of the Sunday before Christmas Day last, with a pistol, loaded with leaden shot, with intent to kill and murder him. There were two other also indicted with him, of the names of *Henfrey* and *Wooley*, who have absconded, but, when found, will be tried on the same indictment.
+
+The circumstances disclosed a scene of the most wicked and premeditated intent, not only to murder Kerry, but to break the frames in his house, by this small part of the gangs of Luddites who have infested and disgraced this part of the county for some time past, with impunity.
+
+It appeared that Henfrey and Wooley brought two loaded pistols to Diggle's house, in Basford, on the evening before named, and Shaw, in the presence of Diggle and his wife, went and got gunpowder from a man of he name Pogson, and there loaded two other pistols. Henfrey, Diggle, and one Burton, then went to Kerry's. broke open the door of his house, where he and his family were sitting in peace, and Henfrey and Diggle went in and presented their pistols, demanding that the wife and family of Kerry should retire into the parlour. Kerry got up and seized Henfrey's pistol, which Henfrey endeavoured to discharge at the body of Kerry, but which Kerry turned aside, and the contents went into the fire in the room. Diggle then discharged his pistol at the head of Kerry, several of the shot corns from which entered his head, and were afterwards extracted by a surgeon.— Kerry dropped down, exclaiming he was shot, and was a dead man. Henfrey and Diggie directly decamped, Diggle saying as he went out, "I have shot him dead, he fell as dead as a knit." Henfrey, Diggle, and Woodley wanted to turn back with Burton (who had a hammer with him for the purpose) to breaking the stocking frames in Kerry's house ; but this they abandoned for the time. All these facts, with others, shewing the wickedness and depravity of the four Luddites, were disclosed upon the trial.
+
+Diggle was convicted upon the clearest and most satisfactory evidence, not only of Kerry and his family, but of Burton (one the four) who was admitted evidence for the Crown.
+
+The Judge ( Mr. Baron RICHARDS) then passed sentence of death upon Diggle, in an impressive manner.
+
+Diggle, with three others, stood indicted for besetting the house of Mr. William Cook, at Shortwood, near Trowell, (gamekeeper to the Right Honourable Lord Middleton) in the night between the 2nd and 2d of January last, and in company with five other persons, who have fled from justice (amongst whom are the same Henfrey, Wooley, and Shaw, who conspired to take away the life of Kerry ), and firing at Cook through his chamber window; several times, and also firing at one Francis Thorley (a neighbour of Cook’s, who came to his assistance ), with pistols loaded with shot, In this prosecution Lord Middleton addressed the Learned Judge in a very feeling apd impressive manner, stating, that as a dreadful example to the country was about to be made in the execution of Daniel Diggle, who was the principal person concerned in the outrage upon the person, family, and dwelling of one of his game-keepers, his Lordship did not wish for any sanguinary or vindictive proceedings against the three others in custody, and the more especially, as he had reason to believe they were the least guilty of any in the gang ; for as to one of them, when Daniel Diggle proposed to break into Cook’s house and murder him, that one prevented Daniel Diggle from so doing ; and therefore, with the Learned Judge's permission, he (Lord Middleton) would withdraw all further proceedings against them, his Lordship declaring, that all proper means should taken to apprehend Henfrey, Wooley, Shaw, and the others, who, it appeared, had been concerned in the attack upon the of life Kerry, but who are equally guilty with Daniel Diggle, in the outrage in the middle of the night at Cook's. His Lordship declared that his motive was only public justice, and he thought, as to the four in custody, that end had been obtained.
+
+The Learned Judge very pointedly complimented Lord Middleton upon the propriety of his conduct on the occasion, and in the most solemn and impressive manner addressed the three prisoners at the bar, informing them *that they owed their lives to his Lordship's interference in their favour*. The Learned Judge exhorted them to go home and break off from the gang of depredators with which they had been heretofore connected —to amend their lives. The desperate and depraved gangs of Luddites had too long been a disgrace to this county, and they must and should be put down.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002634/18170326/013/0004
 London Chronicle - Wednesday 26 March 1817
 
