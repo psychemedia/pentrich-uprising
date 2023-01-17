@@ -80,11 +80,19 @@ After hanging the usual time, his body was demanded by his cousin Josiah Towle, 
 "To bait for one hour at Bradmore, and from thence to Basford without stopping."
   
 The body was conveyed through Nottingham during the course of Wednesday night, and on Thursday afternoon, was commtted to the earth in Basford church-yard, by the side of his father, in the presence of thousands of spectators ;-every thing being conducted in the most peaceable and orderly manner.
-   
-    James Towle was about five feet two inches haleli, 34 years of age, atid ltas left a wife and fiot children to lament his untimely end. I)nui the whole of his confinement, he conducted himself with great propriety, but elicited nothing, that would at all implicate the Luddites. its whose ftiuk and dlialusli- cat system lie has lien the iratito sulfir. this wife attd fotir chilldren, with sone reslat ivse, ?? on Sunday, aned i on ti cr1 iu 7f ''idauv 'Itne follow- iig letter, adfrir s ted to his wife, wrtitten afi.o r her de parruirn solll late on the lit ht pt eviotis til biis exetti tinh, i'ill best exttophify thlie t uit'rjii ii s late his littid sinas brought to front ait aetitilt lii ttL religious ecxreises 5c r sincie htis cotil eien iialio -ii 
-    
-    " Dear Wife— In a few more hours I shall be no more. Bttt my dear creatiuri, i i mv liast it .itetlits it is my duty to beg of you to setk For eh it leace itt Goil which is far beyoild niy pei to) dISurii'lC t)i toogute to speak; tind mv clear gr, abee all. lI hope you sill bring my dtfar rhilill, eutp in thie fear asil live ofG Old, and theii yOU will fliud ia l'rieitl-a frieml that teid supiout yiii tdurouigh all the tonn- bles of thi- weorld, sit d is tfile hotrof drathi vive vit thlt estinfitrt that will raise your olt nd far iti arve all the t'eastiri-s that the earth cao aflltif. i\lv ?? virl, t lis afitrironti there has heeni a geti eui ai thalt wisheii toi see me, atd ?? rtme a presenit tif a pitnl note fur yitt and tmv dear childiefi, .ad lie faollii1t-l ine thatibe woultl ?? it to you hifmslf wivth tlls lettel, atil plornisei me that te wuold di sotietlhitg fcor v it tttowaids miitineg you voinfirtatlie. attd my deal, I hivet uio. ?? but my nuotier it'11 be aereeable fu:r yti attd nay their htildeen to be wittr her, and I hope and trust site will be a inotielr anid ia guardian to uty swe,t 'ltes, i hslich i, sit sholt t a time will be fathearless. Dear wife, my last wut ti; are, miy God Alimighty hl -s. atid protect yet, ;i ii my dear children in this world and prepare you for the world to tonte, is my sincere prayer. ro From your dyitlg utisbatl d, Ll iutet 'los Ti.r 'nusday night, ten o'clock
 
+James Towle was about five feet two inches high, 34 years of age, and has left a wife and four children to lament his untimely end. During the whole of his confinement, he conducted himself with great propriety, but elicited nothing that would at all implicate the *Luddites*, in whose dark and diabolical system he has been the first to suffer. His wife and four chilldren, with some relatives, arrived on Sunday, and continued until Tuesday. The following letter, adressed to his wife, written after her departure, and late on the night previus to his execution, will best exemplify the tranquil state his mind was brought to from an attention to religious exercises since his condemnation:—
+
+" Dear Wife— In a few more hours I shall be no more. But my dear creature, in my last moments it is my duty to beg of you to seek for that peace in God which is far beyond my pen to describe or tongue to speak; and my dear girl, above all, I hope you will bring my dear children up in the fear and love of God, and then you will find a friend-a friend that will support you throuugh all the troubles of this world, and in the hour of death give you that comfort that will raise your mind far above all the treasures that the earth can afford.My dear girl, this afternoon there has been a gentleman that wished to see me, and promised me that he would do a something for you towards making you comfortable, and my dear, I have no doubt but my mother will be agreeable for you and my dear children to be with her, and I hope and trust she will be a mother and ia guardian to my sweet babes, which in so short a time will be fatherless. Dear wife, my last words are, may God Alimighty blesss and protect you and my dear children in this world, and prepare you for the world to come, is my sincere prayer.
+
+"From your dying husband
+
+"James Towle.
+
+"Tuesday night, ten o'clock"
+
+
+[TH: but it seems Towle did confess, as per Nottingham Review - Friday 24 January 1817 in april_1817.md ?]
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000172/18390202/011/0003
