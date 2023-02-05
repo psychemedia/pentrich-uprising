@@ -92,7 +92,8 @@ James Towle was about five feet two inches high, 34 years of age, and has left a
 "Tuesday night, ten o'clock"
 
 
-[TH: but it seems Towle did confess, as per Nottingham Review - Friday 24 January 1817 in april_1817.md ?]
+[TH: but it seems Towle did confess, as per Nottingham Review - Friday 24 January 1817 in april_1817.md https://ludditebicentenary.blogspot.com/2016/11/20th-november-1816-james-towle-makes.html HO 40/9/4. Towle confession ]
+ 
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000172/18390202/011/0003
