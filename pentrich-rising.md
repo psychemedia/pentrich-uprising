@@ -1,7 +1,5 @@
 # Pentrich Rising
 
-# Pentrich Rising
-
 ```text
 I bring you a tale, 
 Of treason, and lies.  
@@ -33,7 +31,7 @@ By the end of the trial, the three leaders, and sundry others, were found guilty
 
 For three leaders — Jeremiah Brandreth, William Turner & Isaac Ludlam — they also received clemency of a sort, from the Prince Regent: their bodies would not be quartered.
 
-And so it was, just after midday, Friday November 7th, the three prisoners were paraded round the prison yard in Derby, where they were hung from the scaffold using the short drop method to ensure a slow, lingering death by stangulation. For half an hour they hung there, whereupon their bodies were taken down, one at a time, placed upon a block, and decaptitated with an axe.  In turn, their heads were lifted up by the executiner and shown to the stunned, silent crowd: "Behold the head of the traitor".
+And so it was, just after midday, Friday November 7th, the three prisoners were paraded round the prison yard in Derby, where they were hung from the scaffold using the short drop method to ensure a slow, lingering death by strangulation. For half an hour they hung there, whereupon their bodies were taken down, one at a time, placed upon a block, and decaptitated with an axe.  In turn, their heads were lifted up by the executiner and shown to the stunned, silent crowd: "Behold the head of the traitor".
 
 Later that afternoon, their bodies were dumped in an unmarked grave.
 
@@ -78,6 +76,29 @@ And then we fight
 
 
 ---
+https://ludditebicentenary.blogspot.com/2017/02/5th-february-1817-town-clerk-of.html
+5th February 1817: The Town Clerk of Leicester suggests a Special Commission to try the 'Loughborough Job' Luddites
+
+---
+
+https://nottingham-repository.worktribe.com/index.php/preview/1413836/THREE%20NOTTINGHAM%20REBELS%20IN%20THE%20AGE%20OF%20REFORM.pdf
+THREE NOTTINGHAM REBELS IN THE AGE OF REFORM, c.1800-1832
+Richard A Gaunt 
+
+https://core.ac.uk/download/pdf/39255167.pdf
+SOME NOTES ON THE LUDDITES
+Fumio HOZUMI
+
+https://www.tandfonline.com/doi/pdf/10.1179/174587011X12928631621276?casa_token=3sYq900XFz8AAAAA:oFswlpXsltZ5qJAZUG3ASSPVJxfvnWRyeBHvO28DWWzfROfTpSyAmDDvM1pnEZs80Z2Gm41UGLbH
+LUDDISM, INCENDIARISM AND THE
+DEFENCE OF RURAL ‘TASK-SCAPES’ IN 1812
+KATRINA NAVICKAS
+
+https://www.tandfonline.com/doi/pdf/10.1179/nhi.2003.40.2.277?casa_token=iAGa9l9swXgAAAAA:utzHHNAw80iaGVsp-TM6QlVeJ-Kibv1UqSSXz6OVO4PDvuQi2BLpmGLVbzuKI3z8HMpd96WY3cLM
+David Thornton (2003) Edward Baines, Senior (1774–1848), Provincial
+Journalism and Political Philosophy in Early-Nineteenth-Century England, Northern History, 40:2,
+277-297, DOI: 10.1179/nhi.2003.40.2.277
+
 
 https://nottingham-repository.worktribe.com/preview/1282900/GAUNT%20PENTRICH%20REBELLION.pdf
 
@@ -124,7 +145,7 @@ https://huddersfield.exposed/wiki/The_History_of_Honley_(1914)_-_Chapter_III#FOL
 https://archive.org/details/sim_notes-and-queries_1896-06-13_9_233/page/468/mode/2up
 Notes and Queries  1896-06-13: Vol 9 Iss 233
 p468
-"A Green Bag Mker."—What was the origin of the term "a Green Bag Maker"? In 1817 a political spy named Oliver was so termed by Mr. Baines, of Leeds: " What the trade of this man may be we cannot pretend to say—but that he is a Green Bag Maker by profession is, we think, sufficiently obvious." St. Swithin.
+"A Green Bag Maker."—What was the origin of the term "a Green Bag Maker"? In 1817 a political spy named Oliver was so termed by Mr. Baines, of Leeds: " What the trade of this man may be we cannot pretend to say—but that he is a Green Bag Maker by profession is, we think, sufficiently obvious." St. Swithin.
 
 https://archive.org/details/sim_notes-and-queries_1896-06-20_9_234/page/494/mode/2up
 Notes and Queries  1896-06-20: Vol 9 Iss 234
@@ -201,8 +222,7 @@ Ann Weightman, widow, who has kept the White Horse public-house at Pentridge, fo
 ---
 britishnewspaperarchive.co.uk/viewer/bl/0001476/18170620/008/0004
 London Courier and Evening Gazette - Friday 20 June 1817
-- report includes mention of committal to trial of Huddersfield as well as Pentridge rebels
-
+- report includes habeau corpus, spies, mention of committal to trial of Huddersfield as well as Pentridge rebels; elements from Derby Mercury, York Chronicle
 ---
 
 THe charge of wilful murder against Robort Walter seems to have been dropped as the charge fo hight reason was pursued?
@@ -231,7 +251,7 @@ ecret committee, Heabea corpu, treason trial
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001286/18170615/009/0003
 Bell's Weekly Messenger - Sunday 15 June 1817
 
-Accounts from Hudersfield and Notts, also summary of Thistlewood et al trial
+Accounts from Huddersfield and Notts, also summary of Thistlewood et al trial
 
 ---
 ---
@@ -276,6 +296,15 @@ https://archive.org/details/trialjameswatso00gurngoog/page/n3/mode/2up - vol 2
 The trial of James Watson for high treason : at the bar of the Court of King's Bench on Monday the 9th, Tuesday the 10th, Wednesday the 11th, Thursday the 12th, Friday the 13th, Saturday the 14th, and Monday the 16th of June, 1817 : with the antecedent proceedings
 by Watson, James, 1766?-1838; Gurney, William Brodie, 1777-1855; Great Britain. Court of King's Bench
 Publication date 1817
+
+
+https://archive.org/details/narrativesstate00browgoog/page/n8/mode/2up?q=luddites
+Narratives of state trials in the nineteenth century. First period. From the union with Ireland to the death of George the Fourth, 1801-1830
+by Browne, G. Lathom (George Lathom), 1815-1892
+Publication date 1882
+https://archive.org/details/narrativesstate00browgoog/page/64/mode/1up?q=luddites York 1813
+https://archive.org/details/narrativesstate00browgoog/page/175/mode/1up?q=luddites Spa fields, Watson
+https://archive.org/details/narrativesstate00browgoog/page/214/mode/1up?q=luddites Nottinhngham Turner Brandreth 1817
 
 https://archive.org/details/hightreasontria00thisgoog
 High-treason, the trials at bar of Arthur Thistlewood, gent., James Watson, the elder, surgeon, Thomas Preston, cordwainer, and John Hooper, labourer, for high-treason ... in the Court of King's Bench, Westminster, on ... June 9, 1817 [microform]
@@ -365,6 +394,11 @@ History 1816-18 etc
 
  more in 1817
 
+--
+
+Geoffrey Poitras — The Luddite Trials:
+Radical Suppression and the Administration of Criminal Justi
+https://www.sfu.ca/~poitras/JSR_proof_20.pdf
 
 ---
 
@@ -406,10 +440,39 @@ Yesterday morning additional troops of the Horse Guards (Blue) marched from Read
 
 Serial
 
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18840918/018/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18840925/017/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841002/027/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841009/040/0002
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002113/18841016/027/0002
 Melton Mowbray Mercury and Oakham and Uppingham News - Thursday 16 October 1884
-
-FORCE & FRAUD, OR TO LUDDITES IN LEICESTER
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841023/022/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841030/041/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841106/026/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841113/016/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841120/025/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841127/024/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841204/024/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841211/016/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841218/018/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841225/020/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18841225/110/0007
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850101/022/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850108/017/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850115/023/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850122/015/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850122/015/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850129/013/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850205/013/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850212/023/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850219/015/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850226/038/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850305/007/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850312/014/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850319/007/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850326/025/0002
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002113/18850402/020/0002#
+FORCE & FRAUD, OR THE LUDDITES IN LEICESTER
 JAS. S. BORLASE
 
 ---
@@ -434,7 +497,17 @@ https://archive.org/details/memoirthomasfir01arnogoog
 Memoir of Thomas, first Lord Denman, formerly Lord Chief Justice of England;
 by Arnould, Joseph, Sir, 1814?-1886
 Publication date 1873
-eg ch VI https://archive.org/details/memoirthomasfir01arnogoog/page/n114/mode/2up?q=brandreth DEFENCE OP BRANDRETH AND OTHERS FOR HIGH TREASON
+eg ch VI https://archive.org/details/memoirthomasfir01arnogoog/page/n114/mode/2up?q=brandreth DEFENCE OF BRANDRETH AND OTHERS FOR HIGH TREASON
+
+incl. p108
+Every man his skill must try,  
+He must turn out and not deny ;  
+No bloody soldier must he dread.  
+He must turn out and fight for bread ;  
+The time is come, you plainly see,  
+When Government opposed must be.
+
+See also the verse in https://archive.org/details/trialsjeremiahb00gurngoog/page/303/mode/1up and commentary elsewhere (earlier) in that document
 
 Denman - libel letter from Luddites —  Court of Kin's bench, King v Sutton - free speech trial ? Leicester Journal - Friday 04 August 1815
 and again at appeal? https://www.britishnewspaperarchive.co.uk/viewer/bl/0000237/18151110/002/0002
@@ -450,6 +523,33 @@ Spoke on wager of battel repeal
 
 call to arms
 HO-40-17_15.pdf p6
+
+
+--
+
+Nottingham Assizes in March 1812, seven Luddites were sentenced to transportation for life; two others were acquitted.
+https://ludditebicentenary.blogspot.com/2012/03/23rd-march-1812-luddites-are-charged.html ?? https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/18120328/006/0003
+https://ludditebicentenary.blogspot.com/2012/03/30th-march-1812-seven-nottinghamshire.html
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120321/012/0003
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002131/18120404/016/0003
+Nottingham Journal - Saturday 04 April 1812 
+Carnell et al
+
+Compelete transcripts of the trials held as "state trials" can be found in Cobbett.
+
+cobbet state trials 1817 - 
+https://books.google.co.uk/books?id=rw9AAAAAYAAJ&dq=cobbett%20state%20trials%20%22volume%2032%22&pg=PP7#v=onepage&q&f=false
+https://archive.org/details/acompletecollec01howegoog/page/n8/mode/2up
+
+THe loughborough luddites (towle) were not state trials; but watson (spa fields) and pentruch were
+
+and special commission york 1813
+https://books.google.co.uk/books?id=Mw9AAAAAYAAJ&dq=cobbett%20state%20trials%20%22volume%2031%22&pg=PP11#v=onepage&q&f=false
+https://archive.org/details/cobbettscomplet14jardgoog/page/n10/mode/2up
+
+--
+
 
 
 https://discovery.nationalarchives.gov.uk/details/r/C3083308
@@ -501,6 +601,10 @@ https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.784162
 
 https://etheses.whiterose.ac.uk/441/
 Thornton, David (1999) Mr Mercury : a biographical study of Edward Baines with special reference to his role as editor, author and politician. PhD thesis, University of Leeds.
+
+
+https://repository.lboro.ac.uk/articles/thesis/Knowing_my_Milton_Keynes_how_storytelling_as_intangible_cultural_heritage_can_inform_the_sense_of_place_experienced_by_residents_of_the_new_town_of_Milton_Keynes/20137559/1
+Knowing my Milton Keynes: how storytelling as intangible cultural heritage can inform the sense of place experienced by residents of the new town of Milton Keynes
 
 https://books.google.co.uk/books?id=5j1cAAAAcAAJ&printsec=frontcover&dq=%22green+bag%22+hunt&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=%22green%20bag%22%20hunt&f=false
 The Green Bag Plot; Being a Detailed Account of Some of the Transactions which ... Led to the Suspension of the Habeas Corpus Act, Including an Extract from the Green Bag, Purporting to be a Memorandum Relative to the Origin of the Conspiracy at Pentridge ... which Ended in ... the Execution of Brandreth Turner, & Ludlam for High Treason
@@ -559,6 +663,29 @@ by Phillipps, S. M. (Samuel March), 1780-1862
 Publication date 1826
 
 
+Challenging juries
+https://core.ac.uk/download/pdf/232638505.pdf
+Brown, R. Blake. "Challenges for Cause, Stand-Asides, and Peremptory Challenges in the Nineteenth Century." Osgoode Hall Law
+Journal 38.3 (2000) : 453-494.
+http://digitalcommons.osgoode.yorku.ca/ohlj/vol38/iss3/3
+
+https://www.tandfonline.com/doi/pdf/10.1080/01440368708530895?casa_token=_Kt17-n4fKQAAAAA:d9VJFbz3REPsBYTP7bsYU6JYwPwMxjmaCX2Tx2gAGEhIyciIc8r5l_kPjBu2Obfk1k8IVKCcvQkA
+Special juries in England: Nineteenth century
+usage and reform
+James Oldham
+To cite this article: James Oldham (1987) Special juries in England: Nineteenth century usag
+
+https://www.tandfonline.com/doi/pdf/10.1080/01440360500347525?casa_token=zTdmbOa1ooQAAAAA:KIbtehfYzCssnETsXsJwZdfnTAjO89K15-Mu_OzBMTtPUgT1NqJ46RFklbgRPZg2w5JxaCA42amu
+The decline of civil jury trial in nineteenth-century
+England
+Conor Hanly
+To cite this article: Conor Hanly (2005) The decline of civil jury trial in nineteenth-century England,
+The Journal of Legal History, 26:3, 253-278, DOI: 10.1080/01440360500347525
+
+
+https://archive.org/details/lawrelatingtorio00wise
+The law relating to riots and unlawful assemblies: together with a view of the duties, powers and liabilities of magistrates, constables, the military, and private citizens in the suppression thereof: The Treason felony act, 1848, the Conspiracy and protection of property act, 1875, the Riot (damages) act, 1886, with the regulations thereunder, and the Trade disputes act, 1906
+1907 4th edition
 
 # TH Set for Ventnor — Story Parts
 
@@ -586,3 +713,11 @@ October
  Luddite thread; Notts vs Hudds Luddism; revolt thread; anti-government feeling / state oppressive use of capital sentences
 
 Denman as a common theme
+
+Set basd around three people:
+
+- George Mellor 
+- Edward Baines
+- Thomas Denman
+
+Folklore in the sense of me forming an impression and telling tales based on things I heard about the topics from contemporary news topics
