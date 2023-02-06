@@ -682,6 +682,10 @@ Conor Hanly
 To cite this article: Conor Hanly (2005) The decline of civil jury trial in nineteenth-century England,
 The Journal of Legal History, 26:3, 253-278, DOI: 10.1080/01440360500347525
 
+Bailey - annals of Nottinghamshre, vol 15
+https://books.google.co.uk/books?id=0HQHAAAAQAAJ&pg=PA241&dq=bailey+annals+nottinghamshire+1812&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwigxMr134H9AhVPeMAKHYqhBT4Q6AF6BAgFEAI#v=onepage&q=luddite&f=false
+
+
 
 https://archive.org/details/lawrelatingtorio00wise
 The law relating to riots and unlawful assemblies: together with a view of the duties, powers and liabilities of magistrates, constables, the military, and private citizens in the suppression thereof: The Treason felony act, 1848, the Conspiracy and protection of property act, 1875, the Riot (damages) act, 1886, with the regulations thereunder, and the Trade disputes act, 1906
