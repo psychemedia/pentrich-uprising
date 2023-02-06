@@ -1,6 +1,31 @@
 
 # Events, 1816
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000172/18160615/026/0004
+
+Leicester Chronicle - Saturday 15 June 1816
+
+TRANSCRIPT at https://ludditebicentenary.blogspot.com/2016/06/9th-june-1816-luddites-destroy-19-lace.html to check
+
+*Daring Outrage.*—On Saturday night last, about one o'clock, a party of men, disguised and armed with various sorts of weapons, forced the door of Mr. William Wright, of New Radford, when about seven of them, having obtained a light, rushed up stairs into the workshop, or shops, where they demolished twelve point net lace-frames; and with such vengeance did they exercise their lawless authority, that the frames, which were principally of superior worth, are rendered of very little value. It is very singular, that three of these frames belong to Mr. Benjamin Topham, of Pentrich, Derbyshire, and were broken about four years ago, in his shop, at that village, along with a number more, two of which have made very little work, and the other none since they were repaired. One of the other frames belongs to Mrs. Platts of Nottingham, four to Mr. Wright, and three to Mr. Waynman, lace-manufacturer of Nottingham, who is Mr. Wright's principal employer, and one to Mr. Cole, lace-manufacturer. The loss thus occasioned must be very great; but this is not all, for the depredators, not content with the mischief thus done, very materially damaged or destroyed (principally the latter) about thirty-one yards of net which was upon the frames, and took away six yards. The clock face in the house was struck with great violence with a hammer, and the corner cupboard was beat in pieces. Mr. Wright was from home. Mrs. Wright and family were kept in their respective rooms while the mischief was going on, but, as these nightly violators of property and domestic repose had twice to go down stairs for a light, the guarded parties had opportunity of seeing them, and they agree in stating that seven men were in the shop, while Mrs. Wright thinks she saw twelve men that stood watch on the outside. – When the *workmen*, as those, we understand, are called that actually do the mischief, had completed their purpose at Mr. Wright's, they immediately went in the house of Mr. Mullen, close by, the door of which they broke into pieces, and then rushed up into the workshop, where they demolished seven point net lace frames, six of which belonged to Mr. Waynman above named, and one to Mr. Mullen—one was left uninjured, and is generally understood, from the watchword of alarm being given from without. They also took from Mr. Mullen's, fifteen yards of net and a shirt, and left an instrument behind them like a tomahawk ; they also broke the clock. It is proper to state, that the depredators, in order to render their mischief more complete, broke many of the globes, which contain a mixture of water and aquafortis, and which are used by the workmen in winter evenings to add to the brilliancy of their light, and cast the corroding contents upon the frames. — It seems singular, that neither Mr. Mullen nor his wife heard them ; the reason assigned is this, which is a very feasible one, and, from the respectability of Mr. Mullen's character, is universally believed—he had more liquor than he usually takes in an evening, which caused him to sleep very soundly, as he had been in bed about an hour: and Mrs. Mullen, who was also asleep in bed, is very hard of hearing. When these daring offenders had completed the object of their violence, they discharged several pistols — shouted, as though in triumph, and then retired. Two persons are in custody on suspicion.
+
+TH: NOTE "three of the these frames belong to Mr. Benjamin Topham, of Pentrich, Derbyshire, and were broken about four years ago,"
+
+1/12/1811 http://ludditebicentenary.blogspot.com/2011/12/1st-december-1811-derbyshire-luddites.html 
+
+7/12/1811
+http://ludditebicentenary.blogspot.com/2011/12/7th-december-1811-luddites-return-to.html
+
+Summarised: http://ludditebicentenary.blogspot.com/2011/12/22nd-december-1811-william-milnes.html
+
+7/3/1812 http://ludditebicentenary.blogspot.com/2012/03/7th-march-1812-derbyshire-luddites.html
+
+
+---
+
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000237/18160628/034/0004
 
 Stamford Mercury - Friday 28 June 1816
@@ -42,8 +67,6 @@ ASSIZE INTELLIGENCE.
 
 NOTTINGHAM. Thomas Glover and John Chettle were charged upon the oath of Wm. Wright and others, with having, in company with divers other persons, on the morning the 9th of June, with force and arms entered the dwelling house of the said Wm. Wright, at Radford, and wilfully broken and destroyed 12 lace frames. Upwards of 70 witnesses were examined their trial, which occupied the Court for 13 hours; and in the end the prisoners were acquitted. They were also acquitted upon another indictment for breaking seven frames on the premises of Thomas Mullen, at Radford, and a third indictment for stealing lace upon the premises of Wright.
 
-
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18161130/019/0004
 
@@ -51,19 +74,20 @@ Leeds Mercury - Saturday 30 November 1816
 
 EXECUTION OF J. TOWLE THE LUDDITE
 
-TO DO
-
-Towle was apprentice to his father, a frame-work-knitter ; and no particular circumstance marked his character, good or bad, until he arrived at manhood ; but since that period, his life has several times been in jeopardy. In the year 1814 he was accused of being one of the band of frame-breakers that destroyed some frames in Mr. Garton's house, in New Basford, the village in whch Towle then lived; and at the Lent Assizes following, lhe was ?? to the bar,l hi e Co, itt- Hall, in Nottingham, and tried for the offence; ?? after a loug coitsn ltation, th I Jury bronigiht itn it v'ec'iittt of not g Iiti. n July, 1816, he was, however, again committed to prison on the clhane for twiiti he liws hlow paitl the penalty of the nitw. 'Ihe otfelsce hlvin g been perpetrated at L,-utgit] o- iounph, he was of ceutree confined ?? gaol, anld 1on SattudaY rorolillt, Atieust Ili, alitu so, ?? lie, aloeg with 5Joit Sl ter aiid lt,! janiii I :dl, r, %;as put to tile bar. The trial lasted upwards of t??e hours, aid a It' Br B roo Graoatii, ishit( preshid d had giien ilis charge, the Jury foundi 'in u Gllildtt/7 s' utiding anid oaheting, bitt iot rof firibng Ote ti t As/eti. Aid. 1ii ct- seq Itetit of the aerdict, Btron Grahamit ps ed sentence tif death Uttonl hibl.
+Towle was apprentice to his father, a frame-work-knitter ; and no particular circumstance marked his character, good or bad, until he arrived at manhood ; but since that period, his life has several times been in jeopardy. In the year 1814 he was accused of being one of the band of frame-breakers that destroyed some frames in Mr. Garton's house, in New Basford, the village in whch Towle then lived; and at the Lent Assizes following, he was put to the bar, in the County-Hall, in Nottingham, and tried for the offence; but after a long consultation, the Jury brought in a verdict of not guilty. In July, 1816, he was, however, again committed to prison on the charge for which he has now paid the penalty of the law. The offence having been perpetrated at Loughborough, he was of course confined in Leicester gaol, and on Saturday morning, August 10, about seven o'clock, he, along with John Slater and Benjamin Badder, was put to the bar. The trial lasted upwards of twelve hours, and after Baron Graham, who presided, had given his charge, the Jury found Towle *Guilty of aiding and abetting, but not of firing the pistol at Asher*. And, in consequence of the verdict, Baron Graham passed sentence of death upon him.
 
 In the course of the trial, Mr. Denman, one of the counsel for the prisoners, made some objections to the wording of the indictment; and the prisoner was respited, in order that the opinion of the twelve Judges might be taken on the subject.
 
-On the 13th November the case was argued. The Judges being unanimous intheir opinioti, that the objctions could not be sustained, the law was ordered to take its coursie.
+On the 13th November the case was argued. The Judges being unanimous intheir opinion, that the objections could not be sustained, the law was ordered to take its course.
   
-   On the morning of Wednesday se'uuigh:, he was taken, under ao escort, itt a Lhiaiso. to thte buld(- ifg, ati appendlaei to the Newe lirfileilel ttiv er, cinlg, a sitoit distfanee from the uertd eud of the Iniriiarv. At an early littr, g- eat nutitiibers ;is- senibtlel to see the nets drop (which had ?? plaend there onilv the day before) and kept in- c'i-sfog tilu iii w iftael vs'tt!k, wbe T tyle, Wtv t a ?? and undaunted sti'p, carne uipton I lie ?? ii), uttended by the Shelify anid his depltt, the i hafp. lait, Ite two graolels, &t. after pasyitu tlhe Ultlrit pistsiile attention to the praavers if ?? Chiap at with a1 firin aid utl ible voibe, lie gv en out nie of Dr. Watts's admirable byllinis, bigiin ig Wi ig 
-   
-    (It ! for an ovcreoinhig taith, T., chiter nty dyvion tmits , To tviuli ph toc tital ojister dvath, With all his friobltfutl plowurs.'' 
-    
-    He gave out the whole of this hymn twn lines at a time, and joined in singing it ?? the tuttitoet ferveiu-v. About half past twelve, every hiliug being 'fralv, the platform fell, and launched ?? into eternitiy, iln the pi -seee oif %li inliu'tinse nLiit- ber of spectators, who conducted themselves in the most orderly manner, and without the least attempt at disturbance.
+On the morning of Wednesday se'nnight, he was taken, under an escort, in a chaise, to the building, an appendage to the New Bridewell now erecting, a short distance from the west end of the Infirmary. At an early hour, great numbers assembled to see the new drop (which had been placed there only the day before) and kept increasing until twelve o'clock, when Towle, with a firm and undaunted step, came upon the platform, attended by the Sheriff and his deputy, the chaplain, the two gaolers, &c. after paying the utmost possible attention to the prayers of the chaplain, with a firm and audible voice, he gave out one of Dr. Watts's admirable hymns, beginning with
+
+> " Oh ! for an overcoming faith,  
+> To cheer my dying hours;
+> To triumph o'er the monstr death,  
+> With all his frightful powers."
+
+He gave out the whole of this hymn, two lines at a time, and joined in singing it with the utmost fervencv. About half past twelve, every thing being ready, the platform fell, and launched him into eternity, in the presence of an immense number of spectators, who conducted themselves in the most orderly manner, and without the least attempt at disturbance.
 
 After hanging the usual time, his body was demanded by his cousin Josiah Towle, who, before he could obtain it, was required to put his hand to the following documemt:—
 
@@ -73,7 +97,7 @@ After hanging the usual time, his body was demanded by his cousin Josiah Towle, 
   
 " I further engage that the corpse shall not be halted or detaied at any other place, between Leicester and Basford, than the following:-
   
-" To bait ome hour at Rothtley-House'.
+" To bait one hour at Rothley-House'.
   
 " To put up for the night or bait at Costock.
   
