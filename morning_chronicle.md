@@ -116,7 +116,7 @@ In this opinion the other Judges severally concurred, and each stated the reason
 
 The Juror who had been challenged was withdrawn.
 
-INTERDICT AGAINST PUBLISHING TrHE TRIALS.
+INTERDICT AGAINST PUBLISHING THE TRIALS.
 
 The CHIEF BARON wished it now to be understood, that, with the concurrence of the Court, he now repeated the caution which he had given yesterday. It was expected that no part of the trial now pending, or of any future trial, would be published till the whole of the proceedings should be concluded. If, for the second time, this notice was not attended to, the Court must use its authority to bring the delinquent to punishment ; he, however, trusted there would be no occasion for any farther measures to be taken.
 
@@ -220,7 +220,7 @@ Mr. Justice DALLAS.— I recollect in the trial of James Watson, Mr. Wetherell, 
 
 The other Judges said nothing, and thus the discussion terminated. 
 
-THE KING V. WILLIAM TURNER. 
+THE KING V. WILLIAM TURNER.
 
 Mr. Lownden now proceeded in the usual form to intimate to the prisoner at the bar his right to challenge the Jury as then came to the book to be sworn; after which he called over thhe nauese of the Jurymen in the order in which they had been summoned.
 
