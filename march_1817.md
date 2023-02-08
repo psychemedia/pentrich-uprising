@@ -136,10 +136,15 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001286/18170504/006/0002
 
 Bell's Weekly Messenger - Sunday 04 May 1817
 
-LORD SIDMOUTH'S CIRCULAR. OPINION OF THE LAW OFFICERS OF THE CROWN, REFERRED TO. IN THE CIRCULAR LETTER VISCOUNT SIDMOUTH TO HIS MAJESTY’S LIEUTENANTS . COUNTIES IN ENGLAND AND WALES, DATED MARCH 27, 1817. We are'ofwpinicm that a warrant may be issued to apprehend a party charged on oath’f ...
+LORD SIDMOUTH'S CIRCULAR.
 
-TO DO
+OPINION OF THE LAW OFFICERS OF THE CROWN, REFERRED TO IN THE CIRCULAR LETTER FROM VISCOUNT SIDHOUTH TO HIS MAJESTY’S LIEUTENANTS OF COUNTIES IN ENGLAND AND WALES, DATED MARCH 27, 1817.
 
+We are of opinicm that a warrant may be issued to apprehend a party charged on oath for publishing a libel, either by the Secretary of State, a Judge, or a Justice Of the Peace. With respect to the Secretary of-State, in the case of Entick v. Carrington, reported by Mr. Hargrave, though the Court were of opinion the warrants which were then the subject of discussion were illegal, yet Lord Camden declared, and in which he stated the other Judges agreed with him, that they were bound to adhere to the determination of the Queen v. Derby, and the King v. Earbury ;in both of which cases it had been holden, that it was competent to the Secretary of State to issue a warrant for the apprehension of a person charged with a scandalous and seditious libel; and that they, the Judges, had no right to overturn those decisions.
+
+With respect to the power of a Judge to issue such warrant, it appears us, that at all events, under the statute of the 48th Geo. III. ch. 58, a Judge has such power, upon an affidavit being made in pursuance of that act; a Judge would probably expect that it should appear to be the intention of the Attorney-General to file Information against the person charged.
+
+With respect to a Justice of the Peace, the decision of the Court of Common Pleas in the case of Mr. Wilkes's libels only amounts to this—that libel is not such an actual breach of the peace as to deprive a Member of Parliament of his Privilege of Parliament, or to warrant the demanding sureties of the peace from the defendant: but there is no decision or opinion that a Justice of the Peace might not apprehend any person not privileged, and demand bail to be given to answer the charge. It has certainly been the opinion of one of our most learned predecessors that such warrants may be issued and acted upon by Justices of the Peace, as appears by the cases of Thomas Spence and Alexander Hogg in the year 1801. We agree in that opinion, and therefore think that a Justice of the Peace may issue a warrant to apprehend a person charged by information on oath with the publication of a scandalous and seditious libel, and compel him to give bail to answer such charge. W. GARROW. S. SHEPHERD.  Lincoln-Inn, Feb. 24, 1817.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000540/18170517/004/0002
 The Scotsman - Saturday 17 May 1817
