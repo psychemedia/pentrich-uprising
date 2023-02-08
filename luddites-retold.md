@@ -338,3 +338,13 @@ The three men then repeated the Lord's Prayer with the chaplain ; Ludlam was sti
 It was the same with the rest. On the prison caravan arriving, the coffins, on the lids of which the three men's names were written in chalk, were slid in and driven to St. Weyburgh's church. There, without being stripped, the three bodies were at once thrown into a deep grave ; Brandreth at the bottom.
 
 Thirty-one other prisoners were acquitted by the wish of the Government. With better opportunities and a nobler purpose, Brandreth, the Nottingham Captain, might have developed into a hero.
+
+
+
+---
+
+http://census1891.com/occupations-all.php
+http://rmhh.co.uk/occup/c.html
+
+https://locusmag.com/2022/01/cory-doctorow-science-fiction-is-a-luddite-literature/
+Cory Doctorow: Science Fiction is a Luddite Literature
