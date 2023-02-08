@@ -509,9 +509,10 @@ When Government opposed must be.
 
 See also the verse in https://archive.org/details/trialsjeremiahb00gurngoog/page/303/mode/1up and commentary elsewhere (earlier) in that document
 
-Denman - libel letter from Luddites —  Court of Kin's bench, King v Sutton - free speech trial ? Leicester Journal - Friday 04 August 1815
+Denman - libel letter from Luddites —  Court of King's bench, King v Sutton - free speech trial ? Leicester Journal - Friday 04 August 1815 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000205/18150804/002/0002
 and again at appeal? https://www.britishnewspaperarchive.co.uk/viewer/bl/0000237/18151110/002/0002
-
+Nottingham review editorial https://ludditebicentenary.blogspot.com/2015/08/4th-august-1815-nottingham-review.html
+Trial was on 22nd July, reported in http://ludditebicentenary.blogspot.com/2015/07/22nd-july-1815-trial-of-charles-sutton.html
 
 Denman speaking on " bill for abolishing death punishment in cases of forgery, June 4, 1821 "
 
