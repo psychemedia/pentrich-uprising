@@ -304,9 +304,9 @@ Trial of Clarke for Shooting at John Asher.
 
 Monday, March 31.
 
-This morning, at eight o'clock, the Honourable Sir Richard Richards, Knight, look his seat Bench. The Court was immensely crowded, and vast anxiety was evinced to obtain situations in the Hall.
+This morning, at eight o'clock, the Honourable Sir Richard Richards, Knight, took his seat Bench. The Court was immensely crowded, and vast anxiety was evinced to obtain situations in the Hall.
 
-Thomas Savage. William Withers, John Amos, John Crowder, Joshua Mitchell, Samuel Caldwell, James Watson, and John Clarke were put to the bar, and arraigned on a charge of having, on the night of the 28lh of June last, feloniously and maliciously shot at John Asher, with intent to kill and murder him. Another count charged them with aiding and abetting in shooting at John Asher, &c.
+Thomas Savage, William Withers, John Amos, John Crowder, Joshua Mitchell, Samuel Caldwell, James Watson, and John Clarke were put to the bar, and arraigned on a charge of having, on the night of the 28th of June last, feloniously and maliciously shot at John Asher, with intent to kill and murder him. Another count charged them with aiding and abetting in shooting at John Asher, &c.
 
 After twelve of the pannel had answered to their names, they were challenged on the part of the prisoners : and then another twelve, and so on, so that it was found impracticable to obtain a jury from the pannel to try them altogether. A proposition was made to make up a Jury from bystanders in the Court, but this was objected on the part of the Crown, and all but John Clarke removed from the bar. An attempt was then made to obtain a Jury from the pannel, but as the Crown challenged some, the Counsel on behalf of Clarke others; and some did not attend; only six could be found, and the residue were selected  from bystanders in the Court. The whole number of challenges on behalf of the prisoners had been expended when nine jurymen were in the box. An hour and a half was occupied in this uninteresting business, and it was not till half past nine, that the Gentlemen of the Jury were sworn. The following are their names—
 
