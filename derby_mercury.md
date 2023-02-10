@@ -8,7 +8,7 @@ p4
 
 HOUSE OF LORDS, Tuesday, June 8.
 
-A Commission was brourght down from the Prince Regent expressive of his approbation of the choice the Commons had made of Mr. Manners Sutton as their Speaker.
+A Commission was brought down from the Prince Regent expressive of his approbation of the choice the Commons had made of Mr. Manners Sutton as their Speaker.
 
 LORD COLCHESTER.
 
@@ -22,7 +22,7 @@ Lord SIDMOUTH brought down a Message from the Prince Regent, which stated, that 
 
 The Message having been read,
 
-Lord SIDMOUTH said, pailnful as it must be to make the commnuniacation just read, it was imperiusly called for, with a view to secure the public peace, and the tranquillity of the State. What steps are to be taken, would be for the House to determine. The first step would be to address the Prince Regent, and then to examonie the Papers, referring the Papers to a Committee of Secrecy, to be composed of the same Members, with the exception of a Noble Duke, who desired not to be upon that Committee. With respect to the information, he should suppose no objection would be nmade to refer the Papers to the Committee. If they should be referred, then would be the time to examine and determine upon what meaasures it would be necessary to adopt for the purpose named in the Message. The Noble Lord then moved an Address of Thanks to the Prince Regent &c.
+Lord SIDMOUTH said, pailnful as it must be to make the commnuniacation just read, it was imperiously called for, with a view to secure the public peace, and the tranquillity of the State. What steps are to be taken, would be for the House to determine. The first step would be to address the Prince Regent, and then to examonie the Papers, referring the Papers to a Committee of Secrecy, to be composed of the same Members, with the exception of a Noble Duke, who desired not to be upon that Committee. With respect to the information, he should suppose no objection would be nmade to refer the Papers to the Committee. If they should be referred, then would be the time to examine and determine upon what meaasures it would be necessary to adopt for the purpose named in the Message. The Noble Lord then moved an Address of Thanks to the Prince Regent &c.
 
 Earl GREY, had no objection to a mere Vote of Thanks, but did not pledge himself to any ulterior object founded on the Message.
 
@@ -90,5 +90,3 @@ The Right Hon. Lord Scarsdale, D. P. Coke, J. Balguy, B. Heathcote, J. Crompton,
 We have the utmost satisfaction in recording the determined opposition which the insurgents received from the farmers and most respectable inhabitants of Wingfield Park, Pentridge, Ripley, and other places where these atrocious and disgraceful proceedings have been exhibited. To this disposition, aided by our civil and military establishments, and to a vigorous execution of the Laws of our country, we look with confidence for the suppression of any further attempt which may be made to disturb the peace of the county.
 
 In the preceding account we have abstained from mentioning any of the names of the prisoners. But we understand that an inquest has been taken by Mr. Gosliag, the Coroner, upon the body of Robert Walter, (Mr. Hepworth's servant,) who was shot in the night of Tuesday the 9th inst. in his master's house in Wingfield Park; and that a verdict of wilful murder has been returned by the Jury against William Turner, Joseph otherwise Manchester Turner, Robert Turner, Isaac Ludlam, William Ludlam, and William Barker.
-
-
