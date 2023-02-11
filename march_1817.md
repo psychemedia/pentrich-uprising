@@ -115,6 +115,65 @@ TO DO
 
 ...
 
+*Friday March 21.*
+
+...
+
+SEDITIOUS MEETINGS BILL.
+
+Lord Viscount SIDMOUTH moved the Order of the Day, which having been read, the House resolved itself into a Committee on the Seditious Meetings Bill.
+
+Lord GRNVILLE objected to certain clauses as not sufficiently clear in the wording.
+
+Lord HOLLAND thought the penalty of death was by far too severe to be inflicted in the circumstances described in the Bill.
+
+Lord St JOHN objected to the power being lodged in one magistrate, when two were required to remove a pauper, and the whole magistracy of a county could not in other cases subject an individual to the punishment of death.
+
+After some further discussion, it was agreed to leave out the words " in such a case" to prevent any ambiguity with regard to the legality of meetings. But Lord St John's amendment to vest the power of dispersing a meeting in two justices instead of one, and Lord Holland's amendment to leave out the words making the penalty death, were negatived.
+
+Lord ERSKINE objected to that part of the Bill which gave one Justice of Peace the power of deciding whether a notice tended to stir up the people to hatred or contempt of the government. This would give a power to a single Justice of Peace, which since the libel act had been denied to the Judges of the land. Another clause gave one Justice a power to decide as to the tendency of words spoken at meetings lawfully assembled. This he thought extremely dangerous, He thought clauses of this nature would tend to increase the characteristic delusion of the present time, which was, that Parliament was not attentive to the interests or liberties of the people. He moved an amendment on the clauses he objected to.
+
+Lord ELLENBOROUGH said, the clause was ho doubt objectionable as conferring discretionary powers, but there was no choice but that of entrusting such a discretionary power, or of leaving the people to be inflamed by the meetings which it was the object of the Bill to guard against.
+
+Some farther conversation took place between Lords GRENVILLE, HOLLAND, LAUDERDALE, and the Lord CHANCELLOR. The amendments moved, with the exception of one or two of a verbal nature were negatived ; and the Bill was ordered to be reported on Monday.
+
+*Monday, March 24.*
+
+SEDITIOUS MEETINGS BILL.
+
+The Earl of SHAFESBURY reported the Seditious Meetings Bill.
+
+The LORD CHANCELLOR proposed several verbal amendments, which were agreed to.
+
+Lord HOLLAND ( with respect to the punishment of death ) again moved the Amendment which he had brought forward in the Committee, it was negatived.
+
+With respect to the Licenses granted to Lecture Rooms and Debating Societies,
+
+The Earl of LAUDERDALE thought the exceptions from the operation of this clause did not extend far enough, and that there could be no objection to include in those exceptions Lectures merely on physical science. He was the more anxious upon this point, because in Edinburgh, where the Magistrates were the Patrons of the University, they might be induced, for the sake of promoting the interests of the University, to put down all private Lectures, and it was well known that the Students frequently derived more advantage from the latter, than from what they learned within the University. He wished to confine his Amendment to the physical sciences, in order to obviate the objection that Lectures upon morality, religion, and some other topics, might be liable to be abused. His Lordship then moved a clause, exempting from the operation of the licensing enactments, Lectures on Anatomy, Pharmacy, Midwifery, Astronomy, Chemistry, or other branches of physical science.
+
+Lord Viscount MELVILLE said, that the power of licensing would not be limited to the Magistrates of Edinburgh, who were the Patrons of the University, but would be possessed under the Bill by all the Justices of Peace in that City, and equally also within the City by the Justices for the County.
+
+The Clause was negatived.
+
+On the Clause respecting Clubs or Societies, the Members of which were required to sign any test or declaration,
+
+Lord HOLLAND observed, that it was too extensive in its wording. There were many Clubs or Societies in this Metropolis, in which the Members were perhaps called upon to sign some declaration merely relating to the payment of a subscription, or the drinking of certain toasts. The Members of these Societies might naturally feel repugnant to submit mere nonsense to the inspection of Justices ot the Peace, and he haw no reason why they should be subjected to the inconvenience. Freemasons were excepted, and why should not other Societiees, equally harmless in their object ?
+ 
+Lord ERSKINE remarked, it was important to observe, that this part of the Bill was intended to be permanent, and therefore they should be undoubtedly more cautious as to whiat they enacted. Their object certainly ought to be to impose as few restrictions as possible upon the people, because by imposing unnecessary restraints they might produce discontent, and excite a spirit of hostility in place of that love which persons bore to a country having the sacred character of freedom. There were other Societies besides Freemasons which might have, perhaps, tests equally solemn, but which were equally harmless.
+
+The Earl of LIVERPOOL said, there was no intention whatever of subjecting to inconvenience mere Convivial Societies, which might he productive of pleasure or advantage to individuals. But if any clubs or societies had any test or declaration, attended with any solemnity, it was but fair that they should be subjected to the superintendence in that respect of Justices of the Peace.
+
+The Clause was then agreed to.
+
+An Amendment, proposed by Earl GROSVENOR, to limit the duration of the Bill to the 1st July 1817, was negatived.
+
+Lord Viscount Sidmouth proposed a clause to prohibit public meetings within a mile of the two Houses of Parliament when sitting, or of the Courts of Justice when sitting at Westminster.
+
+The Earl of ROSSLYN contended, that there was no reason why the inhabitants of Westminster should not have the exercise of a privilege,which was possessed by the inhabitants of every other part of London. He should have preferred that a Clause of so much importance had been introduced into the Bill at first, rather than now, towards the very close of any discussion upon it.
+
+Lord Liverpool said, it was certainly most desirable that the Members of their Lordships' House, and of the other House of Parliament, should not be exposed to those gross outrages which has sometimes occurred, when coming down to Parliament in the exercise of their public duty ; their dignity imperiously demanded such a protection.
+
+After some observations by Lors Lauderdale, Erskine and Grenville, the clause was agreed to and the Amendments being all gone through, the Bill was then ordered to be read a third time tomorrow, and the House adjourned.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000540/18170412/011/0003
