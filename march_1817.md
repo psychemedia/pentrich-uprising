@@ -10,7 +10,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > This did not go down well with common people in the Kingdom.
 >
-> Far away from the city where the King and Prince lived, along with all the Ministers, but still within the Kingdom, was another city. To walk from one to the other could take a week or more to walk —this is once, remember, and not everyone had a horse— and that was if you were a good walker.
+> Far away from the city where the King and Prince lived, along with all the Ministers, but still within the kingdom, was another city. To walk from one to the other could take a week or more to walk —this is once, remember, and not everyone had a horse— and that was if you were a good walker.
 >
 > One day, the people in the second city heard that a great mass of barbarians from the wastelands of the North were on a long march to the capital to complain to the King — or the Prince, or the Ministers, or to anyone who would listen, about how downtrodden they were.
 >
