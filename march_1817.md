@@ -32,7 +32,9 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > (As it was, I've heard it tell that the purseman with a pretty penny in funds to pay for food and accommodation along the way got lost himself, and only returned when all the money had been spent!)
 >
-> Some were split up and sent this way, others were sent that way, and several hundred found themselves in jail for the night.
+> The soldiers came along on their horses, withe swords and sabers and who knows what, and the marchers — well, a blanket didn't work so well as armour, so it's not hard to guess who came off worst.
+>
+> Some of the marchers were split up and sent this way, others were sent that way, and several hundred found themselves in jail for the night.
 >
 > The leaders of the march were given special treatment, imprisoned, and given a day in court. Their witnesses were made ready, and then: nothing; back to prison they went.
 >
