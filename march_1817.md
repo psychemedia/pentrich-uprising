@@ -22,7 +22,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > So they were clever; they would gathered together in small groups of 10 or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, and they would march in small groups, because nobody could argue with that.
 >
-> Because the journey was long one, they would each take a blanket, to keep them war at night as they'd have to camp under the stars; the one with petitiions would pin them to the blanket, as a badge, to show their intention; and everyone who wasn't going on the march would raise what little money they could so the marchers could buy some small amount of food each day.
+> Because the journey was long one, they would each take a blanket, to keep them warm at night as they'd have to camp under the stars; the one with petitiions would pin them to the blanket, as a badge, to show their intention; and everyone who wasn't going on the march would raise what little money they could so the marchers could buy some small amount of food each day.
 >
 > So one morning, the people began to gather; thousands of them; a thousand or so set off on the march, "their bed blankets thrown over their shoulders, and fastened in front, over the breast, with a skewer. They were in full marching order; those who could not procure knapsacks or haversacks, had large bundles attached to their shoulders" as if they were soldiers, and leaving the rest to their speeches and fundraising.
 >
