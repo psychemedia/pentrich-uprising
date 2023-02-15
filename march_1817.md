@@ -8,7 +8,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > Although the country had laws, the Minister's were fearful of revolt, so they did all they could to make it easier to arrest people first, and ask questions later.
 >
-> This did not go down well with common people in the Kingdom.
+> This did not go down well with common people in the kingdom.
 >
 > Far away from the city where the King and Prince lived, along with all the Ministers, but still within the kingdom, was another city. To walk from one to the other could take a week or more to walk —this is once, remember, and not everyone had a horse— and that was if you were a good walker.
 >
