@@ -20,7 +20,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > Now the people knew that the Ministers had no love for the poor people, and nor did the local Magistrates, dirty smelly rabble that they were — the people, that is, not the Magistrates: they probably smelled beautiful and probably had a bath at last once a month — and they knew that the soldiers would be set on them if they looked like a mob.
 >
-> So they were clever; they would gathered together in small groups of 10 or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, and they would march in small groups, because nobody could argue with that.
+> So they were clever; they would gathered together in small groups of ten people or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, and they would march in small groups, because nobody could argue with that.
 >
 > Because the journey was long one, they would each take a blanket, to keep them warm at night as they'd have to camp under the stars; the one with petitions would pin them to the blanket, as a badge, to show their intention; and everyone who wasn't going on the march would raise what little money they could so the marchers could buy some small amount of food each day.
 >
@@ -38,7 +38,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > The leaders of the march were given special treatment, imprisoned, and given a day in court. Their witnesses were made ready, and then: nothing; back to prison they went.
 >
-> The Ministers reacted in style, pushing through a law that banned unapproved gatherings of more than 50 fifty people
+> The Ministers reacted in style, pushing through a law that banned unapproved gatherings of more than fifty people
 >
 > Several weeks later, a Special Jury was laid on. But when the time came to present the case before the Judge, on charges that included "begging", because the marchers hadn't actually done anything wrong — they had broken no law, and this was a land that was supposedly ruled by law — the lawyer for the proscution just muttered something about it all being peaceful now, and there was no need to charge the men, so he wouldn't offer any evidence against them.
 >
