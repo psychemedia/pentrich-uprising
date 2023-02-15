@@ -410,5 +410,11 @@ TH: It is said that one of the blanketeers made london - Abel Couldwell, or poss
 https://www.theguardian.com/environment/2023/feb/07/insulate-britain-activist-david-nixon-jailed-for-eight-weeks-for-contempt-of-court
 
 https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00004236/schulte_beerbuehl_blanketeers.pdf
+The March of the Blanketeers: Tragic Failure or Pioneer of
+Unemployed Protest?
+in
+MATTHIAS REISS AND MATT PERRY (eds.), Unemployment and Protest: New
+Perspectives on Two Centuries of Contention (Oxford: Oxford University Press, 2011)
+pp. 59–74
 
 Seditious Meetings Act, 1817 https://books.google.co.uk/books?id=7GM0AQAAMAAJ&pg=PA36&redir_esc=y#v=onepage&q&f=false
