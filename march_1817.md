@@ -43,7 +43,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > But what I do know is that this is a true story.
 >
-> Once, was 1817, and the Kingdom was Great Britain. The mad King was King George III, and the Prince was the playboy Price Regent, later George IV. The Ministers, well, they were Lord Liverpool's Tory Government. And the marchers? They were men from Mancheser — The Blanketeers — who marched in March, 1817, from their orignal gathering point in St Peter's Field, the scene of the Peterloo massacre two years later. Following the march, the Seditious Meetings Act of 1817 was passed, that banned unapproved gatherings of more than 50 people that would deliberate on grievances against the Church or State, and could lead to a capital death sentence for the organisers.
+> Once, was 1817, and the kingdom was Great Britain. The mad King was King George III, and the Prince was the playboy Price Regent, later George IV. The Ministers, well, they were Lord Liverpool's Tory Government. And the marchers? They were men from Mancheser — The Blanketeers — who marched in March, 1817, from their orignal gathering point in St Peter's Field, the scene of the Peterloo massacre two years later. Following the march, the Seditious Meetings Act of 1817 was passed, that banned unapproved gatherings of more than 50 people that would deliberate on grievances against the Church or State, and could lead to a capital death sentence for the organisers.
 
 So what's "real" story, the hi*story* of the Blanketeers?
 
