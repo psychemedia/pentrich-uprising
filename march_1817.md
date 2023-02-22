@@ -2,7 +2,7 @@
 
 The following is a version of the Blanketeers' story told in the style of a traditional fairy tale, and based on the principle that the story is what's left when the facts have been forgotten. I'm not sure whether it works, but I thought I'd give it a go...
 
-> Once, there was a King; a *mad* King; the King was so infirm that his son, the Prince, ruled in his place; but the prince like to drink, and the prince was profligate, and the prince was a philanderer. In short, the prince was a full time playboy. And so, the King's Ministers ran the country instead.
+> Once, there was a King; a *mad* King; the King was so infirm that his son, the Prince, ruled in his place; but the prince like to drink, and the prince wasde profligate, and the prince was a philanderer. In short, the prince was a full time playboy. And so, the King's Ministers ran the country instead.
 >
 > For a long time, the kingdom had been fighting many wars, and even though the wars were over now, the people were still very poor. And their discontent lead to angry mobs and riots.
 >
@@ -40,7 +40,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > The Ministers reacted in style, pushing through a law that banned unapproved gatherings of more than fifty people
 >
-> Several weeks later, a Special Jury was laid on. But when the time came to present the case before the Judge, on charges that included "begging", because the marchers hadn't actually done anything wrong — they had broken no law, and this was a land that was supposedly ruled by law — the lawyer for the proscution just muttered something about it all being peaceful now, and there was no need to charge the men, so he wouldn't offer any evidence against them.
+> Several weeks later, a Special Jury was laid on. But when the time came to present the case before the Judge, on charges that included "begging", because the marchers hadn't actually done anything wrong — they had broken no law, and this was a land that was supposedly ruled by law — the lawyer for the prosecution just muttered something about it all being peaceful now, and there was no need to charge the men, so he wouldn't offer any evidence against them.
 >
 > And so they went free.
 >
@@ -48,7 +48,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > But what I do know is that this is a true story.
 >
-> Once, was 1817, and the kingdom was Great Britain. The mad King was King George III, and the Prince was the playboy Price Regent, later George IV. The Ministers, well, they were Lord Liverpool's Tory Government. And the marchers? They were men from Mancheser — The Blanketeers — who set off to march to London in March, 1817, from their original gathering point in St Peter's Field, the scene of the Peterloo massacre two years later. Following the march, the Seditious Meetings Act of 1817 was passed, that banned unapproved gatherings of more than 50 people that would deliberate on grievances against the Church or State, and could lead to a capital death sentence for the organisers.
+> Once, was 1817, and the kingdom was Great Britain. The mad King was King George III, and the Prince was the playboy Price Regent, later George IV. The Ministers, well, they were Lord Liverpool's Tory Government. And the marchers? They were men from Manchester — The Blanketeers — who set off to march to London in March, 1817, from their original gathering point in St Peter's Field, the scene of the Peterloo massacre two years later. Following the march, the Seditious Meetings Act of 1817 was passed, that banned unapproved gatherings of more than 50 people that would deliberate on grievances against the Church or State, and could lead to a capital death sentence for the organisers.
 
 So what's "real" story, the hi*story* of the Blanketeers?
 
