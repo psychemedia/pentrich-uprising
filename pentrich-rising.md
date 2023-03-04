@@ -691,38 +691,3 @@ https://books.google.co.uk/books?id=0HQHAAAAQAAJ&pg=PA241&dq=bailey+annals+notti
 https://archive.org/details/lawrelatingtorio00wise
 The law relating to riots and unlawful assemblies: together with a view of the duties, powers and liabilities of magistrates, constables, the military, and private citizens in the suppression thereof: The Treason felony act, 1848, the Conspiracy and protection of property act, 1875, the Riot (damages) act, 1886, with the regulations thereunder, and the Trade disputes act, 1906
 1907 4th edition
-
-# TH Set for Ventnor — Story Parts
-
-1811 Notts brief- crappy work; truck payments
-1812
-Nottingham ; violence Jan 1812, hanging
-Huddersfield March-July
-Notts JUn/July/Aug
-Hudds Oct-Dec,
-1813 Jan hanging
-1816? Loughborough
-
-luddite june 1816 55 frames loughborough, Heathcote and Boden's factory; James Towle hanged nov 1816,
-1816 Spa fields
-1817 Oliver, Trial in London for Spa Field; Lougbborough tiral, Huddersfield  revolt
-Leeds Mercury - Oliver Spy; Huddersfielf trial; questions in parliament
-Pentrich - bound over
-October
- 
-
- THemes - press blackouts
- working men and soldiers
- Callbacks on place names
-
- Luddite thread; Notts vs Hudds Luddism; revolt thread; anti-government feeling / state oppressive use of capital sentences
-
-Denman as a common theme
-
-Set basd around three people:
-
-- George Mellor 
-- Edward Baines
-- Thomas Denman
-
-Folklore in the sense of me forming an impression and telling tales based on things I heard about the topics from contemporary news topics
