@@ -1,6 +1,9 @@
 
 # Events, 1816
 
+Frame breaking was to continue in Nottinghamshire in 1816, In June, frames were broken in New Radford — several of which were owned by a certain Mr. B. — Benjamin — Topham, the same Topham whose frames were broken in December 1811
+
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000172/18160615/026/0004
