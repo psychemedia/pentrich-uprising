@@ -24,6 +24,25 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18171122/016/0004
 
 Trial by battle
 
+An argument for construing largely the right of an appellee of murder, to insist on trial by battle : and also for abolishing appeals: with an appendix, containing a report of a debate in the House of Commons, https://archive.org/details/argumentforconst00kendiala
+
+Horrible Rape and Murder - The Affecting Case of Mary Ashford...including the Trial of Abraham Thornton; for the Wilful Murder of the Said Mary Ashford; with the Whole of the Evidence, Charge to the Jury, Etc... To which is Added Copious Elucidations
+https://www.google.co.uk/books/edition/Horrible_Rape_and_Murder_The_Affecting_C/SIHoPS7KL4sC?hl=en&gbpv=1&dq=thronton+ashford&printsec=frontcover
+
+Observations on Thornton and Ashford https://www.google.co.uk/books/edition/Observations_upon_the_Case_of_A_Thornton/aSJXAAAAcAAJ?hl=en&gbpv=1&dq=thronton+ashford&printsec=frontcover
+
+
+Thornton's second trial ... : the whole proceedings of the extraordinary trial of Abraham Thornton, for the murder of Mary Ashford https://archive.org/details/b22465923 ; https://www.google.co.uk/books/edition/Fairburn_s_Edition_of_the_Whole_Proceedi/3C5B76sJqDQC?hl=en&gbpv=1&dq=thronton+ashford&printsec=frontcover 
 
 Court of the King's Bench, Nov. 17, 1817
 Wm. Ashford v. Abraham Thornton, in an appeal of murder
+
+Dyer, Gary, "Ivanhoe, Chivalry, and the Murder of Mary Ashford" (1997). English Faculty Publications. 12.
+https://engagedscholarship.csuohio.edu/cleng_facpub/12 also as https://core.ac.uk/download/pdf/301543171.pdf
+
+https://www.naomiclifford.com/portfolio/abraham-thornton-gauntlet/ Abraham Thornton’s gauntlet sold for £6,875
+10 July 2019 Naomi Clifford
+One of the leather gauntlets used in the last-ever legal challenge to trial by battle in an English court has been sold at Christie’s in London for £6,875 two hundred years after its pair was dramatically thrown down in Westminster Hall.
+Book: https://www.amazon.co.uk/Murder-Mary-Ashford-Changed-English/dp/1473863384
+
+https://special-collections.wp.st-andrews.ac.uk/2017/06/09/copyright-abcs-the-clock-struck-four-ashford-v-thornton-trial-by-combat-and-nineteenth-century-melodrama/
