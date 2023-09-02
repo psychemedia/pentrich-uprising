@@ -6,9 +6,9 @@ I bring you a story,
 Of rebels and spies,
 
 I bring you a tale,
-Of Luddites and trials.
+Of protests and trials.
 
-Once, there was a kingdom. Its armies had been fighting wars in ar off lands for many years.  It had been blockaded, unable to export the goods that paid for the wars, and hit by several poor harvests in a short few years. The King was troubled in mind and body, and they called him mad. His son, the Prince Regent, extravagant in taste, profligate in nature, a drinker and philanderer, a playboy, acted in his stead. The land was in the midst of a revolution in industry, while most of the working populace were poor, really poor, poverty stricken, destitute, barely able even to afford bread; in the country, the working people were typically un-represented in a Parliament that created ever more capital crimes — crimes that would see you hung — to suppress dissent. In the country, there was a sense of revolt.
+Once, there was a kingdom. Its armies had been fighting wars in far off lands for many years.  It had been blockaded, unable to export the goods that paid for the wars, and hit by several poor harvests in a short few years. The King was troubled in mind and body, and they called him mad. His son, the Prince Regent, extravagant in taste, profligate in nature, a drinker and philanderer, a playboy, acted in his stead. The land was in the midst of a revolution in industry, while most of the working populace were poor, really poor, poverty stricken, destitute, barely able even to afford bread; in the country, the working people were typically un-represented in a Parliament that created ever more capital crimes — crimes that would see you hung — to suppress dissent. In the country, there was a sense of revolt.
 
 Once, is 1817. The Kingdom, is England. There is a saying amongst storytellers that the story is what's left when the facts are forgotten. The stories I bring you are stories I learned from the newspapers of the time, and the "past times" memorial columns of  a generation, fifty years or so, later. The sort of news stories you might have read, or heard second hand, and perhaps recalled years later. The sort of story that becomes a part of the folk memory.
 
@@ -128,7 +128,7 @@ Nottingham and Newark Mercury - Saturday 11 February 1832
 
 On Thursday week, at Pentridge, of which place he was a native, Mr. Benjamin Topham, aged 67. He some years arm resided in Nottingham, where he was well known. His polities were liberal; yet at the Derbyshire, or Jerry Brandreth *revolution*, in June 1817, all Topham's frames were broken. The disturbances broke out at Pentridge, where Topham was then living. He was an upright, industrious man, but he laid the breaking of his frames so much to heart, that he lost his energy of spirit, and almost sank under it.
 
-[Frames alos broken in December 1811 and march 1812]
+[Frames also broken in December 1811 and March 1812]
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002634/18120316/025/0006
 London Chronicle - Monday 16 March 1812
