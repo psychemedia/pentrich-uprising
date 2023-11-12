@@ -1,5 +1,10 @@
 # Trial By Battel
 
+Trial by combat
+
+See also: https://archive.org/details/trialbycombat00neilgoog Trial by combat by Neilson, George, 1858-1923. Publication date 1890 For example: https://archive.org/details/trialbycombat00neilgoog/page/n352/mode/2up?q=ashford
+Chap. 93.— Appeal of Murder Act, 1819. After a very long interval Parliament again in 1770' discussed the subject of trial by battle. The attorney-general moved for leave to bring in a bill to abolish it, but after debate the motion was postponed. Again in 1774 the question was raised and came to nothing.* Forty years later a decisive hour came.  
+On 27th May 1817* Mary Ashford of Erdington, in Warwickshire, was drowned* under circumstances ...
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18670427/003/0002
 Hereford Journal - Saturday 27 April 1867
