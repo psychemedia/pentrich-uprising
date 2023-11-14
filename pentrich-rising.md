@@ -15,7 +15,7 @@ From the Midland counties of Derbyshire and Nottinghamshire to the West Riding o
 
 The story is the same: as the State Trial for the men accused of leading the the riot in December begins in London, there will be an insurrection, there will be a march to the metroplis, and there will be change.
 
-Weapons will be required, but the garrisons will be quickly captured and rendered ineffective. No blood will be spilled. Debts will be relieved, industries nationalised, and politics reformed. The date is set: Sunday, June 8th, 1817.
+Weapons will be required, but the garrisons will be quickly captured and rendered ineffective. No blood will be spilled. Debts will be relieved, industries will be nationalised, and Parliament will be reformed. The date is set: Sunday, June 8th, 1817.
 
 In Huddersfield, two dozen men meet at Folly Hall Bridge; follow the river Holme three miles or so out of town, up to Honley, more men are armed, and ready to march.
 
