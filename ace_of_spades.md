@@ -1,7 +1,22 @@
 
 # Ace of Spades
 
-Denman speaking on " bill for abolishing death punishment in cases of forgery, June 4, 1821 "
+
+
+eg Denman speaking on " bill for abolishing death punishment in cases of forgery, June 4, 1821 "
+https://api.parliament.uk/historic-hansard/commons/1821/jun/04/forgery-punishment-mitigation-bill
+HANSARD 1803–2005 → 1820s → 1821 → June 1821 → 4 June 1821 → Commons Sitting
+FORGERY PUNISHMENT MITIGATION BILL.
+HC Deb 04 June 1821 vol 5 cc1099-1141099
+On the order of the day for the third reading of this bill.
+
+https://archive.org/details/statutesatlarge55britgoog/page/381/mode/1up?q=%22Stamp+act%22
+1804J Anno regi quadragenmo quarto Georgii III C. 98. 381 [Geo. III, 44]
+IX. And be it further enacted, That if any person or Persons whatosever shallforge or counterfeit, or cause or procure to be forged or counterfeited, any mark, stamp, or die, which shall be provided, made, or used in pursuance of this act, or shall counterfeit or resemble, or cause or procure to be counterfeited or resembled, the impresion of any such mark, stamp, or die, upon any vellum, parchment, paper, or other material, or upon any other matter or thing, or the impresion of the stamp or die, upon any vellum, parchment, or paper, allowed to be issued, used, or applied under the authority of this act, thereby to defraud his Majesty, his heirs or successors, of any of the duties by this act charged or imposed, or if any person or persons shall utter, vend, or sell, any vellum, parchment, paper, or other material, or other matter or thing, with such forged or counterfeit mark, stamp, or impression thereupon, knowing such mark, stamp, or impression to be forged or counterfeit, every such person so offending, being thereof convicted in due form of law, shall be judged a felon, and shall suffer death, as in cases of felony, without benefit of clergy.
+
+
+https://archive.org/details/statutesatlarge55britgoog/page/436/mode/2up?q=%22Stamp+act%22
+Playing-Cards, for every pack which (hall be made fit for sale or use in Great Britain 2s 6d.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050502/015/0003
 Saint James's Chronicle - Thursday 02 May 1805
