@@ -1,3 +1,7 @@
+# Rebellion and retribution
+
+Huddersfield , 1812
+
 ## Part One - Yorkshire Luddites Arise
 
 
