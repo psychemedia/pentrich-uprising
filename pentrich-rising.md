@@ -47,7 +47,9 @@ Appeals were made for clemency; in a 19th century style plea bargain, the men se
 
 And so it was, at just after midday, on Friday November 7th, in the year of Our Lord one thousand eight hundred and seventeen, just over two hundred years ago from now, the three prisoners were paraded around the prison yard in Derby. They were led on to the platform, then hung from the scaffold using the short drop method: rather than the long drop, which would kill a man by snapping his kneck, the low drop was more of a lowering, to ensure a long, slow, lingering death by strangulation. A lesson to the common man, who dared to challenge authority. And a good mornings's entertainment for the rest. For half an hour the men hung there, before their bodies were cut down, one at a time, and placed upon a block. For the executioner's task was not yet complete. For each body in turn was decaptitated with an axe. In turn, their heads were lifted up by the executiner and shown to the stunned, silent crowd: "Behold the head of the traitor, Isaac Ludlum". "Behold the head of the traitor, William Turner". "Behold the head of the traitor, Jeremiah Brandreth". 
 
-And as thrnstunned and silent crowd dispersed, the three bodies were taken away and dumped in an unmarked grave.
+And as the stunned and silent crowd dispersed, the three bodies were taken away and dumped in an unmarked grave.
+
+But of a certain well-dressed and apaarently well-connected man, a man with fair hair and red whiskers - of a certain Mr. William J. Oliver - there was no sign.
 
 And that is the end of the story of the Pentrich Uprising.
 
