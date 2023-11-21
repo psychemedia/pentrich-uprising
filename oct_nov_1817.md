@@ -1,7 +1,7 @@
-## October / Novemeber 1817
+## October / November 1817
 
 
-
+Pentrich trial
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18170927/007/0002
 

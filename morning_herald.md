@@ -1,3 +1,6 @@
+June 1817, Pentrich reports
+Ocotber 1817 Pentrich trial
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18170614/015/0003
 Morning Herald (London)

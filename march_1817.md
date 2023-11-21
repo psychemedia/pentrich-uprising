@@ -1,4 +1,8 @@
 
+Manchester Blanketeers
+Lord Sidmouth's circular
+Habeas Corpus
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001255/18170306/013/0002
@@ -296,6 +300,15 @@ Liverpool Mercury - Friday 12 September 1817
 *The Blanketeers.— Lancaster Assizes.*
 
 On Saturday last, a special jury was appointed to try the *Blanketeers*, as they were called, from Manchester. They were charged with convening a tumultuous and riotous assembly, under the pretext for petitioning; and for for conspiring to insult and intimidate his Royal Highness the Prince Regent, by collecting large multitudes of people, and conspiring to repair to London. Ith to present petitions and remonstrances, &c. to him. There were seven of these men indicted: three were defended by Mr. Williams, and four by Mr. Holt.— When the trial was called on, Mr. Topping, the leading counsel for the crown, rose and said, "That it was not his intention to offer any evidence against the defendants. At the time the charge was preferred, Manchester was much agitated; but tranquillity now prevailed throughout the county, and a new tone and condition of things had arisen. That his Majesty's government, therefore, never desirous to prosecute any of the king's subjects, but in cases where the public safety demanded it, thought it unnecessary to press any thing against the defendants under the present circumstances, and therefore, he, Mr. Topping, should offer no evidence." The defendants were accordingly acquitted.
+
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001255/18170606/016/0002
+Public Ledger and Daily Advertiser - Friday 06 June 1817
+secret committee, Habeas corpus, treason trial
+
 
 ---
 

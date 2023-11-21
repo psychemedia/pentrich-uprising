@@ -1,120 +1,7 @@
-# Attack on Prince Regent
+# Loughborough Luddites Trial
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170201/006/0002
-Leeds Mercury - Saturday 01 February 1817
 
-ATTACK ON THE PRINCE REGENT. An immense body of people had assembled in St. James's Park, at Whitehall, and in Parliament street, to see the procession of his Royal Highness the Prince Regent to and from the House. The multitude was vociferous-and the most outrageous epithets were applied to his Royal Highness as he passed along in the State Carriage, guarded on both sides by a strong escort of guards and constables. On the return of his Royal Highness from the Lords' Chamber of Parliament the crowding, clamour, and insults, increased. At the same time that cries of " God save the King," and huzzas were mixed with the vociferations personally offensive to the Prince Regent. After the cavalcade had entered the park, at the Horse Guards - and that it had proceeded about half way down the Mall, one of the windows of the state carriage in which his Royal-Highness was placed, along with Lord James Murray, was shattered in two places by stones or some missiles from a hand unseen. It was nearly opposite the park wall of Carlton-house. From the small puncture of the points from which the cracks in the pane radiated, it was at first thought to have happened by the accidental contact of an officer's sword, riding alongside, and who might have been pressed by the crowd against the Carriage, or that fragments of gravel had been thrown up against the glass by the horses' hoofs, or by some ruffian intentionally — but these ideas were discountenanced: an alarm was therefore excited that it might have proceeded from an air gun. No bullets nor stones were found in the carriage, the opposite window was not broken, nor was any person taken into custody; and his Royal Highness was safely set down at St. James's Palace, from which he had set out.
 
-The Prince Regent, on alighting from the state carriage at St. James's, informed Sir Nathaniel Conant, who was in attendance, of the circumstance, and immediately afterwards the Duke of Montrose went off with all possible speed for Viscount Sidmouth, for his assistance and those under him, to endeavour to discover the offenders. His Grace proceeded to the Secretary of State's Office. when Lord Sidmouth not being there, Mr. Hiley Addington sent a messenger to his brother at the House of Peers, to inform him of what had happened, and to command his attendance at St. James's Palace. The Prince Regent, after waiting a considerable time for the arrival of Lord Sidmouth at St. James's Palace, left it in his private carriage for Carlton House, leaving his commands for Lord Sidmouth to follow him. His Lordship arrived shortly afterwards, as did the Duke of York, and the Duke and Duchess of Gloucester.
-
-A drawing of the pane of glass, describing two small punctures from which cracks radiated, was made by his Royal Highness himself after he arrived at St. James's, but after this, we understand the pane was broken or fell into pieces, and that by a second stroke. Whatever substance it was by which the glass was broken, it did not enter the carriage, as it was carefully searched for the purpose.
-
-As a proof to what extent the terror excited by this traitorous assault was carried in the minds of Ministers, the Guards at the Palaces, the Park. the Bank, and every where, were doubled. A message was sent to the Lord Mayor, informing him of the outrage, and instructing him, if he found it necessary towards the maintenance of the public peace, to call in the military power, to address himself to the Commanding Officer at the Tower for that purpose ; and dispatches were sent by the mail coaches to every part of the kingdoms, to put the Magistrates in every place on their guard.
-
-We are happy to state, however, that by five o'clock in the afternoon the streets were perfectly clear of the mob, and no disposition to riot appeared in any part of the town. *Morning Chronicle*
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170208/004/0002
-Leeds Mercury - Saturday 08 February 1817
-
-ATTACK ON THE PRINCE REGENT.
-
-On Saturday, *Thomas Scott*, the person in custody, who stands charged with being a party to the outrage committed upon the Prince Regent, on Tuesday week, underwent another examination at Bow-Street. The office was crowded. Mr. Adolphus attended as Counsel for the prisoner.
-
-The first witness called, was Lord James Murray, who again minutely detailed all that came under his observation on that occasion. His Lordship stated, in the course of his evidence, that he observed ten or twelve persons singularly conspicuous in their violence, and whom he could identify. When the carriage reached about the centre of the Mall, one of the windows, on the left side, was perforated by something striking against it. The noise was so great from the blow as almost to stun him. On looking to the glass, be observed two small round holes very near to each other; the glass was starred, but not further broken; the small splinters of the glass flew downwards, towards the opposite side of the carriage. His Lordship had not the least doubt those holes were produced by bullets, such as he tad seen discharged from stick-guns, which are not quite so large as an air-gun, and from the direction they took they must have come from above. The glass was extremely thick, and even the large stones which afterwards broke the glass did not enter the carriage. The perforations on the glass were very small, not larger than a pea, and quite round. He was quite satisfied the holes were made by a metallic body, from the appearance they assumed. There were other fractures by stones, one of which demolished the holes he had been describing. By the Prince Regent's desire his Lordship put his hat against the window, to prevent any stones from coming in, and fortunately it was he did so for many stones were thrown, and hit the glass afterwards, seven or eight in number. His lordship had since been in the Park, and on looking among the trees, he observed in several of them a considerable quantity of stones remaining, as if they had been put there purposely. His Royal Highness sat with his face to the horses ; the Duke of Montrose and witness sat opposite his Royal Highness, with their backs to the horses.
-
-James Neverhouse, of Newington Causeway, was in the Park on Tuesday ; saw the prisoner pressing forward of himself, as if he wished to be foremost of the mob; saw a stone thrown from where the prisoner stood, but cannot say he threw it; the stone went in a slanting direction, and certainly hit the carriage.
-
-A person of the name of Chaunter, now came forward to offer evidence to rebut that given against the prisoner; but his testimony was rejected, on the ground that he could be examined alone on the trial of the prisoner, should it be deemed proper to commit him. Mr. Hicks recognized this witness too, as having been before him upon a charge of misconduct, within the last three months, at Marlborough-Street.
-
-The prisoner, in the course of his examination, repeatedly declared his innocence, and his willingness to stand the test of every inquiry.
-
-Information, it is said, has been received by Mr. Hicks, tending in a great measure to confirm the belief that it was intended to attempt the Regent's life, but this, in no respects, affects or applies to the prisoner.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18170201/006/0002
-London Courier and Evening Gazette - Saturday 01 February 1817
-
-SECOND EDITION.
-
-At half-past twelve o'clock this morning the examination of *Thomas Scott*, charged with being one of the persons who comitted the atrocious outrages against the of person of his Royal Highness the Prince Regent Tuesday last, was resumed before Mr. Hicks and Mr Gifford, the Magistrates.
-
-Lord James Murray stated, that on Tuesday last he accompanied his Royal Highness the Prince Regent to the House of Lords. On the approach of the Royal carriage into the Park, from St. James's'Palace, the mob commenced hooting, hissing, &c. &c. A number of persons surrounded the carriage, and continued near it until the arrival of the procession to the Horse Guards, when they dispersed thro' the avenues towards George-street; and in Parliament-street they met the carriage again, when they re-commenced hissing, hooting, &c. until its arrival at the House of Lords. On the return of his Royal Highness through the Horse Guards, the mob again assembled from George-street, and repeated the hooting, groans, &c.: they came up to the carriage on the near side; they were the same faces his Lordship saw about the carriage as the procession was proceeding to the House : they did not keep close to the carriage. The mob continued to surround the carriage until it arrived between Marlborough House and the Stable Yard, when the near window was perforated by something which his Lordship conceived to be bullets, about the same size of a pea; immediately after that, a large stone was thrown against the glass window, and it smashed it,—some of the particles of glass fell into his Lordship's eyes, and his Royal Highness directed him put his hat against the window ; the mob continued to throw stores at the carriage until it got to the Stable-yard; his Lordship could not identify the person of the prisoner.
-
-Mr. James Moorhouse, of No. 39, Newington Causeway, stated, that on Tuesday last he accompanied a friend to the Park, to see the procession. On the approach of the Royal carriage to the elevation near Carlton-house, the mob, which was immense, began to vociferate hisses, groans, &c. &c. Witness continued near the same spot until the procession returned from the Lords, and then preceded it towards the Stable-yard. On the arrival of the Royal carriage opposite Marlborough-house, a crowd of persons gathered round it on the near side ; witness was rather before the carriage, and he saw the prisoner's face once or twice ; he appeared to be pressing forward towards the carriage, and was very active in the mob; he did not appear as if he was pushed by them. Witness saw a stone thrown against the carriage, but he, could not say that the prisoner threw it; it came from place where the prisoner was standing. He saw an arm up after the stone was thrown, but could not say that the arm was the prisoner's. He was sure of the prisoner's person, as he had often seen him about town.
-
-Mr. Hicks observed, at the close of the evidence, that it wore the aspect of three distinct species of treason. It was certain that the offence of high treason was committed on that day, and the question was, by whom was it committed ? His (Mr. H.'s) mind was made up, that there was full and sufficient evidence already heard against the prisoner to warrant him to commit him for trial.
-
-He was then remanded for re-examination on Wednesday next, at one o'clock.
-
-ATTACK ON THE REGENT.
-
-The Public may wish to know how the Country papers speak of this treasonable attempt. We made extracts from those received yesterday—We continue them to day:—
-
-"Such has been the remit of the machinations of those incendiaries, whose only objects are riot, robbery and revolution. We hope and trust that means will be taken to prevent the further anti-constitutional endeavours of the vile Cabal." *Chester Chronicle.*
-
-The following is from *Drakards Stamford News* of yesterday— Attempts at assassination are considered as subjects for levity !!
-
-"Our readers we know to be particularly anxious for the fate of —— ———— of St. James's; but as yet we cannot inform them whether his Royal Highness was shot from the trees or the stars; and, if shot at *at all* whether the Lord of the Bedchamber swallowed the bullets. It is said that the plot of Spa-fields, having failed in effect, it has been thought expedient by the Ministers prepare new one ;--but this is not credible."
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000082/18170203/006/0003
-Morning Chronicle - Monday 03 February 1817
-
-SECOND EXAMINATION OF THOMAS SCOTT, ON SUSPICION OF HIGH TREASON.
-
-BOW-STREET, SATLURDAY— Lord James Murray was the first witness called. He stated, that on Tuesday last he accompanied his Royal Highness the Prince-Regent from St James's Palace to the House of Lords. On coming into the Park, from the Stable-yard, he discovered that's great concourse of spectators had assembled, and they proceeded to surround the carriage, hooting, hissing, &c. The mob was with, and near, the carriage, until it arrived at the Horse Guards ;-some of them then separated, and went towards George-street. They met and assailed the carriage in Whitehall; and near the House of Lords his Lordship saw a great many of the same countenances he had seen in the Park around the carriage. On the return of his Royal Highness, after having passed through the Horse Guards, the mob followed the carriage in the same manner they had done before. When the carriage arrived nearly opposite the end of Marlborough House, the near window was perforated in two places, in roundish holes; there was about the breadth of two fingers between them, and in the intermediate space there was a crack running from one hole to the other.
-
-Mr. Hicks— Did your Lordship hear any thing before you saw the holes ?— I heard the glass struck very sharply, and I then saw it was broken. I saw the glass as quick as lightning driven in a slanting position to the other side of the carriage. It struck the glass so sharply as almost to deprive me of my hearing.
-
-Mr. Hicks— Your Lordship sat with your back towards the horses, so that any other person in the carriage might not have heard it so forcibly ?—My right ear was very close to the glass.
-
-Mr. Gifford—From all your Lordship saw and heard, what is the impression on your Lordship's mind with respect to what could have caused the perforations ?—I think, from what I heard, and from appearances, that they must have been caused by bullets, or by some composition; I am sure they could not have been made by stones, as both the holes were made at the same time.
-
-Mr. Hicks—Whatever it might have been, according to the impression on your Lordship's mind it could not be stones?— No; as the holes were obliquely made, as if the cause of them had come from the trees. The holes were of that size which he had seen made by shot fired out of an air gun, made in the shape of a stick, about the size of a pea. When we got between Marlborough Gardens and the Stable-yard, a large stone was thrown against the window, and so much of the particles of glass got into my eyes that I could scarcely see.
-
-Mr. Gifford—Can your Lordship say whether any stones were thrown after the glass had been perforated ?—I think some stones were thrown behind; about ten yards after the carriage had passed Marlborough-gardens, between them and the stable yard, a large stone was thrown which fractured the glass; it was thrown with so much violence as to pulverize the glass; some pieces stuck into his Lordship's forehead, and some of the larger pieces of glass fell in the carriage, and some into the road. Witness put up his hand to his eyes, and immediately afterwards seven or eight stones were thrown, which struck different parts of the carriage; there were no stones of the description of those so thrown in the road. His Lordship had since seen the carriage, and be found it to be deeply in indented. He was astonished to find that the stones recoiled from the glass. Between Marlborough House and the Stable-yard, there were a great many very large stones thrown; they flew thickest when the carriage was turning round into the Stable-yard; some of them were as big as his fist. By the advice of his Royal Highness I put up my hat to the broken glass. I have examined the state-carriage since, and have discovered several dents in the panel near the glass. There were four or five dents near the place where his Royal Highness sat. I went to the Park yesterday for the purpose of ascertaining the precise spot where the carriage was attacked, and I found a great many stones there. I looked into the trees, and was astonished to find that between Marlborough House and the Stable-yard, in every other tree there were a great many very large stones." In answer to some questions put by Mr. Adolphus, Counsel for the prisoner, his Lordship said the Prince sat in the centre of the carriage; there was no person on either side of him.
-
-A person stepped forward who said his name was James Moorhouse, and he lived at No. 39, Newington-causeway. On Tuesday last he went to the Park to see the procession to the House: he stood on the top of the hill near Carlton-house; there was a great deal of hissing and hooting, which witness was very sorry to hear. Witness continued in the Park until the procession returned, and went towards the Stable yard; he got stationed in the crowd, just beyond Marlborough House, on the right side of the middle walk. Witness was rather before the carriage when he saw the prisoner once or twice. Witness was quite sure of his person as he had seen him before about town; he appeared to be pressing forward, and was very active in the mob. Witness saw him a second time near the Life-guardsman (Laycock). Witness saw a stone thrown, but could not say the prisoner threw it; it came from the place where the prisoner was standing; he saw an arm raised up, but he could not say whether it was the prisoner's. Witness saw no more of the prisoner; he got near Lord Harrington s windows, and saw a boy about 15 or 16 years of age throwing stones at the carriage. Witness attempted to seize him, but could not, as the pressure of the crowd was so great The stones struck the royal carriage; he should know the boy again. Witness went to the house of Correction on Thursday, and immediately identified the prisoner.
-
-Robert Turner was next called. The whole amount of his evidence was, that he saw a man throw a stone at the carriage, and it broke the window, but he was sure it was not the prisoner.
-
-Mr. Hicks observed, that in cases, and particularly in a case of so much importance both to the public and the prisoner, he was most anxious that the accused should have the benefit of legal assistance; " but (observed the Worthy Magistrate) I will tell you, Mr. Adolphus, that the charge likely to be instituted against the prisoner is of the highest nature; and before I fully commit him for trial, I shall cautiously look into the different Acts of Parliament. But I anm so distinctly clear upon all the points of law applicable to the present case, that I think the evidence bears out three different species of high treason against the unfortunate man at the bar; my mind is made up; we have evidence enough to shew that high treason has been committed on that day. Then the only question is, by whom was it committed? This remains for a Jury to decide." All the witnesses then signed and swore to their depositions, and the prisoner was ordered to be brought up again on Wednesday next, at one o'clock, in order to be finally examined. On an application made by Mr. Adolphus, Mr. Hicks gave directions that the prisoner's legal advisers should be admitted to him in prison.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000082/18170206/009/0003
-Morning Chronicle - Thursday 06 February 1817
-
-PUBLIC OFFICE, BOW-STREET.— The further examination of the case of THOMAS SCOTT, charged as one of the persons implicated in the late disgraceful and atrocious outrage on the person of the Prince Regent, was resumed yesterday at this Office.
-
-Lieutenant Martin, of the 2d Regiment of Guards, stated that Major Vyse commanded the squadron on duty. It was the duty of the Major to ride on one side of the royal carriage, and of a Subaltern on the other, with their horses heads as close as possible to the windows. From the shouting and pressure of the mob, the horses became frightened, and could not be kept in that situation. After passing Carlton House, on the return from the House of Lords, witness was on the near side. Townsend, the police officer told him the window had been fired at.—Witness saw a fracture in the glass, but in his opinion it was too small for a ball. The glass was starred. Several stones were afterwards thrown, some of which struck him on the back. It was usual on those occasions for the officers to have a corporal on the outside of them, just to cover them.
-
-Corporal Howcroft was next called. He could not say that he should know the face of any person in the crowd. His officer. Lieut. Martin, kept as near the carriage as possible.
-
-John Armstrong, one of the officers of Worship-street, said he was stationed in the Park, with five other officers, under the direction of Mr. Gifford, between Marlborough House and the Stable-yard. As the royal carriage proceeded to the House, there was groaning and hissing among the mob. Witness and the other officers kept their station until the return of the procession. The people then tried to break through them (the Officers). After the coach had passed, Mr. Gifford said, there was something wrong. They went towards the place, and saw Laycock, the Life Guardsman, on his horse, and Mr. Chambers and the Prisoner, Scott, without their hats. They took the latter into custody. The mob were very riotous. Witness told them that a Magistrate was present, and he would see justice done. He did not know at that time that any accident had happened to the carriage. He took the Prisoner to the guard-house.
-
-John Webb, one of the Yeomen of the Guard, was stationed on the near side, close to the door of the carriage. On the return from the House of Lords, he observed the glass of the carriage cracked, about a hundred yards from the Horse Guards, near the great gun. When they had got about half way up the back of the Prince's garden, he observed that the glass was struck again—he told Townsend of the circumstance.— The second stone thrown at the carriage he picked up. Before they got to the Stable-yard, more than twenty stones were thrown, besides potatoes and apples, some of which struck witness. A very large stone broke the glass between Marlborough-house and the Stable-yard. He observed two or three persons in the crowd whom he should know. One of them was a taller man than the Prisoner ; he wore a shallow hat and brown coat. Witness did not see the Prisoner.
-
-Mr. W. Dawes was in the Park as an observer. There was a great deal of indignant language as the carriage passed and returned. He saw the prisoner standing by the Life-guardsman, and the latter seizing him by the collar, The prisoner had previously lifted his umbrella, but in the opinion of witness, it was in self-defence, to prevent his being kicked by the horse. He was confirmed in this opinion, from the opportunity which the prisoner had to escape if he wished, while the Life-guardsman was turning his horse about.
-
-Mr. Hicks, the Magistrate who presided on the Bench with Mr. Gifford, lamented that out of the number of persons present in the Park, not one had been taken into custody except the prisoner, where hundreds might have been seized, and no person had come forward except Mr. Chambers. The country must be for ever obliged to that Gentleman. Had there been less evidence than the present the prisoner would still be highly criminal, as he took no pains to quell the riot. Upon a review of the evidence, however, he felt it his duty to discharge him from the charge of treason, but he must commit him for a misdemeanour, in aiding and assisting in the riot. At the same time he would admit him to bail, in two sureties in 100l. each, and himself in 200l.; and as he had suffered a week imprisonment, he would not require the usual notice of 24 hours.
-
-Mr. Price, the prisoner's Solicitor, said, he would procure the bail required immediately.
-
-[TH: the bail was a large sum; who would cover the bail and why?]
-
-### Leicester
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000196/18161230/012/0002
-Aris's Birmingham Gazette - Monday 30 December 1816
-
-It is with the greatest concern we feel it our duty, this week, to record one of the most atrocious attempts at murder that has ever disgraced this county :—On Sunday evening last, about a quarter before eight o'clock, as George Kerry and his family (who reside at a lone house, by the road leading from Bobbers mill to Bilborough) were sitting by the fire, at supper, their house was entered by two men in disguise. Kerry, in attempting to seize the foremost man, was shot at by him, but without effect ; during the struggle the other man fired, but fortunately the slugs only grazed his head. The murderers thinking their object attained, instantly departed. The most prompt assistance was rendered by the neighbours, and the police from Nottingham; but owing to the frost and the extreme darkness of the night, no trace whatever could be discovered of their retreat. On further enquiry, we learn, that a third person was standing at the door during the transaction, and the prevailing opinion is, that the party were *Luddites*, and that they came from New Radford. *Nottingham Journal*
-
----
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18170124/035/0003
 Nottingham Review - Friday 24 January 1817
@@ -228,46 +115,6 @@ JOSEPH MELLORS, NATHAN DIGGLE, and JONATHAN AUSTIN were put to the bar, charged 
 In this prosecution Lord Middleton addressed the learned Judge in a very feeling and impressive manner, stating, that as a dreadful example to the country was about to be made in the execution of Daniel Diggle, who was the principal person concerned in the outrage upon the person, family, and dwelling of one of his gamekeepers, his Lordship did not wish for any sanguinary or vindictive proceedings against the three others in custody, and the more especially, as he had reason to believe, they were the least guilty of any of the gang: for as to one of them, when Daniel Diggle proposed to break into Cooke's house and murder him, that one prevented Daniel Diggle from so doing; and therefore, with the Learned Judge's permission, he, (Lord Middleton) would withdraw all further proceedings against them—his Lordship declaring that all proper means should be taken to apprehend Henfrey, Woolley, Shaw, and others, who, it appeared, had been concerned in the attack upon the life of Kerry, but who were equally guilty with Daniel Diggle, in the outrage in the middle of the night at Cook's. His Lordship declared that his motive was only public justice, and he thought, as to the four in custody, that end had been obtained.
 
 The Learned Judge very pointedly complimented Lord Middleton upon the propriety of his conduct on the occasion, and in the most solemn and impressive manner addressed the three prisoners at the bar, informing them, *that they merit their lives to his Lordship's interference in their favour*: for it appeared from documents in the learned Judge's possession, that they were guilty, and might have been convicted if the prosecution had been proceeded in. The Learned Judge exhorted them to go home and break off from the gang of depredators with which they had heretofore been connected—to amend their lives— and, in future, to endeavour live by honest industry; and to beware of ever being brought to the bar of a Court of Justice again.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000205/18170411/007/0002
-Leicester Journal - Friday 11 April 1817
-
-EXECUTION OF D. DIGGLE.
-
-On Wednesday morning, the 2d instant, Daniel Diggle suffered the awful sentence of the law, on a temporary gallows, erected in the front of the county gaol, at Nottingham, conformably to his sentence at the last assizes.This unfortunate man was a native of basford, near Nottingham, and was convicted of shooting at George Kerry, in his dwelling  house, in the parish of Radford, (in company with other persons, who are still at large), on the evening of Sunday the 22d December last, with the intent to kill and murder him. From the time the decision of the Judge was made known to him, his only anxiety appeared to be how he might best prepare himself for another world. He fully admitted his guilt ; and his sorrow and contrition, not only on account of the crime for which he suffered, but the numerous other errors of his past life, was apparently deep and sincere. He conducted himself to the last moment with becoming resignation, and we trust, by the attentions paid to him by the Reverend Chaplain, and another worthy divine, who had daily visited him, he left the world supported by a rational hope of mercy, through all the sufficient merits of a crucified Redeemer. About 8 o'clock the culprit was brought forth through the County Hall door, in a light cart, along the platform raised on the steps, under the fatal tree. He appeared firm and collected, and addressing himself to the numerous spectators, said, it was " Ludding" that brought him to that untimely end:— he expressed his regret that he neglected the good advice given him by his parents, and that he had not abandoned his wicked courses in time to avert the dreadful fate that awaited him, and exhorted all present to take warning by his untimely end. After a few minutes spent in prayer, the cart was drawn off, and he was launched into eternity.— His last words were, " Lord have mercy upon my soul !" After hanging the usual time, his body was cut down, and delivered to his friends for interment. He was a stout good looking man, but extremely illiterate. had just attained his 21st year, and had not long been married.
-
-The particulars of the trial of Diggle have already been published; but since it may be gratifying to some persons to possess some short notice of his Prison Thoughts, a friend who visited him during the last week of his life, has furnished us with the following particulars:—
-
-On my first interview with the prisoner, he appeared rather unconcerned, but a degree of natural reserve seemed to account in some measure for the circumstance. In all my subsequent visits he conversed frankly on the events of his past life; and manifested a degree of contrition (especially in his devotions), winch was very becoming his awful situation.— Whenever he adverted to his contempt of the advice of his parents, he was very deeply affected.
-
-When he mentioned Luddism, which was frequently the case, he severely reprobated a system, in which he had latterly been an active, though a subordinate agent ; and he remarked with a feeling severity, upon the guilt and cruelty of the secret promoters of that practice, whom he declared that he considered equally criminal with himself.
-
-On the Monday before he suffered, he had formed the resolution of speaking freely on the subject of Luddism and his other crimes, from the scaffold;  but fearing that his feelings might possibly prevent him, he desired that his sentiments might be written down, and published after his execution.
-
-The following is the confession he earnestly desired might be published:—
-  
-" I, Daniel Diggle, being about to suffer death, and fearing that I may not be able to unburthen my mind at the place of execution, hare requested a friend to write down the following remarks and confession, to be made public after my decease.
-
-" I freely acknowledge my guilt with respect to the particular crime for which I am to suffer; yet I declare, that when I entered Kerry's house, I had no intention of taking away his life, and that I never thought of injuring him, until he seized Wooley.
-
-" I also acknowledge that I was guilty of the attack upon Lord Middleton's gamekeeper, and that I have been engaged in most of the frame breakings which have taken place in this neighbourhood during the last 8 months ; but I never was in *Luddism* previous to that time ; I do not, however, publicly mention the names of my associates, as it is *my most anxious hope* that they will take warning from my unhappy fate, and escape the miseries and disgrace which I now experience.
-
-" I would exhort with the earnestness of a *dying man*, not only my immediate companions, but *all who have been engaged in Luddism*, to break off from practices, which can only involve themselves and others in trouble and ruin. When they observe a young man, just 21 years of age, and who has only been married about as many weeks, brought to the scaffold by those very practices — when they see the anguish of my afflicted wife and parents— when they pass by the church yard of Basford, and observe the graves of Bamford, Towle, and myself, — and when they consider the perilous state of these now confined in Leicester gaol,— surely they will forsake their wicked course, and all who may have furnished money or liquor, as an incentive to crime, will be induced to repent of their cruelty. We have been often told that Luddism would benefit trade, but *I most earnestly beseech all my acquaintance*, as the last request I shall ever make of them, to consider it, as leading insensibly to the commission of the worst of crimes even murder itself.
-
-" Almost the only comfort that I now experience is, that the life of an innocent man was not sacrificed; and as I consider Kerry, and those who gave evidence against me, as instruments in the hand of Almighty God, in bringing me to justice, it would greatly increase my present sufferings, could I suppose that any should bear them ill will or malice on my account.
-
-" I feel very grateful to Lord Middleton for his tenderness towards my brother ; and I confidently hope from the change of mind which took place in Nathan whilst he was in prison, that mercy will not be lost upon him, and that there will be no occasion to bring him a second time before a bar of justice.
-
-"If any who have visited me prison, have thought from my silence and reserve, that I did not feel my situation sufficiently, I can assure them that I now weep bitterly for my crimes, and fervently implore forgiveness at the tribunal of Him, who once pardoned a dying criminal, and who will not, I hope, condemn me although so guilty a sinner, "to the bitter pains of eternal death."
-
-"DANIEL DIGGLE."  
-County Gaol, Nottingham.  
-Tuesday Afternoon, April 1st, 1817.  
-Witness-— Thomas Wright [*Nottingham Journal*]
-
-[TH: who was Nathan? Nathan Lamb, maybe? Who was Bamford, and what of Towle? IS this in reference to 1814? ]
 
 ---
 
@@ -463,6 +310,47 @@ John Clarke, or little Sam, after his commitment to goal [*sic*], had the eviden
 Burton, another of the Luddites who was with Blackburn, was also admitted King's evidence. This man was principal evidence against Daniel Diggle, at Nottingham, for shooting George Kerry. Diggle was executed at Nottingham on Wednesday.
 
 His Lordship, after a most fatiguing Assize, left for Coventry, about nine o'clock on Wednesday morning, leaving the following prisoners for execution :— Thomas Savage, Joshua Mitchell, William Towle, John Amos, William Withers, and John Crowther, Luddites; Thomas Belvington, for setting fire to a stack ; Robert Goadby for burglary ; and James Crofts, for highway robbery.
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000205/18170411/007/0002
+Leicester Journal - Friday 11 April 1817
+
+EXECUTION OF D. DIGGLE.
+
+On Wednesday morning, the 2d instant, Daniel Diggle suffered the awful sentence of the law, on a temporary gallows, erected in the front of the county gaol, at Nottingham, conformably to his sentence at the last assizes.This unfortunate man was a native of basford, near Nottingham, and was convicted of shooting at George Kerry, in his dwelling  house, in the parish of Radford, (in company with other persons, who are still at large), on the evening of Sunday the 22d December last, with the intent to kill and murder him. From the time the decision of the Judge was made known to him, his only anxiety appeared to be how he might best prepare himself for another world. He fully admitted his guilt ; and his sorrow and contrition, not only on account of the crime for which he suffered, but the numerous other errors of his past life, was apparently deep and sincere. He conducted himself to the last moment with becoming resignation, and we trust, by the attentions paid to him by the Reverend Chaplain, and another worthy divine, who had daily visited him, he left the world supported by a rational hope of mercy, through all the sufficient merits of a crucified Redeemer. About 8 o'clock the culprit was brought forth through the County Hall door, in a light cart, along the platform raised on the steps, under the fatal tree. He appeared firm and collected, and addressing himself to the numerous spectators, said, it was " Ludding" that brought him to that untimely end:— he expressed his regret that he neglected the good advice given him by his parents, and that he had not abandoned his wicked courses in time to avert the dreadful fate that awaited him, and exhorted all present to take warning by his untimely end. After a few minutes spent in prayer, the cart was drawn off, and he was launched into eternity.— His last words were, " Lord have mercy upon my soul !" After hanging the usual time, his body was cut down, and delivered to his friends for interment. He was a stout good looking man, but extremely illiterate. had just attained his 21st year, and had not long been married.
+
+The particulars of the trial of Diggle have already been published; but since it may be gratifying to some persons to possess some short notice of his Prison Thoughts, a friend who visited him during the last week of his life, has furnished us with the following particulars:—
+
+On my first interview with the prisoner, he appeared rather unconcerned, but a degree of natural reserve seemed to account in some measure for the circumstance. In all my subsequent visits he conversed frankly on the events of his past life; and manifested a degree of contrition (especially in his devotions), winch was very becoming his awful situation.— Whenever he adverted to his contempt of the advice of his parents, he was very deeply affected.
+
+When he mentioned Luddism, which was frequently the case, he severely reprobated a system, in which he had latterly been an active, though a subordinate agent ; and he remarked with a feeling severity, upon the guilt and cruelty of the secret promoters of that practice, whom he declared that he considered equally criminal with himself.
+
+On the Monday before he suffered, he had formed the resolution of speaking freely on the subject of Luddism and his other crimes, from the scaffold;  but fearing that his feelings might possibly prevent him, he desired that his sentiments might be written down, and published after his execution.
+
+The following is the confession he earnestly desired might be published:—
+  
+" I, Daniel Diggle, being about to suffer death, and fearing that I may not be able to unburthen my mind at the place of execution, hare requested a friend to write down the following remarks and confession, to be made public after my decease.
+
+" I freely acknowledge my guilt with respect to the particular crime for which I am to suffer; yet I declare, that when I entered Kerry's house, I had no intention of taking away his life, and that I never thought of injuring him, until he seized Wooley.
+
+" I also acknowledge that I was guilty of the attack upon Lord Middleton's gamekeeper, and that I have been engaged in most of the frame breakings which have taken place in this neighbourhood during the last 8 months ; but I never was in *Luddism* previous to that time ; I do not, however, publicly mention the names of my associates, as it is *my most anxious hope* that they will take warning from my unhappy fate, and escape the miseries and disgrace which I now experience.
+
+" I would exhort with the earnestness of a *dying man*, not only my immediate companions, but *all who have been engaged in Luddism*, to break off from practices, which can only involve themselves and others in trouble and ruin. When they observe a young man, just 21 years of age, and who has only been married about as many weeks, brought to the scaffold by those very practices — when they see the anguish of my afflicted wife and parents— when they pass by the church yard of Basford, and observe the graves of Bamford, Towle, and myself, — and when they consider the perilous state of these now confined in Leicester gaol,— surely they will forsake their wicked course, and all who may have furnished money or liquor, as an incentive to crime, will be induced to repent of their cruelty. We have been often told that Luddism would benefit trade, but *I most earnestly beseech all my acquaintance*, as the last request I shall ever make of them, to consider it, as leading insensibly to the commission of the worst of crimes even murder itself.
+
+" Almost the only comfort that I now experience is, that the life of an innocent man was not sacrificed; and as I consider Kerry, and those who gave evidence against me, as instruments in the hand of Almighty God, in bringing me to justice, it would greatly increase my present sufferings, could I suppose that any should bear them ill will or malice on my account.
+
+" I feel very grateful to Lord Middleton for his tenderness towards my brother ; and I confidently hope from the change of mind which took place in Nathan whilst he was in prison, that mercy will not be lost upon him, and that there will be no occasion to bring him a second time before a bar of justice.
+
+"If any who have visited me prison, have thought from my silence and reserve, that I did not feel my situation sufficiently, I can assure them that I now weep bitterly for my crimes, and fervently implore forgiveness at the tribunal of Him, who once pardoned a dying criminal, and who will not, I hope, condemn me although so guilty a sinner, "to the bitter pains of eternal death."
+
+"DANIEL DIGGLE."  
+County Gaol, Nottingham.  
+Tuesday Afternoon, April 1st, 1817.  
+Witness-— Thomas Wright [*Nottingham Journal*]
+
+[TH: who was Nathan? Nathan Lamb, maybe? Who was Bamford, and what of Towle? IS this in reference to 1814? ]
 
 ---
 

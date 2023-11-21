@@ -1,3 +1,8 @@
+June 1817
+
+Spa-fields trial
+Insurrextion in Yorkshire - and Oliver the spy; trial of Yorkshire rioters
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170614/005/0002
 Leeds Mercury - Saturday 14 June 1817

@@ -448,6 +448,12 @@ It was the same with the rest. On the prison caravan arriving, the coffins, on t
 Thirty-one other prisoners were acquitted by the wish of the Government. With better opportunities and a nobler purpose, Brandreth, the Nottingham Captain, might have developed into a hero.
 
 
+---
+
+
+Peel - Risings of the Luddites, Chartists and Plugdrawers serialised in Huddersfield Daily Examiner eg https://www.britishnewspaperarchive.co.uk/viewer/bl/0000901/18950413/205/0009
+
+
 
 ---
 

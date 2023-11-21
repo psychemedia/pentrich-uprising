@@ -1,5 +1,5 @@
 
-
+October 1817 - Pentrich trial
 
 
 Oliver mentioned in https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18171020/010/0004
