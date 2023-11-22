@@ -156,9 +156,6 @@ https://huddersfield.exposed/wiki/The_History_of_Honley_(1914)_-_Chapter_III#FOL
 
 ---
 
-
----
-
 Manchester blanketeer - trial collapsed;
 
 March 1817
@@ -176,12 +173,7 @@ Report from the committee of secrecy - mentions blanketeers
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001057/18170627/001/0001
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001316/18170623/004/0001
 
----
 
----
-britishnewspaperarchive.co.uk/viewer/bl/0001476/18170620/008/0004
-London Courier and Evening Gazette - Friday 20 June 1817
-- report includes habeau corpus, spies, mention of committal to trial of Huddersfield as well as Pentridge rebels; elements from Derby Mercury, York Chronicle
 ---
 
 THe charge of wilful murder against Robort Walter seems to have been dropped as the charge fo hight reason was pursued?
@@ -198,19 +190,6 @@ skilled_labourer.md
 ---
 
 
-Riots Dec 1876
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002634/18161202/020/0008
-London Chronicle - Monday 02 December 1816
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000082/18161203/006/0003
-Morning Chronicle - Tuesday 03 December 1816
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18161205/009/0003
-Morning Post - Thursday 05 December 1816
-
-
-
----
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001724/18831205/060/0003
 Eastern Daily Press - Wednesday 05 December 1883
@@ -241,8 +220,6 @@ Derby Assizes that provided the committal of prisoners to the special commission
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18170731/007/0003
 Derby Mercury - Thursday 31 July 1817
 
-
-Summary in Derby Mercury - Thursday 06 November 1817 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18171106/004/0002 reprinted from the Morning Post of "friday last"
 
 
 
