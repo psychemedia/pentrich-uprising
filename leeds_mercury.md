@@ -1,3 +1,70 @@
+1811
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18111123/007/0003?browse=true
+Leeds Mercury - Saturday 23 November 1811
+RIOTS AT NOTTINGHAM
+
+For some time past the Wholesale Hosiers, who have Stockng-weaving Establishments in the county of Nottingham, have been obliged to curtail their hands; this produced considerable dscontent among the workmen. Their riotous spirit was, however, increased by the trade having brought into use a certain wide frame for the manufacture of stockings and gaiters, which, was a considerable saving in manual labour, leading still firther to the decrease of the hands employed. On Sunday se'nnight last this being generally known, a number of weavers assembled at different places in the vicinity of Nottingham, and commenced their career of outrage, by forcibly entering the houses of such persons as used particular frames.
+
+A letter dated Nottingham, the 14th inst. communicates, that the late hands in particular were in a very distressed situation, and under the necessity of applying for parochial relief. A master weaver, at Buttlwell, having been threatened by the rioters, and hearing they intended to attack his property, on the Monday, armed all his men to defend his frames, and barricaded his house. Being in his garrison, he waited the attack of the enemy, who demanded admittance, or a surrender of the frames. The master would agree to neither, and was immediately fired upon ;- several shots were then exchanged, and one of the rioters was shot dead; he was a weaver from Arnold, and at the time he paid the forfeit of his life he was in the act of *tearing* down the window-shutters to obtain entrance by force. The rest of the mob retired with the slain body, but soon returned with redoubled strength. They broke open the door, and would have put the whole family to death had they not escaped by a back door. They then proceeded to gut the house, and consumed every thing that would burn.
+
+On Tuesday, the outrages of the mob were continued; they attacked a carrier, who was bringing five wide frames from Sutton, belonging to Maltby and Brewett, that had been in use a length of time at Basford. The iron work they took to pieces, and with the wood work they made a fire in the street.
+
+Other letters state, that the frames which first excited the resentment of the mobbelonged to Messrs. Watson and Nelson, and produced 24 dozen gaiters in one week, at 4s. per dozen working, which was considered an extraordinary quantity.
+
+In the afternoon of Tuesday, the rioters proceeded towards Sutton to continue their outrages there; and that evening they destroyed the frames of the principal weavers.
+
+On the Wednesday morning, the rioters assembled in open day, and again repaired to Sutton, where they destroyed in all fifty-three frames and a corn-mill.— Having gained strength, and meetin with no effectual oppostion for want of military aid, they grew bolder, and changed the frame-breaking employment into more violent proceedings, and now swore vengeance against wide-frames, millers, corn-dealers, &c.
+
+On Thursday similar proceedings were continued, and all remonstrances from the Magistrates having failed to restrain the rioters wihtin bounds, it was considered high time to think of decisive measures; many of the most active of the peace breakers were already in custody, but this seemed to have no weight with those at large. The military were called out, but when in full muster they did not exceed 30 men, who were dismounted dragoons, and they being uequal to any thing, the Sheriff the same day issued orders for calling out the *psse comitatis*, and the First and Second Regiments of Local Militia, an a further aid was required of Governmentby a special messenger sent to town for that purpose, who reached the Office of the Home Department about three on Friday morning.
+
+All Thursday was employed in assembling together the Militia, in conformity to the orders of the Sheriff; during this time the mob were enabled to carry on their depredations in distinct qurters, nor could they with policy be molested, as it was very much apprehended that if the town was left for a moment unprotected they would make a sudden attempt to get possession of the depot of arms, for it appeared to many that their proceedings had a tendency to that end.
+
+On Friday morning intelligence was received that several frames of an ordinary size had been destroyed at Kimberley, becuse they were worked by women.
+
+Many persons concerned in these proceedings have been taken into custody, four of whom have been fully committed.
+
+The High Sheriff, with the advice of the County Magistrates, has called in the Home Pierrepoint, and Bunny troops of Yeomanry Cavalry, whose services, with a detachment of the 4th Dragoons from the barracks, have been of the greatest utility. As an additional security, the First Regiment of Local Militia are assembling, and the Newark Troop of Yoemanry Cavalry are in readiness to act. The Magistrates are every where at their posts. Some hundreds of special Constables have been sworn in.
+
+On Thursday the body of *John Westley* a native of Leicester, the man who was shot in Sunday night at Bulwell, was removed to Arnold for interment, where he has resied for about twelve years ; and where he has left two orphans, one five and the other three years of age, to bewail his untimely end : their mother having been dead some time. In the afternoon the funeral took place, and the scene was truly awful. The High Sheriff, the Under Sheriff, and about half a dozen Magistrates were on the spot, attended by a *posse* of Constables, and about thirty mounted Dragoons, who all proceeded with the funeral to the church-yard; but before the body was removed the Riot Act was read in several parts of the town. From seven hundred to a thousand persons attended on the occasion: the corpse was preceded by a number of the desceased's former club mates, bearing black wands, decked with knots of crape,—Sorrow seemed to have seated itself upon every brow, and a solemn silence, still as death, was only interrupted by the trampling of the multitude, the bell's heavy knoll, and a band of music playing a solemn dirge, accompanied at distant intervals by the beating of a bass drum !! About the time that the corpse was lowering into the grave, the High Sheriff proclaimed that an hour had elapsed since the reading of the Riot Act, and informed the multitude, that those who did not instantly disperse, should be taken into custody as rioters; and two were actually seized who did not imediately obey, but we believe, were shortly set at liberty; and the whole concourse quietly disbursed. Many more we understand were wounded in the various conflicts, and reports have stated several others to have lost their lives, but which reports, we hope are unfounded.
+
+The most recent accounts from Nottingham left that town and neighbourhood free from tumult, in consequence of the strong miilitary force assembled in that quarter. The workmen stil, however, urge their complaints and what they call their rights. At a late meeting, held at the sign of the Sir Isaac Newton, the frame0work knitters came to several resolutions: among others, that their earnings as frame-knitters were inferior to those of any other class of mechanics: that the present grievances were as much to be attributed to the *irresolute* conduct in themselves, in not standing forwartd for the rights of the trade, as to an imposing principle on the part of their employers; and that they would resist impositions in future. On the 18th inst. another meeting was to take place, but we habe not learnt the result.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18111221/008/0003
+Leeds Mercury - Saturday 21 December 1811
+
+Nottingham, Dec. 12- The insurrectionl state to which this county has been reduced for the last month, has no parallel in history, since the troubled days of Charles the First, against which misguided Monarch it took so decided a part. Day after day have the Magastrates, both of the town and county, used every possible endeavour to restore tranquility ; day after day have they added to the strength and activity of the civil powers, and called in additional aid of the military; but hitherto, their exertions have been but of little avail ; a mysterious organization has been brought into existence, which baffles every ordinary effort to suppress it. — The rioters appear suddenly, in armed parties, under regualr commanders; the chief of who, being whomsoever he may, is stiled *General Ludd*, and his orders are as implicitly obeyed as if he had received his authroity from the hands of the Monarch. Indeed it is well understood, that disobedience to his commands is punishable with death, according to a solem oath administered to all the party; and any person that gives information against any of them, subjexts himself to the vengeance of the whole organized band, both in person and property; saome dreadful examples in the latter instance having already being inflicted, by the burning of haystacks, &c.; hence it is that so few inpeachments are made, and so few of the depredators apprehended.
+
+The following article, on the same subject, is from the *Statesman* Newspaper, and is of so alarming a complexion as to induce a hope that there is some degree of exagerration:—
+
+*December 15*— There are 20,000 stocking-makers out of employment. Six regiments of soldiers from different parts of the country have been sent into this twon; and 300 new xonstables have been sworn in to keep the peace. But all this is of no avail as the practice of setting fire to corn and hay stacks, and breaking open houses still continues. Nine Hundred Lace Frames have been broken, which cost £140 each; from twenty to thirty of them are destroyed in a night. The whole country, for twenty miles around, is full of these ruinous proceedings, nor can they be checked, Nottingham gaol is full of debtors; and the country is equally distressed. no trade; no money. This has been the case for two months. This town is now a garrison, and stricly under martial law. God only knows what will be the end of it; nothing but ruin. 
+
+Later accounts down to the 18th inst. state that no advantage has resulted from the expected Meeting of the manufacturers, but that the parties broke up without coming  to any decision.
+
+---
+TO DO 
+LIFTED FROM BICENTENARY BLOG
+
+Wednesday 23 November 2011
+23rd November 1811: Editorial in the Leeds Mercury
+We are more concerned than surprised to find, that a Spirit of Riot and Insubordination has broken out in the county of Nottingham amongst the suffering Manufacturers. As it frequently happens on such occasions, the cause of the distress of these unfortunate people is mistaken; they imagine, it seems, that the low rate of wages and the scarcity of work arise from some improvement in the Stocking weaving Frames, and their vengeance is directed against the owners of these inoffensive implements of labour; but they ought to be informed that the real cause of the evils of which they so loudly and justly complain, is the long continuance of a heart-sickening war, without visible object, and apparently without end, and which has in its consequences damned up all the regular outlets of trade; and if instead of sacking the workshops of their employers, who are in general deep participators in the sufferings of the labouring classes, they would unite with the other manufacturers throughout the kingdom in petitioning the proper authorities, first to inform them what it is we are fighting for; and secondly, if the object does not justify the sacrifices, to put a stop to the horrors and miseries of this contest, they would act much more wisely and have a much better chance of seeing an end of their grievances, than by their present lawless and senseless proceedings. We do most sincerely commisserate their situation, but we utterly condemn the means by which they seek to obtain redress.
+
+
+---
+
+
+TO DO 
+LIFTED FROM BICENTENARY BLOG
+
+25th July 1812: The Leeds Mercury classifies the Luddites
+
+An editorial of the Saturday 25th July 1812 edition of the Leeds Mercury attempted to place the Luddites into three categories:
+The persons called Luddites it is said, may be divided into three classes—Robbers, men who wish to live by plunder, and avail themselves of the disturbed state of the country to carry on their villainous purposes. Anti-Machinists, persons who impute a difficiency of labour to the use of Machinery in shearing cloth, weaving cotton, and weaving hosiery; and Spies, men that have introduced themselves amongst the depredators to worm out information, and whose employment must cease with the disturbances. We should be glad to know to which of these classes the persons at present engaged in stealing arms belong; we have our suspicions; and cannot forget, that a man of the name of Watt, a spy, was executed at Edinburgh, about the year 1794, for an act of High Treason in which he had engaged while labouring in his vocation, in order to draw others into his snares. The history of this man is curious, and we will take an early opportunity of recalling it to public recollection.
+
+
+---
+
 June 1817
 
 Spa-fields trial
