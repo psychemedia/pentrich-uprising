@@ -15,7 +15,7 @@ From the Midland counties of Derbyshire and Nottinghamshire to the West Riding o
 
 The story is the same: as the State Trial begims in London for the men accused of leading the the riot there in December, there will be: an insurrection; there will be: a march, to the metroplis; and there will be: change.
 
-Weapons will be required: in part, from the garrisons, wgixh will be quickly captured, and rendered ineffective. No blood will be spilled. Debts will be relieved; industries will be nationalised; and Parliament will be reformed. The date is set: Sunday, June the 8th, 1817.
+Weapons will be required: in part, from the garrisons, quickly captured, and rendered ineffective. No blood will be spilled. Debts will be relieved; industries will be nationalised; and Parliament will be reformed. The date is set: Sunday, June the 8th, 1817.
 
 In Huddersfield, at the appointed time, on the appointed date, two dozen men meet at Folly Hall Bridge. Follow the river Holme out of town for three miles or so, out to Honley, and you'll find more armed men there, armed, and ready to march.
 
@@ -31,7 +31,7 @@ Down in Pentich, as the men left the ironworks and headed towards Nottingham, th
 
 Over the coming days, and weeks, the Huddersfield men were charged to appear at the Assizes in York. You didn't need much of a memory to recall the Special Commission held there at New Year, not five years earlier, when 15 men, Luddites from the Huddersfield area, were sentenced to death. Fifteen men, sentenced to death and promptly hanged.
 
-The Folly Hall men might have fearedbabsimilar fate; but then, and in no small part thanks to the efforts of the editor of a local newspaper, Edward Baines of the Leeds Mercury, a story has broken: a Government spy has been found to be reporting to a Secret Parliamentary Committee; and not hust to them, but also to certain local magistrates. And more than that, it seems he has been claiming to be a Parliamentary reformer, a rather well-connected Parliamentary reformer, with contacts in London and committees right across the country. A delegate who has been workingnclosely with the organising committees of the North. Who has been promoting insurrection for the sole purpose of then "discovering" it. A certain man named William J. Oliver. Questions are asked in Parliament. Entrapment is claimed. There is public uproar — this is public service investigate journalism at its best. And the men at York are acquitted.
+The Folly Hall men might have feared a similar fate; but then, and in no small part thanks to the efforts of the editor of a local newspaper, Edward Baines of the Leeds Mercury, a story has broken: a Government spy has been found to be reporting to a Secret Parliamentary Committee; and not hust to them, but also to certain local magistrates. And more than that, it seems he has been claiming to be a Parliamentary reformer, a rather well-connected Parliamentary reformer, with contacts in London and committees right across the country. A delegate who has been working closely with the organising committees of the North. Who has been promoting insurrection for the sole purpose of then "discovering" it. A certain man named William J. Oliver. Questions are asked in Parliament. Entrapment is claimed. There is public uproar — this is public service investigate journalism at its best. And the men at York are acquitted.
 
 Meanwhile, in the State Trials in London, the trials of the claimed organisers of the London riot six months, the leaders there are also acquitted.
 
