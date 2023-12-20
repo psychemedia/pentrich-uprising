@@ -227,7 +227,7 @@ Manchester Mercury - Tuesday 01 April 1817
 
 The Blanketeers' Petition.
 
-The following it a copy of the Petition which Malcontents were to carry forward to the Prince Regent, from the press of tbe State Prisoner Odden:—
+The following is a copy of the Petition which Malcontents were to carry forward to the Prince Regent, from the press of tbe State Prisoner Odden:—
 
 THE PETITION OF THE UNDERSIGNED, INHABITANTS MANCHESTER,IN THE COUNTV OF LANCASTER,
 
