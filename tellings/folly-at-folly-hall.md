@@ -1,4 +1,4 @@
-<img width="522" alt="image" src="https://github.com/psychemedia/pentrich-uprising/assets/82988/74f288ea-92db-4146-8784-c8a2746200d9"># Folly at Folly Hall
+# Folly at Folly Hall
 
 
 --
