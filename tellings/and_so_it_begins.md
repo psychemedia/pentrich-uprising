@@ -1,6 +1,6 @@
 # And So It Begins
 
-They were strange times, strange times indeed. The King was generally agreed to be mad, so mad, in fact, that everyone one agreed he wasn't really fit to rule. But he was the King, and so they couldn't just *get rid of him*. But they could get someone else, and in particular. his son, the Prince, the prince Regent, to rule on his behalf.
+They were strange times, strange times indeed. The King was generally agreed to be mad, so mad, in fact, that everyone one agreed he wasn't really fit to rule. But he was the King, and so they couldn't just *get rid of him*. But they could get someone else, and in particular. his son, the Prince, the Prince Regent, to rule on his behalf.
 
 But if the King was *mad*, you could equally say the that Prince was *bad*, and from quite an early age too. Cos he was a playboy, an adulterer; over-sexed and over-watered; he could spend money faster than any Parliament could grant it to him, and he knew how to party. You might even say that was all he knew how to do.
 
