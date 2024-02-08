@@ -91,7 +91,7 @@ The Assizes were opened at York, on Saturday last, by Baron Wood and Mr. Justice
 
 ...
 
-Wednesday July 22.-JAMES OLDROYD was charged with asaembling, with divers other persons on the night of the 11th April, and there making an attack on the Mill of Mr. Cartwright, of Rawfolds, and with beginning to demolish the same.
+Wednesday July 22.-JAMES OLDROYD was charged with assembling, with divers other persons on the night of the 11th April, and there making an attack on the Mill of Mr. Cartwright, of Rawfolds, and with beginning to demolish the same.
 
 This Prosecution was founded on an Act passed in the 9th of Geo. III. which makes it a capital felony for any person riotously to assemble and demolish any Mill, or to begin to demolish any Mill.
 
@@ -127,11 +127,31 @@ The verdict was received in perfect silence.
 
 It may be proper here to add, that the most perfect order and decorum prevailed in the Court during the whole of the trials for rioting; and there is in the city no militury parade, nor anything to indicate that the County is not in a state of the most profound tranquility and security.
  
-ARMS STEALING. F/ssursday,. ,sulxy 23.-WILLIAM -SYKES ;i was charged with stealing a gun,'in the dwelling-. :t house of John Marah, of Meltharn, on thenighht oflhlse 9tfi of May'.,r a n lie Ceunsel for the CrOWs calied William Wdy, w prdvate in tliti West Kient. Militia, to prave a conves-1 ration in which 1thf priloner admnitted that he wats free, ublefi and nvullisg to serve General Ludd. But the I I Lesrned Judge said, he could not admit such utele. vant matter to be given in evidence. James Kershawo knows the prisoner; saw hairq onss the night of Saturday, the 9th of May, about eleven o'cleck-he had a gun in his hand, and hsi face Ilslk. ei Prison-r said n) him, I Well'sify Ihd, will joct tuO with me Tithle journey ?" Witness said, "No " But -he followed him at a short'djstiie,.to see what hews.s about. He went to the house of Jojst Marsh, of Meltliafui, ahout a quarterof a ind having roused them' by- knoching at ilh door, said, I aln informed .yoa btte a gun here; General Ludd '"3 pent me tor it, snd if ydis do not eie ttpIwl', 1o0w the door open." Witess heard the gna fred-: The Prisoner was mucli intolic. his.wsalk; laeadsagrdi orilors Wlhitelev stated, that the Prisoner made tehr ainte proposal to him as to the last Witness, and'sasd he was g oing to get John Marsh and Jonas Beaeily's guns. Witness went about iorty yards with him,:and turned back on the Prisoner, saying, Ladders never speak I Witness in a short time beard the report of a gun, which appeared to be in the diretijoD of Mr. Marsh's house. Witness djd not oserve that the Prisoner was intoxicated; did not think he was. John Creaser, apprenticeto Mr. Malrsh, sslted, that he was awaked by the report of a gun; he got opland t hasing received the gun which his master had given , to him from the lodger, he d, lisered it to the person at the door. Being asked Ithe reason of hir readily givingit up, he said, ?? so many reports hoabo the Luddites, and he had been informed that thej -would not be dextied. The firing ol the gun had also , made him afraid.;. When he delivered the gun, he said, It has so lark;` oQ vhich the person at the door.said, " It is well; it shla'l be well repaired, ard, brought 6ack in open day." Witness, said the gun 'was brought back on the Monday following, but it was not repaired. . i Mr. Johns Maors/i, the master of the house, stated i hisnreprecisely Ihe lerittt in which the guns ts de, mended. After he han answered-to the knockming at the doer,, a person Irom: withotut said, *r'We are m7 formed you have a. gun,and ye -are comefor it.!- Wiltaess told them (for he supposed there were *nunt-i ber, though honoaly heard one Voice) he had not a suna and callel to his apprentice not to give it up; but he supposes the boy sid 'nt herar him; dos he ?? khain iShelgun. The gun was brought ha,,k on MunulAy taight, by Joseph Whiteley. Daring the time; the I peraon was at the door, he 'heard him call out t0o numbers, am if caltling to somebody, butthe witness oolst heard the voice 01' one person. . . - . ' - Philip, Ertrnshaw lent. the prisonter a gmtibelongiog rto-his master, uoa the night in question;, lie t-oht'laq h- It wag frir a hit of fun, and wished the -Witness to go with him. , Witness -vent a short distolgr- with him, but he left him, hdcaese e beuhd some nitiseltie in hjS head, he lughed so. Witness then went Its ube Prisoner's hoiusst, who returned in about half an hour, ani broightck anoiherg s with him.. W tnt ess ?? DC.t esaniie the gun of hismassaatr, Ic see whether it had be'en recently discharged.- Josqsh White/vy stated, that he carried the Sun back to Mr. Marsh, on Monday, the 11th of May. - * Thii oished the case on the part oftb e Proseeutiont. Hic U Lordship's id, hie thought it utipcerr to call upon ?? Priaoner. for i his - dfienee. There did no t ap ete to hae bceg playy deiign.to steal the gqih-sao hid u i d'leen mide of it-nd it ai 7 eturned to I 1itspOnertiergoe any sewiql bad been m isde for arms ir she'hous&'ofihe Prisonisa: It appeared lo-hsaie'beer' an idle, buat most ?? rroligi asod fcr khic4 he bad ?? dtaervdly i 'prissoned. The Jjry concurring in this opinion, found the Prisomer-Not Guilty. 
+ARMS STEALING
+
+Thursday, July 23.—WILLIAM SYKES was charged with stealing a gun, in the dwelling-house of John Marsh, of Meltham, on the night of the 9th of May.
+
+The Counsel for the Crown calied William Wady, a private in the West Kent Militia, to prove a convesation in which the prisoner admnitted that he wats free, able and willing to serve General Ludd. But the the Learned Judge said, he could not admit such irrelevant matter to be given in evidence.
+
+James Kershaw knows the prisoner; saw him on the night of Saturday, the 9th of May, about eleven o'clock—he had a gun in his hand, and his face blacked. Prisoner said to him, "Well my lad, will you go with me a little journey ?" Witness said, "No " But he followed him at a short distance, to see what he was about. He went to the house of John Marsh, of Meltham, about a quarter of a mile, and having roused them by knocking at the door, said, "I am informed you have a gun here; General Ludd has sent me for it, and if you do not deliver it up I will blow the door open." Witness heard the gna fired. The Prisoner was much intoxicated, and staggered in his walk.
+
+Thomas Whiteley stated, that the Prisoner made the same proposal to him as to the last Witness, and said he was going to get John Marsh and Jonas Beardesley's guns. Witness went about forty yards with him, and turned back on the Prisoner, saying, "Ludders never speak." Witness in a short time heard the report of a gun, which appeared to be in the diretion of Mr. Marsh's house. Witness did not observe that the Prisoner was intoxicated; did not think he was.
+
+John Creaser, apprentice to Mr. Malrsh, stated, that he was awaked by the report of a gun; he got up, and having received the gun which his master had given to him from the lodger, he delivered it to the person at the door. Being asked the reason of his readily giving it up, he said, there were so many reports about the Luddites, and he had been informed that they would not be denied. The firing of the gun had also made him afraid. When he delivered the gun, he said, "It has so lock;" on which the person at the door said, " It is well; it shall be well repaired, and, brought back in open day." Witness said the gun was brought back on the Monday following, but it was not repaired.
+
+Mr. John Marsh, the master of the house, stated more precisely the terms in which the gun was demanded. After he had answered to the knocking at the doer, a person from withotut said, "We are informed you have a gun, and we are come for it."— Witness told them (for he supposed there were a nunber, though he only heard one voice) he had not a gun, and called to his apprentice not to give it up; but he supposes the boy did not hear him, as he gave them the gun. The gun was brought back on Monday night, by Joseph Whiteley. During the time the person was at the door, he heard him call out two numbers, as if calling to somebody, but the witness only heard the voice of one person. 
+
+Philip, Earnshaw lent the prisoner a gun belongiog to his master, on the night in question; he told hom it was for a bit of fun, and wished the Witness to go with him. Witness went a short distance with him, but he left him, becuase he had some mischief in his head, he laughed so. Witness then went to the Prisoner's house, who returned in about half an hour, and brought back another gun with him. Witness did not examine the gun of his master, to see whether it had been recently discharged.
+
+Josqsh Whiteley stated, that he carried the gun back to Mr. Marsh, on Monday, the 11th of May.
+
+This finished the case on the part of the Prosecution.
+
+His Lordship said, he thought it unnecessary to call upon the Priaoner for his defence. There did not appear to have been any design to steal the gun — no bad use had been made of it— and it was returned to its owner before any search had been made for arms in the house of the Prisoner. It appeared to have been an idle, but most dangerous frolic, and for which he had been deservedly imprisoned. The Jury concurring in this opinion, found the Prisoner— *Not Guilty*. 
 
 ...
 
-James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Arden and others, with being strongly suspected of having been one of the persons who riotously assembled and attacked the mill of Mr. William Cartwright, of Liversedge.-NAo
+James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Arden and others, with being strongly suspected of having been one of the persons who riotously assembled and attacked the mill of Mr. William Cartwright, of Liversedge.-No Bill.
 
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002?browse=true&fullscreen=true
 Leeds Mercury - Saturday 25 July 1812
@@ -141,17 +161,6 @@ The persons called Luddites it is said, may be divided into three classes— *Ro
  https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/015/0004?browse=true
  Volcano report
  Declaration of war by America on other pages
-
----
-
-TO DO 
-LIFTED FROM BICENTENARY BLOG
-
-25th July 1812: The Leeds Mercury classifies the Luddites
-
-An editorial of the Saturday 25th July 1812 edition of the Leeds Mercury attempted to place the Luddites into three categories:
-The persons called Luddites it is said, may be divided into three classes—Robbers, men who wish to live by plunder, and avail themselves of the disturbed state of the country to carry on their villainous purposes. Anti-Machinists, persons who impute a difficiency of labour to the use of Machinery in shearing cloth, weaving cotton, and weaving hosiery; and Spies, men that have introduced themselves amongst the depredators to worm out information, and whose employment must cease with the disturbances. We should be glad to know to which of these classes the persons at present engaged in stealing arms belong; we have our suspicions; and cannot forget, that a man of the name of Watt, a spy, was executed at Edinburgh, about the year 1794, for an act of High Treason in which he had engaged while labouring in his vocation, in order to draw others into his snares. The history of this man is curious, and we will take an early opportunity of recalling it to public recollection.
-
 
 ---
 
