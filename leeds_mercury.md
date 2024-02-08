@@ -125,7 +125,7 @@ The Jury, without leaving the box, found the prisoner-NOT GUILTY.
 
 The verdict was received in perfect silence.
 
-It may be proper here to add, that the most perfect order and decorum prevailed in the Court during the whole of the trials for rioting; and there is in the city no militury parade, nor anything to indicate that the County is not in a state of the most profound tranquility and security.
+It may be proper here to add, that the most perfect order and decorum prevailed in the Court during the whole of the trials for rioting; and there is in the city no military parade, nor anything to indicate that the County is not in a state of the most profound tranquility and security.
  
 ARMS STEALING
 
@@ -137,13 +137,13 @@ James Kershaw knows the prisoner; saw him on the night of Saturday, the 9th of M
 
 Thomas Whiteley stated, that the Prisoner made the same proposal to him as to the last Witness, and said he was going to get John Marsh and Jonas Beardesley's guns. Witness went about forty yards with him, and turned back on the Prisoner, saying, "Ludders never speak." Witness in a short time heard the report of a gun, which appeared to be in the diretion of Mr. Marsh's house. Witness did not observe that the Prisoner was intoxicated; did not think he was.
 
-John Creaser, apprentice to Mr. Malrsh, stated, that he was awaked by the report of a gun; he got up, and having received the gun which his master had given to him from the lodger, he delivered it to the person at the door. Being asked the reason of his readily giving it up, he said, there were so many reports about the Luddites, and he had been informed that they would not be denied. The firing of the gun had also made him afraid. When he delivered the gun, he said, "It has so lock;" on which the person at the door said, " It is well; it shall be well repaired, and, brought back in open day." Witness said the gun was brought back on the Monday following, but it was not repaired.
+John Creaser, apprentice to Mr. Marsh, stated, that he was awaked by the report of a gun; he got up, and having received the gun which his master had given to him from the lodger, he delivered it to the person at the door. Being asked the reason of his readily giving it up, he said, there were so many reports about the Luddites, and he had been informed that they would not be denied. The firing of the gun had also made him afraid. When he delivered the gun, he said, "It has so lock;" on which the person at the door said, " It is well; it shall be well repaired, and, brought back in open day." Witness said the gun was brought back on the Monday following, but it was not repaired.
 
 Mr. John Marsh, the master of the house, stated more precisely the terms in which the gun was demanded. After he had answered to the knocking at the doer, a person from withotut said, "We are informed you have a gun, and we are come for it."— Witness told them (for he supposed there were a nunber, though he only heard one voice) he had not a gun, and called to his apprentice not to give it up; but he supposes the boy did not hear him, as he gave them the gun. The gun was brought back on Monday night, by Joseph Whiteley. During the time the person was at the door, he heard him call out two numbers, as if calling to somebody, but the witness only heard the voice of one person. 
 
-Philip, Earnshaw lent the prisoner a gun belongiog to his master, on the night in question; he told hom it was for a bit of fun, and wished the Witness to go with him. Witness went a short distance with him, but he left him, becuase he had some mischief in his head, he laughed so. Witness then went to the Prisoner's house, who returned in about half an hour, and brought back another gun with him. Witness did not examine the gun of his master, to see whether it had been recently discharged.
+Philip Earnshaw lent the prisoner a gun belongiog to his master, on the night in question; he told hom it was for a bit of fun, and wished the Witness to go with him. Witness went a short distance with him, but he left him, becuase he had some mischief in his head, he laughed so. Witness then went to the Prisoner's house, who returned in about half an hour, and brought back another gun with him. Witness did not examine the gun of his master, to see whether it had been recently discharged.
 
-Josqsh Whiteley stated, that he carried the gun back to Mr. Marsh, on Monday, the 11th of May.
+Joseph Whiteley stated, that he carried the gun back to Mr. Marsh, on Monday, the 11th of May.
 
 This finished the case on the part of the Prosecution.
 
