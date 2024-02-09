@@ -37,6 +37,8 @@ We met at Dumb Steeple. It were pretty much a pitch black night, so we needed so
 
 --
 
+TO DO - account of attack on Rawfold's Mill
+
 "Yeah, an' I read all that in the paper too. Yer never were there..."
 
 "And I was too... I were there, that night. At Rawfold's Mill. And I saw us men fell, too.  And I were never engaged in any association in my life `cept that of General Ludd. Ever true to it. For three years and more." And he raised a toast to himself, and supped again.
@@ -55,10 +57,10 @@ A couple of week's later, there was another breakthrough for the forces of law a
 
 Let me tell you about it.
 
-TO DO
+TO DO - murder of WIlliam Horsfall
 
 
-And now this Barrowclough chap from Holmfirth, this corporal in the local Miltia, had admitted to playing a part in Cartwirght's murder. He was taken across the Pennines to Manchester, safe from interference, and examined. Under questioning, he revealed the location of two depots of arms, one near Holmfirth, the other near Grange Moor. Three hundred or so Scotch Greys were dispatched from Manchester, and all the force in Huddersfield, civil and military, ordered to co operate with them in seizing the concealed arms; the whole night was spent in a fruitless search. They'd found nothing. Further questioning of Barrowclough took place. Further investigation. Further investigation that revealed that Barrowclough had been at York, with his regiment, at the time of Horsfall's murder. It wasn't just the King who suffered from mental infirmity.
+But now this Barrowclough chap from Holmfirth, this corporal in the local Miltia, had admitted to playing a part in Cartwirght's murder. He was taken across the Pennines to Manchester, safe from interference, and examined. Under questioning, he revealed the location of two depots of arms, one near Holmfirth, the other near Grange Moor. Three hundred or so Scotch Greys were dispatched from Manchester, and all the force in Huddersfield, civil and military, ordered to co operate with them in seizing the concealed arms; the whole night was spent in a fruitless search. They'd found nothing. Further questioning of Barrowclough took place. Further investigation. Further investigation that revealed that Barrowclough had been at York, with his regiment, at the time of Horsfall's murder. It wasn't just the King who suffered from mental infirmity.
 
 But there was still James Oldroyd, the Monday night drinker who'd admitted his part in the attack on Cartwright's Rawfolds Mill under the sign of the Black Bull at Mirfield, and whose trial was now due.
 
