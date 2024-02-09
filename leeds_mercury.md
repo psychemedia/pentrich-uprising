@@ -106,13 +106,38 @@ Mr. Horsfall had a very large Woollen Manufactory at Marsden, wherein about 400 
 
 A reward of £2000 will, we understand, be offered immediately to any person who will give such information as will lead to the conviction of any one or more of the four men concerned in the murder of Mr. Horsfall. 
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120509/008/0003
+Leeds Mercury - Saturday 09 May 1812
+
+Huddersfield, May 7, 1812  
+
+MR EDITOR—I am sorry to inform you the Luddites have been very active in collecting arms this last week, and have been too succesful. They proceeded to peoples' houses, in the townships of Almondbury, Wooldale, Farnley, Netherthong. Meltham, Honley, and Marsden, and many other places in this neighbourhood ; they entered the houses by about 20 or 30 in a gang, and demanded all the arms in the house, on pain of instant death. By this meams they have obtained possession of upwards of 100 stand of arms since my last letter to you, and not one night has passed without some arms having been so taken. In order to check this alarming evil, Major Gordon has obtained possession of 200 stand of arms from the inhabitants in this neighblbuurhoad ; the military are in this manner daily employed in collecting arms, but they have not yet been fortunate enough to discover the deppt of the Luddites.
+
+A person, who appears a very suspicious character, was apprhended in Saddleworth, last Tuesday. and committed to Towzer here, and who will undergo an examination before the magistrates here tomorrow.
+
+The Coroner's Inquest sat on the body of Mr. Horsfall last Thursday, and returned a verdict of *Wilful Murder* against some person or persons unknown. He was interred at Huddersfield parish-church, in a very private manner, last Saturday morning— few people knew till the funeral was over. It is presumed the business will be carried on at Marsden as usual.
+
+You was misinformed with respect to Major Gordon's stable set on fire; the stable belonged to Mr. Allen Edwards, King-street, who wishes this mistake to be rectified; Mr. Edwards is a special constable, and had rendered himself obnoxious to the incendiaries by the vigilant discharge of his duty.
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120711/011/0003
+Leeds Mercury - Saturday 11 July 1812
+
+We have considered it our duty to inquire, with more than ordinary diligence, into the reports of discoveries made, and excesses committed in this countv, during the last ten days, some of which, in a very exaggerated form, have found their way into the London Papers, and the iollowing is the result of our inquiries:
+
+On the 20th ult. the Luddites, about twenty in number, entered the house of Mr. John Wood, a shopkeeper at Huddersftiid, and carried away a pistol and a small cask of gunpowder. On Fjiday the 3d est. parties of the same description, entered the houses of Mr. Benjamin Dyson and Mr. Wm. Mellor, of Stainiland, near Halifax, and took from each a gun and a sword. The same night, another party, about ten in number, armed and disguised, several of them with their shirts over their coats, attacked the family of Mr. Megson, a carpenter, residing near the Porter's-Lodge, at Whitley-Hall ; after securing the family in a back room, they proceeded to rifle the drawers, and took away four Guinea Notes and some provisions. They did not demand any fire-arms. A person of the name of Patrick Doring, alias Dr. Bell, of Scholes, near Holmfirth, was apprehended on Tuesday, and was the following day committed to York Castle on a charge of endeavoring to intimidate witnesses from appearing at York in evidence against the rioters at the ensuing Assizes. —A person of the name of Barrowclough, of Holmfirth, a Corporal in the Upper Agbrig Local-Militia, has been apprehended, charged on his own confession, with having been concerned in the the murder of Mr. Horsfall, and with having assisted in the attack on the Shearing Mill of Mr. Cartwright, at Rawfolds; but it appears, on investigation, that Barrowclough was at York with the regiment at the time the murder took place.— This singular infatuation of accusing himself of crimes of which he is not, and could not be guilty, is attributed to a mental infirmity under which he is said to labour when he has " put an enemy is his mouth to steal away his brains." The story in the London Papers about the apprehension of 50 men, &c. is an entire fabrication, though two Police officers have been in that neighbourhood in disguise for some time, and the Military, both horse and foot, are very active, and were on duty all Wednesday night.
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120627/008/0003
 Leeds Mercury - Saturday 27 June 1812
 
 Our Huddersfield Correspondent under the date of the 25th instant says:—
 
-" Last Monday about midnight, a great number of armed men, with their faces disfigured by broad black marks down each cheek and over the forehead, assembled near the dwelling-house of Mr. Fisher, a shop-keeper, at Briestwistle, in this neighbouchood, and after firing two guns or pistols, demanded admittance into Mr. Fisher's house, which he refused. They then broke open the door, and wo of them rushing into the house, seized Mr. Fisher, who had just got out of bed ; they each presented a pistol to his breast, and threatened him with instant death if he stirred a foot. Not itimidated by this threat, Mr. Fisher rushed from them towards the door, when he was seized by other six men, who placing a sheet over his head, face and arms, kept hinm in that situation while their comrades ransacked the house, and took frob his pocket-book bills' to the amotant of the 116*l.* besides 21l. in notes and some cash; they also took a quantity of notes and cash out of a drawer, but to what amount Mr. Fisher does not exactly know. When the depredation was completed, the Leader cried out to the guard placed over Mr. Fisher, "Let him go ; don't hurt him ; we have got what we wanted, and we will bring it back in three months," and immediately made off.
+" Last Monday about midnight, a great number of armed men, with their faces disfigured by broad black marks down each cheek and over the forehead, assembled near the dwelling-house of Mr. Fisher, a shop-keeper, at Briestwistle, in this neighbourhood, and after firing two guns or pistols, demanded admittance into Mr. Fisher's house, which he refused. They then broke open the door, and wo of them rushing into the house, seized Mr. Fisher, who had just got out of bed ; they each presented a pistol to his breast, and threatened him with instant death if he stirred a foot. Not intimidated by this threat, Mr. Fisher rushed from them towards the door, when he was seized by other six men, who placing a sheet over his head, face and arms, kept him in that situation while their comrades ransacked the house, and took from his pocket-book bills to the amount of the 116*l.* besides 21l. in notes and some cash; they also took a quantity of notes and cash out of a drawer, but to what amount Mr. Fisher does not exactly know. When the depredation was completed, the Leader cried out to the guard placed over Mr. Fisher, "Let him go ; don't hurt him ; we have got what we wanted, and we will bring it back in three months," and immediately made off.
 
 A mas of the name of James Oldroyd, was apprehended at Dewsbury, on Tuesday evening last, by a troop of the Queen's Bays, sent from hence for that purpose, on suspicion of having been conceerned in the attack on Mr. Cartwright's Mill at Rawfolds. He underwent an examnination  yesterday morning, at Mills-Bridge *(sic)*, before Joseph Radcliffe, Esq. when he was committed to York-Castle to take his trial at the ensuing Assizes.
 
@@ -125,6 +150,18 @@ Leeds Mercury - Saturday 04 July 1812
 Since our last were committed to York Castle, James Oldroyd, of Dewsbury, clothier, charged upon oath with having on the night of Monday the 22d of June inst. at the Sign of the Black-Bull, in Mirfield, confessed that he was at Rawfold's Mill on the night it was attacked, that he was engaged in that attack, and that he was near to his Fellow Creature when he fell. ...
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120711/009/0003
+Leeds Mercury - Saturday 11 July 1812
+
+HOUSE OF COMMONS.-Wednesday, July 8.  
+SECRET COMMITTEE.  
+
+Mr. Leicester brought up the Report of the Secret Committee appointed to examine the sealed Packet of Papers laid before the House by order of the Prince Regent. The Report was then read at the Table. It stated that alarming disturbances, destructive to property, prevailed in the counties of Lancaster, York, &c. and had continued from the month of March down to the latest accounts on the 23d of June. That the riotors assembled in the night-time, with their faces blackened, armed with the implements of their trades, and other offensive instruments, with which they destroyed the property of those who were obnoxious to them. That they had in many instances written threatening letters—had proceeded the length of setting fire to the houses of individuals, and even that an atrocious murder had been committed on a person of the name of Horsfall, by four persons, who there was every reason to believe were accomplices in these disturbances. That great dread and alaim was occasioned in consequence of these proceedings ; and that in some instances sums of money were demanded and extorted. The Committee, without entering into details, thought it necessary to state that the first object of these Rioters seemed to be the breaking of machinery ; but they had in many instances resorted to measures infinitelv more alarming, namely, the demanding of arms ; and had even carried them off, in many instances where they allowed every other species of property to remain untouched. These seemed not to be the effect of any sudden impulse, but of an organized system of lawless violence. Sometimes the Rioters were under the controul of Leaders; and were distinguished not by names but by numbers ; were known to each other by signs and countersigns ; and carried on all with the utmost caution. They also took an aath, that while they existed under the canopy of Heaven they would not reveal any thing connected with the present disturbances, under the penalty of being put out of existence by the first brother whom they should meet, &c. It did not appear to the Committee that any sums of money were distributed'among the rioters. It was extremely difficult to discover them. It was held out to them that they might expect to be joined by other discontented persons from London, and that there were persons in the higher ranks who would also lend them support; but of these insinuations the Committee were not able to find evidence. They bad adopted and submitted to a military discipline; they had regular muster-rolls. They used rockets and blue lights for communication with each other. They had also their Committees and Sub-Committees, and Secret Committees, and had their regular signs and counter-signs, by which they made their written communications; not, however, through the ordinary channel of the Post-office. It further appeared, that two-pence a week was appointed to be paid by each member to their respective Delegates; but that, in many instances, it had been found difficult to collect this weekly tax. In consequence of which some disturbanices had taken place amongst themselves. Wnatever was their object, however, and whoever were the secret movers of these disturbances, yet the secrecy with which they were carried on, the attempts at assassination that had been made, the oaths that had been administered, and the system of terror that prevailed, had not failed to impress the Committee deeply.
+
+On the motion that the Report do lie on the table, Mr. Ponsonby wished to know if the Right. Hon. Gent. opposite intended to move that the Report be printed and taken into consideratlion? ...
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000062/18120804/009/0001
 Hull Packet - Tuesday 04 August 1812
 
@@ -219,6 +256,37 @@ The persons called Luddites it is said, may be divided into three classes— *Ro
  https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/015/0004?browse=true
  Volcano report
  Declaration of war by America on other pages
+
+
+--
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121017/009/0003
+Leeds Mercury - Saturday 17 October 1812
+
+Since the last assizes, no less than 43 felons have been committed to the Castle ol York, for various crimes, out of Whichi number -3 are charged with committing divers offences against the public peace, in tbe West-Riding, and who deno- uainate themselves Luddites; 6 for forgery, 3 for a rape, and I for the murder of a child, Since our last, were committed to York Castle, George Mellor, of Longwood Bridge, in Quarmby, in the West-Riding, cilth-dresser, charged upon the outh of Joseph Mellor, and others, with being strongly suspected of having. on the 28th day of April last, fired at, and shot Mr. Wits. Horsfall, of Marsden, in the said Riding, merchant, deceased, upon the King's highway. Also, James Varley, of Lockwood, in the West. Riding, cloth-dresser, charged upon the oath of John Bates, with having ot the night of Whitsun-Monday last, with divers other persons, unlawfully assembled at Gib-lane end, and feloniously stole and carried away divers guns, the property of Wm. Newton, of Hagswood Hill, in the said Riding?? Joseph Brook, of Rastrick, tailor, charged upon the oath of Benjamin Strickland, and Ann Armitage, with having, in company with divers overs unknown, at three o'clock in the morning of the 5th inst. burglariously broke, and entered the dwelling-house of the said Benjamin Strickland, and feloniously stolen thereout one silver watch, one pocket-book, anid other asticles, the property of the said Benjanmin Strickland. On Saturday last
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002
+Leeds Mercury - Saturday 07 November 1812
+
+THE MURDERERS OF MR. HORSFALL.  
+We copy the following curious article from the Courier of Thursday the 29 ult. :-  
+To the Editor of the Courier. Huddersfield, Oct. 24.
+
+Sir.- A very important event happened here on Thursday last, of which as the Leeds Mercury of today does not appear to have had any information, I hasten to communicate the intelligence through the medium of your paper.
+
+A man'has been taken up and examined before that indefatigable Magistrate Joseph Radcliffe, Esq. and has at length received the offer of his Majesty's pardon, and given the most complete and satisfactory evidence of the horrible murder of Mr. W. Horsfall. In consequence of this, the whole of the wretches concerned in that dreadful transaction, have been taken and committed to York Castle, to take their trial at the ensuing Commission of Assize. — He was with the party (four in number) when Mr. Horsfall was shot.
+
+They were furnished with loaded pistols by ——— who ordered them to take their stand in the Plantation on Crossland Moor. Two others soon after joined them, and took their station about twenty yards before then. When the unfortunate Gentleman came up, two fired. They then all fled across the fields, and ——— damned them all the way for not firing their pieces. Two ran forwards to Honley, four miles off, and two more stopped at a place called Dungeon Wood, and hid their pistols at ————'s house there, in some flocks— left their great coats, and ran rimmediately in their jackets to Huddersfield, where the news of the murder had but just arrived. The next morning they all four met at the work-shop of their employer (a cropper) and ———— produced a Bible. and made them all swear not to betray each other.
+
+These villains have frequently been examined before, but have always beeeb discharged for want of sufficient evidence. Obe behaved with the greatest effrontery till he saw ———, and then he changed colour and gasped for breath. When he came out, he said "Dam that ————, he has done me."
+
+It appears ——— and ———— have been Chiefs in all the disgraceful transactions that have occurred in this part of the country the last twelve months, especially at Rawfolds, where the former was captain of the gun-division, and the latter of the pistol. ————— has thus made discoveries which will lead to the detecion of a great number of these offenders, and, it is hoped, ultimately restore the West-Riding to its former tranquility.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003
+Leeds Mercury - Saturday 28 November 1812
+
+LEEDS, SATURDAY, Nov. 28. ... It has been determined to appooint a Special Commission for the trial of the persons accused of the mnurder of Mr. Horsfall, and of the Luddites now corfined in York Castle, to the number of between 40 and 50. The trials will take place, we believe, in about three weeks.- -Courier. 
 
 ---
 
