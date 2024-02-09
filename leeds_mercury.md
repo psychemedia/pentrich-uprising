@@ -909,6 +909,12 @@ Colne Bridge, August 2nd, 1817."
 We should not enter into this discussion did we not observe that there are Editors in this part of the country who copy all charges similar to those contained in the Leeds Mercury, without laying before their readers a single line in the way of explanation, tho' well aware of the existence of such matter. And yet these are the exclusive truth-tellers !
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170804/018/0003?browse=true
+Leeds Intelligencer - Monday 04 August 1817
+
+[poor quality scan]
+
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170809/007/0003
 Leeds Mercury - Saturday 09 August 1817
