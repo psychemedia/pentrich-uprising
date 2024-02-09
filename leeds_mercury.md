@@ -940,7 +940,7 @@ In reading the *Intelligencer* of the present week, one is puzzled to discover w
 
 [TH: what was in the Intelligencer???]
 
-Tp the Editor of the Leeds Mercury
+To the Editor of the Leeds Mercury
 
 Sir,— From the manner in which my Name has been brought forwards in the *Leeds Mercury*, of Saturday, August 2d, I think myself called upon, *to deny, most positively*, that any converssation passed, im my presence, of the nature alluded to in the declaration signed "CHARLES HEARNSHAW". Your insertion of this, in your paper, will much oblige, Sir,
 
