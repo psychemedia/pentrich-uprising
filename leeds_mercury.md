@@ -220,7 +220,7 @@ This Prosecution was founded on an Act passed in the 9th of Geo. III. which make
 
 Mr. Park, Mr.Topping, and Mr. Richardson, were Counsel for the Prosecutor, and Mr. Raine for the Defendant.
 
-Mr. Park stated the case to the Jury, in which he laid it down as the law of the case, that the violent breaking of windows, when evidently done with such instruments, and under such circumstances as shows the intent to be to demolish the building, is such a beginning to demolish as comes within the meaning of the Act. And that every person so present with the rioters giving them his countenance and aid, is as guilty in law though no individual act of violence can be personally proved aganst him.
+Mr. Park stated the case to the Jury, in which he laid it down as the law of the case, that the violent breaking of windows, when evidently done with such instruments, and under such circumstances as shows the intent to be to demolish the building, is such a beginning to demolish as comes within the meaning of the Act. And that every person so present with the rioters giving them his countenance and aid, is as guilty in law though no individual act of violence can be personally proved against him.
 
 [We shall, conformable to our usual custom, state the case from the evidence of the Witnesses.]
 
