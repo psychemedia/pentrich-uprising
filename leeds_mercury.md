@@ -140,6 +140,25 @@ Public Ledger and Daily Advertiser - Tuesday 14 July 1812
 A person of the name Barrowclough, of Holmfirth, a corporal in the Upper Agbrig Local Militia, has been apprehended, charged, on his own confession, with having been concerned in the murder of Mr. Horsfall, and with having assisted in the attack on the Shearing Mill of Mr. Cartwright, at Rawfolds; but it appears, on investigation, that Barrowclongh was at York with the regiment at the time the murder took place. This singular infatuation of accusing himself of crimes which is not, and could not be guilty, is attributed to mental infirmity under which he is said to labour. On the arrival of Barrowclough at Manchester, where he was taken for examination, for the purpose of placing him at a distance from his connections, he informed the Magistrates that there were two depots of arms, accumulated the disturbers of the public peace, one of them in the neighbourhood of Holmfirth, and the other near Grange Moor. On this information, about 300 of the Scotch Greys were dispatched from Manchester, Wednesday, into the Riding, and all the force in Huddersfield, civil and military, was ordered to co operate with the Greys in the seizure of the concealed arms; but after spending the whole night in a fruitless search, they returned to their quarters without making any discovery whatever. Having stated these facts, it is scarcely necessary to add, that the rumoured apprehension of 50 conspirators and of important discoveries made the police officers, is a mere fabrication —Leeds Mercury.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120620/005/0003?browse=true
+Leeds Mercury - Saturday 20 June 1812
+
+THE MERCURY `[Editorial commenting on the announcement on June 16, 1812 that the Orders in Council, which called for a blockade of French trade with Britain, France's allies, or neutral countries, including the Americans, would be suspended. ]`
+
+
+... There is one observation stated in the reports of Mr Rose's speech, which will astonish every man acquainted with the present situation of the Staple Manufacturer of this Country; that Gentleman is stated to have said, that " there was no evidence of distress in the West Riding of Yorkshire." No evidence of distress in the West-Riding ! The man that could make such an assertion, could not have read or heard the evidence given by Mr. George Rawson, Mr. William Thompson, Mr. Joseph Walker, Mr. Christopher Lawson, or Mr. John Oxley, and a number of other witnesses ! We do intreat our readers to peruse with attention the evidence of those gentlemen, than whom there is not amongst us more respectable and intelligent men, and then to say how far Mr. Rose is justified in the assertion that there is no evidenceof distress in the West Riding of Yorkshie. And if that evidence of distress does not satisfy him, we beg to remind him, that in visits lately made through the town of Leeds, by persons whose duty it was to inquire diligently into the situation of the poor, out of a population of about 9000 families, of which this town consists, there were found 3500 families that stood in need of the contributions of the benevolent, and that of those 3500 families, the average sum that each individual had to subsist upon, did not exceed 2s. 10d. a head, and at a time too when flour is from 5s. to 6s. a stone, and in a place too where the poor are in a better situation than perhaps any other manufacturing town in the county. Is not this some evidence that there is distress in the West Riding.
+
+...
+
+LEEDS, SATURDAY, JUNE 20
+
+...
+
+Last Sunday morning, at half past four a o'clock, the Woollen Mill, called Gibraltar Mill, the property of Messrs. Thackray and Carlisle, situated near Pudsey, was discovered to be on fire, and so rapid was the progress of the flames as to reduce the building to a mere shell in less s than an hour. By this casualty about 80 work-people are thrown out of employment, and ten Stocks, nine Billies, nine Carding Machines, and eleven Slubbing Machines, besides a quantity of other machinery, and the wood-work of the Steam Engine, are totally destroyed, together with about 60 Pieces of Woollens, and Wool for about 150 Cloths, involving a loss at from 6 to 7000*l*. Of this amount 5000*l* was insured in the Sun Fire Office. For some time a report prevailed that this Mill, which was one of the most complete buildings of the kind in the West Riding of York, had been fired by the hand of an incendiary, and was connected in some way with the depredations that have of late so unhappily prevailed in the manufactering parts of the country; but this rumour, we are happy to find from enquiry on the spot, rests on no authority whatever, On the contrary, there is every reason to believe that the fire originated in a quantity of wool prepared a with fish oil, having been placed in the N. E. corner of the building, and suffered to remain accumulated till it burst out into a flame, and involved the whole premises in destruction.
+
+...
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120627/008/0003
 Leeds Mercury - Saturday 27 June 1812
