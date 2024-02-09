@@ -29,7 +29,7 @@ And so his tale began. "I were there, that night. At Rawfold's Mill. And I saw u
 
 And the three passing travellers who were sat round in the bar on the other side of the thin wood partition that separated the back room from the bar, its small glass window partially broken, they heard him say that too.
 
-"Bollocks, you were..."
+"Bollocks, you were there..."
 
 "And what would you know about it..."
 
