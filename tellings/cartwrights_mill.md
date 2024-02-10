@@ -57,7 +57,7 @@ A couple of weeks later, there was another breakthrough for the forces of law an
 
 Let me tell you about it.
 
-TO DO - murder of WIlliam Horsfall
+TO DO - murder of William Horsfall
 
 
 But now this Barrowclough chap from Holmfirth, this corporal in the local Militia, had admitted to playing a part in Cartwright's murder. He was taken across the Pennines to Manchester, safe from interference, and examined. Under questioning, he revealed the location of two depots of arms, one near Holmfirth, the other near Grange Moor. Three hundred or so Scotch Greys were dispatched from Manchester, and all the force in Huddersfield, civil and military, ordered to co operate with them in seizing the concealed arms; the whole night was spent in a fruitless search. They'd found nothing. Further questioning of Barrowclough took place. Further investigation. Further investigation that revealed that Barrowclough had been at York, with his regiment, at the time of Horsfall's murder. It wasn't just the King who suffered from mental infirmit, the presamable cause of the singular infatuation he had for accusing himself of crimes which was not, and could not, be guilty.
@@ -68,7 +68,7 @@ In briefing the Grand Jury, the Judge suggested that the evidence against Oldroy
 
 At first, it seemed to go well for the prosecution. Mr. Cartwright was called and asked to explain what had happened when his Mill at Rawfolds had been attacked. The first witness from the Black Bull repeated that he'd heard Oldroyd admit to being at the attack on Rawfold's Mill, to being faithful to General Ludd for three years.  and that, when challenged, he appeared to understand what he was saying and what was being said to him. The second witness confirmed much the same story as the first, but judging from the boisterous tone and manner in which the words were used, he would have thought them the words of a crazy person. The third witness again agreed as to what was said, but considered the Prisoner as drunk from first to last.
 
-The defence then made their case.
+And that was the prosecution! So then the defence then made their case.
 
 Their first witness was a surgeon who appeared to be a respectable man, and who had been treating Oldroyd at the time of the attack. He would have beem very surprised if he had been fit enough at the time to take part in the attack, and when he saw him the morning afterwards, he supposed he had had his usual rest the preceding night.
 
