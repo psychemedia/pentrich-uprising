@@ -64,3 +64,22 @@ But now this Barrowclough chap from Holmfirth, this corporal in the local Miltia
 
 But there was still James Oldroyd, the Monday night drinker who'd declaimed his part in the attack on Cartwright's Rawfolds Mill whilst under the sign of the Black Bull at Mirfield, and whose trial was now due.
 
+In briefing the Grand Jury, the Judge suggested that the evidence against Oldroyd would mainly rest on his confession of the party, and they should focus on the corroborating circumstances and the circumstances under which the confession was made.
+
+At first, it seemed to go well for the prosecution. Mr. Cartwright was called and asked to explain what had happened when his Mill at Rawfolds had been attacked. The first witness from the Black Bull repeated that he'd heard Oldroyd admit to being at the attack on Rawfold's Mill, to being faithful to General Ludd for three years.  and that, when challeneged, he appeared to understand what he was saying and what was being said to him. The second witness confirmed much the same story as the first, but judging from the boisterous tone and manner in which the words were used, he would have thought them the words of a crazy person. The third witness again agreed as to what was said, but considered the Prisoner as drunk from first to last.
+
+The defence then made their case.
+
+Their first witness was a surgeon who appeared to be a respectable man, and who had been treating Oldroyd at the time of the attack. He would have beem very surprised if he had been fit enough at the time to take part in the attack, and when he saw him the morning afterwards, he supposed he had had his usual rest the preceding night.
+
+The second witness was a mother of two who had lodged in the same house as Oldroyd on the night of the attack. One of her children had been ill at the time, and she had been up half the night as a result, repeatedly talking to Oldroyd, and, rather conveniently, repeatedly checking the clock. Despite the prosecutor' best efforts, she was unwavering in her story. As the judged summed up, there was nothing improbable or inconsistent in the account she gave.
+
+The Judge also observed that there was no doubt Rawfold's Mill had been attacked, but the question remained whether Oldroyd was present at it. If the Jury were convinced that the Prisoner's declaration at the public-house was true, they would have to find him guilty ; but if they believed it was not true, or had a reasonable doubt upon the subject, they would acquit him.
+
+Without leaving the box, the Jury found the prisoner-NOT GUILTY.
+
+The verdict was received in perfect silence.
+
+In the same Assizes, ... TO DO James Haigh
+
+But then ... October 1812, Jan. 1813..
