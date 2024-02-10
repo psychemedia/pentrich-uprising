@@ -72,7 +72,7 @@ The defence then made their case.
 
 Their first witness was a surgeon who appeared to be a respectable man, and who had been treating Oldroyd at the time of the attack. He would have beem very surprised if he had been fit enough at the time to take part in the attack, and when he saw him the morning afterwards, he supposed he had had his usual rest the preceding night.
 
-The second witness was a mother of two who had lodged in the same house as Oldroyd on the night of the attack. One of her children had been ill at the time, and she had been up half the night as a result, repeatedly talking to Oldroyd, and, rather conveniently, repeatedly checking the clock. Despite the prosecutor' best efforts, she was unwavering in her story. As the judged summed up, there was nothing improbable or inconsistent in the account she gave.
+The second witness was a mother of two who had lodged in the same house as Oldroyd on the night of the attack. One of her children had been ill at the time, and she had been up half the night as a result, repeatedly talking to Oldroyd, and, rather conveniently, repeatedly checking the clock. Despite the prosecutor's best efforts, she was unwavering in her story. As the judged summed up, there was nothing improbable or inconsistent in the account she gave.
 
 The Judge also observed that there was no doubt Rawfold's Mill had been attacked, but the question remained whether Oldroyd was present at it. If the Jury were convinced that the Prisoner's declaration at the public-house was true, they would have to find him guilty ; but if they believed it was not true, or had a reasonable doubt upon the subject, they would acquit him.
 
