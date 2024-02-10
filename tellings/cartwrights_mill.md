@@ -17,7 +17,7 @@ And the Government? What sort of Government were they? The Orders in Council the
 
 That blasted foreign war had been going on for years, and now things were hitting hard at home too. For sure, the war might have been a Good Thing at the start: lots of soldiers meant lots of uniforms — lots of cloth that needed making — and the export trade had seemed to take as much as anyone could make, and at a fair price too. But when the blockades began, and the exports stopped? Well, it had been downhill ever since.
 
-It was Monday night at the Sign of the Black-Bull, the Black-Bull in Mirfield, and several of the regulars were sat in the back room, drinking, one too many, and then some more, arguing over the news in Saturday's paper. Some good news, at least: it seemed the Orders in Council might be put an end to; but those London folk didn't know what they were talking about, with their "no evidence of distress in the West Riding of Yorkshire". Half the families round about in need of charity? Half of them?
+It was Monday night at the sign of the Black-Bull, the Black-Bull in Mirfield, and several of the regulars were sat in the back room, drinking, one too many, and then some more, arguing over the news in Saturday's paper. Some good news, at least: it seemed the Orders in Council might be put an end to; but those London folk didn't know what they were talking about, with their "no evidence of distress in the West Riding of Yorkshire". Half the families round about in need of charity? Half of them!
 
 And then talk turned to the fire at the Gibraltar Woollen Mill the Sunday before.
 
