@@ -43,7 +43,7 @@ TO DO - account of attack on Rawfold's Mill
 
 "And I was too... I were there, that night. At Rawfold's Mill. And I saw us men fell, too.  And I were never engaged in any association in my life `cept that of General Ludd. Ever true to it. For three years and more." And he raised a toast to himself, and supped again.
 
-"hold thy peace, if there be a good trade and meal come down, Ned Ludd will die."-(A laugh.)
+"hHold yer peace, yer stupid bugger. If there were good trade, and a meal come down, Ned Ludd would die tomorra'." And at that, they all laughed.
 
 But for the three travelling men on the other side of the thin wood partition that separated the back room from the bar, its small glass window partially broken, they heard him say that too. And that was too much for them. One of them left the bar to find a Constable. Another went into the back room: "who was saying that, about Rawfolds?" and one of the drinkers pointed him out. "'s 'im. Pissed as a fart."
 
