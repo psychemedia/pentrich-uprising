@@ -82,4 +82,10 @@ The verdict was received in perfect silence.
 
 In the same Assizes, ... TO DO James Haigh
 
+The men who had been responsible for the attack on Rawfold's and the killing of Horsfall knew who they were, of course, and so did many others...
+
+Let me tell you about them.
+
+George Mellor was..
+
 But then ... October 1812, Jan. 1813..
