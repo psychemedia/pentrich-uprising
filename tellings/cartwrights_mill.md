@@ -51,9 +51,9 @@ With no Constables to be had, the three travellers became investigators, took th
 
 And when they challenged him again: "get away wi yer. If yer've got a problem wi' me, take it up wi Cartwright. He'll vouch for me."
 
-The next day, in Dewsbury, a troop of the Queen's Bays, arrested a man by the name of James Oldroyd, a man who had been out drinking in Mirfield, at the sign of the Black Bull, the evening before, on suspicion of having been concerned in the attack on Mr. Cartwright's Mill at Rawfolds. He was examined by Joseph Radcliffe, Esq., then committed to York-Castle to take his trial at the next Assizes.
+The next day, in Dewsbury, a troop of the Queen's Bays, arrested a man by the name of James Oldroyd, a man who had been out drinking in Mirfield, at the sign of the Black Bull, the evening before, on suspicion of having been concerned in the attack on Mr. Cartwright's Mill at Rawfolds. He was examined by the local Magistrate, Joseph Radcliffe, about whom there are many tales could be told, then committed to York-Castle to take his trial at the next Assizes.
 
-A couple of week's later, there was another breakthrough for the forces of law and order. A corporal in one of the local militias had confessed not just to taking part in the attack on Rawfold's Mill, but also having been involved with the murder of William Cartwright. That was where it had arguably all started to go wrong for the Yorkshire Luddites.
+A couple of weeks later, there was another breakthrough for the forces of law and order. A corporal in one of the local militias had confessed not just to taking part in the attack on Rawfold's Mill, but also having been involved with the murder of William Cartwright. That was where it had arguably all started to go wrong for the Yorkshire Luddites.
 
 Let me tell you about it.
 
