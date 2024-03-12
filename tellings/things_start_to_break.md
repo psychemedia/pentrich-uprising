@@ -12,7 +12,7 @@ That first night, early in December it was, soon after midnight, when they came 
 
 And so they came back the following night, but the prices had been raised, so they went away again, save for breaking a couple of frames from shops in villages roundabout there that deserved it.
 
-But then, a few days later, they were back again, and took ouit several frames, including two of Topham's, who by all accounts still claimed he were paying top-price. But this time he wasn't there when they called round, he was just coming back from doing business Nottigham, fifteen miles or so away. But he heard what was going on, and, oh you should have seen, him, he rushed to the vicarage, and banged on the door and "give me the the key to the Church, give me the key to the Church" — managed to start ringing the bells and raising the alarm.
+But then, a few days later, they were back again, and took ouit several frames, including two of Topham's, who by all accounts still claimed he were paying top-price. But this time he wasn't there when they called round, he was just coming back from doing business Nottigham, fifteen miles or so away. But he heard what was going on, and, oh you should have seen, him, he rushed to the vicarage, and banged on the door and "give me the key to the Church, give me the key to the Church" — managed to start ringing the bells and raising the alarm.
 
 And that scared off the frame-breakers from there at least, though it didn't stop their night's work. Cos they broke a few more frames roundabout that night, as they had other nights too.
 

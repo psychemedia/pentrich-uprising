@@ -20,7 +20,7 @@ by Browne, G. Lathom (George Lathom), 1815-1892
 Publication date 1882
 https://archive.org/details/narrativesstate00browgoog/page/64/mode/1up?q=luddites York 1813
 https://archive.org/details/narrativesstate00browgoog/page/175/mode/1up?q=luddites Spa fields, Watson
-https://archive.org/details/narrativesstate00browgoog/page/214/mode/1up?q=luddites Nottinhngham Turner Brandreth 1817
+https://archive.org/details/narrativesstate00browgoog/page/214/mode/1up?q=luddites Nottingham Turner Brandreth 1817
 
 https://archive.org/details/hightreasontria00thisgoog
 High-treason, the trials at bar of Arthur Thistlewood, gent., James Watson, the elder, surgeon, Thomas Preston, cordwainer, and John Hooper, labourer, for high-treason ... in the Court of King's Bench, Westminster, on ... June 9, 1817 [microform]
@@ -39,14 +39,14 @@ cobbet state trials 1817 -
 https://books.google.co.uk/books?id=rw9AAAAAYAAJ&dq=cobbett%20state%20trials%20%22volume%2032%22&pg=PP7#v=onepage&q&f=false
 https://archive.org/details/acompletecollec01howegoog/page/n8/mode/2up
 
-THe loughborough luddites (towle) were not state trials; but watson (spa fields) and pentruch were
+The Loughborough luddites (towle) were not state trials; but watson (spa fields) and Pentrich were
 
 and special commission york 1813
 https://books.google.co.uk/books?id=Mw9AAAAAYAAJ&dq=cobbett%20state%20trials%20%22volume%2031%22&pg=PP11#v=onepage&q&f=false
 https://archive.org/details/cobbettscomplet14jardgoog/page/n10/mode/2up
 
 
-Thomas Hardy - Trial High treason  - london corresponding society - acquitted https://en.wikipedia.org/wiki/Thomas_Hardy_(political_reformer)
+Thomas Hardy - Trial High treason  - London corresponding society - acquitted https://en.wikipedia.org/wiki/Thomas_Hardy_(political_reformer)
 
 The Language of High Treason: Thomas Hardy, John Horne Tooke, and the Edinburgh Seven
 https://www.jstor.org/stable/3817744
@@ -77,7 +77,7 @@ Conor Hanly
 To cite this article: Conor Hanly (2005) The decline of civil jury trial in nineteenth-century England,
 The Journal of Legal History, 26:3, 253-278, DOI: 10.1080/01440360500347525
 
-Bailey - annals of Nottinghamshre, vol 15
+Bailey - annals of Nottinghamshire, vol 15
 https://books.google.co.uk/books?id=0HQHAAAAQAAJ&pg=PA241&dq=bailey+annals+nottinghamshire+1812&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwigxMr134H9AhVPeMAKHYqhBT4Q6AF6BAgFEAI#v=onepage&q=luddite&f=false
 
 

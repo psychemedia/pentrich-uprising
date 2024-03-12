@@ -44,7 +44,7 @@ Hudds Oct-Dec,
 
 1816 Year wthout a summer https://en.wikipedia.org/wiki/Year_Without_a_Summer volcano in Indonesia in April 1815 ;  there was also a volcano in 1808 that led to global cooling - when was earlier poor harvests of 1809 and 1810 ?
 
-luddite june 1816 55 frames loughborough, Heathcote and Boden's factory; James Towle hanged nov 1816,
+Luddite June 1816 55 frames Loughborough, Heathcote and Boden's factory; James Towle hanged nov 1816,
 1816 Spa fields
 1817 Oliver, Trial in London for Spa Field; Lougbborough trial, Huddersfield  revolt
 Leeds Mercury - Oliver Spy; Huddersfield trial; questions in parliament
@@ -74,7 +74,7 @@ Folklore in the sense of me forming an impression and telling tales based on thi
 
 Tales
 
-??start w  Spa Fields, the setting of reform; the blanketers; th date of spa fields trial.. Pentridge revolution for that date; but also the Ludite trial. For  over the previous 5 years, we can see there is another sort of revolt happening - the Luddite revolution.
+??start w  Spa Fields, the setting of reform; the blanketers; the date of spa fields trial.. Pentridge revolution for that date; but also the Ludite trial. For  over the previous 5 years, we can see there is another sort of revolt happening - the Luddite revolution.
 
 - original outbreaks in Nottinghamshire/Derbyshire
 - Huddersfield Luddites 1812, hanging 1813

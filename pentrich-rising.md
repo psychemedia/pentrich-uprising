@@ -3,7 +3,7 @@
 ```text
 I bring you a tale, 
 Of treason, and lies.  
-Gather round for my story:  
+Gather round for my story / I bring you a story,
 Of rebels, and spies.
 ```
 
@@ -13,7 +13,7 @@ Around the country: secret gatherings; meetings, and mutterings. Parliamentary r
 
 From the Midland counties of Derbyshire and Nottinghamshire to the West Riding of Yorkshire, a tall, fair-headed, red-whiskered man, well-dressed, attends many of the meetings. He brings news: of sentiment in London; of the planned actions elsewhere around the country. His name? Mr William Oliver. His conversations with two local committees in particular, are notable: one in Huddersfield, in the West Riding of Yorkshire; the other in Pentrich, near Nottingham.
 
-The story is the same: as the State Trial begims in London for the men accused of leading the the riot there in December, there will be: an insurrection; there will be: a march, to the metroplis; and there will be: change.
+The story is the same: as the State Trial begims in London for the men accused of leading the riot there in December, there will be: an insurrection; there will be: a march, to the metroplis; and there will be: change.
 
 Weapons will be required: in part, from the garrisons, quickly captured, and rendered ineffective. No blood will be spilled. Debts will be relieved; industries will be nationalised; and Parliament will be reformed. The date is set: Sunday, June the 8th, 1817.
 
@@ -21,21 +21,21 @@ In Huddersfield, at the appointed time, on the appointed date, two dozen men mee
 
 Meanwhile, sixty miles to the south, in Nottinghamshire, fifty men have set out from Pentrich, intending to take part in a co-ordinated raid on the nearby Butterley Iron Works ; intending to steal arms, and munitions; and then, to make their way to Nottingham; and from there, to London, building numbers all the while.
 
-But somehwow, somehow, it seems that the Magistrates and the Yeomanry know exactly what is afoot. Somehwow, somehow, it seems that they know exactly where the insurrectionists will meet.
+But somehow, somehow, it seems that the Magistrates and the Yeomanry know exactly what is afoot. Somehow, somehow, it seems that they know exactly where the insurrectionists will meet.
 
 It seems almost as if they had been forewarned.
 
 And so it was: in Huddersfield, in the early hours of that Monday morning, June 9th, 1817, as the Yeomanry came on that small band of rebels, a shot was fired: a horse was hit. The ball of shot was removed, and the horse recovered. Several of the insurrectionists were also lucky, dispersed by the soldiers, and made their escape; but others were not so: they were apprehended, imprisoned, and taken to await their fate.
 
-Down in Pentich, as the men left the ironworks and headed towards Nottingham, their numbers grew: to 500 or more. But the authorities had been playing a waiting game; now, they had the evidence they needed. The rebels were dispersed; but their leaders, oh yes, their leaders, they were identified by who knows what intelligence, and after a short period on the run, they were caught and arrested.
+Down in Pentrich, as the men left the ironworks and headed towards Nottingham, their numbers grew: to 500 or more. But the authorities had been playing a waiting game; now, they had the evidence they needed. The rebels were dispersed; but their leaders, oh yes, their leaders, they were identified by who knows what intelligence, and after a short period on the run, they were caught and arrested.
 
 Over the coming days, and weeks, the Huddersfield men were charged to appear at the Assizes in York. You didn't need much of a memory to recall the Special Commission held there at New Year, not five years earlier, when 15 men, Luddites from the Huddersfield area, were sentenced to death. Fifteen men, sentenced to death and promptly hanged.
 
-The Folly Hall men might have feared a similar fate; but then, and in no small part thanks to the efforts of the editor of a local newspaper, Edward Baines of the Leeds Mercury, a story has broken: a Government spy has been found to be reporting to a Secret Parliamentary Committee; and not hust to them, but also to certain local magistrates. And more than that, it seems he has been claiming to be a Parliamentary reformer, a rather well-connected Parliamentary reformer, with contacts in London and committees right across the country. A delegate who has been working closely with the organising committees of the North. Who has been promoting insurrection for the sole purpose of then "discovering" it. A certain man named William J. Oliver. Questions are asked in Parliament. Entrapment is claimed. There is public uproar — this is public service investigate journalism at its best. And the men at York are acquitted.
+The Folly Hall men might have feared a similar fate; but then, and in no small part thanks to the efforts of the editor of a local newspaper, Edward Baines of the Leeds Mercury, a story has broken: a Government spy has been found to be reporting to a Secret Parliamentary Committee; and not just to them, but also to certain local magistrates. And more than that, it seems he has been claiming to be a Parliamentary reformer, a rather well-connected Parliamentary reformer, with contacts in London and committees right across the country. A delegate who has been working closely with the organising committees of the North. Who has been promoting insurrection for the sole purpose of then "discovering" it. A certain man named William J. Oliver. Questions are asked in Parliament. Entrapment is claimed. There is public uproar — this is public service investigate journalism at its best. And the men at York are acquitted.
 
 Meanwhile, in the State Trials in London, the trials of the claimed organisers of the London riot six months, the leaders there are also acquitted.
 
-So has the State lost its ability to prosecute troublemakers and rebels? Are thebcourts now on thenside of the people?
+So has the State lost its ability to prosecute troublemakers and rebels? Are the courts now on the side of the people?
 
 In Nottingham, the Pentrich rebels are charged to appear before a Special Commission. It will be held in the Autumn; the charges will be: of High Treason. Four men, in particular, are accused of being the leaders. Or perhaps, make that three. Because one of them, a man who had avoided action on the night in question, a man who had been in conversation with a certain Mr William Oliver over the previous few days and weeks, was treated differently. It would not do for *his* evidence to come before the jurors, let alone the public.
 
@@ -43,13 +43,13 @@ The trial began. Then, just as in sensitive cases now, controls were placed on t
 
 The trial progressed, and the press leaked the details. But the verdict, was perhaps, a foregone conclusion: the three leaders from Pentrich, and sundry others, were found guilty of High Treason. For the others, a sentence of hanging. But for the leaders, a special punishment: a sentence of hanging; and then the severing of their heads from their necks; and then the quartering of their bodies. 1817. Just over two hundred years ago.
 
-Appeals were made for clemency; in a 19th century style plea bargain, the men sentenced to the simple hanging would instead be deported. For the mwm with the more creative sentence, for Jeremiah Brandreth, William Turner & Isaac Ludlam, the Prince Regent also showed aome leniency: they would not suffer the indignity of being publicly quartered. But the rest of their sentences would stand.
+Appeals were made for clemency; in a 19th century style plea bargain, the men sentenced to the simple hanging would instead be deported. For the men with the more creative sentences, for Jeremiah Brandreth, William Turner & Isaac Ludlam, the Prince Regent also showed some leniency: they would not suffer the indignity of being publicly quartered. But the rest of their sentences would stand.
 
-And so it was, at just after midday, on Friday November 7th, in the year of Our Lord one thousand eight hundred and seventeen, just over two hundred years ago from now, the three prisoners were paraded around the prison yard in Derby. They were led on to the platform, then hung from the scaffold using the short drop method: rather than the long drop, which would kill a man by snapping his kneck, the low drop was more of a lowering, to ensure a long, slow, lingering death by strangulation. A lesson to the common man, who dared to challenge authority. And a good mornings's entertainment for the rest. For half an hour the men hung there, before their bodies were cut down, one at a time, and placed upon a block. For the executioner's task was not yet complete. For each body in turn was decaptitated with an axe. In turn, their heads were lifted up by the executiner and shown to the stunned, silent crowd: "Behold the head of the traitor, Isaac Ludlum". "Behold the head of the traitor, William Turner". "Behold the head of the traitor, Jeremiah Brandreth". 
+And so it was, at just after midday, on Friday November 7th, in the year of Our Lord one thousand eight hundred and seventeen, just over two hundred years ago from now, the three prisoners were paraded around the prison yard in Derby. They were led on to the platform, then hung from the scaffold using the short drop method: rather than the long drop, which would kill a man by snapping his neck, the low drop was more of a lowering, to ensure a long, slow, lingering death by strangulation. A lesson to the common man, who dared to challenge authority. And a good mornings's entertainment for the rest. For half an hour the men hung there, before their bodies were cut down, one at a time, and placed upon a block. For the executioner's task was not yet complete. For each body in turn was decapitated with an axe. In turn, their heads were lifted up by the executioner and shown to the stunned, silent crowd: "Behold the head of the traitor, Isaac Ludlum". "Behold the head of the traitor, William Turner". "Behold the head of the traitor, Jeremiah Brandreth". 
 
 And as the stunned and silent crowd dispersed, the three bodies were taken away and dumped in an unmarked grave.
 
-But of a certain well-dressed and apaarently well-connected man, a man with fair hair and red whiskers - of a certain Mr. William J. Oliver - there was no sign.
+But of a certain well-dressed and apparently well-connected man, a man with fair hair and red whiskers - of a certain Mr. William J. Oliver - there was no sign.
 
 And that is the end of the story of the Pentrich Uprising.
 
@@ -165,7 +165,7 @@ https://en.wikipedia.org/wiki/Blanketeers
 https://victorianweb.org/history/riots/blanket.html
 
 
-Bagguley and Drummond keep getting into trouble over the voming years...
+Bagguley and Drummond keep getting into trouble over the coming years...
 
 
 
@@ -176,7 +176,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001316/18170623/004/0001
 
 ---
 
-THe charge of wilful murder against Robort Walter seems to have been dropped as the charge fo hight reason was pursued?
+THe charge of wilful murder against Robert Walter seems to have been dropped as the charge of high treason was pursued?
 
 ---
 
@@ -203,7 +203,7 @@ Edingthorpe, December4th, 1883.
 
 
 Nov 1817  
-Death princess charlotte
+Death princess Charlotte
 
 ---
 
@@ -248,7 +248,7 @@ https://www.sfu.ca/~poitras/JSR_proof_20.pdf
 
 Link to 1812 - this can give a call back to earlier tale
 
-TH: eg trouble started in Notts in 1811 and 1812; at start of 1812 events in New Radford... spread to Huddersfield, focus on Huddersfield. Then set up a call back for 1816/1817 for Luddite thrials then and parallel machinations around Pentrich..
+TH: eg trouble started in Notts in 1811 and 1812; at start of 1812 events in New Radford... spread to Huddersfield, focus on Huddersfield. Then set up a call back for 1816/1817 for Luddite trials then and parallel machinations around Pentrich..
 
 ---
 
@@ -264,7 +264,7 @@ We received the following letter this forenoon, upon this distressing subject, f
 
 While murder and robbery seem to be the order of the day, and no individual can shut his door at night, or lay down his head upon his pillow, without the dread of being sacrificed before morning, we are glad to find that those who have had access to know the defective state of our present Police, are not only publicly avowing the fact, but concur with us in opinion, that nothing will ever cure the evil unless the serious interference of Government provide a remedy for it. At the Surrey Quarter Sessions yesterday, Mr. JACKSON, Chairman of the Meeting, and surrounded by a full Bench of Magistrates, expressed himself upon this important subject, while delivering his charge to the Grand Jury, in a manner highly creditable to him as a public . Magistrate. —" When such dreadful butcheries," said Mr. JACKSON, " were committed—when the public mind was in such a state of fermentation and alarm—when our houses were obliged to be fortified and barricaded, and our fears still were lest the enemy without should prove stronger than the garrison within, it would be expected that he would allude to these facts—melancholy facts, which certainly demanded our most serious attention. If, as was the case at present, our merchants could not send out their clerks, at noon day, without danger of their being hustled and having their property taken from them by gangs of villains, *so numerous and so desperate as to intimidate the Officers of Police from interfering*, every one would agree that such was not a fit state for society to be in."—Alluding to a late charge delivered by Mr. MAINWARING, at the Middlesex Sessions, in which that Gentleman gave it as his opinion, that the Police already possessed power fully adequate to its object, without the interference of Government, Mr. Jackson said, that he entertained a very different view of the subject, and most distinctly pointed out, by a reference to the Statues in force respecting the Police, that the powers which they conferred upon public officers, were very limited indeed, and no way adequate to the extent of this vast Metropolis.
 
-It was a well known fact, continued Mr. Jackson, that the Police Officers passed people in streets, well known to answer the description of offenders mentioned in the Act. " Whether this," he said, " arose from want of power, want of stimulus, or want of inclination on the part of the officer, it was not in his power to say ; but it was a subject worthy of inquiry." Yes, it is a subject truly worthy of legislative inquiry, of more importance, we may add, than any public inquiry ever brought before the House ; for what are all our political rights, or how are we to enjoy then, if our personal safety is hourly endangered? As the cause of these dangers, it is only to be found in the defective nature of our Police system, which recognizes the employment of persons, to discharge its important duties, who have no other quality to recommend them then that of being notorious thieves !!! Upon this subject we recommend to the perusal of our Readers a Letter addressed to Mr. Secretary Ryder, inserted in a preceding Paper, which, in a very clear and pointed manner, developes the nature of this unheard of system. It is true, that the gloom and horror, which has so long possessed the public mind, has been somewhat alleviated, by the notice given in the House of Commons by our Home Secretary respecting the Police ; but it is most ardently hoped, and anxiously expected, that Parliament will not stop at half measures, but will adopt such plans as will secure the peace and safety of the community. We have never called for any thing like a *military* system, though we have certainly thought, that, at a time when the well-disposed part of the community trembled in their beds for their personal safety, it had been a wise expedient to have afforded them the *temporary* protection of military patroles, under the immediate direction and controul of the *civil power* ; and we believe it will not be denied, that, if our suggestions in this respect had been duly attended to, some of the murders, and the whole of the outrages that have lately disgraced the Metropolis, would have been prevented. This, however, we must repeat, we never recommended, but as a *temporary* expedient, until a permanent system of effective Preventive Police could be established; and we most devoutly hope, it will be immediately taken into consideration by both Houses of Parliament.
+It was a well known fact, continued Mr. Jackson, that the Police Officers passed people in streets, well known to answer the description of offenders mentioned in the Act. " Whether this," he said, " arose from want of power, want of stimulus, or want of inclination on the part of the officer, it was not in his power to say ; but it was a subject worthy of inquiry." Yes, it is a subject truly worthy of legislative inquiry, of more importance, we may add, than any public inquiry ever brought before the House ; for what are all our political rights, or how are we to enjoy then, if our personal safety is hourly endangered? As the cause of these dangers, it is only to be found in the defective nature of our Police system, which recognizes the employment of persons, to discharge its important duties, who have no other quality to recommend them then that of being notorious thieves !!! Upon this subject we recommend to the perusal of our Readers a Letter addressed to Mr. Secretary Ryder, inserted in a preceding Paper, which, in a very clear and pointed manner, developes the nature of this unheard of system. It is true, that the gloom and horror, which has so long possessed the public mind, has been somewhat alleviated, by the notice given in the House of Commons by our Home Secretary respecting the Police ; but it is most ardently hoped, and anxiously expected, that Parliament will not stop at half measures, but will adopt such plans as will secure the peace and safety of the community. We have never called for any thing like a *military* system, though we have certainly thought, that, at a time when the well-disposed part of the community trembled in their beds for their personal safety, it had been a wise expedient to have afforded them the *temporary* protection of military patroles, under the immediate direction and control of the *civil power* ; and we believe it will not be denied, that, if our suggestions in this respect had been duly attended to, some of the murders, and the whole of the outrages that have lately disgraced the Metropolis, would have been prevented. This, however, we must repeat, we never recommended, but as a *temporary* expedient, until a permanent system of effective Preventive Police could be established; and we most devoutly hope, it will be immediately taken into consideration by both Houses of Parliament.
 
 [TH: what is the letter to Mr Secretary Ryder in a preceding paper?]
 
