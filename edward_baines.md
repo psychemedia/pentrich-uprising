@@ -8,7 +8,7 @@ https://books.google.co.uk/books?id=qYXpz54H6fwC&pg=PA111&dq=edward+baines+histo
 The Life of Edward Baines: Late M. P. for the Borough of Leeds
 By Sir Edward Baines
 eg Oliver pp92-6
-on populat violence, condemning, p75-6  
+on popular violence, condemning, p75-6  
 
 https://books.google.co.uk/books?id=KHToAAAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 History of the Reign of George III, King of the United Kingdom of ..., Volume 4 

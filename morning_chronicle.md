@@ -190,7 +190,7 @@ STATE TRIALS.
 
 Derby, OCTOBER 20.
 
-The legal advisers of the prisoners having determined stifl to persist in their plan of chailenging the Jury on the part of their clients, separately, *William Turner* was the person selected by the Officers of the Crown to be tried next. This man was formerly in the Militia, but, having volunteered in the 20th Regiment of Foot, he has since bean abroad, and in Egypt and elsewhere fought the battles of his country. He is a tall man, 47 years of age.
+The legal advisers of the prisoners having determined still to persist in their plan of challenging the Jury on the part of their clients, separately, *William Turner* was the person selected by the Officers of the Crown to be tried next. This man was formerly in the Militia, but, having volunteered in the 20th Regiment of Foot, he has since bean abroad, and in Egypt and elsewhere fought the battles of his country. He is a tall man, 47 years of age.
 
 He Was brought from the gaol in the same manner as had been pursued with Brandreth, linked to the wrist of Mr. Eaton, jun. at about a quarter before eight. He is a man of plain appearance: he was dressed very decently, in a blue coat and coloured waistcoat.
 
