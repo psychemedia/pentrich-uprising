@@ -40,7 +40,7 @@ At eight o'clock this morning twelve prisoners came in from Nottingham, on the t
 
 A few minutes past nine, Mr. Loundes, the Clerk of the Arraigns, took his place in Court: a short time afterwards the Attorney General entered, and seated himself on his right hand. Mr. Loundes directed that their Lordships should be informed the Attorney-General was in Court; at that instant Mr. Justice Holroyd and Mr Justice Abbott took their seats on the Bench ; Mr. Clarke took his place at the same time on the Attorney-General's right hand ; Mr. Balguy sat next.
 
-Mr. Justice Abbott (addressing the Nottingham gaofcf)—"Gaoler, you have prisoners here ; bring them forward."
+Mr. Justice Abbott (addressing the Nottingham gaoler)—"Gaoler, you have prisoners here ; bring them forward."
 
 The 12 men from Nottingham were then led from a cell immediately behind the Bench to the seat prepared opposite the Jury-box. The Clerk read their names:— Isaac Ludlam the younger, Charles Swaine, John Onion, Joseph Topham, German Buxton, Edward Moore, George Brassington, William Adams, William Hardwicke, John Wright, Thomas Ensor, and Joseph Savage.
 
@@ -244,7 +244,7 @@ DERBY, Sunday, Nov. 2.
 CONVICTS FOR HIGH TREASON
 The Chaplain was authorized to communicate evening to the throe unfortunate men, *Brandreth*, *Turner* and *Ludlam*, that they were to suffer the sentence of the law on Friday next. Some time before this communication was made, *George Weightman* was taken into a room in front of the gaol. This circumstances furnished to the other three matter of melancholy reflection. Brandreth walked stoutly by himself up and down the length of the yard. Turner and Ludlam paced slowly across the further end of the yard, and seemed in earnest discourse, perhaps on the possibility of the Royal mercy being extended to them. Weightman, on hearing that he was respited till Friday the 14th of November, became flushed and considerably agitated. Brandreth was then separated from his two associates, and informed of his fixed doom. He said nothing, but seemed struck with momentary horror. He gradually resumed his ordinary look and manner.
 
-It was then judged proper by the High Sheriff and Mr. Lockitt not to make any communication of the subject to Turner and Ludlam till to-morrow morning. Brandreth and Welghtman are therefore confined this night in a cell together, and Turner and Ludlam in another cell.
+It was then judged proper by the High Sheriff and Mr. Lockitt not to make any communication of the subject to Turner and Ludlam till to-morrow morning. Brandreth and Weightman are therefore confined this night in a cell together, and Turner and Ludlam in another cell.
 
 It is a curious circumstance that Brandreth happened to be a spectator at the execution of Despard, and well remembers the conduct of that criminal on the scaffold.
 

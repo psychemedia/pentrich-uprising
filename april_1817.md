@@ -517,7 +517,7 @@ REPORTS of the TRIALS of JAMES TOWLE, at Leicester, August 10, 1816, for shootin
 
 ALSO,
 
-Price 1 1/2 d. common, and 2d. on fine Paper, as a SEQUEL to the above, SOME PARTICULARS of the CONDUCT and EXECUTION of Thomas Savidge, Wm. Withers, Joshua Mitchell, Wm. Towle, John Crowden, and John Amos, who were executed on the New Drop, at Leicester, on April 17, 1817; Including COPIES of the LETTERS they wrote to their Friends, while under Sentence of Death ; also an outline of Lord Midddleton's Speech in reference to these unfortunate Men, delivered at the late County Meeting, held at Mansfield.
+Price 1 1/2 d. common, and 2d. on fine Paper, as a SEQUEL to the above, SOME PARTICULARS of the CONDUCT and EXECUTION of Thomas Savidge, Wm. Withers, Joshua Mitchell, Wm. Towle, John Crowden, and John Amos, who were executed on the New Drop, at Leicester, on April 17, 1817; Including COPIES of the LETTERS they wrote to their Friends, while under Sentence of Death ; also an outline of Lord Middleton's Speech in reference to these unfortunate Men, delivered at the late County Meeting, held at Mansfield.
 
 And since published. price 1d.  
 FOUR ADDITIONAL LETTERS, viz., one from William Towle to his Father ; one from the Rev. E. T. Vaughan, to Towle's Brother; one from the Mother, and one from the Wife of William Withers, addressed to him, previous to his Execution.— Copied from the Originals.

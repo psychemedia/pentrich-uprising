@@ -33,7 +33,7 @@ https://archive.org/details/trialbyjuryonlyg00lond/page/n1/mode/2up
 
 
 
-Compelete transcripts of the trials held as "state trials" can be found in Cobbett.
+Complete transcripts of the trials held as "state trials" can be found in Cobbett.
 
 cobbet state trials 1817 - 
 https://books.google.co.uk/books?id=rw9AAAAAYAAJ&dq=cobbett%20state%20trials%20%22volume%2032%22&pg=PP7#v=onepage&q&f=false

@@ -2,7 +2,7 @@
 
 As is still the case today, every so often local newspapers would take a historical look back at the news of the past. Such reviews can provide us with a sense of how the original events might have been recalled in folk memory a lifetime or two later.
 
-So let us begin with athe origins of the Luddite troubles in 1811, and then make a quick forary through to 1817.
+So let us begin with the origins of the Luddite troubles in 1811, and then make a quick foray through to 1817.
 
 
 ----
