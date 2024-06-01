@@ -1,6 +1,12 @@
 # Folly at Folly Hall
 
 
+copyright article at https://huddersfield.exposed/wiki/Old_West_Riding:_A_Collection_of_Original_Articles_(Spring_1984)#page/n21/mode/1up
+
+The Folly Hall Uprising 1817 — by Alan J. Brooke (page 18)
+
+PDF in ../resources/
+
 --
 Folly Hall - https://huddersfield.exposed/wiki/Folly_Hall,_Huddersfield
 According to local historian Philip Ahier in The Legends and Traditions of Huddersfield and Its District, there were two theories to explain the nickname:
@@ -21,8 +27,7 @@ Folly Ha11 is associated with the famous " Folly Hall Fight! " which took place 
 
 " This (an open field opposite a former primitive foundry) was the scene of the first famous Folly Hall Fight, where General Croft gave those notable words of command, ' Front rank, kneel,down, rear rank, fire,' which struck terror in the hearts of our brave yeomanry cavalry."
 
-" This 'Folly Hall Fight', as it was called, took place at a time of great agitation. In many places, the people were drilling and arming to fight for their rights and liberties. Croft was a brave old soldier who had fought in many a battle. He was drilling a squad of 'rebels' in the field by the River. The Yeomanry had been apprised of this and came down valiantly to disperse the ' rebels.' When they (the Yeomanry) reached the bridge they made a stand to reconnoitre. Just at that moment, the old veteran, in the course of his drill insruetions, bawled out at the top of his voice, the the *(sic)* terrible words, 'Front rank, kneel down! rear rank, fire.' A few pistols went off,  hereupon our valiant Bobadils took alarm, turned their horses sharp round and galloped up Chapel Hill as if they were riding a steeplechase. They ventured not to check their flight until they ran back to cover in the back yard of "The
-Rose and Crown." (p. 228). Some sadly malicious people even said they wounded a horse in the nose with a pistol shot, to show what dangers they had braved, and the terrible jeopardy in which their valuable lives had been placed. In all probability, the malicious people who said so were not far wide of the mark. Thus ended the Folly Hall fight, where the vanquished fled without being attacked or even threatened) and the victors were wholly unaware of the brilliant repulse they had effected."
+" This 'Folly Hall Fight', as it was called, took place at a time of great agitation. In many places, the people were drilling and arming to fight for their rights and liberties. Croft was a brave old soldier who had fought in many a battle. He was drilling a squad of 'rebels' in the field by the River. The Yeomanry had been apprised of this and came down valiantly to disperse the ' rebels.' When they (the Yeomanry) reached the bridge they made a stand to reconnoitre. Just at that moment, the old veteran, in the course of his drill insruetions, bawled out at the top of his voice, the the *(sic)* terrible words, 'Front rank, kneel down! rear rank, fire.' A few pistols went off,  hereupon our valiant Bobadils took alarm, turned their horses sharp round and galloped up Chapel Hill as if they were riding a steeplechase. They ventured not to check their flight until they ran back to cover in the back yard of "The Rose and Crown." (p. 228). Some sadly malicious people even said they wounded a horse in the nose with a pistol shot, to show what dangers they had braved, and the terrible jeopardy in which their valuable lives had been placed. In all probability, the malicious people who said so were not far wide of the mark. Thus ended the Folly Hall fight, where the vanquished fled without being attacked or even threatened) and the victors were wholly unaware of the brilliant repulse they had effected."
 
 The second version of the " Folly Hall Fight" is given by Mr. James Mayhall in his " Annals of Yorkshire " (Vol. 1., p. 263) under the year 1817 :—
 
