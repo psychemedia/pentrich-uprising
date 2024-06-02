@@ -37,6 +37,7 @@ Complete transcripts of the trials held as "state trials" can be found in Cobbet
 
 cobbet state trials 1817 - 
 https://books.google.co.uk/books?id=rw9AAAAAYAAJ&dq=cobbett%20state%20trials%20%22volume%2032%22&pg=PP7#v=onepage&q&f=false
+
 https://archive.org/details/acompletecollec01howegoog/page/n8/mode/2up
 
 The Loughborough luddites (towle) were not state trials; but watson (spa fields) and Pentrich were
@@ -65,8 +66,7 @@ Journal 38.3 (2000) : 453-494.
 http://digitalcommons.osgoode.yorku.ca/ohlj/vol38/iss3/3
 
 https://www.tandfonline.com/doi/pdf/10.1080/01440368708530895?casa_token=_Kt17-n4fKQAAAAA:d9VJFbz3REPsBYTP7bsYU6JYwPwMxjmaCX2Tx2gAGEhIyciIc8r5l_kPjBu2Obfk1k8IVKCcvQkA
-Special juries in England: Nineteenth century
-usage and reform
+Special juries in England: Nineteenth century usage and reform
 James Oldham
 To cite this article: James Oldham (1987) Special juries in England: Nineteenth century usag
 
