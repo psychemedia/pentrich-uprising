@@ -1,11 +1,16 @@
 # Cartwright's Mill
 
-The tale everyone knows?
+*This is the tale that perhaps everyone knows?*
 
-Baines/Mercury  -" an event that will survive in local remembrance the present generation " in https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120418/010/0003
-Leeds Mercury - Saturday 18 April 1812
+As Edward Baines, editor and owner of the Leeds Mercury, commented on Saturday 18 April 1812, it was "an event that will survive in local remembrance the present generation"
 
 False trials - pissed and bragging eg in https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003 Leeds Mercury - Saturday 25 July 1812
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002?browse=true&fullscreen=true
+Leeds Mercury - Saturday 25 July 1812
+
+The persons called Luddites it is said, may be divided into three classes— *Robbers*, men who wish to live by plunder, and avail themselves of the disturbed state of the country to carry on their villainous purposes. *Anti-Machinists*, persons who impute a difficiency of labour to the use of Machinery in shearing cloth, weaving cotton, and weaving hosiery; and *Spies*, men that have introduced themselves amongst the depredators to worm out information, and whose employment must cease with the disturbances. We should be glad to know to which of these classes the persons at present engaged in stealing arms belong
 
 -----
 
@@ -19,11 +24,11 @@ That blasted foreign war had been going on for years, and now things were hittin
 
 It was Monday night at the sign of the Black-Bull, the Black-Bull in Mirfield, and several of the regulars were sat in the back room, drinking, one too many, and then some more, arguing over the news in Saturday's paper. Some good news, at least: it seemed the Orders in Council might be put an end to; but those London folk didn't know what they were talking about, with their "no evidence of distress in the West Riding of Yorkshire". Half the families round about in need of charity? Half of them!
 
-And then talk turned to the fire at the Gibraltar Woollen Mill the Sunday before.
+And then talk turned to the fire at the Gibraltar Woollen Mill the Sunday before. You can just imagine it...
 
 "Says here it weren't the Ludds that fired it; Baines reckons it were just a wool pile going up. But the whole building's done for, and all the machines. And good riddance to 'em", and they all said cheers to that.
 
-"S'what we should'a done at Rawfolds" said one of them. "Torched it."
+"S'what we should'a done at Rawfolds" said another of them. "Torched it."
 
 And so his tale began. "I were there, that night. At Rawfold's Mill. And I saw us men fell, too."
 
@@ -33,17 +38,36 @@ And the three passing travellers who were sat round in the bar on the other side
 
 "And what would you know about it..."
 
-We met at Dumb Steeple. It were pretty much a pitch black night, so we needed somewhere we could find. 
+We met at Dumb Steeple. It were pretty much a pitch black night, so we needed somewhere we could find.
 
 --
 
 TO DO - account of attack on Rawfold's Mill
 
+It's fair trek out of Huddersfield to the Dumb Steeple, and uphill too. By midnight??, ?? men had gathered there, then organised into rankes, and counted off. A regular drill, but tonight they meant business. A group from Leeds?? were  to meet them at Rawfolds, to bolster the numbers even further. Cartwright would have defences in place, but through strength of numbers, the Luddites would show him who was boss. The final advance began.
+
+Cartwright had made his way to bed about ??. Also in the mill were ??
+
+Two guards?? posted outside were easily overcome by the Luddites, but a dog chained in the yard sounded the alarm, woke? Cartwright, who sounded the alarm.
+
+Windows were broken, a huge axe/hammer? the reinforced door, nails? hammering into it to prevent the blow of axes doing too much damage. Gunfire ... Cartwight had prepared vitriol — sulphuric acid — to be poured on the heads of the attackers should then make it inside the mill.
+
+One man lost his hat.
+
+Two men were shot.
+
+
+
+
+--
+
+He finished his tale.
+
 "Yeah, an' I read all that in the paper too. Yer never were there..."
 
 "And I was too... I were there, that night. At Rawfold's Mill. And I saw us men fell, too.  And I were never engaged in any association in my life `cept that of General Ludd. Ever true to it. For three years and more." And he raised a toast to himself, and supped again.
 
-"hHold yer peace, yer stupid bugger. If there were good trade, and a meal come down, Ned Ludd would die tomorra'." And at that, they all laughed.
+"Just hold yer peace, yer stupid bugger. If there were good trade, and a meal come down, Ned Ludd would die tomorra'." And at that, they all laughed.
 
 But for the three travelling men on the other side of the thin wood partition that separated the back room from the bar, its small glass window partially broken, they heard him say that too. And that was too much for them. One of them left the bar to find a Constable. Another went into the back room: "who was saying that, about Rawfolds?" and one of the drinkers pointed him out. "'s 'im. Pissed as a fart."
 

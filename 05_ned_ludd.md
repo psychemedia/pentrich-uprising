@@ -1,5 +1,11 @@
 # Ned Ludd
 
+I supsec that most people today are familiar with the term "Luddite", often used as an insult, to describe someone who is reluctant to use, or adopt, any technology invented after the technologies they grew up with.
+
+Some may even claim to know the origin of the term, in the form of a certain Nedd Ludd. But fewer people know *his* supposed story. Or the stories of the original Luddites, the frame-breakers and machine breakers of the north of England just over two hundred years ago now. Or even the price they paid for their actions.
+
+So let's start with the myth, and the character of "Nedd Ludd"? Who was he, and why is it his name that became attached to the machine breaking protests that started in the second decade of the 9th century on the Derbyshire-Nottinghamshire border?
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18111220/022/0003
 Nottingham Review - Friday 20 December 1811
 

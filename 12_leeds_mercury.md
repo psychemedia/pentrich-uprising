@@ -1,6 +1,9 @@
 1811
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18111123/007/0003?browse=true
-Leeds Mercury - Saturday 23 November 1811
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18111123/007/0003
+## Leeds Mercury - Saturday 23 November 1811
 RIOTS AT NOTTINGHAM
 
 For some time past the Wholesale Hosiers, who have Stocking-weaving Establishments in the county of Nottingham, have been obliged to curtail their hands; this produced considerable discontent among the workmen. Their riotous spirit was, however, increased by the trade having brought into use a certain wide frame for the manufacture of stockings and gaiters, which, was a considerable saving in manual labour, leading still further to the decrease of the hands employed. On Sunday se'nnight last this being generally known, a number of weavers assembled at different places in the vicinity of Nottingham, and commenced their career of outrage, by forcibly entering the houses of such persons as used particular frames.
@@ -32,7 +35,7 @@ The most recent accounts from Nottingham left that town and neighbourhood free f
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18111221/008/0003
-Leeds Mercury - Saturday 21 December 1811
+## Leeds Mercury - Saturday 21 December 1811
 
 Nottingham, Dec. 12- The insurrectional state to which this county has been reduced for the last month, has no parallel in history, since the troubled days of Charles the First, against which misguided Monarch it took so decided a part. Day after day have the Magistrates, both of the town and county, used every possible endeavour to restore tranquility; day after day have they added to the strength and activity of the civil powers, and called in additional aid of the military; but hitherto, their exertions have been but of little avail; a mysterious organization has been brought into existence, which baffles every ordinary effort to suppress it. — The rioters appear suddenly, in armed parties, under regular commanders; the chief of who, being whomsoever he may, is stiled *General Ludd*, and his orders are as implicitly obeyed as if he had received his authority from the hands of the Monarch. Indeed it is well understood, that disobedience to his commands is punishable with death, according to a solemn oath administered to all the party; and any person that gives information against any of them, subjects himself to the vengeance of the whole organized band, both in person and property; some dreadful examples in the latter instance having already being inflicted, by the burning of haystacks, &c.; hence it is that so few impeachments are made, and so few of the depredators apprehended.
 
@@ -45,15 +48,15 @@ Later accounts down to the 18th inst. state that no advantage has resulted from 
 ---
 
 https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18111123/007/0003?browse=true
+## Leeds Mercury - Saturday 23 November 1811
 
-Wednesday 23 November 2011
-23rd November 1811: Editorial in the Leeds Mercury
+Editorial in the Leeds Mercury
 
 We are more concerned than surprised to find, that a Spirit of Riot and Insubordination has broken out in the county of Nottingham amongst the suffering Manufacturers. As it frequently happens on such occasions, the cause of the distress of these unfortunate people is mistaken; they imagine, it seems, that the low rate of wages and the scarcity of work arise from some improvement in the Stocking weaving Frames, and their vengeance is directed against the owners of these inoffensive implements of labour; but they ought to be informed that the real cause of the evils of which they so loudly and justly complain, is the long continuance of a heart-sickening war, without visible object, and apparently without end, and which has in its consequences damied up all the regular outlets of trade; and if instead of sacking the workshops of their employers, who are in general deep participators in the sufferings of the labouring classes, they would unite with the other manufacturers throughout the kingdom in petitioning the proper authorities, first to inform them what it is we are fighting for; and secondly, if the object does not justify the sacrifices, to put a stop to the horrors and miseries of this contest, they would act much more wisely and have a much better chance of seeing an end of their grievances, than by their present lawless and senseless proceedings. We do most sincerely commisserate their situation, but we utterly condemn the means by which they seek to obtain redress.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120418/010/0003
-Leeds Mercury - Saturday 18 April 1812
+## Leeds Mercury - Saturday 18 April 1812
 
 *Also appears in Chester Courant - Tuesday 28 April 1812 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/18120428/007/0004*
 
@@ -81,7 +84,7 @@ HUDDERSFIELD- This place has been all hurry and confusion during the present wee
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003
-Leeds Mercury - Saturday 25 April 1812
+## Leeds Mercury - Saturday 25 April 1812
 
 On Saturday, a regimental Court martial was held at Huddersfield, on the private, who mis-conducted himself at the attack on Rawfolds mill, in refusing or neglecting to defend it in the manner he ought to have done, he was guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning, he was marched, escorted by a detachment of dragoons, to Rawfold the scene of action, where he was tied sip, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr. Cartwright.
 
@@ -91,7 +94,7 @@ The Committee of the association of Merchants and Manufacturers at Huddersfield,
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120502/011/0003
-Leeds Mercury - Saturday 02 May 1812
+## Leeds Mercury - Saturday 02 May 1812
 
 ATROCIUS MURDER. On Tuesday evening last,  at about half past six o'clock, as Mr. WILLIAM HORSFALL a very extensive Wollen Manufacturer at Marsden, about seven miles from Huddersfield, was returning from the market at that place, he was assassinated on the public road, on Crossland Moor.
 
@@ -108,7 +111,7 @@ A reward of £2000 will, we understand, be offered immediately to any person who
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120509/008/0003
-Leeds Mercury - Saturday 09 May 1812
+## Leeds Mercury - Saturday 09 May 1812
 
 Huddersfield, May 7, 1812  
 
@@ -124,7 +127,7 @@ You was misinformed with respect to Major Gordon's stable set on fire; the stabl
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120620/005/0003?browse=true
-Leeds Mercury - Saturday 20 June 1812
+## Leeds Mercury - Saturday 20 June 1812
 
 THE MERCURY `[Editorial commenting on the announcement on June 16, 1812 that the Orders in Council, which called for a blockade of French trade with Britain, France's allies, or neutral countries, including the Americans, would be suspended. ]`
 
@@ -156,7 +159,7 @@ A man of the name of James Oldroyd, was apprehended at Dewsbury, on Tuesday even
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120704/009/0003
-Leeds Mercury - Saturday 04 July 1812
+## Leeds Mercury - Saturday 04 July 1812
 
 Since our last were committed to York Castle, James Oldroyd, of Dewsbury, clothier, charged upon oath with having on the night of Monday the 22d of June inst. at the Sign of the Black-Bull, in Mirfield, confessed that he was at Rawfold's Mill on the night it was attacked, that he was engaged in that attack, and that he was near to his Fellow Creature when he fell. ...
 
@@ -164,7 +167,7 @@ Since our last were committed to York Castle, James Oldroyd, of Dewsbury, clothi
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120711/011/0003
-Leeds Mercury - Saturday 11 July 1812
+## Leeds Mercury - Saturday 11 July 1812
 
 We have considered it our duty to inquire, with more than ordinary diligence, into the reports of discoveries made, and excesses committed in this county, during the last ten days, some of which, in a very exaggerated form, have found their way into the London Papers, and the following is the result of our inquiries:
 
@@ -172,7 +175,7 @@ On the 20th ult. the Luddites, about twenty in number, entered the house of Mr. 
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120711/009/0003
-Leeds Mercury - Saturday 11 July 1812
+## Leeds Mercury - Saturday 11 July 1812
 
 HOUSE OF COMMONS.-Wednesday, July 8.  
 SECRET COMMITTEE.  
@@ -181,12 +184,12 @@ Mr. Leicester brought up the Report of the Secret Committee appointed to examine
 
 On the motion that the Report do lie on the table, Mr. Ponsonby wished to know if the Right. Hon. Gent. opposite intended to move that the Report be printed and taken into consideration? ...
 
----
-
 
 ---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001255/18120714/011/0003
-Public Ledger and Daily Advertiser - Tuesday 14 July 1812
+
+## Public Ledger and Daily Advertiser - Tuesday 14 July 1812
 
 [Previous story above syndicated with a different closing and reference to Barrowclough being taken to Manchester.]
 
@@ -196,7 +199,7 @@ A person of the name Barrowclough, of Holmfirth, a corporal in the Upper Agbrig 
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003
-Leeds Mercury - Saturday 25 July 1812
+## Leeds Mercury - Saturday 25 July 1812
 
 YORKSHIRE SUMMER ASSIZES
 
@@ -239,7 +242,7 @@ The Jury, without leaving the box, found the prisoner-NOT GUILTY.
 The verdict was received in perfect silence.
 
 It may be proper here to add, that the most perfect order and decorum prevailed in the Court during the whole of the trials for rioting; and there is in the city no military parade, nor anything to indicate that the County is not in a state of the most profound tranquility and security.
- 
+
 ARMS STEALING
 
 Thursday, July 23.—WILLIAM SYKES was charged with stealing a gun, in the dwelling-house of John Marsh, of Meltham, on the night of the 9th of May.
@@ -267,8 +270,9 @@ His Lordship said, he thought it unnecessary to call upon the Prisoner for his d
 James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Arden and others, with being strongly suspected of having been one of the persons who riotously assembled and attacked the mill of Mr. William Cartwright, of Liversedge.-No Bill.
 
 ---
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002?browse=true&fullscreen=true
-Leeds Mercury - Saturday 25 July 1812
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002
+
+## Leeds Mercury - Saturday 25 July 1812
 
 The persons called Luddites it is said, may be divided into three classes— *Robbers*, men who wish to live by plunder, and avail themselves of the disturbed state of the country to carry on their villainous purposes. *Anti-Machinists*, persons who impute a difficiency of labour to the use of Machinery in shearing cloth, weaving cotton, and weaving hosiery; and *Spies*, men that have introduced themselves amongst the depredators to worm out information, and whose employment must cease with the disturbances. We should be glad to know to which of these classes the persons at present engaged in stealing arms belong; we have our suspicions; and cannot forget, that a man of the name of Watt, a spy, was executed at Edinburgh, about the year 1794, for an act of High Treason in which he had engaged while labouring in his vocation, in order to draw others into his snares. The history of this man is curious, and we will take an early opportunity of recalling it to public recollection.
 
@@ -280,7 +284,7 @@ The persons called Luddites it is said, may be divided into three classes— *Ro
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000062/18120804/009/0001
-Hull Packet - Tuesday 04 August 1812
+## Hull Packet - Tuesday 04 August 1812
 
 Yorkshire Summer Assizes
 
@@ -297,14 +301,14 @@ MANY of you have so repeatedly served this office, and are so well acquainted wi
 --
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121017/009/0003
-Leeds Mercury - Saturday 17 October 1812
+## Leeds Mercury - Saturday 17 October 1812
 
 Since the last assizes, no less than 43 felons have been committed to the Castle of York, for various crimes, out of which number 33 are charged with committing divers offences against the public peace, in the West-Riding, and who denominate themselves Luddites; 6 for forgery, 3 for a rape, and 1 for the murder of a child.
 
 Since our last, were committed to York Castle, George Mellor, of Longwood Bridge, in Quarmby, in the West-Riding, cloth-dresser, charged upon the oath of Joseph Mellor, and others, with being strongly suspected of having, on the 28th day of April last, fired at, and shot Mr. Wm. Horsfall, of Marsden, in the said Riding, merchant, deceased, upon the King's highway. Also, James Varley, of Lockwood, in the West Riding, cloth-dresser, charged upon the oath of John Bates, with having on the night of Whitsun-Monday last, with divers other persons, unlawfully assembled at Gib-lane end, and feloniously stole and carried away divers guns, the property of Wm. Newton, of Hagswood Hill, in the said Riding.— Also, Joseph Brook, of Rastrick, tailor, charged upon the oath of Benjamin Strickland, and Ann Armitage, with having, in company with divers others unknown, at three o'clock in the morning of the 5th inst. burglariously broke, and entered the dwelling-house of the said Benjamin Strickland, and feloniously stolen thereout one silver watch, one pocket-book, and other articles, the property of the said Benjanmin Strickland.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002
-Leeds Mercury - Saturday 07 November 1812
+## Leeds Mercury - Saturday 07 November 1812
 
 THE MURDERERS OF MR. HORSFALL.  
 We copy the following curious article from the Courier of Thursday the 29 ult. :-  
@@ -322,7 +326,7 @@ It appears ——— and ———— have been Chiefs in all the disgraceful tr
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003
-Leeds Mercury - Saturday 28 November 1812
+## Leeds Mercury - Saturday 28 November 1812
 
 LEEDS, SATURDAY, Nov. 28. ... It has been determined to appoint a Special Commission for the trial of the persons accused of the murder of Mr. Horsfall, and of the Luddites now confined in York Castle, to the number of between 40 and 50. The trials will take place, we believe, in about three weeks.- -Courier.
 
@@ -335,7 +339,7 @@ Insurrection in Yorkshire - and Oliver the spy; trial of Yorkshire rioters
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170614/005/0002
-Leeds Mercury - Saturday 14 June 1817
+## Leeds Mercury - Saturday 14 June 1817
 
 TRIALS FOR TREASON.
 
@@ -469,9 +473,9 @@ IN the House of Lords on Monday, LORD LIVERPOOL, in answer to the inquiries of E
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170621/005/0002
-Leeds Mercury - Saturday 21 June 1817
+## Leeds Mercury - Saturday 21 June 1817
 
-WATSON'S TRIAL CONTINUED.
+### WATSON'S TRIAL CONTINUED.
 
 On Thursday, at half-past nine, the trial again re-commenced with the cross-examination of Castle, who was brought up in custody; the cross-examination continued till one o'clock, after which a number of witnesses were produced to speak to various circumstances;  this occupied the Court till half-past six, when the prisoners were again re-conveyed to the Tower.
 
@@ -575,11 +579,14 @@ Mr. Harmer now conducted the prisoners out of the Court the back way behind the 
 
 ---
 
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
-Leeds Mercury
-Saturday 14 June 1817
+Leeds Mercury 7th June is not in British Newspaper Archive
 
-PROJECTED INSURRECTION IN YORKSHIRE
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
+## Leeds Mercury - Saturday 14 June 1817
+
+### PROJECTED INSURRECTION IN YORKSHIRE
 
 In the second edition of our last publication, we stated some particulars, which had just reached us, of a rumoured insurrection in this district, and also the arrest of ten persons near Dewsbury, on a charge of treasonable practices. We shall now proceed to lay before our readers all the information which we have been able to collect upon the subject, and our researches have been conducted with great diligence, with perfect impartiality, and with the most anxious wish to come at the truth. We shall first shortly state what appears to have been the object and extent of the plot, and then detail those circumstances which either attended its development, or which have subsequently occurred. It appears, that almost immediately after the suppression of the Union Societies, established in different towns in this district for effecting a reform in Parliament, some of the most violent members associated together, in a private and clandestine manner. At these meetings it is supposed to have become a question for deliberation, whether a change in the representation might not be effected without the intervention of Parliament, and a project to effect this purpose appears to have been communicated to them by Mr. Oliver, who had been introduced to these Ultra Reformers by Mitchell, (a Delegate, now in custody,) as a person deserving their confidence, and not only disposed to communicate to them interesting information as to the state of the country; but able to afford them the most affectual assistance; thus recommended, he soon possessed himself of their unbound confidence. This person is said to have represented to these credulous men, that all the people in the metropolis were favourable to a complete change of Government, that every thing was organised, and that it was absolutely settled, that on the night preceding the trial of the state prisoners, (the night of the 8th June,) a general rising, would take place; that as a consequence of this movement, all the public offices were to be taken possession of, all the constituted authorities seized, and the state prisoners released; and that a plan had also been arranged for securing all the military, by which means a change in the government would be effected, without any effusion blood. It was further represented to them, that in order to carry out this bloodless revolution, it was absolutely necessary that the same plan should be simultaneously acted upon in all parts of the country ;- that it was therefore necessary, that on the night agreed upon, namely on Sunday the 8th inst. all the military in every district of the kingdom should be secured in their quarters, their arms seized, and that the magistrates and other civil officers should be arrested and placed in a state of restraint, not merely that no opposition might be made to the designs of the insurgents, but that they might serve as hostages for the safety of such of their own party as might fall into the hands of government. This absurd and wicked project is said to have been entertained, and in some degree acted upon, by a number of individuals in different parts of this district; and a participation in this plot is alleged against the persons who were apprehended yesterday se'nnigh, at Thornill Lees, charged with having assembled there, for the purpose of carrying into immediate effect this daring and traitorous project. Our readers will probably infer, from this statement, that the person introduced by Mitchell to the Ultra Reformers, was, in truth, a spy, and that every step taken towards the execution of the project, had been communicated to persons in authority, as the plot appears to have been known by some of the Magistrates for several weeks past. On Friday morning last, several of the Delegates, together with the informer, met at a public house, in this town, and proceeded in the direction of Dewsbury, and from thence to Thornhill Lees, where they had no sooner arrived at the house of rendezvous than they were surrounded by a detachment of Yeomanry Cavalry, and taken into custody. The following is a correct list of the names and places of residence of the persons apprehended:
 
@@ -600,7 +607,7 @@ On Saturday, the succeeding day, two troops of the 13th regiment of Light Dragoo
 
 The following is a list of their names and residence:
 
-Abram Oldbarn, and John Oldham, of Honley.  
+Abram Oldham, and John Oldham, of Honley.  
 Isaac Johnson, and Joshua Knowles, of Holmfirth.  
 John Rhodes, (late of Holbeck), Holmfirth.  
 
@@ -611,9 +618,9 @@ We feel great satisfaction in having to state that the most perfect tranquillity
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
-Leeds Mercury - Saturday 14 June 1817
+## Leeds Mercury - Saturday 14 June 1817
 p3
-SECOND EDITION
+### SECOND EDITION
 
 Since the first edition of our paper was prepared for the press, the highly important fact has been communicated to us, from a respectable quarter, that the plot referred to in the above statement has been got up under the instigation of an agent from London, and that the principal offender has been suffered to escape with impunity. In confirmation of this fact, which was communicated to us at a late hour yesterday afternoon, we were referred to Mr. Willans, a bookseller, in Dewsbury. To develop a transaction so important, not only to the Government and the people of this country in general, but so intimately connected with the liberty and lives of the accused, we felt it to be our imperious duty to repair to Dewsbury, without a moment's delay, and there to ascertain, on the spot, the truth of the allegation.
 
@@ -662,7 +669,7 @@ The Secret Committee of the House of Commons, which is expected to recommend the
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170621/007/0003
-Leeds Mercury - Saturday 21 June 1817
+## Leeds Mercury - Saturday 21 June 1817
 
 p3
 
@@ -671,11 +678,11 @@ IN the House of Lords on Monday, LORD LIVERPOOL, in answer to the inquiries of E
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170621/010/0003
-Leeds Mercury
-Saturday 21 June 1817
+## Leeds Mercury - Saturday 21 June 1817
+
 p3
 
-EXPLODED PLOTS.
+### EXPLODED PLOTS.
 
 The inquisition made in our last paper of the plotters against the public tranquility, has produced a sensation in the Metropolis – the Senate – and the nation at large, that has seldom been exceeded. One of its first effects was to procure the liberation of the principal part of the persons charged with holding a political meeting for treasonable purposes, at Thornill Lees, in this county; and the magistrates of the West Riding, with a proper regard to their own characters and to the public interest, have done themselves lasting honour, by setting at liberty the men, whom a perfidious conspirator, acting under a superior agency, had marked out for his victims. By this exposure, the secret springs of a diabolical conspiracy, not of the people, but against the people, have been laid bare. The real conspirators have been exhibited to public view.
 
@@ -685,7 +692,7 @@ The account published in the second edition of our last paper, and which will be
 
 On this part of the exposure a few observations will suffice. Every link of the chain of evidence is perfect. The conduct of Oliver, the informer, admits of no further disguise-it is perfectly clear that he instigated persons to attend at Thornhill, on the day in question, and there is reason to suppose that he himself appointed the meeting. What were his instructions we cannot say, but he is completely identified with men in an official situation, by a species of evidence that scarcely stood in need of the admission made by Lord Liverpool, that he was an agent of Government. But, says his Lordship, the account in the Leeds Mercury is an *ex parte* statement, and as such must not be implicitly relied upon. That is true, my Lord, and our anxiety is, that it should no longer be *ex parte*. We invite your Lordship to deprive it of this character, by a rigorous investigation into all the facts of the case; and this investigation, we beseech your Lordship and your colleagues to institute, before the Suspension Bill, founded upon these alleged conspiracies, is suffered to advance another stage in its progress. Whether the bill to renew to Ministers the power of exercising a despotic control over the liberties of their countrymen, has produced the plots, or the plots have produced the bill, it is not our present business to inquire; but we feel it our duty to say, as a circumstance coming within our own knowledge, that, in the inquiries which we made at Dewsbury, the day before the facts we have developed were laid before for the public, we never recollect to have heard a witness give his evidence, even in a court of justice, and upon oath, with a more scrupulous regard to truth than Mr. Willans. If he erred, as he certainly did, in suffering a traitor like Oliver to come near his house, after he had, by insinuation, communicated his villainous designs, he has made ample reparation to his country for his error, by having first declined to attend a meeting, the object of which he considered to be mischievous, and then, by making those disclosures, even at the risk of the obloquy to which they were sure to subject him, which have tended to put down a system of *espionage*, contemplating first the seduction of his Majesty's subjects from their allegiance, and then the destruction of the seduced and the extinction of public liberty. Mr. Dickinson's evidence, which was given with the utmost frankness, Lord Liverpool has confirmed, by the acknowledgement that Oliver was an agent of Government, and in that capacity, it seems, was in communication with the commander of the district.
 
-Mr. Oliver, thee political incendiary, made his first appearance in Yorkshire about nine or ten weeks ago, accompanied by one Mitchell, a Liverpool *delegate*, (now in custody) under the assumed character of a zealous Parliamentary Reformer, whose object it was to ascertain the dispositions of the people, and to give to the sluggish current of public feeling a due degree of fervour. On his arrival in Wakefield, by the True Briton Coach, he called upon Mr. Benjamin Scholes, a publican in that place, a person who had taken a leading part in a meeting recently held, for the purpose of petitioning the Legislature, for a Reform in the representation of the people, and as a specimen of the manner in which Mr. Oliver executed his mission, we shall state the substance of a deposition made by Mr. Scholes, before J. P. Heywood, Esq. one of the magistrates of this riding:—
+Mr. Oliver, the political incendiary, made his first appearance in Yorkshire about nine or ten weeks ago, accompanied by one Mitchell, a Liverpool *delegate*, (now in custody) under the assumed character of a zealous Parliamentary Reformer, whose object it was to ascertain the dispositions of the people, and to give to the sluggish current of public feeling a due degree of fervour. On his arrival in Wakefield, by the True Briton Coach, he called upon Mr. Benjamin Scholes, a publican in that place, a person who had taken a leading part in a meeting recently held, for the purpose of petitioning the Legislature, for a Reform in the representation of the people, and as a specimen of the manner in which Mr. Oliver executed his mission, we shall state the substance of a deposition made by Mr. Scholes, before J. P. Heywood, Esq. one of the magistrates of this riding:—
 
 TESTIMONY OF MR. SCHOLES.
 
@@ -705,8 +712,8 @@ The same spirit of candid inquiry and love of truth, which has, we hope, display
 
 LETTER OF GENERAL BYNG.
 
-" St. James's Square, (London) June 18th, 1817.  
-" Sir,-You have introduced my name into your last paper in such a manner as to induce me to desire the insertion, in your next, of the following statement:-
+"St. James's Square, (London) June 18th, 1817.  
+"Sir,-You have introduced my name into your last paper in such a manner as to induce me to desire the insertion, in your next, of the following statement:-
 
 "You have suffered it to be inferred, that a person of the name of Oliver, was employed by me— that he entrapped the persons taken up at Thornhill-Leys, and that he left London with the view of exciting and fomenting discontent and disturbance in different parts of the country. Not one word of this is true:— before Oliver left London, information had been transmitted tome, from Nottingham, of an intended rising in the manufacturing in the North of England and Scotland: this information was only a repetition of what I had reason to expect for several weeks, if the notion of Sir Francis Burdett, for a Reform in Parliament, should be rejected. The information from Nottingham was subsequently corroborated so fully to me from various quarters, and the 9th of June being from all fixed upon as the period of rising, I was induced, on Monday the 2d of June, to wait upon Sir Francis Wood, and communicate to him what I knew, who deemed my information of sufficient importance to propose a meeting of the Magistracy at Barnsley, for Friday, the 6th. On Wednesday, the 4th, I, for the first time, saw or heard from Oliver, who gave me some information corroborative of that I had before received, and further told me that there would be a meeting of delegates at Cleckheaton on Friday, the 6th. Mr. Parker communicated, on the 5th., to Sir Francis Wood and myself, that he had at Sheffield information given, upon oath, that a meeting of persons, who were finally to decide upon the plan for the 9th, would be held at the Sportsman's Arms, at Thornhill Lees, at 11, on Friday the 6th, and suggested the propriety of arresting these delegates, to prevent the fatal consequences which might ensue on the 9th:— this suggestion was agreed to at Barnsley, on the morning of the 6th. When the Magistrate' (Mr. Chandler) and myself arrived at Thornhill, although some time after the hour of the proposed meeting, Oliver was not come, having been deceived as to the place of the meeting, which, as I have before stated, he expected was to be at Cleckheaton, and so far from having entrapped the men arrested, he only knew one of them by name, (which, in fairness to the individual, I will not here insert). He neither knew the real place of meeting, nor the persons assembled, and was consequently not brought before the magistrates to confirm their other evidence.
 
@@ -719,7 +726,7 @@ LETTER OF GENERAL BYNG.
 "JOHN BYNG, Major-General."  
 To Mr. Edward Baines, at the Mercury-Office, Leeds."
 
-In justice to ourselves, it is proper to remark, that in our paper of last week, we stated facts, rather than drew inferences, and that not one of those facts has been shaken by the above letter. We did not say that "Oliver was employed by General Byng to entrap the persons taken up at Thornhill Lees." On the contrary, we said, that "from every thing we has heard of the character and conduct of General Byng, we were persuaded that he had been merely the medium for receiving Oliver's information, and that whoever might have employed him, the General had merely acted in the discharge of his official duty." Nor did we state that Oliver "left London with the view of exciting and fomenting disturbances in different parts of the country." We could not dive into the dark recesses of Oliver's mind, and it was as impossible for us to know with what views he left London, as it must be for General Byng to speak to the same fact. But with whatever views he left London, or whatever might be the nature of the instructions he received from Ministers on his departure, we think that, after the exposure which it has fallen to our lot to make of his nefarious practices, both General Byng and the country must now be convinced, that this profligate informer has excited and fomented disturbances in different parts of the country, and in the words of the Wakefield Journal, "that had there been no Mr. Oliver there would have been no plot." That there is a great mass of dissatisfaction in the country, and that rumours of the nature alluded to in General Byng's letters, will continue to prevail as long as the public distress prevails, cannot be doubted; but that there was any concerted plan for a rising of the people, till Mr. Oliver and his co-adjutors came into the country, and injected their treasons into the minds of the people, would, we apprehend, be very difficult to prove. Even with Mr. Oliver's assistance, the meeting at Thornhill, if a meeting it could be called, was a most pitiful assembly, and General Byng, we are convinced, when he saw the materials of which that meeting was composed, must have perceived, that all apprehensions of the West Riding of Yorkshire being three days afterwards thrown into a state of insurrection, were utterly groundless. When the General uses the word *delegates*, he must, we presume, apply it in the popular and not in the correct acceptation of the term. It is our firm conviction, that not a single individual present, Mr. Oliver alone excepted, was clothed with delegated powers. The narrative of Thomas Murray, given above, proves very clearly what sort of delegation he possessed; and from every thing we can learn, we are persuaded, that the other delegates just as much represented the places where they happened to reside, as Thomas Murray represented the town of Leeds. General Byng's mode of accounting for Oliver's late attendance at the meeting, is proved by the testimony of Murray to be incorrect, (unintentionally so, no doubt.) We find this man in Leeds, twelve miles only from the place of meeting at half-past, seven o'clock in the morning of Friday, the 6th of June, inquiring, not for *Cleckheaton*, but for *Dewsbury* and *Thornhill*; and we find also, from the concurrent testimony of Mr. Willans and Thomas Murray, that the principal cause of his late attendance was, his wish to seduce Mr. Willans to attend that meeting, to which he had, by a different artifice, decoyed Thomas Murray. General Byng's disavowal of the possession of any powers to hire persons to give him information, we do not call in question, though we do not perceive the propriety of making such a disclaimer, when the conduct of a confessedly *hired* spy is under discussion. It is a matter of perfect indifference to the public, whether Mr. Oliver's remuneration stands under the head of "Secret Service Money," or of "Army Estimates."
+In justice to ourselves, it is proper to remark, that in our paper of last week, we stated facts, rather than drew inferences, and that not one of those facts has been shaken by the above letter. We did not say that "Oliver was employed by General Byng to entrap the persons taken up at Thornhill Lees." On the contrary, we said, that "from every thing we has heard of the character and conduct of General Byng, we were persuaded that he had been merely the medium for receiving Oliver's information, and that whoever might have employed him, the General had merely acted in the discharge of his official duty." Nor did we state that Oliver "left London with the view of exciting and fomenting disturbances in different parts of the country." We could not dive into the dark recesses of Oliver's mind, and it was as impossible for us to know with what views he left London, as it must be for General Byng to speak to the same fact. But with whatever views he left London, or whatever might be the nature of the instructions he received from Ministers on his departure, we think that, after the exposure which it has fallen to our lot to make of his nefarious practices, both General Byng and the country must now be convinced, that this profligate informer has excited and fomented disturbances in different parts of the country, and in the words of the Wakefield Journal, "that had there been no Mr. Oliver there would have been no plot." That there is a great mass of dissatisfaction in the country, and that rumours of the nature alluded to in General Byng's letters, will continue to prevail as long as the public distress prevails, cannot be doubted; but that there was any concerted plan for a rising of the people, till Mr. Oliver and his co-adjutors came into the country, and injected their treasons into the minds of the people, would, we apprehend, be very difficult to prove. Even with Mr. Oliver's assistance, the meeting at Thornhill, if a meeting it could be called, was a most pitiful assembly, and General Byng, we are convinced, when he saw the materials of which that meeting was composed, must have perceived, that all apprehensions of the West Riding of Yorkshire being three days afterwards thrown into a state of insurrection, were utterly groundless. When the General uses the word *delegates*, he must, we presume, apply it in the popular and not in the correct acceptation of the term. It is our firm conviction, that not a single individual present, Mr. Oliver alone excepted, was clothed with delegated powers. The narrative of Thomas Murray, given above, proves very clearly what sort of delegation he possessed; and from every thing we can learn, we are persuaded, that the other delegates just as much represented the places where they happened to reside, as Thomas Murray represented the town of Leeds. General Byng's mode of accounting for Oliver's late attendance at the meeting, is proved by the testimony of Murray to be incorrect, (unintentionally so, no doubt.) We find this man in Leeds, twelve miles only from the place of meeting at half-past, seven o'clock in the morning of Friday, the 6th of June, inquiring, not for *Cleckheaton*, but for *Dewsbury* and *Thornhill*; and we find also, from the concurrent testimony of Mr. Willans and Thomas Murray, that the principal cause of his late attendance was, his wish to seduce Mr. Willans to attend that meeting, to which he had, by a different artifice, decoyed Thomas Murray. General Byng's disavowal of the possession of any powers to hire persons to give him information, we do not call in question, though we do not perceive the propriety of making such a disclaimer, when the conduct of a confessedly *hired* spy is under discussion. It is a matter of perfect indifference to the public, whether Mr. Oliver's remuneration stands under the head of "Secret Service Money" or of "Army Estimates."
 
 The observation of Lord Liverpool, that Mr. Oliver was sent by Government to discover, and not to form plots, may be true, but a first Minister of State ought to know, that when a spy cannot find a plot, he will make one; and when he knows that his employers have a *Green Bag* to fill, he will not fail to present them with his well-timed contributions. But Lord Liverpool, in some of the reports of his speech, says, that if Oliver has practised the arts alleged against him, and endeavoured to excite the people to treasonable acts, he has exceeded his instructions. In that case, let him be brought to justice. Overt acts of treason have been committed, and Mr. Oliver, an avowed agent of Ministers, has perpetrated the crime. Either the agent or the principals are guilty. If he be not tried, they ought to be impeached. Impartial justice, and the loudly raised voice of the country, demands it; and it is the duty of Parliament to see that so reasonable a demand is satisfied.
 
@@ -774,11 +781,10 @@ SUMMER CIRCUITS.
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170621/010/0004#
-Leeds Mercury
-Saturday 21 June 1817
+## Leeds Mercury - Saturday 21 June 1817
 
 p4
-REPORT of the COMMITTEE of SECRECY.
+### REPORT of the COMMITTEE of SECRECY.
 
 *Further Suspensions of the Habeas Corpus Act.*
 
@@ -789,12 +795,10 @@ ALSO: article on YEOMANRY CAVALRY givening notice to residents of Leeds that suc
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170705/008/0003
-Leeds Mercury
-
-Saturday 05 July 1817
+## Leeds Mercury - Saturday 05 July 1817
 p3
 
-OLIVER THE SPY.-
+### OLIVER THE SPY.-
 
 A fact has come to our knowledge connected with the mission of this arch traitor, which, though it can be communicated in a few words, speaks volumes to the mind of every British subject. On the first arrival of Mr. Oliver in the neighbourhood of *Sheffield*, where he spread terror among the peaceable and well-disposed part of the inhabitants, and by his flattering representations imparted joy and confidence to the disaffected and evil-minded, the vigilance of the magistrates at that place enabled them to trace out his proceedings, and to discover that he was disemminating the poison of his treasons in every direction. The first use made by the magistrates of this discovery was to apprise the conservators of the public peace in other parts of the riding of the arrival of this incendiary, and their next step was to address a letter to the Secretary of State for the home department informing him that a *London Delegate*, a man apparently above the lower ranks, had arrived in the country, and was actively employed in organizing sedition and exciting the people to acts of treason. This letter was written by Hugh Parker, Esq. the senior magistrate of the district, who, by return of post, received an answer from Lord Sidmouth, informing him that the person he described as so dangerous a character was an *Agent of Government !!!* Indignant at this communication, Mr. Parker's first determination was to withdraw his name from the commission of the peace, but his repugnance to shrink from his duty at time of public exigency overcame his detestation of the system which ministers had adopted, and he was prevailed upon to continue those services which have reflected so much honour on his own character, and so much benefit on the country. When Lord Sidmouth's *long promised* statement regarding the employment given by government to a herd of spies and informers makes its appearance, we hope he will indulge the public with the correspondence which passed between his lordship and the Sheffield magistracy. We should be glad too if the Magistrates would publish the examinations taken before the Lord-Lieutenant at Wakefield, on Monday, the 16th. ult. If we are rightly informed, those examinations confirm every material point of the statement regarding Mr. Oliver, made in this paper two days before; and it has been stated distinctly in the House of Commons, that the *only material called for the crown* on that occasion, swore that Mr. Oliver got up, or prepared the whole plot. We beg to direct the attention of our readers to the speech of Mr Bennett on the third reading of the Habeas Corpus Suspension Act, and we should be glad if some Member of the House would move, in his place, for the production of Bradley's evidence.
 
@@ -809,11 +813,10 @@ See also: https://thespyoliver.blogspot.com/2017/07/5th-july-1817-oliver-spy-in-
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003
-Leeds Mercury
-Saturday 12 July 1817
+## Leeds Mercury - Saturday 12 July 1817
 p3
 
-ORIGIN OF THE LATE CONSPIRACIES.
+### ORIGIN OF THE LATE CONSPIRACIES.
 
 Several attempts have been made, both in and out of Parliament, to prove that Mr Oliver was merely a *passive* agent in the late conspiracies, formed against Government in the North of England; and that he neither excited the popular discontent, nor gave vitality and organization to the conspiracies. — That this representation of the conduct of the "ministerial agent" is false and deceptive, we have already proved by a host of witnesses. But it is said that these witnesses have all acted under the influence of a disposition to traduce the character of Mr. Legh Keck's *immaculate builder*, and that therefore their evidence is not to be relied upon. This conclusion, we think, does not arise by any means out of the premises. There may, however, be those who are of a different opinion, and to such we beg leave to shoW, out of the mouth of a *Government witness*, that Mr. Oliver was the "Great Man";— that under his directions the *delegates*, so called, were appointed— that he moved and controlled every thing, and that he was, in a word, "the foreman of the concern."
 
@@ -835,16 +838,52 @@ William Wheatley, who was brought to London on Saturday night, was on Monday rem
 
 ...
 
-Since our last, were committed to York Castle, ... - Also, Thomas Riley, of Crosland Moor tailor, charged upon the oath of one credible witness, with being accessory before the fact, and procuring, counselling, commanding, or abetting others to bring about and commit certain riots, unlawful assemblies, and felonies, at the parishes of Kirkburton, Almondbury and Huddersfield, or one of them, and which riots, unlawful assemblies, and felonies, took place on the night of the 8th of June last.-Also, Benjamin Green, of Honley, cloth dresser, charged upon the oath of Joshua Kemp, with being present and aiding and assisting in a riot and unlawful assembly, at the township of Honley on Saturday, the 8th of June last, and tumultuously going about, and unlawfully and feloniosly demanding, stealing, taking and carrying away certain fire arms, from the dwelling-houses of Sarah Jessop and others, in Honley aforesaid. Also, Joseph Jysop, of Lockwood, cloth-dresser, charged upon the oath of Charles Earnsbaw, with being present and aiding and assisting in a riot and unlawful assembly, and bearing arms, at a place called Folly Hall Bridge, in Huddersfield on the night of Sunday the 8th June last, to the terror of the people, and along with others unknown, and with intent to have done some of his Majesty's liege subjects some grievous bodily harm.
+Since our last, were committed to York Castle, ... - Also, Thomas Riley, of Crosland Moor tailor, charged upon the oath of one credible witness, with being accessory before the fact, and procuring, counselling, commanding, or abetting others to bring about and commit certain riots, unlawful assemblies, and felonies, at the parishes of Kirkburton, Almondbury and Huddersfield, or one of them, and which riots, unlawful assemblies, and felonies, took place on the night of the 8th of June last.-Also, Benjamin Green, of Honley, cloth dresser, charged upon the oath of Joshua Kemp, with being present and aiding and assisting in a riot and unlawful assembly, at the township of Honley on Saturday, the 8th of June last, and tumultuously going about, and unlawfully and feloniosly demanding, stealing, taking and carrying away certain fire arms, from the dwelling-houses of Sarah Jessop and others, in Honley aforesaid. Also, Joseph Jysop, of Lockwood, cloth-dresser, charged upon the oath of Charles Earnshaw, with being present and aiding and assisting in a riot and unlawful assembly, and bearing arms, at a place called Folly Hall Bridge, in Huddersfield on the night of Sunday the 8th June last, to the terror of the people, and along with others unknown, and with intent to have done some of his Majesty's liege subjects some grievous bodily harm.
+
+---
+https://britishnewspaperarchive.co.uk/viewer/BL/0000365/18170802/004/0002
+Carlisle Patriot - Saturday 02 August 1817
+
+YORK LAMMAS ASSIZES.
+
+These Assizes commenced at the Castle in York on Monday the 21st July. Mr. Baron Wood presided in the criminal Court. Tine following is his charge to the Grand Jury.
+
+"*Gentlemenn of the Grand Jury,—I am sorry to observe, there are a larger number prisoners than has been usual at the Summer Assizes, and particularly concerned to find that the number is increased by no less than twenty-four persons from the Western part of this county, charged with committing grievous riots, and of being concerned in tumultuary outrages. I was in hopes that the examples made in this place, a few years ago, would have made such an impression upon the minds of these people, as would have deterred them from engaging in future in any similar acts of outrage. I am sorry that they have not produced this effect, and that this disposition to outrage does not seem have been repressed.
+
+"The first prisoner in the Calendar, charged with being present in these tumultuary assemblages, is also charged with feloniously holding, presenting and levelling a gun, with intent to kill or do some grievous bodily harm. This offence, as at present described, is only a misdemeanor, and not a felony, and I make this observation, because, from the use of the word feloniously, it seems have been the intention to charge it as a capital offence under Lord Ellenbnrough's act; but in order to constitute this offence, there should be, in addition to the levelling and presenting the gun, the further act either of firing at, or of pulling the trigger with such intention, and thereby to kill or do grievous bodily harm to some of his Majesty's subjects. The offence, it stands, is only misdeanieanor, though a misdeameanor attended with very aggravating circumstances. There are others charged with stealing fire-arms, and the stealing of arms by force is undoubtedly a felony, and a most enormous offence, and bills of felony will be presented to you against these persons. With respect to the persons charged generally with being concerned in these tumultuary assemblages, it seems to me that their offence will amount only to a misdeameanor more or less aggravated; what their precise or ultimate object was, does not appear from any evidence before the Court— that it was in the highest degree illegal can admit of no doubt, and it is deeply to be lamented that any persons should be so infatuated and deluded as to engage in tumultuary proceedings of this description. It is true they may produce much present mischief, but Justice will certainly overtake the parties who engage in them, and their schemes will issue only in their own misery and ruin, if not death. It is unquestionably the duty of every good subject, and more especially of the magistracy, to exert themselves to the utmost in the suppression of these dangerous outrages, and in the detection and apprehension of the persons who engage in them that they may be brought to condign punishment.
+
+__TRIAL DESCRIPTION FOLLOWS__
+
+Friday July 25th - theft of gun from Dyson
+
+Saturday, July 26th, Shooting at Alexander
+
+----
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18170802/005/0003
+Lancaster Gazette - Saturday 02 August 1817
+
+YORK ASSIZES— July 25, TRIAL OF LUDDITES.
+
+Benjamin Donkersly, Joseph Sykes, Isaac Johnson, Joshua Thewlis, Abraham Oldham, and John Oldham, were indicted for a robbery and burglary at the house of Clement Dyson, in Honley. on the night of Sunday the 8th of last.— Hannah Dyson, Samuel Winpenny, Joshua Kemp, and Susan Hurst, were severally examined; after which Mr. Baron Wood summed up the evidence, pointing out its nature, and how it applied to the different prisoners. — The jury, after consulting for a short time, returned a verdict of *Not Guilty* with regard to all.— The two Oldhams were then put to the bar on another charge; but the prosecution calling no evidence, they were acquitted.
+
+July 26.  
+TRIALS OF THE HUDDERSFIELD RIOTERS.
+
+Benjamin Lockwood, George Woffenden, John Wilson, and Joseph Jyssop, charged with being present, counselling, aiding, and assisting, a person unknown, in firing a loaded gun at Mr. David Alexander, one of the Huddersfield Yeomanry Cavalry, at Folly Hall Bridge, near Huddersfield, on the night of the 8th June last, were *acquitted*.
+
+All the rioters against whom true bills were found are, we believe, now tried and acquitted.
+
+From the evidence, it is quite clear that the riots were of a most alarming character, though the guilt of having been engaged in them was not fixed upon the persons who have stood their trials.
+
+The Judge exhorted the prisoners to beware of continuing in such dangerous courses. They had had a narrow escape, and might rest assured, if they continued such practices, they would infallibly come to an untimely death. The prisoners answered, simultaneously, "We will, indeed, my Lord."
+
+The Lord Lieutenant was present during these trials.— The verdicts, we understand, were received with the most profound silence.— It waa rumoured, at York, oa Saturday night, that no further prosecutions against the Rioters still remaining in custody, would be gone into.— Tho. Riley, of Crosland Moor, tailor, aad Richard Lee, of Holmfirth, clothier, are detained, under a warrant from Lord Sidmouth, on suspicion of High Treason.
 
 ---
 
 Possibly the exaggerated account referred to in the next Mercury article?
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18170714/005/0001
-Leeds Intelligencer - Monday 14 July 1817
-
-and
 
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18170714/023/0003
 Leeds Intelligencer - Monday 14 July 1817
@@ -852,7 +891,7 @@ Leeds Intelligencer - Monday 14 July 1817
 Poor quality, but reappears in
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18170716/004/0002
-London Courier and Evening Gazette - Wednesday 16 July 1817
+## London Courier and Evening Gazette - Wednesday 16 July 1817
 
 We copy the following article from the Leeds Intelligencer of Monday, received this morning:—
 
@@ -881,16 +920,18 @@ London Chronicle - Friday 18 July 1817
 https://britishnewspaperarchive.co.uk/viewer/bl/0000365/18170719/003/0003
 Carlisle Patriot - Saturday 19 July 1817
 
-The state of affairs in neighbourhood of has been much more serious than imagined, and there is still some ground alarm, for the further probable progress of the disaffected ill that quarter. Twenty-three prisoners, all, have been sent to York Castle, some of them charged with high treason, others with rioting, stealing arms, &c. Eighteen still remain in custody at, Iluddcrslield, of whom four, and a fifth since discharged, were apprehended Tuesday night. Resides these, about men, against whom thc-ie are informations for having been concerned the late outrages, have absconded; but they are diligently looked for by the civil authorities, and hopes are entertained that many of them will yet The Gazette of last night contains Royal Proclamation, pardoning all individuals who have been guilty of frame-breaking, and who shall, before the first day September next, appear before some Justice of the Peace and declare when and where their offence was committed. This Proclamation, combined with the Act which has lately passed the Legislature, for the more severe punishment of those who shall henceforward guilty outrages, will, we trust, put speedy end practices not less disgraceful the public character than they are dangerous the public tranquillity. 
+The state of affairs in neighbourhood of has been much more serious than imagined, and there is still some ground alarm, for the further probable progress of the disaffected ill that quarter. Twenty-three prisoners, all, have been sent to York Castle, some of them charged with high treason, others with rioting, stealing arms, &c. Eighteen still remain in custody at, Iluddcrslield, of whom four, and a fifth since discharged, were apprehended Tuesday night. Resides these, about men, against whom thc-ie are informations for having been concerned the late outrages, have absconded; but they are diligently looked for by the civil authorities, and hopes are entertained that many of them will yet be approehended.—*Leeds Intelligencer*.
+
+The Gazette of last night contains Royal Proclamation, pardoning all individuals who have been guilty of frame-breaking, and who shall, before the first day September next, appear before some Justice of the Peace and declare when and where their offence was committed. This Proclamation, combined with the Act which has lately passed the Legislature, for the more severe punishment of those who shall henceforward guilty outrages, will, we trust, put speedy end practices not less disgraceful the public character than they are dangerous the public tranquillity.
+
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170719/010/0003
-Leeds Mercury
-
-Saturday 19 July 1817
+## Leeds Mercury - Saturday 19 July 1817
 p3
 
-THE HUDDERSFIELD INSURRECTION
+### THE HUDDERSFIELD INSURRECTION
 
 An inflated and highly exaggerated account of the state of the town and neighbourhood of Huddersfield, during the past month, has been published in the Leeds Intelligencer, and copied into the London Ministerial papers. Such a publication, on the eve of the trial at York, we hold to be extremely reprehensible, and must, as far as it is believed, have a tendency to prejudice the minds of the jury appointed to sit in judgement upon the lives of the accused. To assert in a public print before the trials come on, and of course on *ex parte* evidence, that the object of the prisoners was "massacre," and that their plans were to be consummated by "plunder, fire, and carnage, to a fearful extent," is to prejudge their cause, and to deprive these unfortunate men of the benefit of that salutary maxim of the English law, which holds every man to be innocent till a jury of his countrymen has pronounced him guilty. Without pretending to be at all in the secrets of the insurgents, we must say, we have too favourable an opinion of our species and of our countrymen, to believe that any numerous body of them in a particular neighbourhood, could be brought to be the actors in a sedition, that was to inflict "massacre, plunder, fire, and carnage," upon their neighbours, "to a fearful extent." The intention of the insurgents, as far as we can learn, was to effect a "bloodless revolution," and the purpose of seizing and *disarming* the military, as stated is the account before us, seems to favour that supposition. That a bloodless revolution could have been effected, is, to be sure, a supposition too gross to be entertained by any set of men of common understanding; but Mr. Oliver, it seems, had the address to persuade the leaders that a project of this kind was practicable, and his dupes were so utterly ignorant as to adopt the absurdity. This fact may serve to shew of what kind of materials the Huddersfield branch of the conspiracy was formed. How many men and boys (for there was, it seems, a considerable proportion of the latter) assembled at *Folly*-hall-bridge, near Huddersfield, on the night of the 8th, we cannot learn with any degree of certainty, but some estimate may be formed of their strength from the fact, that a detachment of newly-raised Yeomanry Cavalry put to flight and entirely dispersed the insurgent army ! while the only blood that flowed on the occasion on either side, was the blood of a horse, and the only other mark of violence inflicted was, as the Intelligencer states, the mark of a bail which struck a deserted house ! We do not wish to speak with levity of a proceeding which every friend to his country must condemn, but when we see a local act of popular violence, exaggerated to the bulk of a wide spreading insurrection, we feel it to be our duty to remove the deception, by lowering down the colouring to the standard of truth.
 
@@ -900,18 +941,16 @@ Under this kind of excitation, it is no wonder that the persons to whom such con
 
 The Magistrates, who appear to have displayed a more than ordinary share of vigour, soon found means to discover and to arrest a number of the persons engaged in these criminal excesses, and twenty-four of them have been committed to York Castle, to take their trials at the Assizes, which commence this day, while about half that number still remain in confinement in the prison at Huddersfield. It is much to be regretted that the persons apprehended, and about to be put upon their trials, have for the most part, been, at most, merely the dupes of the leaders of this miserable conspiracy, and that the instigators, including Mr. Oliver, the London delegate, have been suffered to escape.
 
-*Mr. Oliver's Cyper.*—  It appears from the evidence of the principal witness for the Crown given before the Lord Lieutenant and the Magistrates at Wakefield, on Monday, the 16th of June, that Mr. Oliver corresponded with his dupes in cypher, and that one of the mottos used by him for that purpose was—  *"The Old Mother is sick, and expects all her sons to arm."*
+*Mr. Oliver's Cypher.*—  It appears from the evidence of the principal witness for the Crown given before the Lord Lieutenant and the Magistrates at Wakefield, on Monday, the 16th of June, that Mr. Oliver corresponded with his dupes in cypher, and that one of the mottos used by him for that purpose was—  *"The Old Mother is sick, and expects all her sons to arm."*
 
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170719/006/0002
 
-Leeds Mercury
-
-Saturday 19 July 1817
+## Leeds Mercury - Saturday 19 July 1817
 p2
 
-MINISTERIAL JUSTIFICATION OF OLIVER
+### MINISTERIAL JUSTIFICATION OF OLIVER
 
 *(From the Times)*
 
@@ -925,25 +964,245 @@ In the House of Commons on Friday, in a debate on the State of the Nation, Mr. H
 
 [TH: so what had distinguished the case of the Loughborough frame breakers? https://ludditebicentenary.blogspot.com/2017/07/31st-july-1817-samuel-caldwell.html http://ludditebicentenary.blogspot.com/2017/03/31st-march-1817-trial-of-luddite-john.html#more https://ludditebicentenary.blogspot.com/2017/04/james-hobson-last-luddite-executions.html ]
 
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18170726/015/0004
+## Lancaster Gazette - Saturday 26 July 1817
+
+YORKSHIRE LAMMAS ASSIZES.  
+CROWN CALENDAR
+
+*Of Prisoners, who were to take their Trials at the Yorkshire Lammas Assizes, which commenced on Saturday, before the Right Hon. Sir Richard Richards, Knt. Lord Chief Baron of the Court of Exchequer, and the Hon. Sir George Wood, Knt. one of the Barons of the said Court.*
+
+Sir WILLIAM MORDAUNT MILNER, Bart. HIGH SHERIFF.
+
+...
+
+John Rhodes, charged with aiding and assisting in a riot, at Huddersfield.
+
+Joshua Thewlis, John Oldham, Abraham Oldham, and Isaac Johnson, charged with having riotously assembled themselves together at the township of Honley, and stealing certain firearms.
+
+Joseph Sykes, Jonathan Brook, Benjamin Taylor, John Kinder, Jonathan Bailey, and Benjamin Green, charged with having riotously assembled themselves together at Honley, and with guns, pistols, &c. tumultously went about and stole certain fire arms.
+
+John Oldfield, Abraham Oidfield, Joseph Haigh, James Oldham, Benjamin Lockwood, Benjamin Brook, Wm. Crowther, Joseph Beaumont, George Woffenden, John Wilson, and Joseph Lysop, charged with having riotously assembled themselves together, at tbe the parish of Almondbury, along with divers otber persons unknown, and with guns, pistols, &c. tnmultuously went about with some felonious intent, to the terror of the people, and in violation of the public peace.
+
+Thomas Riley, charged with being accessory before the fact, and procuring, counselling, or abetting others to bring about and commit certain riots, &c. at the parishes of Kirkburton, Almondbury, and Huddersfield.
+
+...
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170726/012/0003
-Leeds Mercury - Saturday 26 July 1817
+## Leeds Mercury - Saturday 26 July 1817
 
-SECOND EDITION
+### SECOND EDITION
 Friday, July 25
 
 The trials of the persons charged with stealing arms and holding tumultuous assemblies in the neighbourhood of Huddersfield, came on yesterday morning, before BARON WOOD.
 
 TO DO - can we pick this up from the Carlisle Patriot?
 
+
+---
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18170728/031/0003
+## Leeds Intelligencer - Monday 28 July 1817
+
+[Comprehensive eport of "Trial of the Rioters" p3-4]
+
+JOHNSON and THEWLIS, two of the parties indicted in the preceding case, were immediately arraigned on another indictment, charging them with a burglary, on the night of the 8th of June, in the house of Sarah Jessop,of Honley.
+
+Mr. Topping.—Gentlemen of the Jury, it is not my intention, on the part of the Crown, to offer any evidence before you, against the prisoners at the bar, and therefore they will be discharged.
+
+*The Court.*—Gentlemen, You will find the prisoners —*Not Guilty*.
+
+The prisoners, of course, were immediately acquitted.
+
+[Then follows a report of Lockwood, Woffenden, Wilson and Jyssop]
+
+The Lord Lieutenant was present during these trials.— The verdicts, we understand, were received with the most profound silence.— It was rumoured, at York, on Saturday night, that no further prosecutions, against the Rioters still remaining in custody, would be gone into.— Tho. Riley, of Crosland Moor, tailor, and Richard Lee, of Holmfirth, clothier, are detained, under a warrant from Lord Sidmouth, on suspicion of High Treason. ...
+
+---
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000365/18171018/021/0001
+## Carlisle Patriot - Saturday 18 October 1817
+
+Thomas Riley, a prisoner in York Castle, charged with High Treason, destroyed himself in bed early on the morning of Tuesday by cutting his throat with razor, which he had purloined from a fellow prisoner for the purpose.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18171013/014/0003
+Morning Herald (London) - Monday 13 October 1817
+
+On Tuesday last, an inquisition was taken by Mr. T. Shepley, of Selby, one of the Coroners for this county, before a respectable Jury of freeholders, over the body of Thomas Riley, a prisoner in the Castle of York, charged with high treason, who destroyed himself about four o'clock in the morning of the same day (when in bed along with another prisoner, and in company with three persons), by cutting his throat with an old razor, which he had unfortunately purloined from a fellow prisoner. Upon a full and minute investigation, it was proved to the said Coroner and Jury, that at the time of his having committed the fatal deed, he was not of sound mind and understanding, but lunatic and distracted; for it appeared; that previous to his being committed to the Castle, the 4th of July last, he attempted, whilst under confinement at Huddersfield, to hang himself; and that about two months ago, he made a second attempt to do the same in the Castle, when in bed with another prisoner, but was prevented.
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000420/18171212/005/0002
+Cambridge Chronicle and Journal - Friday 12 December 1817
+
+On Friday morning, Mr. Staveley, of York Castle, received a warrant from Lord Sidmouth, Secretary of State, authorising him to discharge out of custody, Richard Lee, a state prisoner, upon condition that he should enter into recognizance of £100, to appear on the first day of the next term, in the Court of King’s Bench.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18171218/003/0002
+Cheltenham Chronicle - Thursday 18 December 1817
+
+On Friday week Mr. Stavely, of York Castle received a warrant from the Right Honourable Secretary of State, authorising him to discharge out of custody Richard Lee, a state prisoner, upon condition that he should enter into recognizance of 100l. to appear on tne first day of next Term in the Court of King’s Bench, and not to depart without leave of the said Court. He, having confirmed to such order, was on the same day discharged accordingly.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003
+
+## Public Ledger and Daily Advertiser - Wednesday 25 March 1818
+
+Richard Lee:— The following account is given in the *Leeds Intelligencer* of an investigation, at the recent Quarter Sessions, at York, repecting the contents of Richard Lee's Petition to the House of Commons:— We have more once alluded to the Petition to the House of Commons:—
+
+"We have more than once alluded to the Petition to the House of Commons of *Richard Lee*, of Holmfirth, one of the men apprehended under the Suspension Act, in which the Petitioner complains of the injustice of his arrest, and of cruel and vindictive treatment during his imprisonment in York Castle. The deservedly high character of Mr. Staveley, Governor of the Castle, and the well-known excellent management of the prison, were alone sufficient to repel the aspersions of Lee. But, we are happy to state, that Lee himself has been personally examined, and that the result has been that of indelibly stamping the allegations of his Petition as false. At the General County Sessions, holden on the 12th inst. at York, it was agreed upon by above 70 Magistrates, that a Committee should be appointed for the purpose of thoroughly investigating the case. He accordingly appeared, in consequence of notice sent to him express, before 15 Magistrates, who assembled at the Castle on Monday last; and who in vain endeavoured to draw from him any charge against Mr. Staveley, or against the worthy Gentleman’s management of the prison, or any complaint as to the treatment received by himself while in his custody. In the face the audacious assertions contained in his own Petition, he now denied that he had ever made any complaint against Mr. Staveley, that he had any complaint to offer.— Scarce any other answer to questions could be obtained from him, but that his complaint was against those who had caused his imprisonment, *who were not there to vindicate themselves*, and not against Mr. Staveley, who *had the means of refuting his former assertions*. The Magistrates, very properly, were not satisfied with those answers, but proceeded, notwithstanding, to a most ’strict and careful examination of the most minute charges contained in the Petition.—The result was the utter confusion of Lee, who cut a most despicable figure during the examination, it being ascertained beyond a doubt, that his treatment had been in every respect humane–and that the only step taken for the security of his person, had been to put a single iron upon one of his legs–a precaution which the exposed situation of the gaol rendered indispensable.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180418/007/0003
+## York Herald - Saturday 18 April 1818
+
+To the Editor of the York Herald,
+
+Sir,  
+My numerous friends being very desirous to know the result of the Investigation that has lately taken place in consequence of Richard Lee's petition o the House of Commons, I hope I shall not be thought of acting improperly, to intrude upon the public, in refutaoon of the vile attack on my character, by stating, that upon the conclusion of the personal inquiry of the said Richard Lee, by the Committee of Magistrates deputed for that purpose, the Chairman read to me, by their desire, the Report they were about to make, and which as far as my memory serves, was in substance, that they were unanimously of opinion, that no blame whatever attached to me or any of those under my orders, but that considering the important duty I had to perform, the treatment of Richard Lee, in York Castle, was in every respect humane and proper. I hope I may also be further allowed to state, that Richard Lee, in my hearing (during his aexamination), declared to the Magistrates that he had no complaint whatever to make against me, nor did he ever mean to do so, although the Copy of his Petition was at that time read over to him.
+
+In hopes the the subject will at some convenient opportunity, be brought forward again in the House of Commons, I beg to subscribe myself, Sir,  
+Your obedient humble Servant,  
+Wm. STAVELEY.  
+Keeper of York Castle.  
+Aprii 15, 1818
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18180324/008/0003
+Sun (London) - Tuesday 24 March 1818
+
+PARLIAMENTARY PETITIONERS.
+
+The infamous falsehoods upon which most of the Petitions to the House of Commons, from wretches who attempted to subvert the Government of the Country, were founded, would make us wonder that any persons should degrade themselves and insult the Legislature by presenting them, if we did not know the influence of Party. Any ) g o thers of a similar kind was one presented case of RICHARD LEE, and of that we may say *ex uno disce omnes*. But as facts are the best arguments, we shall avail ourselves of the information afforded us in a Provincial Journal, to which we have often been indebted, and which is conducted with such spirit, energy, and true patriotism, as to entitle it to the approbation of Ministers and the esteem of the country. The following is extracted from *The Leeds Intelligencer* of yesterday:—
+
+"TO OUR READERS.
+
+Sir Francis Burdett having given notice, that be shall bring BEN SCHOLES's Petition before the House of Commons, after the recess, we think proper to defer our refutation of it till that period."
+
+In the Intelligencer of the 9th inst. it will be recollected we inserted a copy of the petitio to the House Of Commons, of Richard Lee, of Holmfirth, one of the men apprehended under the Suspension Act, in which the petitioner complains of the injustice of his arrest, and of cruel and vindictive treatment during his imprisonment at York Castle.
+
+"Though the deservedly high character of Mr. Stavely, Governor of the Castle, and the well-known excellent management of the prison, were alone sufficient to repel the aspersions of Lee, we accompanied the pubiication of his petition with several documents, which completely proved the falsehood of his allegations.
+
+"It having been insinuated, however, by some, that the evidence was all on one side, we are happy to state that Lee himself has been personally examined, and that the result has been that of indelibly stamping the allegations of his petition as false.
+
+"At the General County Sessions, holden on 12th inst. at York, it was agreed upon, by above seventy Magistrates, that a Committee should be appointed, for the purpose of thoroughly investigating his case. He accordingly appeared, in consequence of notice sent to him express, before 15 Magistrates, who assembled at the Castle on Monday last; and who in vain endeavoured to draw from him any charge against Mr. Stavely, or against that worthy gentleman's management of the Prison, or any complaint as to the treatment received by himself while in his custody. In the face of the audacious assertions contained in his own petition, he now denied that he had ever made any complaint against Mr. Stavely, or that he had any complaint to offer: Scarce any other answer to questions could be obtained from him, but that his complaint was against those who caused his imprisonment, who were not there to vindicate themselves, and not against Mr. Stavely, who had the means of refuting his former assertions. The Magistrates, very properly, were not satisfied with those answers, but proceeded, notwithstanding, to a most strict and careful examination of the most minute charges contained in the Petition.
+
+"The result was to the utter confusion of Lee, who cut a most despicable figure during the examination, it being ascertained beyond a doubt, that his treatment had been in every respect humane— and that the only step taken for the security of his person had been to put a single iron upon one of his legs, a precaution which the exposed situation of the gaol rendered indispensable.
+
+Thus it is with the cases of those worthy *Patriots* when their vile fabrications are put to the  test. Contemptible as the men themselves are, we think the Members of the Legislature who have condescended to re-echo their falsehoods within the walls of Parliament have debased themselves still lower."
+
+
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18170728/020/0004
+Sun (London) - Monday 28 July 1817
+
+TO DO
+
+«a, PORASTTIRE |
+
+[a Se eg pbs
+
+Feraay, Ju <5oRS
+
+CROWN SIDE, |
+
++ PRrAL OF LUDDITES, |
+Benjamin Donkersly, of Honley, in the West Riding of Yorkshire, weaver;  Joseph Sykes, of the same place, clothier;  
+Isaac Johnson, of Holmfirth, in the same Riding, labourer;  
+Joshua Thewlis, of the same place, labourer;  
+hrakan
+Oldham and John Gliham, of Honley, in the same Riding, labourers, were indicted for a robbery and burglary at the house of Clement Dyson, in the said town of Honley, on the night of Sunday the 8th of June last. if
+Mr, Torrinc, Mr. Scan re Raine, and
+another Learned Gentleman, were Counsel for the
+Prosecution; Mr. Wiitrlss, Mr. Jones, and Mr. Maune, for four of the prisoners. |
+Mr. Toreing addressed the Jury. He deser
+the riotous assembling of the prisengs, 
+others, ty tle iudber at 30 or 40, on the n hit
+specified iv the indictment, the alarar they excizert
+by their menacing and tumultuous ex
+their general demand for arms, then
+which they meant to secomplist after they had obtained thems could not be very well guessed,—
+As the prisoners stood charged with burglary, in robbing the house of the prosecutrix of a gun, it
+was Hal necessary to look to the riot #3 conneete
+ed with any political views, the outrages that
+were commited and threatened were no doubt
+riotpous 3 but, except in so far as this Single robe
+ery wis the conscequence of them, they were not
+ew before the jury.
+
+Hanna Dyson deposed, that a number of persons
+} $048 came to her dow TL teveder
+jotclock on the night in question; that her husband as from home, and she was alone in the house; that they called tor pray 3 that they
+knocked at the door, and it gaining admission,
+harst it open 5 that she, in consequence of their
+Cr midband threats, wat and Gromehe thea a yun
+which she tind in the house; that she gave it to
+one of the mob, she could not tell whom, but
+that she reengnized Dankersly and two of the
+other prisoners, who were her neighbours and
+saw one man with his waistcoat turned inside
+who, according to what she subsequently learned, must have bern Sykes his witness tiderwen
+# long cross-examinaiion, forthe put pose of show-
+ ingaliat she was not to be credited in deposing to
+the identity of the prisoners, from the b hoof
+tine she had allowed to lapse before she appeared
+against them (being newly amenth) 5 from her
+having declarad immediately after the outrage that
+she could not distinguish then from any of the
+ob; from ber alleged declaration that they were
+all strangers to her; and from a reported saying
+of ben's, that the trade of a witness Mas. of very.
+prvhtwble thing, #8 she could get wo guineas 9
+day by it, Sue towliy denied the latter report
+fasination, wed ace sited both for her long si-
+lence in bringing charges against hettri
+bours, and Ler alleged contradictions, in saying avy
+one Cime she could not identify those whom she
+tow appeared against from motives of fear. She
+had seen Donkersly about nine o'clock of the
+night in question, making motions as if with a gun)
+fo another of the rioters, and could not be anise
+taken, as to him, when he appeered among the
+crowd that demanded arms about 12 o'clock, as he
+was then only three or four yards from the door,
+She did not know the man whom she gave the gun,
+nor dids'y ever mention that he was one Charlesworth, though she biel said that he was one of the
+party. Tue aight immediately after the outrage she
+
+between eleven
+
+
+
+had told one of her neigobours, S. Hurst, than she had recognized Donkershy in the crowd. Her husband arrived from London about a fortnight after the robbery, she Wee.examinett lecture . • the Justices at Heddersfield about a fortnight after his arrival. Her husband had been 'iii London on law busieess, or to learn law. He was not in the King's Bench tne • • Fleet, but learning law, titter he had failed as a cloth-dresser. Jele lied been learning law for 24 weeks, hilt s h e , not hieing acqu a i n t e d- wit)) the subject, could not tell what branch of it he practised. Being asked if he began to practise first in advis'ing tier - to go before the Justices accuse her-1 CIL:III4mM', she answered, no, and that he did not know her lieSS. This witness appeared to hesitate a deal in that part of her cross-examination related to what she had said to one 'Robson, about her not knowing the prisoners anion!; the pi'n'y who demanded arms. Being asked if he put the question, she answered sitecessively " he might have dude so—perhaps he did do so —yes, he def." ' Santee' Winpenny, examined by Mr. SCARLETT, deposed, that be knew Isaac Johnson the prisoner; that he saw him on Sunday night, the 8th of June; that prisoner told witness he was going to a meeting about 10 or 11 o'clock, and that he requested witness to prepare himself to other persons were then present, Joliet/tan Fallas, and Joshua Thewlis; one of the prisoners. kyit (less Trent home with Jonathan le,allas to prepare himself, but did not intend to go, and was !easily Midiessedeo 'go to bed when the prisoner Johnson came to inquire if she was ready. He shouted a` - desire of retaining at home, but Johnson told that their companions expected him, and said it would be an affair of life or death if he did not keep his assignation. On this witness acquiesced, from fear, and accompanied them as a spectator. Witness went otit'leith Fallae, Johnson, and Thewlis, and accompanied them to a place called Far-end, where he found a number of persons assembled; with all of whom he was unacquainted, except one:- The meeting might consist of between 30 or 40 persons. There was 'ouch' Confusion; • some were for going one way, and some another, to get arms; when of the party stepped forward, and desired them to fall into the ranks, - and march to Honley, which is about a et- of a mile from Far-end. They all obeyed the order, and fell into ranks. Only six of them, hail arms, and olject seas to arm the rest. They went to house and demanded arms, but witness did not know who made the demand, or who received the gun. They et the door, and as it was not speedily opened, the prisoner Johnson desired to break it OeSS heart °fie of the iikefly say, 'that . o;4' soMething, 
+
+
+TO DO PRECEDING COLUMN ABOVE
+
+
+either gun or pistol. Witness after this returned home. He saw Johnson and Fallas atterwards, who told him the party went to several other places and demanded arms, but desired him never to mention the circumstance, as, if it were known, they would be hanged. Thewlis gave him the same charge, under the same penalty, on the Wednesday following the Sunday of the outrage. Fallas and Cocket, two of the parry, had since fled.
+
+This witness was cross-examined by Mr. WILLIAMS, for the purpose of showing that he had previously concerted the meeting; that he had entered into the project with the same zeal as his companions; that there were no threats used of the kind he mentioned; and that he was now giving evidence against his companions to save his own life, or to promote his own advantage. It appeared that he had been taken up as one of the party on the Wednesday night after the riot; that he had been in custody ever since, and that he came to York in custody. He, however, denied that he gave evidence to save himself; that he had no hopes of doing so when he gave the information he now stated in his depositions; and that he expected then he should be put on his trial in the same manner as the rest of his companions, againdt whom he was hearing testimony,
+
+Joshua Kemp deposed, on his examination for the prosecution, that he was at Honley, and remembered the circumstances of the 8th of June. In consequence of having heard from one Butterworth that there was to be a meeting, he went to join the party, and saw among them the two Oldhams, prisoners at the Bar. There were about half a score on the bridge at Honley; they went afterwards to Far-end, where they were joined by a number more, making up both together about 20 or 30 persons. Some of the *holders forth* said they should march to Huddersfield; but George Taylor, one of them, proposed they should first proceed to Honley to procure arms, mentioning houses in which they might be found. They accordingly went to Dyson's, and witness described the proceedings there nearly in the terms of the former evidence, mentioning the presence of some of the prisoners. Being cross-examined, he said that he did not see who received the gun; he knew Johnson before, and saw him at the house, in the crowd, about ten yards from the door. He saw Mrs. Dyson hand out the gun. He himself bore arms, and was active, but asked for none. He never declared that he took a pistol, or boasted of the exploit, though he received two. He was in the rear-rank when the party marched from Far-end. He was first examined on the 16th of June, being taken into custody, and had been twice afterwards examined upon oath as a witness against his companions. He had come as a prisoner to York, but, like the former witness, expected no reward for his evidence, and was not sure at first that he was free front prosecution by giving it. He confessed, however, that he thought his own neck dearer to him than that of any other man, and would be glad to save it if he could. Being asked if he was now doing his best to save it, he answered that he hoped so. He turned from being a prisoner to be a witness on the same day.
+
+Susan Hurst was examined for the purpose of identifying Sykes, the prisoner, by giving evidence to his wearing on the night of the outrage a waistcoat turned inside out, and of proving that Mrs. Dyson, the prosecutrix had on the following day mentioned to her that she knew three of the prisoners who committed the robbery on her house. She lives next door to Sykes, and heard a rap at his door on Sunday night about 12 o'clock. She heard him coming down, and asked him next day why he did not open the door to answer the call sooner, when he said that he was in such a hurry to do so that he put on his waistcoat turned in the manner described.
+
+The evideuce for the prosecution here ended.– The prisoners being asked what they had to say in their defence, two of them gave in a written paper, the contents of which we could not distinctly hear; and the rest left their defence with their Counsel, who called several witnesses to contradict the testimony of the prosecutrix in some points, and to speak to their previous character and conduct. All these witnesses gave the prisoners an excellent character; most of them had known them from their infancy, or for a long term of years, and had never heard any thing to sully their reputation for honesty, industry, peaceable conduct, and inoffensive dispositions. One of the neighbours of the Oldhams said, he knew them from their childhood, and they were quiet honest men, who disturbed nobody. The same thing was said nearly in the same terms of the rest.
+
+Mr. Baron Wood then summed up the evidence, pointing out its nature, and how it applied to the ditferent prisoners.
+
+The Jury, after consulting for a short time, returned a verdict of *Not Guilty* with regard to all.
+
+The two Oldhams were then put to the Bar on another charge; but the prosecution calling no evidence, they were acquitted.— The verdict was heard with testimonies of satisfaction by the spectators. The Court was crowded to excess in every part. To-morrow comes on the trial of the rioters of Huddersfield, which are expected to be more interesting than the above.
+
+
 ---
 https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0002?browse=true
-Leeds Mercury - Saturday 02 August 1817
+## Leeds Mercury - Saturday 02 August 1817
 
+### Yorkshire Summer Assizes
 
-Yorkshire Summer Assizes
-
-Huddersfield Plot
+#### Huddersfield Plot
 
 Friday, July 25
 
@@ -951,7 +1210,7 @@ JOSEPH SYKES, ISAAC JOHNSON, JOSHUA THEWLIS, ABRAHAM OLDHAM, JOHN OLDHAM, and BE
 
 The prisoners to this indictment, severally pleaded NOT GUILTY.
 
-The following gentlemnen were sworn of the Jury:— John Hood, Richard Baker, Thomas Sale, William Pickard, Robert John Walker, Thomas Wilberfoss, James Hebden, Robert Linsdale, Thmoas Clarke, J. Matthewman, T. Ellerby, and Anthony Kitchen.
+The following gentlemen were sworn of the Jury:— John Hood, Richard Baker, Thomas Sale, William Pickard, Robert John Walker, Thomas Wilberfoss, James Hebden, Robert Linsdale, Thmoas Clarke, J. Matthewman, T. Ellerby, and Anthony Kitchen.
 
 Counsel for the Prosecution— Messrs. TOPPING, RAINE, SCARLETT, and RICHARDSON.— Solicitor, Mr. LE BLANC.
 
@@ -977,7 +1236,7 @@ Witness, on her re-examination, said her husband is what they call an agent, he 
 
 *Samuel Winpenny* knows the prisoner Isaac Johnson; saw him in the evening of the 8th of June, when he told the witness that he must get himself ready, as there was to be a meeting that night at the Banks: saw Johnson again that night; he came to his house as he was undressing himself for bed, and said to him, "what! are you not ready?"—to which he replied, that he thought he would not go; when Johnson told him that Richard Haigh had said, that it would be either life or death if people did not go and that they would be safer there than at home; he then consented to go to Far End to look at them. Witness accompanied Johnson and the prisoner Thewlis, who was waiting at the door. There was a numbber of people there: he knew only Johnson, Thewlis, Cockin, Fellas, and Joseph Beaumont. There were between 30 and 40 men, of whom 7 or 8 had guns and pistols: great confusion prevailed—some being for one thing, others for another—some wishing to go to Honley, others to go home. It was at last decided to go to Honley; they marched in ranks two deep, those who had arms going foremost. The first place they demanded arms at was Wm. Heelis's House. They next went to Dyson's house; one of them demanded arms; and, as the person in the house did not immediately open the door, Isacc Johnson said, "d——n it, knock it open." Witness heard one of them say, they had got a gun, which the woman had given them, but did not see them get it: does not know whether the door was forced open or was opened from within: he left them soon after: saw Thewlis and Fellas on the Wednesday after, who told him they had gone to several other places and demanded arms. Fellas and Cockin have both absconded. Witness said the men were all crowded about the door, and were not in ranks, or in any order.
 
-Witness was crOss-examined : said he did not know any thing of the meeting before that night. He was frightened at what Johnson said, and that prompted him to go: he was only a looker-on. It is three miles from his house to Dyson's: would not have gone, but was threatened and persuaded to go: he was taken up on the Wednesday night after this happened, and has been in custody ever since: had no expectation that he should be benefited by giving his evidence.
+Witness was cross-examined : said he did not know any thing of the meeting before that night. He was frightened at what Johnson said, and that prompted him to go: he was only a looker-on. It is three miles from his house to Dyson's: would not have gone, but was threatened and persuaded to go: he was taken up on the Wednesday night after this happened, and has been in custody ever since: had no expectation that he should be benefited by giving his evidence.
 
 Witness, in answer to a question from the Judge, said, on his second examination before the magistrate, he had told the same tale as he had done to-day. The examination was shown to him, which was, he said, what he had signed. He did not know it to be Dyson's house, but was told it was Donkersley's.
 
@@ -1003,7 +1262,7 @@ The four following witnesses were examined, to contradict various parts of the e
 
 *Mr. George Holron* is a clothier; lives at Honley; deposed to a conversation with Dyson's wife, about Charles Charlesworth: she told the witness that he (Charlesworth) bad taken up her son, for taking a hang lock from a gate; and that she had been that morning and told him that he was the man to whom she had given the gun upon the door steps, and that it was nobody else. Witness saic, did not say that it was him, but that she had told him so. At another time she told the witness, that she thought she knew Sykes, Donkersley, and Shaw; and upon his asking her why she said before that she knew none of them, she replied, it was because she did not wish to have ill-will among her neighbours. He knows Sykes, Donkersley, and the two Oldhams, they have very good characters.
 
-*Rickard Littlewood* lives at Honley; conversed with Mrs. Dyson, the day after the robbery at their house; she said that she did not know any person that was there. He saw her again in the course of that week; she repeated, that she did not know any of them. Has known Sykes from a boy, and never heard any thing bad of him.
+*Richard Littlewood* lives at Honley; conversed with Mrs. Dyson, the day after the robbery at their house; she said that she did not know any person that was there. He saw her again in the course of that week; she repeated, that she did not know any of them. Has known Sykes from a boy, and never heard any thing bad of him.
 
 Cross-examined by Mr. Scarlett. Witness was not up that night (the 8th of June): did not hear of any thing until eight o'clock on the following morning: was not at all alarmed. He heard afterwards that there had been disturbances. Mrs. Dyson did not mention any thing of a man with his watstcoat inside out.
 
@@ -1011,13 +1270,11 @@ Cross-examined by Mr. Scarlett. Witness was not up that night (the 8th of June):
 
 Jonas Rowbottom, George Halliwell, William Mellor, Matthew Falkener, and James Winpenny, spoke to the characters of the different prisoners.
 
-Mr. Scanrlett proposed that Mr. Allen, one of the commiitting Magistrates, should be sworn to explain the examination of the witnesses, Winpenny and Kemp.
+Mr. Scarlett proposed that Mr. Allen, one of the commiitting Magistrates, should be sworn to explain the examination of the witnesses, Winpenny and Kemp.
 
 Mr. Baron Wood said he could not receive evidence to that effect. The examinations must speak for themselves.
 
-His Lordsh:p, in charging the Jury said, it was clear that very gevat outrages had occurred in the district where this offence was stated to have been committed : that there had been an assemblage at men armed with guns and other offensive weapons, was also clear, but for what purpose did not appear from the evidence, though there could be no doubt that it was for a purpose altogether illegal; it was equally clear that it was the duty of the Magistrates to suppress those outrages, and to endeavour to apprehend the pesons engaged in them, and that this was an investigation and enquiry which it was highly proper for government to institute, It was, however, the duty of the Court and of the Jury to confine their attention to the case betore then:; nor should they suffer their minds to be prejudiced by any thing that had taken place, or that they might have heard out of Court. The offence must be brought home to the prisoners by legitimate evidence or they must be acquitted. The crime with which they stood charged was that of burglariously breaking into and stealing in a dwelling-house in the night time; and to render a person guilty of this offence, it was not necessary that he should be the person who actually entered the house or who received the goods; it was sufficient if he was present, or near enough to aid, comfort, and afford asisstance to the persons engaged in the offence. No questions of law could arise in the case. If the prisoners were present at the time, and with the person who committed the robbery (being in the night time) they would be guilty of the offence imputed to them by the indictment. He should proceed to state the evidence which had been given by the Crown and for the prisoners. The testimony of Hannah Dyson, his Lordship observed, had been materially impeached by the witnesses for the prisoner. Her evidence was given in a manner which could not have escaped the notice of the Jury. It was a long time before she would give answer any to the questions put to her by the Counsel for the prisoners—she at firse denied having had any conversation with Mr. Robinson upon the subject— then said she could not recollect—and at last admitted that she had held such a conversation—that he did ask a question, and that she answered that she did not know any of the men. She also denied having had any conversation with Littlewood and with George Boothroyd, in which also she was flatly contradicted. It was also a singular circumstance that she should take upon her to speak with so much certainty to Joseph Sykes having had his waistcoat on the wrong side, and yet should have taken so little notice as not to know what sort of a coat he had on, or whether he had any coat or not. She also represented the men who were at her door as ranged in ranks in regular order, but Winpenny expressly stated that they all crowded together. His Lordship, in commenting on the threatening language used by Mrs. Dyson towards Charles Charlesworth, said "what kind of a woman must she be to say, she could charge him with receiving the gun from her, when she stated on her oath, that she did not know to whom she gave it, it, *(sic)* and this because he had given her offence in taking up her son. She must be a bad women to use such a threat." With respect to the two witnesses for the Crown, Wimpenny and Kemp, they stood in the situation of accomplices, and as such, though competent witnesses were not entitled to credit unless materially confirmed—a confirmation which they could not receive from the evidence of the first witness, which itself required to be confirmed. In addition to this drawback arising from their situation as accomplices, the testimony of Winpenny was inconsistent with a prior account he had given upon oath of the particulars of his conduct with respect to the transactions of this night. In his testimony to-day, he had represented himsel as engaging unwillingly in the burglary—as being threatened and frightened into it. In his examination before the magistrates there is not a word of all this; on the contrary it appears that he engaged voluntarily in it—that he was a member of the Society—that he contributed money to its support, and that he had previously agreed to go to the scene of depredation. On the evidence of Kemp, his Lordship said it was not inconsistent with his former examination. He did not mention Sykes as
-being present, and it would rather follow from his evidence that he was not supposed to be there by the
-paity, because when they went to Sykes's house, it was said that neither he or his gun was in the house; and they would hardly have expected to find him there if he was with them at the time. After going through the whole of the evidence, his Lordship concluded his charge in nearly the following terms :—This- gentlemen, is the whole of the evidence on both sides; I have before stated the law upon the subject, and if you shall be satisfied from the evidence, that the prisoners, all of them, or any of them, were present when the door of Dyson's house was broken open as stated by the first witness, all of them, or such of them as were so present, will be guilty of the charge imputed to them by the present indictment. The question for your consideration then is, were the prisoners present when the robbery took place? The main witness in supcport of the charge, is Mrs. Dyson, you have heard the evidence she has given. and the manner in whcih she has given it, and the degee in which it has been contradicted. The evidence of the other two witnesses you will consider with reference to their situation as accomplices, cnd the inconsistency which I have stated in the evidence of the former with his previous depositions. These are the observations I have thought it right to make; to which I will add that the prisoners have had good characters given them. If, taking the whole of the case and the evidence into your consideration, you think that the charge is made out against the prisoners, and that the facts are established to your satisfiaction, you will find the prisonsers guilty. If the evidence should leave it as a matter of doubt, you will then suffer character to have its weight to turn the scale in their favour, and in that case you will acquit them.
+His Lordship, in charging the Jury said, it was clear that very gevat outrages had occurred in the district where this offence was stated to have been committed : that there had been an assemblage at men armed with guns and other offensive weapons, was also clear, but for what purpose did not appear from the evidence, though there could be no doubt that it was for a purpose altogether illegal; it was equally clear that it was the duty of the Magistrates to suppress those outrages, and to endeavour to apprehend the pesons engaged in them, and that this was an investigation and enquiry which it was highly proper for government to institute, It was, however, the duty of the Court and of the Jury to confine their attention to the case betore then:; nor should they suffer their minds to be prejudiced by any thing that had taken place, or that they might have heard out of Court. The offence must be brought home to the prisoners by legitimate evidence or they must be acquitted. The crime with which they stood charged was that of burglariously breaking into and stealing in a dwelling-house in the night time; and to render a person guilty of this offence, it was not necessary that he should be the person who actually entered the house or who received the goods; it was sufficient if he was present, or near enough to aid, comfort, and afford asisstance to the persons engaged in the offence. No questions of law could arise in the case. If the prisoners were present at the time, and with the person who committed the robbery (being in the night time) they would be guilty of the offence imputed to them by the indictment. He should proceed to state the evidence which had been given by the Crown and for the prisoners. The testimony of Hannah Dyson, his Lordship observed, had been materially impeached by the witnesses for the prisoner. Her evidence was given in a manner which could not have escaped the notice of the Jury. It was a long time before she would give answer any to the questions put to her by the Counsel for the prisoners—she at firse denied having had any conversation with Mr. Robinson upon the subject— then said she could not recollect—and at last admitted that she had held such a conversation—that he did ask a question, and that she answered that she did not know any of the men. She also denied having had any conversation with Littlewood and with George Boothroyd, in which also she was flatly contradicted. It was also a singular circumstance that she should take upon her to speak with so much certainty to Joseph Sykes having had his waistcoat on the wrong side, and yet should have taken so little notice as not to know what sort of a coat he had on, or whether he had any coat or not. She also represented the men who were at her door as ranged in ranks in regular order, but Winpenny expressly stated that they all crowded together. His Lordship, in commenting on the threatening language used by Mrs. Dyson towards Charles Charlesworth, said "what kind of a woman must she be to say, she could charge him with receiving the gun from her, when she stated on her oath, that she did not know to whom she gave it, it, *(sic)* and this because he had given her offence in taking up her son. She must be a bad women to use such a threat." With respect to the two witnesses for the Crown, Wimpenny and Kemp, they stood in the situation of accomplices, and as such, though competent witnesses were not entitled to credit unless materially confirmed—a confirmation which they could not receive from the evidence of the first witness, which itself required to be confirmed. In addition to this drawback arising from their situation as accomplices, the testimony of Winpenny was inconsistent with a prior account he had given upon oath of the particulars of his conduct with respect to the transactions of this night. In his testimony to-day, he had represented himsel as engaging unwillingly in the burglary—as being threatened and frightened into it. In his examination before the magistrates there is not a word of all this; on the contrary it appears that he engaged voluntarily in it—that he was a member of the Society—that he contributed money to its support, and that he had previously agreed to go to the scene of depredation. On the evidence of Kemp, his Lordship said it was not inconsistent with his former examination. He did not mention Sykes as being present, and it would rather follow from his evidence that he was not supposed to be there by the party, because when they went to Sykes's house, it was said that neither he or his gun was in the house; and they would hardly have expected to find him there if he was with them at the time. After going through the whole of the evidence, his Lordship concluded his charge in nearly the following terms :—This- gentlemen, is the whole of the evidence on both sides; I have before stated the law upon the subject, and if you shall be satisfied from the evidence, that the prisoners, all of them, or any of them, were present when the door of Dyson's house was broken open as stated by the first witness, all of them, or such of them as were so present, will be guilty of the charge imputed to them by the present indictment. The question for your consideration then is, were the prisoners present when the robbery took place? The main witness in supcport of the charge, is Mrs. Dyson, you have heard the evidence she has given. and the manner in whcih she has given it, and the degee in which it has been contradicted. The evidence of the other two witnesses you will consider with reference to their situation as accomplices, cnd the inconsistency which I have stated in the evidence of the former with his previous depositions. These are the observations I have thought it right to make; to which I will add that the prisoners have had good characters given them. If, taking the whole of the case and the evidence into your consideration, you think that the charge is made out against the prisoners, and that the facts are established to your satisfiaction, you will find the prisonsers guilty. If the evidence should leave it as a matter of doubt, you will then suffer character to have its weight to turn the scale in their favour, and in that case you will acquit them.
   
 The Jury turned round in their box for a few moments, and then pronounced all tbe prisoners NOT GUILTY.
 
@@ -1078,7 +1335,7 @@ The Prisoners said they left their defence to their Council. The following witne
 
 *Mr. Wm. Stanley* lives at Huddersfield, is a shoe-maker; remembers the dragoons coming into Huddersfield, it rained at the time, and he retired into a passage for shelter; it was the day after the disturbances; Blaydes, and a publican of the name of Dunn, were there, and three other persons he did not know. The passage is near the market-place; he knows Geo. Armytage, (the last witness for the prosecution,) very well, and has known him from a child; whilst he was standing, Armytage came into the passage—there was some conversation about the disturbances the preceding day, and about the dragoons coming into the town; when Armytage said, "his father's field was trodden down, and there was hardly a blade of grass standing;" he said there were many hundreds upon it. Witness said to him, "George, did thou see them?" Armytage replied, "No I did not see them." and here the conversation ended with Armytage; and the witness then talked with the other persons.
 
-  *James Drake* stated that he was a cloth dresser at Huddersfield; had some conversation with George Armytage, on the Froday following the disturbances, about three o'clock in the afternoon, in Mr. Downing's stables; there was another young man present at the same time, who lives with Mr. Downing, of the name of Reynolds; they were talking about what had happened at Engine Bridge, when George Armytage said, *"he did not know one person that was there."*
+*James Drake* stated that he was a cloth dresser at Huddersfield; had some conversation with George Armytage, on the Froday following the disturbances, about three o'clock in the afternoon, in Mr. Downing's stables; there was another young man present at the same time, who lives with Mr. Downing, of the name of Reynolds; they were talking about what had happened at Engine Bridge, when George Armytage said, *"he did not know one person that was there."*
 
 Witness on his cross-examination said that he was a cloth-dresser, and lived at Huddersfield, was not intimate with Armytage; he told him he had been courting a young woman, and on coming back was forced into a field, and told him what he had seen; he said he turned back as soon as he could, and when he had got a distance from them, he heard a few pieces go off. Armytage told hom this as a secret, and he was not to mention it to any one; he did not tell the witness his reason for keeping it a secret; he did not say it was for fear of being shot, or that he was afriad of being shot. Witness said he knew his reason, which was, that he was afraid of being taken up. Witness communicated this conversation to his father on the following day. Mr. Alexander, the attorney for the prisoner, sent for him the last Friday but one, and he then told him of it: he also told it to many persons besides his father. After Armytage was taken into custody, he knew he was to be a witness; knows John Wilson, has known him five or six years; supposes Wilson's father, or some other person, had heard what he could say, and had communicated it to Mr. Alexander.
 
@@ -1095,7 +1352,7 @@ On being cross-examined, witness said he heard of Armytage being taken up, but d
 *Mr. John Thornton* had known George Woffenden ever since he hvas was born, and durintg the whole time he always considered him as a good, honest, sober lad, very peaceable, and was never found in a fray befoe. Has served witness and his brother five or six years.
 
 *Mr. Wm. Milnes* has also known the prisoner Woffenden ever since he was born, and he really deserves the character given him; he never knew him in in a fray before.
- 
+
 *Edward Dixon* has known John Wilson ever since he was born, his character is good, has been dutiful from his childhood, and is a peacable, well-behaved young man.
 
 *Mr. John Blaydes* has known Wilson since he was a child, has heard the character given him by the last witness, which he deserves and his general character was very good all through Huddersfield.
@@ -1114,14 +1371,14 @@ Jonathan Baily, clothier, aged 25, Pog-Ing.
 Jonathan Brook, cloth dresser, 28, Meltham.  
 John Kinder, cloth dresser, 41, Honley.  
 Benjamin Taylor, fancy-weaver, 24, Honley.  
-Benjamin Briok, weaver, 18, Salford, in Lockwood  
+Benjamin Brook, weaver, 18, Salford, in Lockwood  
 Joseph Beaumont, cloth dresser, 23, Lockwood.  
 Wm. Crowrther, shoe-taker, 17, Lockwood.  
 Benjammn Green, cloth dresser, 22, Honley.  
 Joseph Haigh, weaver, 20, Berrybrow, Almondbury.  
 James Oldham, cloth dresser, 20, Berrybrow.  
 John Oldfield, weaver, 32, Almondbaury.  
-Abraliatm Oldfield, weaver, 31, Almondbury.  
+Abraham Oldfield, weaver, 31, Almondbury.  
 they were all discharged.
 
 John Rhodes, against whom a Bill has been found for a misdemeanour only, having traversed to the next Assizes, is liberated on bail.
@@ -1130,11 +1387,12 @@ The Court was extremely crowded, and Earl Fitzwillian, the Lord Lieutenant of th
 
 ---
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003?browse=true
 
-Leeds Mercury - Saturday 02 August 1817
+https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003
 
-THE MERCURY.
+## Leeds Mercury - Saturday 02 August 1817
+
+### THE MERCURY.
 
 TThe trials of the State prisoners, as they have been pompously called, closed at York last Saturday; and the four-and-twenty persons against whom the Government solicitor was instructed to institute prosecutions, ten have been pronounced not guilty; against eleven others no bills were found; and one has been liberated on bail; leaving only two in the whole number in Confinement, and those two unfortunate men have been detained, without trial, by a Secretary of State's warrant, under the suspension of the Habeas Corpus Act. Thus ends the Yorkshire plot!
 
@@ -1173,11 +1431,11 @@ We are informed that the Derby claendar contains a great number of criminals, an
 
 --
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000365/18170809/003/0002
-Carlisle Patriot - Saturday 09 August 1817
+## Carlisle Patriot - Saturday 09 August 1817
 
 *This is an abridged form of the article that appeared in the Leeds Mercury - Saturday 02 August 1817.*
 
-TRIALS OF THE RIOTERS.
+### TRIALS OF THE RIOTERS.
 
 In reference to the Trials the Yorkshire Rioters, published in our last paper, the Leeds' Mercury contains, among other matter, the following remarks:—
 
@@ -1185,7 +1443,7 @@ In reference to the Trials the Yorkshire Rioters, published in our last paper, t
 
 "The failure of these prosecutions has not been owing to any want of zeal, or deficiency of means, on the part of the Government.
 
-"While we speak of the *zeal* manifested by the persons officially engaged in the trials of the prisoners, we cannot but regret that the Judge should have had occasion complain, in the presence of Mr. Allen and Mr. Haigh, the committing magistrates, that the depositions of the witnesses had not been returned to him, as the duty of the magistrates required, till had made particular inquiry for them. The upright mind of Baron Wood, it was evident, felt wounded by this proceeding, and any thing like reluctance to give to the accused all the advantages any discrepancy between the original examination of a witness and his evidence before the Court, will always be viewed with suspicion by a people jealous of their privileges, and anxious in the highest degree to preserve the stream of public justice free from contamination. The apology made for this suspicious omission by Mr. Le Blanc, the solicitor for the Crown, must be felt by every lover of justice to be extremely unsatisfactory. Some of the examinations, he says, were not taken on oath : but that surely is no reason why the others should be withheld !—and why, we should be glad to know, were examinations involving the liberty and lives of many of our countrymen not taken in the usual and authorised way?Mr. Allison, the clerk to the Huddersfield magistrates, and the professional coadjutor of the Crown solicitor in these prosecutions, might have instructed Mr. Allen's inexperience. Though his modesty may not allow it, the people of Huddersfield, and the professional gentlemen of the county of York, well know that there are few gentlemen in their profession better acquainted with the duties of a magistrate's law-clerk, or who has had more experience in criminal matters, than Mr. Allison. If our memory does not fail us, this gentleman acted as law-clerk to Mr. (now Sir Joseph) Radcliffe, during the whole of the disturbances in 1812, when no fewer than 64 persons were committed to York-castle, and when 17 of that number were capitally convicted. Inexperience, therefore, is out of the question; but supposing this to have been the case, the public will naturally inquire, whether Mr. Le Blanc is also inexperienced? and why he who had the chief direction of the prosecution did not order the depositions to be laid before the Judge?These documents were, however tardily, at length produced, and the penetrating eye of Baron Wood soon discovered that Samuel Winpenny had sworn one thing before the magistrates, and another before the Court; and this contradiction on a point of essential importance was very properly deemed by his Lordship fatal to the Witness's testimony.
+"While we speak of the *zeal* manifested by the persons officially engaged in the trials of the prisoners, we cannot but regret that the Judge should have had occasion complain, in the presence of Mr. Allen and Mr. Haigh, the committing magistrates, that the depositions of the witnesses had not been returned to him, as the duty of the magistrates required, till had made particular inquiry for them. The upright mind of Baron Wood, it was evident, felt wounded by this proceeding, and any thing like reluctance to give to the accused all the advantages any discrepancy between the original examination of a witness and his evidence before the Court, will always be viewed with suspicion by a people jealous of their privileges, and anxious in the highest degree to preserve the stream of public justice free from contamination. The apology made for this suspicious omission by Mr. Le Blanc, the solicitor for the Crown, must be felt by every lover of justice to be extremely unsatisfactory. Some of the examinations, he says, were not taken on oath: but that surely is no reason why the others should be withheld!—and why, we should be glad to know, were examinations involving the liberty and lives of many of our countrymen not taken in the usual and authorised way?Mr. Allison, the clerk to the Huddersfield magistrates, and the professional coadjutor of the Crown solicitor in these prosecutions, might have instructed Mr. Allen's inexperience. Though his modesty may not allow it, the people of Huddersfield, and the professional gentlemen of the county of York, well know that there are few gentlemen in their profession better acquainted with the duties of a magistrate's law-clerk, or who has had more experience in criminal matters, than Mr. Allison. If our memory does not fail us, this gentleman acted as law-clerk to Mr. (now Sir Joseph) Radcliffe, during the whole of the disturbances in 1812, when no fewer than 64 persons were committed to York-castle, and when 17 of that number were capitally convicted. Inexperience, therefore, is out of the question; but supposing this to have been the case, the public will naturally inquire, whether Mr. Le Blanc is also inexperienced? and why he who had the chief direction of the prosecution did not order the depositions to be laid before the Judge?These documents were, however tardily, at length produced, and the penetrating eye of Baron Wood soon discovered that Samuel Winpenny had sworn one thing before the magistrates, and another before the Court; and this contradiction on a point of essential importance was very properly deemed by his Lordship fatal to the Witness's testimony.
 
 "We have been led into these observations by a circumstance of a very extraordinary nature that has come to our knowledge, and which bears a striking affinity the case of McKinle, so recently before the High Court of Justiciary in Edinburgh : but before we proceed to state the facts to which we allude, it may be proper, for the perfect understanding of the subject, to quote the words of Baron Wood, in his charge to the Jury, on the trial of Benjamin Lockwood and others, for maliciously, shooting at Mr. David Alexander, one of the Huddersfield yeomanry cavalry, on the night the 8th of June.  After adverting to the testimony George Armytage, one of the witnesses for the Crown, who had sworn that he and a person of the name of Earnshaw, or Hearnshaw, had been forced to join the rioters at Folly-hall-bridge, his Lordship said—— "There is another circumstance deserving the serious consideration of the jury— the non-production of Hearnshaw as a witness. He has been in the custody of the prosecutors; he is now at York; he was stated by the witness to have been present, and to have seen all the circumstances that Armytage has asserted in evidence; and yet he is not produced! The Jury will draw their own inferences from this strong fact. It was the duty of the prosecutors, and due to the justice of the case, to have brought forward this witness."
 
@@ -1222,7 +1480,7 @@ We should not enter into this discussion did we not observe that there are Edito
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170804/018/0003?browse=true
-Leeds Intelligencer - Monday 04 August 1817
+## Leeds Intelligencer - Monday 04 August 1817
 
 [poor quality scan] BUT this appears to be duplcated in the Carlisle Patriot  above.
 
@@ -1230,9 +1488,9 @@ Leeds Intelligencer - Monday 04 August 1817
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170809/007/0003
-Leeds Mercury - Saturday 09 August 1817
+## Leeds Mercury - Saturday 09 August 1817
 
-THE PROSECUTION OF THE HUDDERSFIELD RIOTERS AND THEIR WITNESSES
+### THE PROSECUTION OF THE HUDDERSFIELD RIOTERS AND THEIR WITNESSES
 
 IN another part of our publication of this day, will be found a letter from MR. R. HAIGH ALLEN, Esq. one of the Huddersfield Magistrates, denying, in positive terms, that any conversation of the nature referred to in CHARLES HEARNSHAW's Declaration, inserted in our last week's paper, took place in his presence. This disclaimer of  Mr. ALLEN is followed by a letter from Mr. THOMAS ATKINSON, in which he asserts that he asked no *favour* of CHARLES HEARNSHAW as stated in his Declaration, but admits that he had a conversation with him in the anti-room, previous to the examination of Hearnshaw before the Grand Jury, and that he combated the evidence which Hearnshaw stated that it was his intention to give, respecting the first fire at Folly-hall- Bridge, on the night of the 8th of June, and endeavoured to influence his mind contrary to the witness's avowed impressions of the facts to which he was about to swear. Mr. Atkinson adds, that he did indeed give Armitage and Hearnshaw a shilling's worth of oranges, because they had been so long detained from their dinner,—but that this "bribe," as Mr. Atkinson calls it, was given in the most public manner.
 
@@ -1289,7 +1547,7 @@ Sat Aug 16, 1817 edition of Leeds Mercury is not available
 
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170811/023/0003
 
-Leeds Intelligencer - Monday 11 August 1817
+## Leeds Intelligencer - Monday 11 August 1817
 
 We had intended, by a future examination of the falsehoods respecting Oliver, to have shewn still more clearly the abominable and fraudulent artifices resorted to, in order to impose on the public, respecting the proceedings of that individual; but, on more mature consideration, we think his innocence has already been so irrefutably established, that all further discussion on the subject can only serve to give importance to the often-told tales of his enemies.—We shall only, therefore, give a word or two of advice to his accusers, which will put their sincerity to the test, and even this, after all that has passed, would be unnecessary, were it not that there are so many persons who are determined to adhere to falsehood in the face of conviction,
 

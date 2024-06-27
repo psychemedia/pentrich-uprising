@@ -153,3 +153,12 @@ Buckley Arms, Stockport, April 14, 1812. "The rioters were headed by two men, dr
 
 Industrial espionage?  https://kirkleescousins.co.uk/george-archer-industrial-espionage/ 
 Jacquard loom history
+
+
+https://books.google.co.uk/books?id=wvnrx3XRL30C&printsec=frontcover#v=onepage&q&f=false
+The History of Huddersfield and Its Vicinity
+1898
+D. F. E. Sykes
+
+Chapter XIII pp.273-290
+Chapter XIV pp.291-318

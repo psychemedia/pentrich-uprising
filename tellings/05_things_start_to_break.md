@@ -18,15 +18,14 @@ And that scared off the frame-breakers from there at least, though it didn't sto
 
 They called out the Cavalry of course, and the Yeomanry, but they weren't much good. The frame-breakers were way too clever for them, even then. And if there was one Ned Ludd leading them, there were many, or none. And they knew where they were going, they knew all the paths and the byways, and by night as well as they did by day. And Christmas came and went.
 
-And as the first weeks of the new year went by, eighteen hundred and twleve as it now was, the frames continued to be broken. And for the same reason. Cheap unskilled labour, wide frame produced tat, and hosiers who were following the prices down to try and preseve what business they could at the expense of the manufacturers.
+And as the first weeks of the new year went by, eighteen hundred and twelve as it now was, the frames continued to be broken. And for the same reason. Cheap unskilled labour, wide frame produced tat, and hosiers who were following the prices down to try and preseve what business they could at the expense of the manufacturers.
 
 In the Parliament of the mad King, and the playboy Prince Regent, a bill was introduced to make frame-breaking in those parts punishable by death. And as Parliament debated, the frames continued to be broken.
 
-Whether or not Topham had deserved to have his frames broken, word had it that he wanted something done about those frame-breakers, those Luddites as they were calling themselves.
+Whether or not Topham had deserved to have his frames broken, word had it that he wanted something done about those frame-breakers, those Luddites as they were calling themselves. after an appprentice, supposedly TO DO
 
 So even as the frames were being broken for just cause — at least as they Luddites would argue it — maybe that's why they went after Topham again, even as he was urging the magistrates to go after them.
 
 And so it was that in the few days before the Frame-Breaking Act received Royal Assent from the Prince Regent, Topham received a third visit from the frame-breakers. He knew he wouldn't be able to talk them round this time, so he placed a premium on his own personal safety and hid in a cupboard, while outside  he heard his life threatened by the many voices of the men who would broke ten more of his frames, and the doors and windows of his house and shop too, for in those days your house was your shop.
 
 Now as I've heard it told that he *was* paying full-price for the work on those frames, and that this was some sort of vengeful attack; but that's not to say there weren't those who deserved to have their machines broken, nor whether there was some other reason he'd attracted the ire of the frame-breakers. Cos history doesn't say so much about those other men who were targeted. Maybe Topham was the exception, which is why the press chose to mention him rather than the ones they couldn't defend.
-
