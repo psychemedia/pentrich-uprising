@@ -1,10 +1,23 @@
-# pentrich-uprising
+# Protest Tales: Luddites and Rebels
 
-Contemporary accounts of the Pentrich Uprising
+A long-standing interest in the Luddites, combined with the rebel tale of the "Pentrich Uprising", a story I first heard via a [Ferocious Dog song](https://www.youtube.com/watch?v=iqwEsFnAqg4).
 
-A cracking story I learned about from a [Ferocious Dog song](https://www.youtube.com/watch?v=iqwEsFnAqg4), follows on from the Luddite tale in much of the setting and conspiracy.
 
-A prequel is a gathering and riot at Spa Fields, London, December 1816: a State Trial of Messrs Watson, Hooper, Preston, Thistlewood for High Treason is set for June, 1817.
+## Tradtional story set
+
+A WIP set of traditional tales — the story is what's left when the facts have been forgotten — that start and end in Pentrich, or thereabouts, but also wander into neighbouring counties.
+
+### 1811 - opening tale
+
+### 1812 — machine-breaking and murder
+
+Mills are attackjed nby the machine bnreakers, and defended by the mill-owners. When two Luddites are killed during an attack, revenge figures highly, with terrible consequences, and a mass execution.
+
+### 1813-15 - occasional outrage
+
+### 1816 - a final Luddite flourish
+
+### 1817 - several state trials, and rebellion...
 
 Around the country secret committees meet to push for Parliamentary Reform, and the alleviation of the suffering of the poor. A gentleman from London proves helpful in sharing knowledge about what is going on elsewhere, in London, in Nottinghamshire, Derbyshire and the West Riding of Yorkshire. But helping whom?
 
