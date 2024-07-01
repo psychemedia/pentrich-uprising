@@ -5,7 +5,7 @@ copyright article at https://huddersfield.exposed/wiki/Old_West_Riding:_A_Collec
 
 The Folly Hall Uprising 1817 — by Alan J. Brooke (page 18)
 
-PDF in ../resources/
+PDF in ../print_resources/
 
 --
 Folly Hall - https://huddersfield.exposed/wiki/Folly_Hall,_Huddersfield
