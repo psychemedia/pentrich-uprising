@@ -1,7 +1,8 @@
 # Protest Tales: Luddites and Rebels
 
-A long-standing interest in the Luddites, combined with the rebel tale of the "Pentrich Uprising", a story I first heard via a [Ferocious Dog song](https://www.youtube.com/watch?v=iqwEsFnAqg4).
+A long-standing interest in the Luddites, combined with the rebel tale of the "Pentrich Uprising", a story I first heard via a [Ferocious Dog song](https://www.youtube.com/watch?v=iqwEsFnAqg4), provided the idea for this set.
 
+The original plan was to try to give it an outing in the Rebel Tent, at Beautiful Days, in 2024... *If anyone can help me secure that gig, I'll get a round in... :-)*
 
 ## Tradtional story set
 
@@ -11,9 +12,9 @@ A WIP set of traditional tales — the story is what's left when the facts have 
 
 ### 1812 — machine-breaking and murder
 
-Mills are attackjed nby the machine bnreakers, and defended by the mill-owners. When two Luddites are killed during an attack, revenge figures highly, with terrible consequences, and a mass execution.
+Mills are attacked by the machine bnreakers, and defended by the mill-owners. When two Luddites are killed during an attack on Cartwright's mill, at Rawfolds, revenge figures highly, with terrible consequences, and a mass execution.
 
-### 1813-15 - occasional outrage
+### 1813-15 - an occasional outrage
 
 ### 1816 - a final Luddite flourish
 
