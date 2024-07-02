@@ -7,7 +7,7 @@ https://archive.org/details/trialsjeremiahb00gurngoog
 Vol2
 https://archive.org/details/trialsjeremiahb00ludlgoog
 Vol1
-The trials of Jeremiah Brandreth, William Turner, Isaac Ludlam, George Weightman and others for high treason : under a special commission at Derby ... October 1817, with the antecedent proceedings
+The trials of Jeremiah Brandreth, William Turner, Isaac Ludlam, George Weightman and others for high treason: under a special commission at Derby ... October 1817, with the antecedent proceedings
 by Brandreth, Jeremiah, d. 1817; Turner, William, d. 1817; Ludlam, Isaac, d. 1817; Gurney, William Brodie, 1777-1855
 
 Publication date 1817
@@ -62,7 +62,7 @@ Publication date 1826
 Challenging juries
 https://core.ac.uk/download/pdf/232638505.pdf
 Brown, R. Blake. "Challenges for Cause, Stand-Asides, and Peremptory Challenges in the Nineteenth Century." Osgoode Hall Law
-Journal 38.3 (2000) : 453-494.
+Journal 38.3 (2000): 453-494.
 http://digitalcommons.osgoode.yorku.ca/ohlj/vol38/iss3/3
 
 https://www.tandfonline.com/doi/pdf/10.1080/01440368708530895?casa_token=_Kt17-n4fKQAAAAA:d9VJFbz3REPsBYTP7bsYU6JYwPwMxjmaCX2Tx2gAGEhIyciIc8r5l_kPjBu2Obfk1k8IVKCcvQkA

@@ -17,20 +17,20 @@ eg ch VI https://archive.org/details/memoirthomasfir01arnogoog/page/n114/mode/2u
 
 incl. p108
 Every man his skill must try,  
-He must turn out and not deny ;  
+He must turn out and not deny;  
 No bloody soldier must he dread.  
-He must turn out and fight for bread ;  
+He must turn out and fight for bread;  
 The time is come, you plainly see,  
 When Government opposed must be.
 
 See also the verse in https://archive.org/details/trialsjeremiahb00gurngoog/page/303/mode/1up and commentary elsewhere (earlier) in that document
 
-Denman - libel letter from Luddites —  Court of King's bench, King v Sutton - free speech trial ? Leicester Journal - Friday 04 August 1815 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000205/18150804/002/0002
+Denman - libel letter from Luddites —  Court of King's bench, King v Sutton - free speech trial? Leicester Journal - Friday 04 August 1815 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000205/18150804/002/0002
 and again at appeal? https://www.britishnewspaperarchive.co.uk/viewer/bl/0000237/18151110/002/0002
 Nottingham review editorial https://ludditebicentenary.blogspot.com/2015/08/4th-august-1815-nottingham-review.html
 Trial was on 22nd July, reported in http://ludditebicentenary.blogspot.com/2015/07/22nd-july-1815-trial-of-charles-sutton.html
 
-Denman speaking on " bill for abolishing death punishment in cases of forgery, June 4, 1821 "
+Denman speaking on "bill for abolishing death punishment in cases of forgery, June 4, 1821 "
 
 Spoke on wager of battel repeal
 

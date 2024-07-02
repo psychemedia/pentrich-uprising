@@ -19,7 +19,7 @@ https://discovery.nationalarchives.gov.uk/results/r?_q=bacon&_dss=range&_sd=1817
 https://blog.nationalarchives.gov.uk/pentrich-seditions-petitions/
 HO 40/9/5 - john cope
 HO 40/9/2 Oliver signature
-HO 17 (criminal petitions) Weightman, HO 17/73/138 1831 Robert Goodacre petitions obo Weightman; 2 August 1834 Weightman is listed with his co-accused in a petition from some Derbyshire magistrates and MPs - received pardon ? https://discovery.nationalarchives.gov.uk/details/r/C16276907 HO 17/70/8 1834 Mar 27 - 1834 July 11
+HO 17 (criminal petitions) Weightman, HO 17/73/138 1831 Robert Goodacre petitions obo Weightman; 2 August 1834 Weightman is listed with his co-accused in a petition from some Derbyshire magistrates and MPs - received pardon? https://discovery.nationalarchives.gov.uk/details/r/C16276907 HO 17/70/8 1834 Mar 27 - 1834 July 11
 
 Letter Brandreth's wife to Brandreth
 HO-42-171_3.pdf p6-8
@@ -43,7 +43,7 @@ HO-40-17_15.pdf p6
 George Weightman transported and then pardoned 1835 ?
 https://convictrecords.com.au/convicts/weightman/george/63920
 "George was granted an absolute pardon 1st Jan 1835 due to being sentenced by government entrapment,"?
-" All serving life sentences received a pardon on 1st January 1835" -> https://pentrichrevolution.org.uk/mobile/the-revolution-part2.html
+"All serving life sentences received a pardon on 1st January 1835" -> https://pentrichrevolution.org.uk/mobile/the-revolution-part2.html
 
 https://uhra.herts.ac.uk/handle/2299/21566
 The Home Office and Public Disturbance, c. 1800-1832 Thesis
