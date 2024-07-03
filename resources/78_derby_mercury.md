@@ -59,6 +59,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18170619/009/0003
 Derby Mercury
 Thursday 19 June 1817
 
+
 p3
 
 THE LATE INSURRECTION
@@ -92,3 +93,17 @@ The Right Hon. Lord Scarsdale, D. P. Coke, J. Balguy, B. Heathcote, J. Crompton,
 We have the utmost satisfaction in recording the determined opposition which the insurgents received from the farmers and most respectable inhabitants of Wingfield Park, Pentridge, Ripley, and other places where these atrocious and disgraceful proceedings have been exhibited. To this disposition, aided by our civil and military establishments, and to a vigorous execution of the Laws of our country, we look with confidence for the suppression of any further attempt which may be made to disturb the peace of the county.
 
 In the preceding account we have abstained from mentioning any of the names of the prisoners. But we understand that an inquest has been taken by Mr. Gosliag, the Coroner, upon the body of Robert Walter, (Mr. Hepworth's servant,) who was shot in the night of Tuesday the 9th inst. in his master's house in Wingfield Park; and that a verdict of wilful murder has been returned by the Jury against William Turner, Joseph otherwise Manchester Turner, Robert Turner, Isaac Ludlam, William Ludlam, and William Barker.
+
+
+TO DO
+
+ABOVE ALSO IN 
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0002634/18170623/011/0003?browse=true
+London Chronicle - Monday 23 June 1817
+
+And in round-up
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18170620/008/0004
+London Courier and Evening Gazette - Friday 20 June 1817
+
+WHICH ALSO MENTION FOLLY HALL AND COMMITTALS ARISING FROM THAT

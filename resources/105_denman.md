@@ -2,7 +2,7 @@
 
 
 Denman seems to be a really interesting character
-https://en.wikipedia.org/wiki/Thomas_Denman,_1st_Baron_Denman ?
+https://en.wikipedia.org/wiki/Thomas_Denman,_1st_Baron_Denman?
 https://api.parliament.uk/historic-hansard/people/mr-thomas-denman/index.html
 eg TRIAL BY BATTLE ABOLITION BILL.
 https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Denman,_Thomas_(1779-1854)
@@ -30,7 +30,7 @@ and again at appeal? https://www.britishnewspaperarchive.co.uk/viewer/bl/0000237
 Nottingham review editorial https://ludditebicentenary.blogspot.com/2015/08/4th-august-1815-nottingham-review.html
 Trial was on 22nd July, reported in http://ludditebicentenary.blogspot.com/2015/07/22nd-july-1815-trial-of-charles-sutton.html
 
-Denman speaking on "bill for abolishing death punishment in cases of forgery, June 4, 1821 "
+Denman speaking on "bill for abolishing death punishment in cases of forgery, June 4, 1821"
 
 Spoke on wager of battel repeal
 

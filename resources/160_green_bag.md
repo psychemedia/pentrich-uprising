@@ -11,7 +11,7 @@ p468
 https://archive.org/details/sim_notes-and-queries_1896-06-20_9_234/page/494/mode/2up
 Notes and Queries  1896-06-20: Vol 9 Iss 234
 p494
-"A Green Bag Maker" (8 S. ix. 468).— See a full explanation in 'N. & Q.,' 2nd S. xi. 150; 6th S. iv. 71. After the trial of Queen Caroline, 1820, the phrase "Green Bag" became common, and frequently occurs in contemporary ephemeral literature :—
+"A Green Bag Maker" (8 S. ix. 468).— See a full explanation in 'N. & Q.,' 2nd S. xi. 150; 6th S. iv. 71. After the trial of Queen Caroline, 1820, the phrase "Green Bag" became common, and frequently occurs in contemporary ephemeral literature:—
 "The Queen Triumphant; or, the Glorious Triumph of Truth and Innocence over Falsehood and Corruption!! with an observation or two on the Dying Groans and Expiring Agony of the Green Bag...... a sermon preached at Ebenezer Chapel, Dagger-lane, Hull,...... November 26th, 1820, Dedicated to Her Majesty, by Samuel Lane."
 W. C. B.
 

@@ -40,7 +40,7 @@ HO-40-17_15.pdf p6
 
 --
 
-George Weightman transported and then pardoned 1835 ?
+George Weightman transported and then pardoned 1835?
 https://convictrecords.com.au/convicts/weightman/george/63920
 "George was granted an absolute pardon 1st Jan 1835 due to being sentenced by government entrapment,"?
 "All serving life sentences received a pardon on 1st January 1835" -> https://pentrichrevolution.org.uk/mobile/the-revolution-part2.html

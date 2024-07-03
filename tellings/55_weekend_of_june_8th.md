@@ -36,3 +36,13 @@ The re-examination of the prisoners charged with High Treason, took place at the
 We feel great satisfaction in having to state that the most perfect tranquillity has prevailed here during the whole of the past week, and that the alarm by which the announcement of so many plots had produced, has nearly subsided.
 
 ```
+
+---
+
+
+--
+https://britishnewspaperarchive.co.uk/viewer/bl/0002633/18170615/021/0003
+Englishman - Sunday 15 June 1817
+
+
+

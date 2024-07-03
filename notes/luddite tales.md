@@ -28,7 +28,7 @@ Hudds Oct-Dec,
 1813 Jan hanging
 1816? Loughborough - Towle tried 1816, informed, new trial April 1817
 
-1816 Year wthout a summer https://en.wikipedia.org/wiki/Year_Without_a_Summer volcano in Indonesia in April 1815;  there was also a volcano in 1808 that led to global cooling - when was earlier poor harvests of 1809 and 1810 ?
+1816 Year wthout a summer https://en.wikipedia.org/wiki/Year_Without_a_Summer volcano in Indonesia in April 1815;  there was also a volcano in 1808 that led to global cooling - when was earlier poor harvests of 1809 and 1810?
 
 Luddite June 1816 55 frames Loughborough, Heathcote and Boden's factory; James Towle hanged nov 1816,
 1816 Spa fields
