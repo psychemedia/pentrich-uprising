@@ -22,7 +22,7 @@ And as the first weeks of the new year went by, eighteen hundred and twelve as i
 
 In the Parliament of the mad King, and the playboy Prince Regent, a bill was introduced to make frame-breaking in those parts punishable by death. And as Parliament debated, the frames continued to be broken.
 
-Whether or not Topham had deserved to have his frames broken, word had it that he wanted something done about those frame-breakers, those Luddites as they were calling themselves. after an appprentice, supposedly TO DO
+Whether or not Topham had deserved to have his frames broken, word had it that he wanted something done about those frame-breakers, those Luddites as they were calling themselves. after an apprentice, supposedly TO DO
 
 So even as the frames were being broken for just cause — at least as they Luddites would argue it — maybe that's why they went after Topham again, even as he was urging the magistrates to go after them.
 

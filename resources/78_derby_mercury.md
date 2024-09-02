@@ -59,7 +59,6 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18170619/009/0003
 Derby Mercury
 Thursday 19 June 1817
 
-
 p3
 
 THE LATE INSURRECTION
@@ -102,8 +101,10 @@ ABOVE ALSO IN
 https://britishnewspaperarchive.co.uk/viewer/BL/0002634/18170623/011/0003?browse=true
 London Chronicle - Monday 23 June 1817
 
+
+
 And in round-up
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18170620/008/0004
 London Courier and Evening Gazette - Friday 20 June 1817
 
-WHICH ALSO MENTION FOLLY HALL AND COMMITTALS ARISING FROM THAT
+WHICH ALSO MENTION FOLLY HALL AND COMMITTALS ARISING FROM THAT FROM YORK CHRONICLE
