@@ -227,7 +227,7 @@ With respect to the disturbances of which we have heard so much in this and the 
 
 If the labouring classes suffer from the high price of provisions, or have any other just ground of complaint, I am sure there will be found, in you and in the country, a disposition to afford them relief and redress. In no country (and I am proud to think I live in such a country) are the comforts of the poor more attended to, or more instant attention paid to their distresses than in this; and I am sure every practicable mode will be resorted to, to diminish the pressure they must feel from the high price of the necessaries of life. Gentlemen, if, by submitting to little privations ourselves, we can contribute to this, we shall have the satisfaction of reflecting, that we have done nothing to increase these troubles, nay more, that we have done all in our power to remove them; and if those people should be so unwise and so ungrateful as to persevere in their measures of hostility, we shall have the consolation of having done our duty.
 
-... Trial of Sheffiled Rioters ....
+... Trial of Sheffield Rioters ....
 
 
 ...
@@ -912,7 +912,7 @@ For the accuracy of this portion of the evidence, we appeal to the Magistrates p
 
 [--break--]
 
-On Wednesday se'nniight, two persons, who we understand were a king's messenger and a Bow-street officer, arrived at Wakefield, and arrested Benjamin Scholes, by virtue of a warrant from the Secretary of State, and immediately took him away for London. They starched his house and examined his papers, but did not carry one away with them. This was all done with such secrecy, that the fact was not known beyond the circuit of his family till Friday noon. — *Wakefield Star*
+On Wednesday se'nnight, two persons, who we understand were a king's messenger and a Bow-street officer, arrived at Wakefield, and arrested Benjamin Scholes, by virtue of a warrant from the Secretary of State, and immediately took him away for London. They starched his house and examined his papers, but did not carry one away with them. This was all done with such secrecy, that the fact was not known beyond the circuit of his family till Friday noon. — *Wakefield Star*
 
 *Charges of Treasonable Practices.*— On Thursday night, a man of the name of Scholes, was brought to London by a King's Messenger and a Bow-street officer, from Wakefield. On Friday Scholes underwent an examination at the Secretary of State's Office for the Home Department, before Lord Sidmouth, the Law Officers, Sir N. Conant, &c. At the same time several others, who had been in custody for some time, were brought from the House of Correction, and underwent an examination. After which Scholes was sent off to Cambridge prison.— On Saturday night, between nine and ten o clock, a King's Messenger and a Bow-Street Officer arrived in town with another man in custody, on a charge of Treasonable Practices, by virtue of a warrant issued against him, signed by Lord Viscount Sidmouth, as Secretary of State. On account of the lateness of the hour, no person was in attendance at the Secretary of State's Office, and no Magistrate being sitting, he was lodged in the House of Correction.
 
@@ -1187,6 +1187,41 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18171218/003/0002
 Cheltenham Chronicle - Thursday 18 December 1817
 
 On Friday week Mr. Stavely, of York Castle received a warrant from the Right Honourable Secretary of State, authorising him to discharge out of custody Richard Lee, a state prisoner, upon condition that he should enter into recognizance of 100l. to appear on the first day of next Term in the Court of King's Bench, and not to depart without leave of the said Court. He, having confirmed to such order, was on the same day discharged accordingly.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000365/18180207/013/0004
+Carlisle Patriot - Saturday 07 February 1818
+
+HOUSE OF COMMONS THURSDAYY JAN. 29
+
+HABEAS CORPUS ACT
+
+A Message from the House of Lords announced the passing of the Act to repeal the Suspension of the Habeas Corpus Act.
+
+[DEBATE]
+
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001659/18180213/039/0004
+Drakard's Stamford News - Friday 13 February 1818
+
+THE "RESPECTABLE” MR. OLIVER. Relative to this wretch, we copy the subjoined paragraph from the *Leeds Mercury* of last week:—
+
+"That a very considerable agitation prevailed in the country at the period of the passing of the act which is now happily repealed, we are ready to admit; but we contend that that agitation was intentionally increased by the agents of those who took advantage of the distressed state of the country to arm themselves with arbitrary powers, and to silence the cry for a parliamentary and economical reform. Of that agency we have already frequently had occasion to speak, and we feel convinced that no man can read the artless narrative delivered by William Cliff, of Derby, at the meeting held this week in London, for affording relief to the sufferers by arbitrary imprisonment, without being convinced that Mr. Oliver was the great organizer of the sedition. This ministerial firebrand was sent through the country propagating the belief whereever he came, that "the caterpillars of the state,” meaning his employers, "must be driven away”—that for this purpose the people in every part of the country was ready to rise in arms, and that those in particular who were at a distance from the scene of his instigation, would scarcely be restrained from rushing to the field. At Wakefield, and at Dewsbhury, as we already kuow, he stated the people of London to be almost heart-broken with the public apathy in the country; and at Derby, it seems, he represented the people of Leeds to be kept down with extreme difficulty, when at the very time, it is notorious that we had scarcely a troop of regular soldiers in the town, and so tranquil and secure did the inhabitants consider themselves, that it was with great trouble, and not till after nearly three months' entreaty, that a body of yeomanry cavalry, not exceeding a hundred men, could be enrolled! And yet we are unblushingly told, both in and out of parliaament, that Mr. Oliver’s mission was undertaken for the purpose of enabling the government to preserve the tranquillity of the country! A hundred such peace-makers, practising upon a half‘famished population, would have created a civil war! A report has reached us, we know not how well founded, that Oliver, feeling himself incapable of braving the indignation of his countrymen, had retired to the continent, and that his dead body was found early in the last month, with a razor by his side, on the skirts of a wood between Hamburg and Bremen."
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18180214/005/0002
+Leeds Mercury - Saturday 14 February 1818
+
+TO DO
+
+HOUSE OF COMMONS, Wednesday.
+
+INSTRUCTIONS TO THE SECRET COMMITTEE.
+
+to, 2,fr. Fazct-esly trose )ursbiant to tile notice- 8 he had given, to move-" Thtt i tnsaru.tn ?? given t6 in the Secret Committee to ?? and. report. whether *n anv. and. What, measures had been taken to detect and to bring to justice, all or any of those pCtsoSs, who had been described in the Report of the Secret Committee, td on the 20th of .hucE, 1817; as haviig, bY language e, or conduct, been in any manner the caause of the disturbances which took place last year.'- le An animated debate ensued in which it was contended on the nre -hani;' that- if, as had been stated, e- a connection, had been opened between the disaffected I- in London, and in the midland and northern districts, 3e tbe j:rson who established, and kept up that connexion, was sentedown by the Secretary of State. and that 'a the Country magistrates in the neighbourhoods where a] any secret meetings were held, dilifendty employed themselves to secure Mr. Oliver, ?? delegate, from whom they supposed all the mischief proceeded. ar Oliver it was known had been in Yorkshire, Derby, and Birmingham, and tnless the -house 0 tered into an inquiry into the mission and conduct of this man, they =ould not do their duty to the public. There were indeed stroug reasons against the report being referred to the Committee.. when it was lecol. r- lected by whomn that Cosnsittee .s appointed and of whom it was composed, asd that it was a Committee n of ?inisc~rs sitting in judgment upou their own actions. It was urged by Ministers that Spies, in *lonler to eonciliate tli c onfidenec of the disaffected must appear to be themselves disaffected and what it was this but te -allow that the natural conseqnences of their mission was to foment disturbance ? (Hear! hear! Oliver was represented as a man of good morals, but Mr. Bennett said he was prepared to prove that he had two wives living, and that this moral it gentleman owed to the mercy of others the worthless life which he enjoyed. Since his connection vith Government as aLSpy he had travelled round the country representing himself as a London delegate, and in this character he had visited Liverpool, Manchester, Derby, Notthighans, Birmingham, and Leeds, endeavouring to siiduca persons in some of these places to send delcgstes to London, and stimulating them to endeavour to prevail upon respectable persons to call Meetings. At one of these metings Mr. Oliver took the Chair and informed his auditors that their was no a.e in petitioning, that the people in London- were waiting for the movements of those in the country, and that nothing would do but physical force. He had appeared in Nottingham in the character of a London delegate, and urged the people in the strongest terms to riot and insurrection. Notwithstanding the assertions to the contrary, Brandreth and Oliver had been together.- 1. The plot he had laid was to insnare the people into overt acts of treason and insurrection: That this was the object and tendency of his measures could not be doubted; and it tmust not be fotg tha from the day on Which Oliver was discovered and ir consequence n ceased to be a missionary ad a turistthe public !s, tranquillity had been completely. restored.- Hear!  hear. NQ N eq ber in that HousA ever knew in his own case *vhat it was to have a wife and chidren cam- d ouring for brad !Suds cases had howvver occurred, r and adlvantage-had been taken of ietn to excite the :head of the -fsamily -to acts of desptriniri. Could it then have been supposed that Goverment would have n entdelegatesand ilendaridsamang suah ispopulatiion? Y3 No grounds existed, Ior aarm til Oliver d h pearance, ard he attempted. to raise onean of t .country againri anotlier to secsre hs blood money. on the Other side ofehe Hoiseii vas contended generally, that the -riartive- of Uif prceedings of Olivir; as; giverl'by tlhe Mernbeniors i liriesd :of--dre House, was derived frnm a -pollued ource and that a very bad and- dangerous spinS, etistd in the cosnntryioh-g setbroto ?? t lefavssi 0 Ct rils ation of *bh1 3Mr; Canning read to 'de House ass i extract of is-letter received by liis Motjesry's Ministers from Earl Viitzwillisi5 -the -Ia:rd;Littcnane of the West-Riding of Yorkshire, in DeeL. -NI6. The letter ini quetion A as exptcssad in these tefmn" I cannot conclude this bhsty reliort to 'your Lordsaips with- sot calling your attratiss to' the present alarming t" state of the coutty, which is at 'ttiasrmoment in a " most distaffiected and seditious stat&' I must oh. Is serve, that this is'not ow;ng to any wadt of eaopboy- d' ment, or scarcity of provisions, but fseems to be " cailsed by that revolutionary spirit which wasdis- Y " played at Spa-fields, 'and which, if riot timely put a if " stop to, wil be likely to overturn the Constitution." e Lord Milton said, Mr. Canning had made use of the ar-gyn lestn ad /fliimin, but he had not acted fairly if in the line he had adopted with respect to the letters of his father. He had written two letters, one of which the honourable gentletsan had quoted, but the other he had passed over in lilence because it did not answer his purpose. The second letter, which wu n founded on more ininuto inquiry, expressed a change of opinion, and declared that there was no necessity for the Suspension of the Habeas Corpus Act. This letter was studiously suppressed uidt only by Mr. Canning in debate, but by the Ministers in the documents which they had laid before the Secret Commnittee, of which he (Lord liltois) was a member. He would beg leave to inform the Househvi owiuepeopleht ad been dealt it usith in this Committee. There were. laid before it several communications from the Lords' Lieutenants of Counties or. the state of the country, but no communication was sent from din e Lord Lieutenant of the West Riding of Yorkshire (Earl Fitzwilliam.)- (Hear, Hear! ) How fiur tis was acting fairly, he ould leave the House to decide _(Hear, hear) After some observations fromn Lord Castlereagh, in  which he u pbraided Lord Milton with disclosing the secrets of the Secret Committee; the House divided, when there appeared, for ?? motion of .1r. Fazsaker- n lemIy,. 5.3.-alplisst it, 1 i1 -majority against inquiry, 5s.
+
+A bill of indictment has been found against Mr. Arthur Thistlewood, the person who was apprehended with Dr. Watson, in London, after the Spa-Fields Meeting, on a charge of high treason, and he has in consequence been committed to prison, for sending a challenge to Lord Sidmouth.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003
 
@@ -1725,7 +1760,7 @@ Lee offered repeatedly to tell all he knew, if he might be permitted to be admit
 
 The place was not offensive, but clean and dry. As soon as ever a place of better accommodation could be found for the numerous prisoners, viz. in three or four days time, a house was taken, and Lee was then put into the best front bed room, with a chest of drawers, and a four post flock bed. He refused to have a bed, and wished for some straw. Straw was given him, and he put it upon his bed, and threw two quilts over it, and so crept in between them, because the weather was so intensely warm. All this was his own choice, and he repeatedly declared, that he was, and had been, more comfortable than at home, and had been much better attended to, and fed.
 
-Observationsby the Gaoler, at York, on Lee's Petition.
+Observations by the Gaoler, at York, on Lee's Petition.
 
 *Richard Lee*, whilst confined in York Castle, by his good and regular conduct, induced the gaoler to recommend him to Lord Sidmouth for his release. The gaoler was then led to believe Lee possessed some contrition in his mind for the offences which he had so frequently confessed to him, of his guilt, against the laws of his country: and under the faithful ?? of reformation, the gaoler was induced to petition Lord Sidmouth, in Lee's behalf.
 
@@ -1743,7 +1778,7 @@ The room occupied by Riley and Lee, is 23ft. long, 13 1/2 f. wide, 15ft. high, a
 
 Lee looked extremely well when he was discharged.
 
-*Benjamin Whitely*, another of the band of *Patriots* who intended for us som many blessings, is the subject of the following letter:—
+*Benjamin Whitely*, another of the band of *Patriots* who intended for us so many blessings, is the subject of the following letter:—
 
 *To the Editor of the Leeds Intelligencer*  
 Holmfirth, 2d March 1818
@@ -1764,9 +1799,27 @@ Mr. Bennett said, "if Bacon had been tried first, Oliver would have been a most 
 
 While we thank Mr. Bennett for this proof, that it was Bacon whom the Counsel for the prisoners wished to be brought forward, and for his admission that Bacon (one of the *innocent victims* to Oliver) was a *"master traitor,"* we beg leave to set him right in some particulars. Bacon was not kept back altogether. He pleaded *guilty*—was *convicted*—and in common with some others who thus threw themselves on the mercy of the Crown, was sentenced to *transportation for life*.
 
-The Solicitor General and others, in the course of the same debate, clearly proved that Oliver had nothing to do with the prisoners, and that his production could have been of no advantage to them. And, the reason Bacon was called for so often by the Counsel for the prisoners, was, not that they thought they
-could have availed themselves of Oliver during his trial; but because they imagined the Attorney-General was keeping Bacon back, for the purpose of using him as an evidence in some further proceedings.
+The Solicitor General and others, in the course of the same debate, clearly proved that Oliver had nothing to do with the prisoners, and that his production could have been of no advantage to them. And, the reason Bacon was called for so often by the Counsel for the prisoners, was, not that they thought they could have availed themselves of Oliver during his trial; but because they imagined the Attorney-General was keeping Bacon back, for the purpose of using him as an evidence in some further proceedings.
 
 We believe the chief reason that Brandreth, Ludlam, Turner, and Weightman, were put on their trials before Bacon, was, that though Bacon was certainly one of the *"master traitors,"* the legal proofs were not quite so strong against him as against some of the others—and this very circumstance was a further motive for the prisoners' Counsel to wish him to be tried *first*. If the *master traitor* Bacon had been tried
-first, and, from any defect of evidence, had been acquitted, it would have had a most *important*, and
-*glorious*, and *ever-to-be-rejoiced-at* effect on the trials of the *other traitors*—certainly.—The Attorney General, happily, *knew his business better*.
+first, and, from any defect of evidence, had been acquitted, it would have had a most *important*, and *glorious*, and *ever-to-be-rejoiced-at* effect on the trials of the *other traitors*—certainly.—The Attorney General, happily, *knew his business better*.
+
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180330/019/0003
+Leeds Intelligencer - Monday 30 March 1818
+
+TO DO claude
+
+The inhabitants of this town were struck with astonishment, when they saw, from the Parliamentary reports, that one hundred petitions, signed by twenty persons each, praying for Reform, had been presented to the House of Commons, in the beginning of this month, from the town of Leeds! We have purposely abstained from making any remark on the circumstance, until it had produced, unaided, its full effect on the minds of our townsmen, and until we could dispassionately appeal to their reason, after they should have recovered from their surprise. We have not yet been able to learn that any one person, excepting the alleged petitioners themselves, knew these petitions were in progress in the town, or heard of them, until they were presented to the House! Petitions, signed by two thousand persons, if the signatures had been fairly and publicly obtained, must have made, one would think, noise enough in a place, however populous. One of two alarming facts, therefore, is the case. Either the petitions were signed by two thousand men, who are so closely confederated, and are bound to each other by such ties of secrecy, that they could unite in this measure, and carry it into execution, without the knowledge of their fellow-townsmen, —or, supposing the signatures to have been chiefly surreptitious, there are a few persons in Leeds, who are daring and unprincipled enough to fabricate petitions, for the purpose of imposing upon Parliament and the country! In the former case, what security have we, that these two thousand men, who have proved that they can act with secrecy and in concert, may not, in the prosecution of their wild and desperate projects, combine for purposes neither so lawful nor so peaceable as those of petitioning? In the latter case, it is evident that we have within the town, a band of close conspiring villains, whose readiness to adopt any daring and desperate measure, is proved by the unprincipled conduct they have already pursued.
+It behoves the Public, and the Constituted Authorities, to be vigilant. As a local circumstance, we have no hesitation in saying, that the manner in which these petitions have been obtained, is one of the most
+
+AND CON TINUES _ TO DO
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18180425/008/0003
+Leeds Mercury - Saturday 25 April 1818
+
+TO THE EDITOR OF THE LEEDS MERCURY
+
+Holmfirth, April 22, 1818
+
+MR. EDITOR.— In the multitude of evils which the unjust prosecution I have endured has brought  TO DO
