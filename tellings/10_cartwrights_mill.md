@@ -94,7 +94,7 @@ At first, it seemed to go well for the prosecution. Mr. Cartwright was called an
 
 And that was the prosecution! So then the defence then made their case.
 
-Their first witness was a surgeon who appeared to be a respectable man, and who had been treating Oldroyd at the time of the attack. He would have beem very surprised if he had been fit enough at the time to take part in the attack, and when he saw him the morning afterwards, he supposed he had had his usual rest the preceding night.
+Their first witness was a surgeon who appeared to be a respectable man, and who had been treating Oldroyd at the time of the attack. He would have been very surprised if he had been fit enough at the time to take part in the attack, and when he saw him the morning afterwards, he supposed he had had his usual rest the preceding night.
 
 The second witness was a mother of two who had lodged in the same house as Oldroyd on the night of the attack. One of her children had been ill at the time, and she had been up half the night as a result, repeatedly talking to Oldroyd, and, rather conveniently, repeatedly checking the clock. Despite the prosecutor's best efforts, she was unwavering in her story. As the judged summed up, there was nothing improbable or inconsistent in the account she gave.
 

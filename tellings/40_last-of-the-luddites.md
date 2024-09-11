@@ -16,8 +16,7 @@ also Leicester Journal - Friday 16 August 1816
   - courier.md
   - derby_mercury.md
 
-
-A couple of luddites acquitted at Nottingham assizes, but protest and abuse at judge. In leicester, citizens turned out and presented with sticks to protect judge; towle et al. et al were let off but towle sentenced to death (shooting of one of people atttacked); anecdotes on towle disclosures to policemen sealed his fate.
+A couple of luddites acquitted at Nottingham assizes, but protest and abuse at judge. In leicester, citizens turned out and presented with sticks to protect judge; towle et al. et al were let off but towle sentenced to death (shooting of one of people attacked); anecdotes on towle disclosures to policemen sealed his fate.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000420/18160816/017/0004
 Cambridge Chronicle and Journal - Friday 16 August 1816

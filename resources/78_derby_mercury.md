@@ -63,7 +63,7 @@ p3
 
 THE LATE INSURRECTION
 
-In our last publication, we discharged a most painful duty, and announced the appearance of an alarming insurrection, extending along the northeaswardly, or Nottinghamshire side of this county, But we abstained from any attempt to give a detailed account of what had happened, not because we were insensible of the deep interest which this event had excited, or were unwilling either to relieve the anxiety, or gratify the curiosity of the public, but solely from a consideration of our duty.
+In our last publication, we discharged a most painful duty, and announced the appearance of an alarming insurrection, extending along the northeastwardly, or Nottinghamshire side of this county, But we abstained from any attempt to give a detailed account of what had happened, not because we were insensible of the deep interest which this event had excited, or were unwilling either to relieve the anxiety, or gratify the curiosity of the public, but solely from a consideration of our duty.
 
 The magistrates had but just entered upon the investigation of the business,-With obvious propriety, they were conducting the examination of the witnesses in private,— Nothing authentic had transpired.- We neither wished, on the one hand, to encrease the existing alarm, by giving our sanction to the various reports which were in circulation, and create a prejudice against those unfortunate men, who had been made prisoners; nor, on the other, to under-rate the danger from which we have been providentially rescued by the incessant vigilance of the Government, the active exertions of our Magistrates, and the zealous Co operation of the Military.
 
@@ -100,6 +100,7 @@ ABOVE ALSO IN
 
 https://britishnewspaperarchive.co.uk/viewer/BL/0002634/18170623/011/0003?browse=true
 London Chronicle - Monday 23 June 1817
+and https://www.britishnewspaperarchive.co.uk/viewer/bl/0001255/18170621/022/0003 Public Ledger and Daily Advertiser - Saturday 21 June 1817. p3-4
 
 
 

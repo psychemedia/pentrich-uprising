@@ -1,6 +1,6 @@
 # Folly at Folly Hall
 
-In terms of English uprisings, the "Pentrich Revolution" of June 1817, and the band of insurrectionists who assembled at South Wingfield in Derbyshire to march to Nottingham, is perhaps one of the better known tales, at least amongst those with a passing interest in such things. The sentences incflicted on those involved probably go somw way to explaining that, but that is a story for another day.
+In terms of English uprisings, the "Pentrich Revolution" of June 1817, and the band of insurrectionists who assembled at South Wingfield in Derbyshire to march to Nottingham, is perhaps one of the better known tales, at least amongst those with a passing interest in such things. The sentences inflicted on those involved probably go some way to explaining that, but that is a story for another day.
 
 But whilst the general uprising the Pentrich rebels believed they were participating in failed to materialise, there was at least one other place where men had gathered a night earlier, and with similar expectations.
 
@@ -110,7 +110,7 @@ A longer excerpt from the article provides some further colour about the affair,
 > ...
 > I can well recollect the time when our streets were all in darkness. People went about at night with hand glass lanterns, and our shops were lighted up with candles or muddy oil lamps. It was then so decreed by our authorities that our main streets should be lighted up. For this purpose lamp-posts were put down at wide intervals. These were furnished with glasses something like an inverted beehive. In them were placed oil lamps which gave a dim uncertain light, and served only to make darkness visible. By eleven or twelve o'clock they were usually nearly all "winked up." Gas was not known at that day as an illuminator. The first gas used in Huddersfield was made by Wm. Waite, a plumber and glazier. His shop was next door to the Globe Inn. His gas apparatus was in the back workshop, and from there he lighted up his front shop window. This new light in the district created great wonder. The shop front was surrounded nightly by a crowd of gaping spectators, who marvelled greatly how anyone could set fire to the end of a cold lead pipe. The first inn in Huddersfield in which gas was burnt was the White Lion, in Cross Church Street. Mr. Waite made a large leathern bag something like a round bellows, and took it to the inn filled with gas, placed it under the table in which a hole was bored to admit a pipe that stood about six inches above the table. There the gas was ignited and consumed, to the great astonishment of the jovial, though perhaps not specially intelligent, frequenters of the house.
 
-## Contempoary News Reports
+## Contemporary News Reports
 
 As well as later rememberances, we can also find contemporary reports of the affair from the "local" newspapers in Leeds, starting with the second edition of the *Leeds Mercury* of Saturday, 14 June, 1817, and news of a disturbance on the outskirts of Huddersfield earlier that week.
 
@@ -150,7 +150,7 @@ We feel great satisfaction in having to state that the most perfect tranquillity
 
 ```
 
-*The "projected insurrection" from the headline had been at Thornhill Lees. A considerably more significant story around that event started to develop in the second edition of the Leeds Mercury of Saturday, 14th June, 1817. It is better known as the uncovering of "Oliver the Spy"; but once again, that is anotehr story for another day.*
+*The "projected insurrection" from the headline had been at Thornhill Lees. A considerably more significant story around that event started to develop in the second edition of the Leeds Mercury of Saturday, 14th June, 1817. It is better known as the uncovering of "Oliver the Spy"; but once again, that is another story for another day.*
 
 ```{admonition} Commitments the Castle, June 1817
 :class: dropdown
@@ -160,6 +160,8 @@ Public Ledger and Daily Advertiser - Saturday 21 June 1817. p3-4
 Commitments to the Castle. —Since our last were committed to the Castle, J. Rhode's, of Linfitts, in Saddleworth, wool-sorter, charged upon the oath of J. Creighton and others, with being present, and aiding and assisting in a riot and unlawful assembly, and bearing fire-arms, at a place called Folly Hall, in Huddersfield, on the night of Sunday, the 8th instant, and with feloniously presenting a gun or fewling-piece at the said J. Creighton, and cocking, presenting, and levelling the said gun at the said J. Creighton, with intent to have done him some grievous bodily harm —J. Thewlis and I. Johnson, both Holmforth *(sic)*; J. Oldham and A. Oldham, both of Mars. Piatt *(sic)*, labourers, charged upon oath with a riot and unlawful assembly at the Township of Honley, in the West Riding, on the night of Sunday the 8th inst. and with unlawfully demanding and feloniously stealing and carrying away certain firearms from the dwelling-houses of B. Charlesworth and J. Armitage, and other persons, in Honley aforesaid, the property of the said B. Charlesworth and others. The above were escorted by the Huddersfield Yeomanry Cavalry as far as Leeds.—J. Bailey, of Pog Inn, in Wooldale, clothier; J. Sykes, of Honley, clothier; J. Brook, of Metham, cloth-dresser, B. Taylor, of Honley, fancy weaver; and J. Kinder, of Honley, cloth-dreaser; all in the West Riding, charged upon the oaths of S. Winpenny and others, for having unlawfully and riotously assembled together at Honley aforesaid, in the West Riding, the night of Sunday the 8th inst. along with divers other persons unknown; and with guns, pistols, clubs, and other weapons, tumultuously went about and feloniously demanded, collected, and stole fire arms in violation and disturbance of the public peace.— *York Chronicle*. June 18.
 
 ```
+
+## Committals to York Castle
 
 A month later, and several more individuals involved in the several different events in and around Huddersfield on the night of June 8th were committed to York Castle to await trial. The committals included the name of a certain Mr. Thomas Riley, on a charge of being a ringleader, or organiser, of the planned disturbances, as well as the names of several men charged with being involved in the shooting at Folly Hall.
 
@@ -208,13 +210,23 @@ We copy the following article from the *Leeds Intelligencer* of Monday, received
 "The spirited and highly respectable corps of Huddersfield Yeomanry (100 strong) are above all praise, for their late and present patriotic exertions."
 ```
 
+The *London Courier and Evening Gazette* excerpt from the *Leeds Intelligener* of Onday 14 July, 1817, was accureate except for the final pargraph, which is more completely given as:
+
+```{admonition} The spirited and highly respectable Corps of Huddersfield Volunteers, Jully 1817
+:class:dropdown
+https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18170714/023/0003
+Leeds Intelligencer - Monday 14 July 1817
+
+The spirited and highly respectable Corps of Huddersfield Volunteers, (100 strong) are above all praise, for their late and present patriotic exertions. To them may be attributed, in a great measure, the safety of that town, and perhaps of the surrounding country, to a great extent, from the most fearful state of outrage. They muster with an alacrity that does them honour, by day or by night, and are even yet, in occasional parties, employed in searching the country at nights, for the insurgents who have absconded.— Huddersfield is now committed to their protection, with that of two companies of the 33d foot, and they have evinced a degree of activity and zeal that must make their townsmen feel as one as to the defence of their property and persons, from the turbulent disciples of those fantastic, dangerous, and wicked doctrines, which have already more than once endangered the tranquility of the whole Kingdom.
+```
+
 The *Carlisle Patriot*  of [Saturday 19 July 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000365/18170719/003/0003) also included the opening fragment of the *Leeds Intelligencer* report, as well as the following remark:
 
 > The Gazette of last night contains Royal Proclamation, pardoning all individuals who have been guilty of frame-breaking, and who shall, before the first day September next, appear before some Justice of the Peace and declare when and where their offence was committed. This Proclamation, combined with the Act which has lately passed the Legislature, for the more severe punishment of those who shall henceforward guilty outrages, will, we trust, put speedy end practices not less disgraceful the public character than they are dangerous the public tranquillity.
 
 *Unlike 1812, when machine breaking was common around Nottinghamshire and Derbyshire as well as Huddersfield, this proclamation perhaps reflects the continued frame-breaking activity in those other counties and that, once again, is another story for another day.*
 
-The *Leeds Mercury*, which had been running a whole series of stories about "the spy, Oliver" over this period, took a calmer and more considered view than the *Leeds Intelligencer* in a report that also makes mention of Oliver's visits to Hudderfield:
+The *Leeds Mercury*, which had been running a whole series of stories about "the spy, Oliver" over this period, took a calmer and more considered view than the *Leeds Intelligencer* in a report that also makes mention of Oliver's visits to Huddersfield:
 
 ```{admonition} The Huddersfield Insurrection, July 1817
 :class: dropdown
@@ -241,7 +253,7 @@ With respect to his absconding, it seems that George Dawson made it to America, 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000082/18171202/009/0004
 Morning Chronicle - Tuesday 02 December 1817
 
-DIED. On the 1st of October, at Poughkeepsle, near New York, of dysentery, George D)awson, late of Huddersfield, clothier. He was one of the uoifortunate men implicated in the the disturbances at Huddersfield, and the person at whose house the notorious Mr. Oliver breakfasted on his political mission into that part of Yorkshire.
+DIED. On the 1st of October, at Poughkeepsle, near New York, of dysentery, George D)awson, late of Huddersfield, clothier. He was one of the uoifortunate men implicated in the disturbances at Huddersfield, and the person at whose house the notorious Mr. Oliver breakfasted on his political mission into that part of Yorkshire.
 ```
 
 The names of those charged was as follows:
@@ -288,6 +300,8 @@ Thomas Riley, charged with being accessory before the fact, and procuring, couns
 ...
 
 ```
+
+## On Trial — York Lammas Assizes, 1817
 
 A comprehensive report, largely reprinted from a report in the Leeds Mercury of [Saturday 26 July 1817](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170726/012/0003), also appeared in the *Carlisle Patriot*. It describes the trial on Friday, July 25th, 1817, of several men for stealing arms (Joseph Sykes, Isaac Johnson, Joshua Thewlis, Abraham Oldham*, John Oldham, Benjamin Donkersly, George Taylor, and Benjamin Shaw (the latter two not yet caught)), and on the Saturday for riotously assembling on June 9th and firing at David Alexander (Benjamin Lockwood, George Woffenden, John Wilson, and Joseph Jysop).
 
@@ -392,7 +406,7 @@ The prisoners said nothing in their defence; but severa] witnesses were called i
 
 Two of the defendants absolved of the charge of burglary from Clement and Dyson were immediately re-arraigned on another charge; but no evidence was presented, the prosecution presumably recognising they had little chances of now securing a conviction.
 
-Two others were not so lucky, however, with reports that Thomas Riley and Richard Lee were to be held by order of Lord Sidmouth on suspicion of High Treason, albeit under the Suspension Act (whoch is to say, the suspension of Habeas Corpus) which *would* almost certainly attract a severe capital penalty if successfully prosecuted.
+Two others were not so lucky, however, with reports that Thomas Riley and Richard Lee were to be held by order of Lord Sidmouth on suspicion of High Treason, albeit under the Suspension Act (which is to say, the suspension of Habeas Corpus) which *would* almost certainly attract a severe capital penalty if successfully prosecuted.
 
 ```{admonition} You will find the prisoners..., July 1817
 :class; dropdown
@@ -722,7 +736,7 @@ The Court was extremely crowded, and Earl Fitzwillian, the Lord Lieutenant of th
 
 ```
 
-Given the failure of both prosecution cases, an editorial comment was very much called for, highlighting theState's zeal in mounting a prosecution, but arguing that it was not by any means demonstrating a process of "fair" justice.
+Given the failure of both prosecution cases, an editorial comment was very much called for, highlighting the State's zeal in mounting a prosecution, but arguing that it was not by any means demonstrating a process of "fair" justice.
 
 Remark was also made of a witness to the events at Folly Hall bridge, who was available at Yrok, bit was not presented: a certain Mr. Charles Hearnshaw:
 
@@ -821,6 +835,8 @@ The prisoner then bowed to the Court and retired.
 The trial lasted from nine in the morning till ten at night.
 ```
 
+## The Leeds Newspapers Reflect on the Trial
+
 Hearnshaw's declaration was then reprinted in full, which includes claims that Hearnshaw had been encouraged to change his story regarding who fired first at the bridge, or it would be the worse for him.
 
 ```{admonition} Hearnshaw's declaration, August 1817
@@ -866,7 +882,7 @@ Another comprehensive report can be found in the *Leeds Intelligencer* of [Monda
 
 Elements of the *Leeds Mercury* report, including Hearnshaw's letter*, were also reprinted elsewhere.
 
-```{admonition} By way of explanation, August 1817
+```{admonition} Trials of the rioters, August 1817
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000365/18170809/003/0002
 ## Carlisle Patriot - Saturday 09 August 1817
@@ -897,9 +913,6 @@ In reference to the Trials the Yorkshire Rioters, published in our last paper, t
 
 The *Carlisle Patriot* report also includes a copy of a letter sent to the *Leeds Intelligencer*, and the editor of that publication's response:
 
-TO DO
-
-
 ```{admonition} Villainous attempts to attach vile imputations on the Magistracy, August 1817
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000365/18170809/003/0002
@@ -916,16 +929,23 @@ Sir, —From the manner in which my Name has been brought forwards in the *Leeds
 
 "Thus far from our own knowledge. We have authority, upon which we can rely, for stating further that the Judge (too late, unfortunately, for public justice) was, after the trial, satisfied that he had been mistaken and SENT AN APOLOGY TO MR. ALLEN, *one of the Committing Magistrates*, for the expressions he had used. The mistake was perhaps natural, and was at all events on the side of mercy, as was another error into which he fell with respect to the testimony, on a material point, of the witness Winpenny. In spite of the assurances of the Counsel for the prosecution, his Lordship persisted in this mistake, till Mr. Gurney handed him an extract of the evidence, *verbatim*, from his notes.
 
-"The infamous trumped up paper, published in the last Mercury, and entitled the "*Declaration of Charles Hearnshaw*" in which Mr. Allen, Mr. Thomas Atkinson, and Mr. Le Blanc, are most foully and libellously charged with having endeavoured to bribe or threaten Hearnshaw to give false evidence, and with having actually falsified his deposition, we pronounce at once to be entirely destitute of truth. So far as Mr. Allen is concerned, we already present the Public (see his letter above) with that Gentleman's unqualified contradiction. And, if the other parties libelled do not in the mean time determine on vindicating their names in another place, we shall be prepared with the proofs of their honour also in our next. We happened to learn, on the very day of the trial, the real reason that Hearnshaw was not called to give his evidence. It was ascertained that he had been closetted, for a considerable time, with one of the gentlemen employed for the prisoners; and his *Declaration* proves not only how aptly he had imbibed his lesson, but how accurately the Counsel for the Crown had calculated the effect of the conference, when they declined to place him in the witness box.—This fellow's Declaration, by-the-bye, except that he *now* maintains the cavalry fired first, and not the insurgents, goes only to prove the main facts of the outrage, and that he himself was present, thus *confirming*, the Reader will not fail to observe, *the evidence of George Armitage*. That the insurgents fired first, is indisputably established, by the unquestionable and positive testimony of Capt. Armytage and Mr. Alexander, as well as by that of Mr. Whitehead the Constable, and of George Armitage. IF the Leeds Mercury, therefore, in his eagerness to fabricate falsehood, and to give currency to every falsehood which is generated in the lowest dregs of his party, had not been blinded to all perception of truth, as well as dead to all sense of shame, he might have discovered, at a glance, before he so grossly committed himself, and so flagrantly abused the liberty of the press, by publishing so atrocious a libel, that Hearnshaw's story contains internal evidence of utter falsehood,— the principal drift of it being, (next to that of libelling the parties named in it,) to make it appear that the first shot was fired by the *cavalry*, though the contrary has been irrefragably established.
+"The infamous trumped up paper, published in the last Mercury, and entitled the "*Declaration of Charles Hearnshaw*" in which Mr. Allen, Mr. Thomas Atkinson, and Mr. Le Blanc, are most foully and libellously charged with having endeavoured to bribe or threaten Hearnshaw to give false evidence, and with having actually falsified his deposition, we pronounce at once to be entirely destitute of truth. So far as Mr. Allen is concerned, we already present the Public (see his letter above) with that Gentleman's unqualified contradiction. And, if the other parties libelled do not in the mean time determine on vindicating their names in another place, we shall be prepared with the proofs of their honour also in our next. We happened to learn, on the very day of the trial, the real reason that Hearnshaw was not called to give his evidence. It was ascertained that he had been closetted, for a considerable time, with one of the gentlemen employed for the prisoners; and his *Declaration* proves not only how aptly he had imbibed his lesson, but how accurately the Counsel for the Crown had calculated the effect of the conference, when they declined to place him in the witness box.—This fellow's Declaration, by-the-bye, except that he *now* maintains the cavalry fired first, and not the insurgents, goes only to prove the main facts of the outrage, and that he himself was present, thus *confirming*, the Reader will not fail to observe, *the evidence of George Armitage*. That the insurgents fired first, is indisputably established, by the unquestionable and positive testimony of Capt. Armytage and Mr. Alexander, as well as by that of Mr. Whitehead the Constable, and of George Armitage. IF the Leeds Mercury, therefore, in his eagerness to fabricate falsehood, and to give currency to every falsehood which is generated in the lowest dregs of his party, had not been blinded to all perception of truth, as well as dead to all sense of shame, he might have discovered, at a glance, before he so grossly committed himself, and so flagrantly abused the liberty of the press, by publishing so atrocious a libel, that Hearnshaw's story contains internal evidence of utter falsehood,— the principal drift of it being, (next to that of libelling the parties named in it,) to make it appear that the first shot was fired by the *cavalry*, though the contrary has been irrefrageably established.
 
+```
 
+The *Leeds Intelligencer* excerpt was taken from the issue dated *Monday 04 August*, which then continued in that original publication as follows:
 
+```{admonition}  We cannot refrain from presenting a few extracts, August 1817
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170804/018/0003
 
-quoted from https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170804/018/0003 Leeds Intelligencer - Monday 04 August 1817 AFTER  irrefragably established. CONTINUES
+Leeds Intelligencer - Monday 04 August 1817
+
+...though the contrary has been irrefrageably established.
 
 But the Mercury is so solemnly absurd, and he so flatly and ludicrously contradicts himself at every turn, and he is so condescendingly gracious to the insurgents, or, as he terms them, "the people", that we cannot refrain from laying before the Public a few extracts.
 
-Still asserting, though every thing we advanced respecting Hudderfield has been proved in evidence, that we have exaggerated the facts, the Mercury, says, "If the writer of that inflammatory article (see our paper of July 14,) has not interred all sense of shame in the gulph of his party prejudices, his face must be suffused with blushes, when he compares his paper of the 14th of July, with the report of the trials contained in the same paper of the 28th." Well done! Mr. Mercury! In the first place, this is a tolerably candid submission of the fair, impartial, and faithfil manner, in which our Report of the Trials, was given—a good deal more, as we have shewn above, can be said of the Report, which is given, "with your usual accuracy," by you.— And, secondly, after having, at your suggestion, taken the trouble to compare *all* of the statements we have made respecting Huddersfield, with our report of the trials, we find them not only confirmed, but also much more than confirmed by the evidence. This is true, even down to so minute  a circumstance on the mark of the bullet on the deserted house, which the Times[?] endeavoured, at the distance of 200 miles, to ??? by the mere force of his wit, tho' the ?? of that *wit*, by the way, has not been a ?? ?? attempted at our expense.
+Still asserting, though every thing we advanced respecting Huddersfield has been proved in evidence, that we have exaggerated the facts, the Mercury, says, "If the writer of that inflammatory article (see our paper of July 14,) has not interred all sense of shame in the gulph of his party prejudices, his face must be suffused with blushes, when he compares his paper of the 14th of July, with the report of the trials contained in the same paper of the 28th." Well done! Mr. Mercury! In the first place, this is a tolerably candid submission of the fair, impartial, and faithfil manner, in which our Report of the Trials, was given—a good deal more, as we have shewn above, can be said of the Report, which is given, "with your usual accuracy," by you.— And, secondly, after having, at your suggestion, taken the trouble to compare *all* of the statements we have made respecting Huddersfield, with our report of the trials, we find them not only confirmed, but also much more than confirmed by the evidence. This is true, even down to so minute  a circumstance on the mark of the bullet on the deserted house, which the Times[?] endeavoured, at the distance of 200 miles, to ??? by the mere force of his wit, tho' the ?? of that *wit*, by the way, has not been a ?? ?? attempted at our expense.
 
 We cannot say, however, that the statement of the Mercury, in ??? is ?? that *Taylor*, ?? the ?? [of?|at?] the ??, and ?? them, "?time from thenceforth[?] the poor would be rich, and the rich would be poor" was at all alluded to in the evidence. But we do not at all dispute the accuracy of the *Mercury* in this particular. We have no doubt he had it from the singular *authority*—perhaps from *Taylor himself*, or from ?? of his associates as likely to be in communication with the *Mercury*,—or, for any thing we know to the contrary, some one of the numerous editors of the Mercury may have *actually heard it spoken with his own ears!* The speech was quoted, as if verbatim; and there is nothing more probable than that the Reporter ?? it down with his "usual accuracy" as the ??! Be this as it may, we are far from calling in question his veracity on a subject on which he is so likely to be *well informed!*.
 
@@ -967,15 +987,11 @@ We feel obliged for the communication from London, which so satifactorily clears
 
 We reserve for our next, also, our closing proofs of the innocence of Oliver; and some remarks on the unhandsome manner, in which Mr. David Alexander (the yeoman whose horse was wounded at Folly-hall-bridge), was treated, in his cross-examination, by the Counsel for the prisoners.
 
-MORE BELOW IN LETTERS ATTACKING MERCURY
+```
 
+The Monday, August 04, 1817, edition of the Leeds Intelligencer also included a letter from Thomas Atkinson, dated August 2nd, in response to the *Leeds Mercury*'s publication of Hearnshaw's letter, to the editor of that publication and to which the *Intelligencer* was perhaps copied in. This letter was also reprinted from the *Intelligencer* in the *Carlisle Patriot* artical of August 09, 1817.
 
-TH:Parts of Taylor's speech were reported in the *Leeds Mercury* of Saturday, 19 July, 1817,
-
-
-The Carlisle Patriot article then continued with another item from the *Leeds Mercury*, TO DO
-
-```{admonition} TO DO
+```{admonition} By way of explanation, August 1817
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000365/18170809/003/0002
 ## Carlisle Patriot - Saturday 09 August 1817
@@ -991,7 +1007,27 @@ We should not enter into this discussion did we not observe that there are Edito
 
 ```
 
-TH: there are TO DO items in the below...
+The *Intelligencer* of August 04, 1817, also had another piece of related correspondence, this time attacking the publisher of the *Mercury*:
+
+```{admonition} A perversion of truth, August 1817
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170804/018/0003
+Leeds Intelligencer - Monday 04 August 1817
+
+To the Editor of the Leeds Intelligencer.
+
+MR. PRINTER,—I should be glad through your means to submit to the public the following remarks:
+
+The Editor of the Leeds Mercury perverts the truth.—His mode of perversion appears uniform, and characteristic of those who have been educated and practiced, in a systematic opposition to the administration of the constitution of our country. He perverts words and phrases. He perverts the actions of men in authority. He misleads the minds of the unwary.— He grossly abuses the credulity of the populace. His language and conduct are that of a man who has been hired, countenanced, and supported by persons who love not the glorious constitution of the British Dominions, and who are hostile to the just and legitimate ADMINISTRATION *of that Constitution*. His employment is to write and publish for a party. It is his business, and he knows how to make it profitable. The views of that party are to bring into disrepute with the body of the inhabitants of these dominions, those persons who administer our country's laws. For this purpose he is to watch all opportunities, to note all the defects he may be able to discover, to mark all their faults, to record whatever of their proceedings turn out unfavourably, and to bring these things forward to the public view, with the highest possible colouring, and at that moment when they will be likely to produce, in unguarded minds, the greatest dislike to their governors. In this disreputable business he has employed much diligence; he has discovered a dreadful perversion of Truth and Integrity; and an undeviating perseverance in the pursuit of *filthy lucre*. The grand object evidently is, a material alteration in our Constitution. The present system of our laws *(for THAT is our Constitution)*—does not suit the party. They want a new constitution:—They want to bring about alterations which shall enable them by degrees to tread down the present rule and authority, that they may rise upon the ruins of those who now defend our rights and our property. The more steady our governors are to the true spirit of our Constitution, the more certain and vigorous will be the opposition of such men. An *instance* will best explain what is here meant.
+
+The spirit of our laws is not republican. The republicans, therefore, cannot but feel disposed to find fault with our governors, if they be firm to the monarchical part of our constitution. Our system of laws is inseparably connected with a religious establishment. The dissenter cannot but feel himself leaning towards those who find fault with our Governors, when they shew themselves firm to the true interest of our religious establishment. And this bias thus once taken will naturally extend itself, and leads on to a general disike and opposition. Thus the steady endeavour in Government to secure to each man his own person and property, is the very first thing that excites in the republican and the sectariat, a disposition to *blame* the government. They are not desirous that supremacy should be secured to the King; nor that the rights and possessions of the church should be secured to the priesthood; that respect should be preserved to men in authority; nor rank to those who enjoy it under the King. If therefore we could suppose any set of Ministers under the King of Great Britain to be men of perfect mind, to comprehend fully what, in all cases, suits the constitution of this country; and to be also men of *perfect integrity and efficiency* to dispense the laws with undeviating exactness, those ministers must, *for that very reason,* expect the pointed disapprobation of certain classes of men in this country. These men will easily unite with others, in order to carry a point, from whom they greatly differ in some respects. They have done so lately. They eagerly seized the moment of public depression. And by collecting and embodying, into one mass, the *vicious*, the *disappointed*, the *distressed*, and the *unguarded*, they thought—ignorantly enough—to have gained power so far as to have induced the government to yield something to their influence.
+
+They have met with a disappointment—The mobs they collected understood not the refinement of their leaders. *They* connected *"Ministers"* and *"Government"* under one idea, and impatient of further restraint, began to think of declaring for themselves.— They had been excited by inflammatory paragraphs, by petitions, and by speeches, to a high degree of disaffection—and, impatient of further delay, began to talk freely, and to act upon their new system. Acts of disaffection and rebellion have been committed, and it was of course the imperious duty of the Governors of our country to find out by all proper means, the *instigators* and *promoters*, as well as the perpetrators of these acts, that they might be brought to due punishment, or exposed, or restrained, as the cases might require; and that thereby the persons and property of his Majesty's liege subjects might be protected and secured. The suspension of the Habeas Corpus Act, in this view, is as much a part of the Constitution, tending to the security of person and property, as are those laws which secure to every labouring man the enjoyment of his own wages.—And the Editor of the Leeds Mercury knows that this has been and is the object of Ministers in their late and their present proceedings, and that he *perverts the truth* when he talks about "Ministers of state being anxious to prove that a large body of the people are discontented." He next comes forward and talks of the acquittal of the Rioters prosecuted by Government as a *"triumph."* He fully allows that "violent outrages had been committed near Huddersfield," and though he records the declaration of the Judge to the prisoners, "You have now had a very narrow escape," yet he not only talks of the necessity of considering these men as "*innocent* of the crimes laid to their charge," but endeavours to bring all those into contempt, who have been active in endeavouring to bring to *"justice"* the disturbers of the public peace and safety. It was not to be expected that the *activity* and *manly firmness* of* Benjamin Haigh Allen, Esq.* should pass without some imputation. His zeal for *justice* on the part of the accused, must, *naturally*, be expected to take in high dudgeon, any zeal for *justice on the part of the peaceable inhabitants of Honley and Huddersfield*. Nor was it to be expected that this opportunity of "comforting" the disaffected, and of encouraging the active tools of a *restless malignant* party to perseverance in their object should be let slip, without some word of caution against giving up their object on account of the check they have lately received. Or who, again, could once imagine that this Editor, whose consequence and *income* are so deeply concerned in the keeping alive an active spirit of disaffection and uneasiness, should shew any "hesitation in making public" the well fabricated "declaration of Charles Hearnshaw," if that declaration should have the least tendency to cast a slur upon any of those who have been active in securing the public security and peace. This tendency seems to give the "document" *authenticity* in the mind of this friend of *justice*, whatever internal marks of imposture or perversion of truth and consistency the instrument may carry upon the face of it:—This tendency in an instrument of this base kind, is yet with this man sufficient ground for a keen attempt to cast an imputation upon the magistrates for committing to prison, men to whom the Judge on the bench, after the jury, from the failure of the evidence to bring the charges home to their legal conviction, had thought it his duty to say—*"Prisoners at the bar, Take care of yourselves for the future. You have now had a very narrow escape, and if you persist in such practices as these you may depend upon it you will bring yourselves to an untimely end. Have a care of your future conduct."*
+
+OBSERVER
+```
+
+Even though it had already been published earlier that week (Monday August 04, 1817) in the *Intelligencer*, Thomas Atkinson's letter to the editor of the *Mercury* was not published in the *Leeds Mercury* until Saturday 09 August, 1817. That issue also included a discussion Hearnshaw's declaration and the various responses to it, including one from Mr. R. Haigh Allen, as well as the one from Thomas Atkinson:
 
 ```{admonition} The Prosecution of the Huddersfield rioters, August, 1817
 :class: dropdown
@@ -1004,7 +1040,7 @@ IN another part of our publication of this day, will be found a letter from MR. 
 
 Upon the appearance of these counter-statements, we felt it to be our duty to write to a tradesman in Huddersfield, requesting that he would see Hearnshaw, the declarant, and inquire into the truth of his Declaration; adding, that if he had, either from design or inadvertency, stated any thing that was false, to the disadvantage of Mr. Allen or Mr. Atkinson, or any of the other persons mentioned in his publication, it was as much his duty to make a public retraction of those statements, (if erroneous) as it was to persist in them if true. In reply to this letter, Hearnshaw himself came over to Leeds, and waited upon the Printer of this Paper, when he re-asserted, in the presence of a gentleman of the town, all the facts he had stated in his Declaration, and added, that he was ready to verify them, upon oath, before any Magistrate in the kingdom.
 
-It is no part of our duty to reconcile the conflicting testimony of Mr. Allen and Mr. Thomas Atkinson with that of Charles Hearnshaw. They are, indeed, irreconcileable. It is assertion against assertion. We have merely inserted the papers as they have reached us, without feeling either responsibility or anxiety about the truth of any of them. The conflict, it will be observed, is between the parties in the prosecution and one of their principal witnesses, and it is impossible to imagine any thing that could be more gratifying to the feelings of the State prisoners, so lately acquitted or discharged, for want of evidence to put them upon their trial, than to find the committing Magistrate and one of the witnesses, on whose testimony they were committed to York Castle, impeaching each other's veracity. The prosecutors, in these State trials, are, to be sure, placed in a most curious predicament, with respect to their witnesses —those they did produce the Court would not believe, and those they did not produce they will not believe themselves !
+It is no part of our duty to reconcile the conflicting testimony of Mr. Allen and Mr. Thomas Atkinson with that of Charles Hearnshaw. They are, indeed, irreconcileable. It is assertion against assertion. We have merely inserted the papers as they have reached us, without feeling either responsibility or anxiety about the truth of any of them. The conflict, it will be observed, is between the parties in the prosecution and one of their principal witnesses, and it is impossible to imagine any thing that could be more gratifying to the feelings of the State prisoners, so lately acquitted or discharged, for want of evidence to put them upon their trial, than to find the committing Magistrate and one of the witnesses, on whose testimony they were committed to York Castle, impeaching each other's veracity. The prosecutors, in these State trials, are, to be sure, placed in a most curious predicament, with respect to their witnesses —those they did produce the Court would not believe, and those they did not produce they will not believe themselves!
 
 There is, however, one part of Hearnshaw's evidence, and that the most material part of it, which stands uncontradicted, and which, we understand, is unquestionable, namely, that he was examined before the Grand Jury, and that, because his testimony did not square with the wishes of the prosecutors for conviction, he was not produced on the trial, though as the learned Judge observed, "it was the duty of the prosecutors, and due to the justice of the case, to have brought forward this witness." BARON WOOD added, that the Jury would draw their own inferences from this strong fact.
 
@@ -1020,10 +1056,6 @@ In reading the *Intelligencer* of the present week, one is puzzled to discover w
 
 "And oh! in Downing Street should old Nick revel  
 "England's prime minister, he'd bless the Devil."
-
-[TH: TO DO - what was the declaration in "last week's paper"?]
-
-[TH: what was in the Intelligencer???]
 
 To the Editor of the Leeds Mercury
 
@@ -1043,18 +1075,14 @@ THe Public will judge of the falsehood of Hearnshaw's Declaration, from his stat
 
 I am, Sir,  
 Your obedient Servant,  
-THOMAS AKINSON  
+THOMAS ATKINSON  
 Colne-Bridge, Aug. 2d, 1817.
 
-
-TH: to do  - is there further fall out of this?
-
-Sat Aug 16, 1817 edition of Leeds Mercury is not available
 ```
 
-Back in the LEeds Intellgencer, the editor is comes thorugh on his promise to comment further on the claims made against Oliver, as well as the treatment of David Alexander during the Filly-hall trial.
+Back in the Leeds Intelligencer, the editor is comes through on his promise to comment further on the claims made against Oliver:
 
-```{admonition} TO DO 
+```{admonition} The falsehoods respecting Oliver, August 1817
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170811/023/0003
 
@@ -1089,8 +1117,17 @@ Not one word more, we are satisfied, is necessary to make the blood of every hon
 Further, however, it is well known that Mr. Allison is of *Whig principles!* The Committing Magistrates, happily, are not of his party! The foul mind of the Mercury, if a similar event had occurred Under other circumstances—if a *Tory* Magistrates' Clerk had committed a mistake as favourable to *Tory* prisoners before a *Whig* tribunal—in such a case, we say, the Mercury would not have hesitated to assert, or at least to insinuate, that the mistake had been purposely *committed, in order prejudice the Judge and Jury against the prosecution, and against the conduct and motives of the Prosecutors!*
   
 Though this certainly was *the fatal effect of the misunderstanding in question*, we would spurn, with as much indignation as Mr. Allison himself, at so base and unworthy a suspicion. He discharged his duty, *we are not the slightest doubt*, to the best of his ability, and with perfect integrity;—and we have put the preceding case, merely for the purpose of exposing to him, and *to all other respectable men of his party*, the extreme danger of giving credit to, or at all countenancing, the slanderous imputations of any low, despicable, and seditious demagogue, conscientiously discharging public official duties.— Let them not be flattered into becoming the instruments of such men,— lest they be *judged by their own judgement*.
-  
-> In reading of the Trials at the late Assizes in various parts of the kingdom, we have been very much disgusted to observe the flippancy which several of the Gentlemen of the Bar appear to have conducted themselves.—"There be of them that will themselves launch, to set on some quantity of barren? spectators to laugh too; though, in the mean time, some necessary question of the *suit* be then to be considered; that's villainous; and shows a most pitiful ambition in him who uses it." It is a practice that ought to be generally discountenanced; for can any thing be more intolerable than that when the character and property of any man, however humble, are at stake in a Court of Justice, his counsel, instead of evincing the anxiety which would become him on such an occasion, is to be occupied in racking his memory for a stale joke, or availing himself of any passing occurrence to vent some miserable pun;  in order, as he perhaps conceives, to show his country auditor what a smart man a London barrister is. This is one of those offences against good sense and decency, which we think it behoves every public writer to visit with marked reprobation; and in saying his we are sure that credit will be given to us for entertaining towards the legal profession all the respect to which it is justly entitled when the duties of that profession are discharged,—as, happily, in most instances, the are discharged,—with fidelity and dignity.—*Courier*
+```
+
+And also as promised, on the treatment of David Alexander during the Folly-hall trial:
+
+```{admonition} Sarcastic Attacks on Mr. David Alexander, August 1817
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170811/023/0003
+
+Leeds Intelligencer - Monday 11 August 1817
+
+In reading of the Trials at the late Assizes in various parts of the kingdom, we have been very much disgusted to observe the flippancy which several of the Gentlemen of the Bar appear to have conducted themselves.—"There be of them that will themselves launch, to set on some quantity of barren? spectators to laugh too; though, in the mean time, some necessary question of the *suit* be then to be considered; that's villainous; and shows a most pitiful ambition in him who uses it." It is a practice that ought to be generally discountenanced; for can any thing be more intolerable than that when the character and property of any man, however humble, are at stake in a Court of Justice, his counsel, instead of evincing the anxiety which would become him on such an occasion, is to be occupied in racking his memory for a stale joke, or availing himself of any passing occurrence to vent some miserable pun;  in order, as he perhaps conceives, to show his country auditor what a smart man a London barrister is. This is one of those offences against good sense and decency, which we think it behoves every public writer to visit with marked reprobation; and in saying his we are sure that credit will be given to us for entertaining towards the legal profession all the respect to which it is justly entitled when the duties of that profession are discharged,—as, happily, in most instances, the are discharged,—with fidelity and dignity.—*Courier*
   
 The preceding judicious observations of the *Courier*, apply so well to the treatment of Mr. David Alexander, that we adopt them at once in alluding to the very unhandsome manner in which one of the Counsel for the prisoners attempted to show off his wit, at Mr. A.'s expense, during the trial of Lockwood, Woffendan, &c. at our late assizes.
   
@@ -1099,6 +1136,8 @@ Besides resorting to every artifice of the law, in favour of their clients (with
 Mr. Alexander had been, on two occasions, in the discharge of his duty, not as an ordinary soldier, but as an armed citizen, exposing himself for the protection of his neighbours, and the preservation of the public peace, *fired at in one night*. Some cowardly ruffian shot at him, under cover of the night, while he was on foot, going for his horse; and he was afterwards exposed, in front, to the fire of the insurgents at Folly-hall-bridge, where his horse was severely wounded under him. He had displayed a spirit and intrepidity which entitle him to respect, and which must receive the approbation and thanks of every man who is disposed to appreciate those qualities when exhibited in a good cause; and, the only return which was made him for having twice exposed his life to imminent hazard, for the protection of those who were quietly and comfortably asleep in their beds, was to be held up as an object of ridicule to the Court of Justice in which he was called upon to perform another service to the public, by giving his evidence on a case of flagrant public outrage;— to be jeered at about the "sanguinary battle of Folly-hall-bridge in which he had been *engaged*"— *rigged* as the term is, about his "military tactics"—and ironically asked if he had obtained his martial skill and courage at *Waterloo!*
 
 ```
+
+*I haven't been able to locate (yet?!) a scan of the Saturday August 16, 1817 edition of the `Leeds Mercury`, so it is not clear whether there was any reponse there to content in the `Inteligencer` of Monday 11 August, 1817.*
 
 ---
 Sources:
