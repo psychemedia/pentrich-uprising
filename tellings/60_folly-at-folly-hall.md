@@ -50,7 +50,7 @@ Such then, was the setting: marauders in search of guns. But for what purpose?
 
 According to Philip Ahier in *The Legends and Traditions of Huddersfield and Its District*, [Volume I, Part V](https://huddersfield.exposed/wiki/The_Legends_and_Traditions_of_Huddersfield_and_Its_District:_Volume_I,_Part_V_(1942)_by_Philip_Ahier), 1942, pp. 303, there are two likely origins for the name of Folly Hall, at the time, a three-story high building of four tenements built by the River Colne at the bottom of today's Chapel Hill in Huddersfield: either, that it was a foolish place to build, because the river was known to flood there; or, because it was inconveniently situated away from the center of Huddersfield.
 
-```{admonition} How Folly Hall got it's name
+```{admonition} How Folly Hall got its name
 :class: dropdown
 Philip Ahier, *The Legends and Traditions of Huddersfield and Its District*, [Volume I, Part V](https://huddersfield.exposed/wiki/The_Legends_and_Traditions_of_Huddersfield_and_Its_District:_Volume_I,_Part_V_(1942)_by_Philip_Ahier), 1942, pp. 303.
 
@@ -1137,7 +1137,7 @@ Mr. Alexander had been, on two occasions, in the discharge of his duty, not as a
 
 ```
 
-*I haven't been able to locate (yet?!) a scan of the Saturday August 16, 1817 edition of the `Leeds Mercury`, so it is not clear whether there was any reponse there to content in the `Inteligencer` of Monday 11 August, 1817.*
+*I haven't been able to locate (yet?!) a scan of the Saturday August 16, 1817 edition of the `Leeds Mercury`, so it is not clear whether there was any response there to content in the `Intelligencer` of Monday 11 August, 1817.*
 
 ---
 Sources:
