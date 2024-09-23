@@ -69,6 +69,7 @@ Mr. BENNETT presented Petitions from Benjamin Whiteley, of Horbury, in Yorkshire
 A copy of the petition appeared in the *Leeds Intelligencer* of Monday 09 March, 1818:
 
 ```{admonition} A petition of Richard Lee, March (February) 1818
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003
 Leeds Intelligencer - Monday 09 March 1818
 
@@ -539,7 +540,7 @@ WM. STAVELEY, Keeper of York Castle.
 
 The editor of the *Intelligencer* also saw fit to comment:
 
-```{admonition} An eidtorial response from the *Intelligencer*, Aprio 1818
+```{admonition} An editorial response from the *Intelligencer*, Aprio 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180420/020/0003
 Leeds Intelligencer - Monday 20 April 1818
@@ -556,13 +557,9 @@ The fact is, the attempt would be too contemptible for notice, were it not that 
 *`The letter referred to as being on the front page of the Intelligencer was a duplicate of Staveley's letter to the editor of the  York Herald on Saturday 18 April 1818, albeit this time addressed to the editor of the Leeds Intelligencer.`*
 ```
 
-TO DO
+Lee, in turn, felt compelled to respond to Staveley's letter:
 
-*The *
-
-
-
-```{admonition} TO DO
+```{admonition} Richard Lee responds, April 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18180425/008/0003
 Leeds Mercury - Saturday 25 April 1818
@@ -583,9 +580,9 @@ RICHARD LEE.
 P.S. It may not be amiss, in order to show the manner in which justice was administered in this neighbourhood during the reign of terror, to state, that my commitment to York Castle was signed by Joseph Haigh, Esq. although I had never been examined before that Magistrate.
 ```
 
-TO DO
+It seems, however, that Lee's testimony did not necessarily have the support of the local clergy:
 
-```{admonition} TO DO
+```{admonition} The vilest ingratitude and an alleged innocency of conduct, April 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180427/026/0003
 
@@ -613,7 +610,9 @@ WILLIAM KEELING,
 Holmfirth, April 23, 1818
 ```
 
-```{admonition} TO DO
+But just as William Keeling took issue with Richard Lee, Richard Lee in turn took issue with that curate from Homfirth:
+
+```{admonition} The busiest mortal alive, in sowing discord and strife. May 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18180509/014/0004
 Leeds Mercury - Saturday 09 May 1818
@@ -641,6 +640,8 @@ To conclude, Mr. Keeling's mawkish cant, (to borrow the Printer's elegant phrase
 I am Sir, your obedient Servant,  
 RICHARD LEE.
 ```
+
+The final word on the matter that I have found to date seems to side *against* Richard Lee. But then, we might expect nothing less of an aliased correspondent in the *Leeds Intelligenecer*:
 
 ```{admonition} Master-pieces of falsehood and misrepresentation?, May 1818
 :class: dropdown

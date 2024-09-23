@@ -213,7 +213,7 @@ We copy the following article from the *Leeds Intelligencer* of Monday, received
 The *London Courier and Evening Gazette* excerpt from the *Leeds Intelligener* of Onday 14 July, 1817, was accureate except for the final pargraph, which is more completely given as:
 
 ```{admonition} The spirited and highly respectable Corps of Huddersfield Volunteers, Jully 1817
-:class:dropdown
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18170714/023/0003
 Leeds Intelligencer - Monday 14 July 1817
 
@@ -409,7 +409,7 @@ Two of the defendants absolved of the charge of burglary from Clement and Dyson 
 Two others were not so lucky, however, with reports that Thomas Riley and Richard Lee were to be held by order of Lord Sidmouth on suspicion of High Treason, albeit under the Suspension Act (which is to say, the suspension of Habeas Corpus) which *would* almost certainly attract a severe capital penalty if successfully prosecuted.
 
 ```{admonition} You will find the prisoners..., July 1817
-:class; dropdown
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18170728/031/0003
 Leeds Intelligencer - Monday 28 July 1817
 
@@ -741,7 +741,7 @@ Given the failure of both prosecution cases, an editorial comment was very much 
 Remark was also made of a witness to the events at Folly Hall bridge, who was available at Yrok, bit was not presented: a certain Mr. Charles Hearnshaw:
 
 ```{admonition} Thus ends the Yorkshire plot, August 1817
-:class; dropdown
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003
 
 Leeds Mercury - Saturday 02 August 1817
@@ -840,7 +840,7 @@ The trial lasted from nine in the morning till ten at night.
 Hearnshaw's declaration was then reprinted in full, which includes claims that Hearnshaw had been encouraged to change his story regarding who fired first at the bridge, or it would be the worse for him.
 
 ```{admonition} Hearnshaw's declaration, August 1817
-:class; dropdown
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003
 
 Leeds Mercury - Saturday 02 August 1817
@@ -861,7 +861,7 @@ We have no hesitation in making the above declaration public. Of CHARLES HEARNSH
 A brief editorial review of the trial, and the return of those accused to Huddersfield, was also provided, along with further comment:
 
 ```{admonition} Further editorial comment, August 1817
-:class; dropdown
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003
 
 Leeds Mercury - Saturday 02 August 1817
