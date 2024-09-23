@@ -12,7 +12,7 @@ The Governor of York Castle, Mr. Staveley, has received warrants from Lord Sidmo
 
 The next we hear of either Riley or Lee is by way of news of the unfortunate suicide of Thomas Riley six weeks later.
 
-```{admontion} Cut his own throat, October 1817
+```{admonition} Cut his own throat, October 1817
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000365/18171018/021/0001
 Carlisle Patriot - Saturday 18 October 1817
@@ -155,7 +155,6 @@ The thanks were then given to Mr. Favell and Mr. Waithman, for their services, a
 ```
 
 So what were the actual reaolutions that were moved by Mr. Favell?
-
 
 ```{admonition} Stating the Resolutions, March 1818
 :class: dropdown
@@ -493,7 +492,7 @@ THOMAS RILEY.—In our last, we promised to make inquiry respecting the alleged 
 
 ## Lee's Case Continues to Generate Interest
 
-Following Lee's petition to the House of Commons, William Staveley, the gaoler at York Castle, felt compelled to publicly deny the claims made against him:
+Following the presentation of his petition, William Staveley, the gaoler at York Castle, felt compelled to publicly deny some of the claims made in it against him:
 
 ```{admonition} In refutation of a character attack, April 1818
 :class: dropdown
@@ -513,27 +512,11 @@ Keeper of York Castle.
 April 15, 1818
 ```
 
-TO DO
+It seems that Richard Lee also sent a letter to the editor of the *Leeds Mercury*, published in the edition of April 18, 1818. Unfortunately, this edition is missing from the British Newspaper Archive (the only edition for April is from April 23, 1818), and, as yet, I have been unable to find a copy of it republished in any other pubication.
 
-```{admonition} TO DO
-:class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180420/020/0003
-Leeds Intelligencer - Monday 20 April 1818
+The letter did, however, provoke a response in the *Intelligencer*, with one correspondent questioning who actually wrote it. William Staveley was also moved to further defend himself against charges apparently made in it:
 
-Leeds Intelligence Office,
-MONDAY APRIL 20
-
-Richard Lee, one of the men recently confined in York Castle, under the Suspension Act, the falsehood of whose petition to Parliament we irrefragably established, by the publication of official documents, has endeavoured to palm a wretched case, in his own favour, upon the Public, which has evidently been drawn up by some one of the skulking Traitors, whose chief employment is to manufacture sham petitions for Reform, and to excite disaffection and outrage in the country.— Even the Leeds Mercury seems to have been conscious that this miserable document had not a leg to stand upon, or, instead of its publication being postponed for so long a time, under the pretence of want of room, there can be no doubt that it would have been ushered forth with all the pomp and ceremony, and all the precipitate haste and malignant zeal, with which every attempt to revile the Government or their Officers, is transmitted through the columns of that disaffected journal.
-
-On Lee's own shewing, or rather on the shewing of the person, who has perhaps *paid* Lee for permission to use his name, and who we strongly suspect resides not far from Briggate, in this town, it is evident he has nothing to offer against the testimony of the Magistrates at Huddersfield, of their Clerk, Mr. Allison, of the persons upon whose oaths Lee was apprehended, of the officers by whom he was taken and kept in custody at Huddersfield, of the Committee of fifteen Magistrates by whom his case was investigated, of Mr. Staveley, and of his deputy, Mr. Wilson, of the respectable solicitor from his own neighbourhood, and of Captain Moorhouse, of the Under Turnkey, Minton, and even of his fellow prisoner Carlton, &c. &c.—that he has nothing to offer against all this evidence *but his own unsupported assertion*—and what his assertion is worth has been long since proved.
-
-The fact is, the attempt would be too contemptible for notice, were it not that the more contemptible the parties and occasions are which furnish grounds of attack upon Government, the more congenial do they seem to the grovelling malignity of jacobinism. It is on this account only, that we join in Mr. Staveley's wish that this fellow's case, however despicable, should be again brought before Parliament, in order that the infamy of the calumniators, who secretly circulate their poison in his name, may be complete:—We beg to refer our Readers to two letters from Mr. Staveley, in this day's paper, one in the front page,—the other in a subsequent column.
-
-```
-
-[TH: the letter on the fornt page was a duplicate of the letter to the editor of the  York Herald - Saturday 18 April 1818, albeit addressed to the editor of the Leeds Intelligencer.]
-
-```{admonition} TO DO
+```{admonition} Response to Lee's letter, April 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180420/023/0003
 Leeds Intelligencer - Monday 20 April 1818
@@ -553,6 +536,31 @@ Sir—I observe in this morning's Leeds Mercury, *Richard Lee*'s own statement o
 In the Postscript of his Letter, he denies my application (and even disputes it) to Government for his liberation, but I am glad to say, that I have it in my power to contradict him, because it is a fact, that I not only recommended him to Lord Sidmouth, for his proper behaviour during his confinement, but I also obtained from the late Chaplain and the present Chaplain to the Castle, their recommendation and solicitation for his Discharge; the cause of our application originated from the steps that Government was taking, in discharging such persons (as Lee) upon their own Recognizance. *Lee* seems to be greatly indebted to some unknown KIND HEARTED FRIEND, in the compiling of his Petition, presented by the Hon. Mr. Bennett,—his *Examination* before the Justices—and last of all his Postscript,—because I am confident he has not abilities to write it; and I fully dispute that he can even read it. I now beg to observe, that this concludes, with me, any further observations upon this audacious subject. I remain, Sir, &c. &c.  
 WM. STAVELEY, Keeper of York Castle.
 ```
+
+The editor of the *Intelligencer* also saw fit to comment:
+
+```{admonition} An eidtorial response from the *Intelligencer*, Aprio 1818
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180420/020/0003
+Leeds Intelligencer - Monday 20 April 1818
+
+Leeds Intelligence Office,
+MONDAY APRIL 20
+
+Richard Lee, one of the men recently confined in York Castle, under the Suspension Act, the falsehood of whose petition to Parliament we irrefragably established, by the publication of official documents, has endeavoured to palm a wretched case, in his own favour, upon the Public, which has evidently been drawn up by some one of the skulking Traitors, whose chief employment is to manufacture sham petitions for Reform, and to excite disaffection and outrage in the country.— Even the Leeds Mercury seems to have been conscious that this miserable document had not a leg to stand upon, or, instead of its publication being postponed for so long a time, under the pretence of want of room, there can be no doubt that it would have been ushered forth with all the pomp and ceremony, and all the precipitate haste and malignant zeal, with which every attempt to revile the Government or their Officers, is transmitted through the columns of that disaffected journal.
+
+On Lee's own shewing, or rather on the shewing of the person, who has perhaps *paid* Lee for permission to use his name, and who we strongly suspect resides not far from Briggate, in this town, it is evident he has nothing to offer against the testimony of the Magistrates at Huddersfield, of their Clerk, Mr. Allison, of the persons upon whose oaths Lee was apprehended, of the officers by whom he was taken and kept in custody at Huddersfield, of the Committee of fifteen Magistrates by whom his case was investigated, of Mr. Staveley, and of his deputy, Mr. Wilson, of the respectable solicitor from his own neighbourhood, and of Captain Moorhouse, of the Under Turnkey, Minton, and even of his fellow prisoner Carlton, &c. &c.—that he has nothing to offer against all this evidence *but his own unsupported assertion*—and what his assertion is worth has been long since proved.
+
+The fact is, the attempt would be too contemptible for notice, were it not that the more contemptible the parties and occasions are which furnish grounds of attack upon Government, the more congenial do they seem to the grovelling malignity of jacobinism. It is on this account only, that we join in Mr. Staveley's wish that this fellow's case, however despicable, should be again brought before Parliament, in order that the infamy of the calumniators, who secretly circulate their poison in his name, may be complete:—We beg to refer our Readers to two letters from Mr. Staveley, in this day's paper, one in the front page,—the other in a subsequent column.
+
+*`The letter referred to as being on the front page of the Intelligencer was a duplicate of Staveley's letter to the editor of the  York Herald on Saturday 18 April 1818, albeit this time addressed to the editor of the Leeds Intelligencer.`*
+```
+
+TO DO
+
+*The *
+
+
 
 ```{admonition} TO DO
 :class: dropdown
@@ -574,6 +582,8 @@ RICHARD LEE.
 
 P.S. It may not be amiss, in order to show the manner in which justice was administered in this neighbourhood during the reign of terror, to state, that my commitment to York Castle was signed by Joseph Haigh, Esq. although I had never been examined before that Magistrate.
 ```
+
+TO DO
 
 ```{admonition} TO DO
 :class: dropdown
@@ -597,7 +607,7 @@ Believe me, Sir, in making this public declaration of the foregoing facts, I ent
 
 But, as it is very notorious, neither of them possesses abilities adequate to the compositions in question, even *such as they are*, and to which their names are affixed; it behoveth those persons, whose peculiar province it is to watch over the preservation of the public peace, to ascertain who the author or authors may be of the aforesaid publications, as they appeared in the Leeds Mercury. This would be a great point gained towards the development of so foul a conspiracy.—You have full liberty to attach my name to the foregoing exposition of facts.
 
-I am, Sir, your very huimble servant,  
+I am, Sir, your very humble servant,  
 WILLIAM KEELING,  
 *Curtate of Holmfirth*  
 Holmfirth, April 23, 1818
@@ -632,7 +642,7 @@ I am Sir, your obedient Servant,
 RICHARD LEE.
 ```
 
-```{admonition} TO DO
+```{admonition} Master-pieces of falsehood and misrepresentation?, May 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180518/022/0003
 Leeds Intelligencer - Monday 18 May 1818
@@ -648,12 +658,3 @@ All that we can say, is to recommend the old maxim, "When bad men conspire, let 
 PHILALETHES.
 
 ```
-
-
-## Hone TO DO 
-
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000498/18171227/011/0002?browse=true
-York Herald - Saturday 27 December 1817
-
-Mr Hone's Trials...
-
