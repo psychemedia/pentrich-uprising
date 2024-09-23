@@ -1,0 +1,8 @@
+format: jb-book
+root: _preface
+parts:
+- caption: An Ill-Fated Rebellion
+  chapters:
+  - file: tellings/60_folly-at-folly-hall
+  - file: tellings/61_unjustified_detention
+
