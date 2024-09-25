@@ -1,6 +1,9 @@
 format: jb-book
 root: _preface
 parts:
+- caption: The Spa Fields Affair
+  chapters:
+  - file: tellings/52_spa_fields_trial
 - caption: An Ill-Fated Rebellion
   chapters:
   - file: tellings/60_folly-at-folly-hall
