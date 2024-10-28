@@ -1,0 +1,3 @@
+# About: Tellings
+
+Versions of the stories in a fomr close to how I might tell them...
