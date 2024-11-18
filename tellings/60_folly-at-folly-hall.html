@@ -16,17 +16,19 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="../_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
@@ -36,10 +38,11 @@
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
     <script src="../_static/documentation_options.js?v=a8e58a58"></script>
     <script src="../_static/doctools.js?v=9a2dae69"></script>
@@ -61,9 +64,10 @@
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="The Remand of Riley and Lee" href="61_unjustified_detention.html" />
-    <link rel="prev" title="Preface" href="../_preface.html" />
+    <link rel="prev" title="Pentrich Rising" href="72_telling_pentrich-rising.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -173,8 +162,13 @@
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">An Ill-Fated Rebellion</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">The Spa Fields Affair</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="52_spa_fields_trial.html">The Spa Fields Trial</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">An Ill-Fated Rebellion</span></p>
 <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="72_telling_pentrich-rising.html">Pentrich Rising</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Folly at Folly Hall</a></li>
 <li class="toctree-l1"><a class="reference internal" href="61_unjustified_detention.html">The Remand of Riley and Lee</a></li>
 </ul>
@@ -284,24 +278,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -368,7 +354,7 @@ DEAR SIR,— The Luddites continue very active in stealing fire-arms in the neig
 Publication: Leeds Mercury (Leeds, England)<br />
 Issue: 2450</p>
 <p>ARMS STEALING.</p>
-<p>The system of violence, intimidation and outrage, familiarly and too well known by the cant name of <em>Luddism</em>, which has so long afflicted and disgraced this district, has of late assumed a new aspect, and diverged into a still more menacing and alarming species of depredation—that of obtaining_fire-arms in the night, from the houses of individuals, by force and intimidation. Of the prevalence of this alarming species of midnight-robbery, we have several instances to lay before our readers, On Wednesday se’nnight a number of persons, about seven or eight, undisguised, went about midnight to the house of Mr. Thomas Milnes, Storrs-Hill, Horbury, and having roused him from his sleep, demanded entrance. Mr. Milnes not appearing inclined to obey this mandate, they threatened if he did not instantly open the door, they would immediately force it. Mr. Milnes finding he could make no availing resistance to their demand, gave them admittance— They then insisted upon having his fire-arms; but on being satisfied that he had none, they demanded money and refreshment; he gave them some silver, and bread, cheese and beer. They then requested that he would allow them to take some to some poor fellows who they said were watching at a distance; with this requisition he thought it also prudent to comply, and they then civilly took their leave of him. On Sunday night these depredators made a further attack on several houses at Netherton, (a place in the immediate vicinity of Horbury) where they succeeded in obtaining seven or eight stand of arms; and upon this occasion they behaved with peculiar atrocity, by wantonly firing several musket balls into one of the houses. The success of these nocturnal depredators on this occasion is the more remarkable, as on the day before, (Saturday) the Chief Constable of the District, and the Constable of Horbury, had received directions to receive the fire-arms of such of the inhabitants as were disposed to give them up, and which they carried into effect the same day, most of the inhabitants readily giving up their arms to the custody of the Civil Magistrates, but some few refused. The Constables were much hooted and abused by the populace whilst they were executing this duty, and one of the mob had the effrontery to take from his pocket a handful of musket balls which he threw into the air, exclaiming “Here are hail-stones for you.” It is said there is a person in Horbury employed in casting these leaden messengers of death. Every article of lead, such as pumps and water-spouts, &amp;c. which can be readily conveyed away, are constantly disappearing. The glaring violation of the laws of society and of private property, evinced in the nocturnal visits of these burglarious plunderers, though of itself an evil of the greatest magnitude, is, as it were, lost in the contemplation of those more atrocious purposes for which these instruments of death are collected, and which the imagination almost sickens at the thought of. It is probable that these plunderers may deceive themselves with the notion, that as they do not actually break into the houses, their offence is not a capital one; but they ought to know, that to obtain property of any kind by threats of violence, is an offence equally penal, and will subject them to the punishment of death.</p>
+<p>The system of violence, intimidation and outrage, familiarly and too well known by the cant name of <em>Luddism</em>, which has so long afflicted and disgraced this district, has of late assumed a new aspect, and diverged into a still more menacing and alarming species of depredation—that of obtaining fire-arms in the night, from the houses of individuals, by force and intimidation. Of the prevalence of this alarming species of midnight-robbery, we have several instances to lay before our readers, On Wednesday se’nnight a number of persons, about seven or eight, undisguised, went about midnight to the house of Mr. Thomas Milnes, Storrs-Hill, Horbury, and having roused him from his sleep, demanded entrance. Mr. Milnes not appearing inclined to obey this mandate, they threatened if he did not instantly open the door, they would immediately force it. Mr. Milnes finding he could make no availing resistance to their demand, gave them admittance— They then insisted upon having his fire-arms; but on being satisfied that he had none, they demanded money and refreshment; he gave them some silver, and bread, cheese and beer. They then requested that he would allow them to take some to some poor fellows who they said were watching at a distance; with this requisition he thought it also prudent to comply, and they then civilly took their leave of him. On Sunday night these depredators made a further attack on several houses at Netherton, (a place in the immediate vicinity of Horbury) where they succeeded in obtaining seven or eight stand of arms; and upon this occasion they behaved with peculiar atrocity, by wantonly firing several musket balls into one of the houses. The success of these nocturnal depredators on this occasion is the more remarkable, as on the day before, (Saturday) the Chief Constable of the District, and the Constable of Horbury, had received directions to receive the fire-arms of such of the inhabitants as were disposed to give them up, and which they carried into effect the same day, most of the inhabitants readily giving up their arms to the custody of the Civil Magistrates, but some few refused. The Constables were much hooted and abused by the populace whilst they were executing this duty, and one of the mob had the effrontery to take from his pocket a handful of musket balls which he threw into the air, exclaiming “Here are hail-stones for you.” It is said there is a person in Horbury employed in casting these leaden messengers of death. Every article of lead, such as pumps and water-spouts, &amp;c. which can be readily conveyed away, are constantly disappearing. The glaring violation of the laws of society and of private property, evinced in the nocturnal visits of these burglarious plunderers, though of itself an evil of the greatest magnitude, is, as it were, lost in the contemplation of those more atrocious purposes for which these instruments of death are collected, and which the imagination almost sickens at the thought of. It is probable that these plunderers may deceive themselves with the notion, that as they do not actually break into the houses, their offence is not a capital one; but they ought to know, that to obtain property of any kind by threats of violence, is an offence equally penal, and will subject them to the punishment of death.</p>
 <p>On Thursday se’nnight, the shed, adjoining the barn of Mr. Robert Waltshaw. of Horbury, was maliciously set on fire, but was fortunately discovered in time to prevent its communicating to the barn. It is not known whether this was the act of a solitary incendiary, or a branch of that horrible system referred to in the preceding paragraph.</p>
 </div>
 <p>Such then, was the setting: marauders in search of guns. But for what purpose?</p>
@@ -377,7 +363,7 @@ Issue: 2450</p>
 <h2>The Folly Hall Fight<a class="headerlink" href="#the-folly-hall-fight" title="Link to this heading">#</a></h2>
 <p>According to Philip Ahier in <em>The Legends and Traditions of Huddersfield and Its District</em>, <a class="reference external" href="https://huddersfield.exposed/wiki/The_Legends_and_Traditions_of_Huddersfield_and_Its_District:_Volume_I,_Part_V_(1942)_by_Philip_Ahier">Volume I, Part V</a>, 1942, pp. 303, there are two likely origins for the name of Folly Hall, at the time, a three-story high building of four tenements built by the River Colne at the bottom of today’s Chapel Hill in Huddersfield: either, that it was a foolish place to build, because the river was known to flood there; or, because it was inconveniently situated away from the center of Huddersfield.</p>
 <div class="dropdown admonition">
-<p class="admonition-title">How Folly Hall got it’s name</p>
+<p class="admonition-title">How Folly Hall got its name</p>
 <p>Philip Ahier, <em>The Legends and Traditions of Huddersfield and Its District</em>, <a class="reference external" href="https://huddersfield.exposed/wiki/The_Legends_and_Traditions_of_Huddersfield_and_Its_District:_Volume_I,_Part_V_(1942)_by_Philip_Ahier">Volume I, Part V</a>, 1942, pp. 303.</p>
 <p>2.—FOLLY HALL, CHAPEL HILL.</p>
 <p>The original homestead was built for Marmaduke Hebden by “Blind Jack” Metcalf, of Knaresborough (the noted road builder of 18th century days) at some date during the last decades of that century.</p>
@@ -452,7 +438,7 @@ Public Ledger and Daily Advertiser - Saturday 21 June 1817. p3-4</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003">Leeds Mercury - Saturday 12 July 1817</a></p>
 <p>Since our last, were committed to York Castle, … - Also, Thomas Riley, of Crosland Moor, tailor, charged upon the oath of one credible witness, with being accessory before the fact, and procuring, counselling, commanding, or abetting others to bring about and commit certain riots, unlawful assemblies, and felonies, at the parishes of Kirkburton, Almondbury and Huddersfield, or one of them, and which riots, unlawful assemblies, and felonies, took place on the night of the 8th of June last.-Also, Benjamin Green, of Honley, cloth dresser, charged upon the oath of Joshua Kemp, with being present and aiding and assisting in a riot and unlawful assembly, at the township of Honley on Saturday, the 8th of June last, and tumultuously going about, and unlawfully and feloniosly demanding, stealing, taking and carrying away certain fire arms, from the dwelling-houses of Sarah Jessop and others, in Honley aforesaid. Also, Joseph Jysop, of Lockwood, cloth-dresser, charged upon the oath of Charles Earnshaw, with being present and aiding and assisting in a riot and unlawful assembly, and bearing arms, at a place called Folly Hall Bridge, in Huddersfield on the night of Sunday the 8th June last, to the terror of the people, and along with others unknown, and with intent to have done some of his Majesty’s liege subjects some grievous bodily harm.</p>
 </div>
-<p>Reports were also made of the arrest, by order of Lord Sidmouth, of a certain Mr. Benjamin Whitely, on a charge of treasonable practices.</p>
+<p>Reports were also made of the arrest, by order of Lord Sidmouth, of a certain Mr. Benjamin Whiteley, on a charge of treasonable practices.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Treasonable practices, July 1817</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0002634/18170711/028/0008">https://britishnewspaperarchive.co.uk/viewer/bl/0002634/18170711/028/0008</a>
@@ -498,6 +484,12 @@ Leeds Intelligencer - Monday 14 July 1817</p>
 <p>The Magistrates, who appear to have displayed a more than ordinary share of vigour, soon found means to discover and to arrest a number of the persons engaged in these criminal excesses, and twenty-four of them have been committed to York Castle, to take their trials at the Assizes, which commence this day, while about half that number still remain in confinement in the prison at Huddersfield. It is much to be regretted that the persons apprehended, and about to be put upon their trials, have for the most part, been, at most, merely the dupes of the leaders of this miserable conspiracy, and that the instigators, including Mr. Oliver, the London delegate, have been suffered to escape.</p>
 </div>
 <p>With respect to his absconding, it seems that George Dawson made it to America, but he was not to enjoy his freedom there for long:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">Died, at Poughkeepsie, December 1817</p>
+<p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000082/18171202/009/0004">https://www.britishnewspaperarchive.co.uk/viewer/bl/0000082/18171202/009/0004</a>
+Morning Chronicle - Tuesday 02 December 1817</p>
+<p>DIED. On the 1st of October, at Poughkeepsie, near New York, of dysentery, George Dawson, late of Huddersfield, clothier. He was one of the unfortunate men implicated in the disturbances at Huddersfield, and the person at whose house the notorious Mr. Oliver breakfasted on his political mission into that part of Yorkshire.</p>
+</div>
 <p>The names of those charged was as follows:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Prisoners charged with riotous proceedings, July 1817</p>
@@ -991,7 +983,7 @@ Colne-Bridge, Aug. 2d, 1817.</p>
 <p>Besides resorting to every artifice of the law, in favour of their clients (with which we do not mean to find any fault), and exerting themselves in every possible manner to prejudice the minds of the Jury against the prosecution, and in favour of the prisoners, one of the Counsel thought fit to single out Mr. Alexander as a mark for his wit, levelling at him the coarsest and most indecorous sarcasms, while he was giving his evidence, though he had the mortification of failing to excite a single risible expression on the countenances of the persons present.</p>
 <p>Mr. Alexander had been, on two occasions, in the discharge of his duty, not as an ordinary soldier, but as an armed citizen, exposing himself for the protection of his neighbours, and the preservation of the public peace, <em>fired at in one night</em>. Some cowardly ruffian shot at him, under cover of the night, while he was on foot, going for his horse; and he was afterwards exposed, in front, to the fire of the insurgents at Folly-hall-bridge, where his horse was severely wounded under him. He had displayed a spirit and intrepidity which entitle him to respect, and which must receive the approbation and thanks of every man who is disposed to appreciate those qualities when exhibited in a good cause; and, the only return which was made him for having twice exposed his life to imminent hazard, for the protection of those who were quietly and comfortably asleep in their beds, was to be held up as an object of ridicule to the Court of Justice in which he was called upon to perform another service to the public, by giving his evidence on a case of flagrant public outrage;— to be jeered at about the “sanguinary battle of Folly-hall-bridge in which he had been <em>engaged</em>”— <em>rigged</em> as the term is, about his “military tactics”—and ironically asked if he had obtained his martial skill and courage at <em>Waterloo!</em></p>
 </div>
-<p><em>I haven’t been able to locate (yet?!) a scan of the Saturday August 16, 1817 edition of the <code class="docutils literal notranslate"><span class="pre">Leeds</span> <span class="pre">Mercury</span></code>, so it is not clear whether there was any reponse there to content in the <code class="docutils literal notranslate"><span class="pre">Inteligencer</span></code> of Monday 11 August, 1817.</em></p>
+<p><em>I haven’t been able to locate (yet?!) a scan of the Saturday August 16, 1817 edition of the <code class="docutils literal notranslate"><span class="pre">Leeds</span> <span class="pre">Mercury</span></code>, so it is not clear whether there was any response there to content in the <code class="docutils literal notranslate"><span class="pre">Intelligencer</span></code> of Monday 11 August, 1817.</em></p>
 <hr class="docutils" />
 <p>Sources:</p>
 <ul class="simple">
@@ -1034,12 +1026,12 @@ Colne-Bridge, Aug. 2d, 1817.</p>
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="../_preface.html"
+       href="72_telling_pentrich-rising.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Preface</p>
+        <p class="prev-next-title">Pentrich Rising</p>
       </div>
     </a>
     <a class="right-next"
@@ -1058,7 +1050,8 @@ Colne-Bridge, Aug. 2d, 1817.</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -1121,8 +1114,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>
