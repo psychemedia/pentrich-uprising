@@ -1,8 +1,9 @@
 format: jb-book
 root: _preface
 parts:
-- caption: The Spa Fields Affair
+- caption: A Time of Dissent
   chapters:
+  - file: tellings/50_march_of_the_blanketeers
   - file: tellings/52_spa_fields_trial
 - caption: An Ill-Fated Rebellion
   chapters:
