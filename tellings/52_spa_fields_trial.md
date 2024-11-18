@@ -2,7 +2,7 @@
 
 In London, the date for the start of the trial of the organisers of the Spa Fields riots of the previous December, of Monday, June 9th, 1817, had finally come around:
 
-```{admonition} The tiral of the State Prisoners begins, June 1817
+```{admonition} The trial of the State Prisoners begins, June 1817
 :class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170614/005/0002

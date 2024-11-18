@@ -6,6 +6,7 @@ parts:
   - file: tellings/52_spa_fields_trial
 - caption: An Ill-Fated Rebellion
   chapters:
+  - file: tellings/72_telling_pentrich-rising
   - file: tellings/60_folly-at-folly-hall
   - file: tellings/61_unjustified_detention
 
