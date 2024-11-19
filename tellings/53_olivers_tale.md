@@ -1,11 +1,75 @@
 # Oliver's Tale
 
+Following the arrests at Thornhill Lees, questions arose surrounding the discovery of the plotters. Was there a spy in the ranks?
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170705/008/0003
-## Leeds Mercury - Saturday 05 July 1817
+```{admonition} How did the magistrates know?, June 1817
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
+Leeds Mercury - Saturday 14 June 1817
+
+PROJECTED INSURRECTION IN YORKSHIRE
+
+...
+
+It appears, that almost immediately after the suppression of the Union Societies, established in different towns in this district for effecting a reform in Parliament, some of the most violent members associated together, in a private and clandestine manner. At these meetings it is supposed to have become a question for deliberation, whether a change in the representation might not be effected without the intervention of Parliament, and a project to effect this purpose appears to have been communicated to them by Mr. Oliver, who had been introduced to these Ultra Reformers by Mitchell, (a Delegate, now in custody,) as a person deserving their confidence, and not only disposed to communicate to them interesting information as to the state of the country; but able to afford them the most affectual assistance; thus recommended, he soon possessed himself of their unbound confidence. This person is said to have represented to these credulous men, that all the people in the metropolis were favourable to a complete change of Government, that every thing was organised, and that it was absolutely settled, that on the night preceding the trial of the state prisoners, (the night of the 8th June,) a general rising, would take place; that as a consequence of this movement, all the public offices were to be taken possession of, all the constituted authorities seized, and the state prisoners released; and that a plan had also been arranged for securing all the military, by which means a change in the government would be effected, without any effusion blood. It was further represented to them, that in order to carry out this bloodless revolution, it was absolutely necessary that the same plan should be simultaneously acted upon in all parts of the country;- that it was therefore necessary, that on the night agreed upon, namely on Sunday the 8th inst. all the military in every district of the kingdom should be secured in their quarters, their arms seized, and that the magistrates and other civil officers should be arrested and placed in a state of restraint, not merely that no opposition might be made to the designs of the insurgents, but that they might serve as hostages for the safety of such of their own party as might fall into the hands of government. This absurd and wicked project is said to have been entertained, and in some degree acted upon, by a number of individuals in different parts of this district; and a participation in this plot is alleged against the persons who were apprehended yesterday se'nnigh, at Thornill Lees, charged with having assembled there, for the purpose of carrying into immediate effect this daring and traitorous project. Our readers will probably infer, from this statement, that the person introduced by Mitchell to the Ultra Reformers, was, in truth, a spy, and that every step taken towards the execution of the project, had been communicated to persons in authority, as the plot appears to have been known by some of the Magistrates for several weeks past.
+
+...
+
+```
+
+What was even more worthy of note was the question: was the spy also the *instigator* of the plot?
+
+```{admonition} A highly important fact, June 1817
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
+Leeds Mercury - Saturday 14 June 1817
 p3
 
-### OLIVER THE SPY.-
+SECOND EDITION
+
+Since the first edition of our paper was prepared for the press, the highly important fact has been communicated to us, from a respectable quarter, that the plot referred to in the above statement has been got up under the instigation of an agent from London, and that the principal offender has been suffered to escape with impunity. In confirmation of this fact, which was communicated to us at a late hour yesterday afternoon, we were referred to Mr. Willans, a bookseller, in Dewsbury. To develop a transaction so important, not only to the Government and the people of this country in general, but so intimately connected with the liberty and lives of the accused, we felt it to be our imperious duty to repair to Dewsbury, without a moment's delay, and there to ascertain, on the spot, the truth of the allegation.
+
+As a precautionary measure, we drove to the house of one of the first merchant-manufacturers in the town, and Mr. Willans be sent for, he suggested, that in order to render the investigation complete, Mr. John Dickinson, a linen-draper in that place, should be invited to attend. This suggestion being adopted, Mr. Dickinson also attended, and the following is the result of our investigations into the mysterious transactions which formed the subject of our inquiry:—
+
+Mr Willans stated, and the truth of his assertions his is willing to confirm by his solemn affirmation, that, about two months ago, a person of the name of *Oliver*, called upon him, and introduced himself as a Parliamentary Reformer, sent form London, to ascertain the dispositions of the people in the country. This man he describes as a person of genteel appearance and good address, nearly six feet high, of erect figure, light hair, red and rather large whiskers, and a full face a little pitted with the small-pox. His usual dress, he says, was a light fashionable coloured brown coat, black waistcoat, dark blue mixture pantaloons, and Wellington boots. The description of such a character is important, and may form a clue to further discoveries, connected with his proceedings in other parts of the country.
+
+Mr. Oliver, he says, called upon him several times after his first introduction, and in one of his subsequent calls, said, that as it was quite obvious that Government would not listen to the petitions of the people, it had now become necessary that they should be compelled to attend to their demands. These insinuations Mr. Willans silenced by the observation, that he could not engage in any proceeding that implied the use of force, or the shedding of human blood. On another occasion, Mr. Oliver told him, that he (Oliver) was one of a committee of five that effected the escape of young Watson, and that if Thistlewood had had equally prudent counsels, he would also have escaped. In fact, the whole tenor of Oliver's conversation went to show that he had traitorous designs, and that he was in league with traitors.
+
+Such conversation, as might be supposed, awaked Mr. Willans's suspicions, and the intercourse between them had almost ceased, when, on Friday morning last, the day the ten persons were arrested at Thornhill Lees near Dewsbury, he again called at Mr. Willan's shop between 10 and 11 o'clock, and Mr. W. being absent on business, he begged that his wife would tell him, that a meeting of delegates was to be held on that day, at Thornhill, and earnestly requested that she would use her influence to prevail upon her husband to attend. Before Oliver quitted Dewsbury to attend the meeting, he called again at the shop, when he found Mr. Willans had returned. He accordingly renewed his solicitations to Mr. W. to attend the meeting, telling him at the same time, that "*his friends in London "were almost heart-broken that the people in the country were so quiet.*" At the same time he informed him, that he had walked over from Leeds that morning, and two persons supposed to be Leeds men, appeared in his train. Unmoved by Oliver's solicitations, Mr. Willans persisted in his resolution not to attend the meeting, and owing to his obstinacy, Dewsbury was prevented from swelling the number of *deputies*, so called.
+
+At the appointed time, the meeting was held at Thornhill Lees, and the toils being set, eleven deputies, Mr. Oliver being of the number, were taken by a detachment of cavalry, and all except Mr. Oliver, who had the *good fortune* to be liberated, were conveyed to Wakefield in custody.
+
+While the examinations were proceeding at the Court-House, Mr. Oliver had repaired to his quarters, which were at the Strafford-Arms, that is, the head inn in Wakefield. Here, to his great consternation and confusion, he was recognized by Mr. John Dickinson, who had seen him at Dewsbury, and had heard that he was a leading man at the private meetings. Advancing up to Oliver, Mr. Dickinson addressed him, and the following conversation took place:
+
+*Mr. Dickinson.* How does it happen, Mr. Oliver, that you, who appear to have taken so leading a part in the meetings, are at liberty, while your associates are likely to be sent in custody to London?
+
+*Mr. Oliver.* No papers were found upon me, and being a *stranger*, the persons who apprehended us were obliged to set me at liberty.
+
+These observations were made in a very hurried manner, and Mr. Oliver withdrew to take a seat in the Wakefield coach to Leeds.
+
+As soon as Mr. Oliver had placed himself in the coach, a servant in livery stepped up to him, and, moving his hat, entered into conversation with him.
+
+This circumstance, combined with the extraordinary reasons that Oliver had given for his liberation, induced Mr. Dickinson to inquire of the servant, after the coach had left the inn, if he knew that Gentleman? to which the servant replied, that he had seen him at Campsall, and he had driven him a few days before in his master's tandem from that place to the Red-house to meet the coach. On receiving this information, Mr. Dickinson enquired who his master was? to which the servant replied, General Byng. He then left him, and asked Mr. Tyler, who keeps the Strafford Arms, if he knew Oliver? to which Mr. Tyler replied, that he had been there several times — that he believed he was form London — and that several London letters had come directed to him at that inn.
+
+From every thing we have heard of the character and conduct of General Byng, we are persuaded that he has been merely the medium for receiving Oliver's information, and that whoever may have employed this double-distilled traitor, the General has acted merely in the discharge of his official duty. But every circumstance we have just related, proves, that somebody has employed him, and the question is— who were his employers?
+
+What the trade of this man may be, we cannot pretend to say—but that he is a *Green Bag Maker* by profession is, we think, sufficiently obvious. Why such a wretch, the main spring and master-piece of the conspiracy, by which the country has been thrown into its present state of alarm and agitation, was suffered to escape, while the poor unfortunate victims of his machinations are held in confinement, is more than we can say; but the subject requires deep and grave investigation, and we call upon the magistrates of this riding, now that we have given them the clue, to go to the bottom of this nefarious transaction.
+
+We ask this boon from them in support of their own character— we ask it from a regard to the character of the country— we ask it from a regard to the Government— we ask it in justice to the advocates of Parliamentary Reform— and above all, we conjure them to enter into this inquiry, from a regard to all the families and the lives of the men at present in confinement, on the information of this prototype of Lucifer, whose distinguishing characteristic it is, first to tempt and then to destroy.
+
+...
+
+The Secret Committee of the House of Commons, which is expected to recommend the continued Suspension of the *Habeas Corpus* Act, was appointed on Thursday. It differs only from, the former Committee in the substitution of the present Solicitor-General for the late Attorney-General. ...
+
+```
+
+```{admonition} The mission of an arch traitor, June 1817
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170705/008/0003
+Leeds Mercury - Saturday 05 July 1817
+p3
+
+OLIVER THE SPY.-
 
 A fact has come to our knowledge connected with the mission of this arch traitor, which, though it can be communicated in a few words, speaks volumes to the mind of every British subject. On the first arrival of Mr. Oliver in the neighbourhood of *Sheffield*, where he spread terror among the peaceable and well-disposed part of the inhabitants, and by his flattering representations imparted joy and confidence to the disaffected and evil-minded, the vigilance of the magistrates at that place enabled them to trace out his proceedings, and to discover that he was disemminating the poison of his treasons in every direction. The first use made by the magistrates of this discovery was to apprise the conservators of the public peace in other parts of the riding of the arrival of this incendiary, and their next step was to address a letter to the Secretary of State for the home department informing him that a *London Delegate*, a man apparently above the lower ranks, had arrived in the country, and was actively employed in organizing sedition and exciting the people to acts of treason. This letter was written by Hugh Parker, Esq. the senior magistrate of the district, who, by return of post, received an answer from Lord Sidmouth, informing him that the person he described as so dangerous a character was an *Agent of Government !!!* Indignant at this communication, Mr. Parker's first determination was to withdraw his name from the commission of the peace, but his repugnance to shrink from his duty at time of public exigency overcame his detestation of the system which ministers had adopted, and he was prevailed upon to continue those services which have reflected so much honour on his own character, and so much benefit on the country. When Lord Sidmouth's *long promised* statement regarding the employment given by government to a herd of spies and informers makes its appearance, we hope he will indulge the public with the correspondence which passed between his lordship and the Sheffield magistracy. We should be glad too if the Magistrates would publish the examinations taken before the Lord-Lieutenant at Wakefield, on Monday, the 16th. ult. If we are rightly informed, those examinations confirm every material point of the statement regarding Mr. Oliver, made in this paper two days before; and it has been stated distinctly in the House of Commons, that the *only material called for the crown* on that occasion, swore that Mr. Oliver got up, or prepared the whole plot. We beg to direct the attention of our readers to the speech of Mr Bennett on the third reading of the Habeas Corpus Suspension Act, and we should be glad if some Member of the House would move, in his place, for the production of Bradley's evidence.
 
@@ -15,14 +79,16 @@ It has been insinuated, that in making the exposure we have exhibited to the pub
 
 We have the satisfaction to conclude this article, by stating a fact, that will be hailed with pleasure by every real friend to social order: Since Mr. Oliver left Yorkshire, perfect tranquility has been restored. The County was never more peaceable. The 13th light dragoons, who had been brought into the West Riding, under an apprehension of an insurrectionary rising, have returned to their quarters at York, and the nightly military patrole has been discontinued. In a word, we are as tranquil now the spies have disappeared, as we were before they came amongst us. The exciting cause has been withdrawn, and the effect has ceased.
 
-See also: https://thespyoliver.blogspot.com/2017/07/5th-july-1817-oliver-spy-in-leeds.html
+```
 
-
+Despite claims that Oliverr was "merely a *passive* agent", the editor of the *Leeds Mercury*
+```{admonition} A merely passive agent? July 1917
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003
-## Leeds Mercury - Saturday 12 July 1817
+Leeds Mercury - Saturday 12 July 1817
 p3
 
-### ORIGIN OF THE LATE CONSPIRACIES.
+ORIGIN OF THE LATE CONSPIRACIES.
 
 Several attempts have been made, both in and out of Parliament, to prove that Mr Oliver was merely a *passive* agent in the late conspiracies, formed against Government in the North of England; and that he neither excited the popular discontent, nor gave vitality and organization to the conspiracies. — That this representation of the conduct of the "ministerial agent" is false and deceptive, we have already proved by a host of witnesses. But it is said that these witnesses have all acted under the influence of a disposition to traduce the character of Mr. Legh Keck's *immaculate builder*, and that therefore their evidence is not to be relied upon. This conclusion, we think, does not arise by any means out of the premises. There may, however, be those who are of a different opinion, and to such we beg leave to shoW, out of the mouth of a *Government witness*, that Mr. Oliver was the "Great Man";— that under his directions the *delegates*, so called, were appointed— that he moved and controlled every thing, and that he was, in a word, "the foreman of the concern."
 
@@ -34,19 +100,12 @@ For the accuracy of this portion of the evidence, we appeal to the Magistrates p
 
 [--break--]
 
-On Wednesday se'nnight, two persons, who we understand were a king's messenger and a Bow-street officer, arrived at Wakefield, and arrested Benjamin Scholes, by virtue of a warrant from the Secretary of State, and immediately took him away for London. They starched his house and examined his papers, but did not carry one away with them. This was all done with such secrecy, that the fact was not known beyond the circuit of his family till Friday noon. — *Wakefield Star*
-
-*Charges of Treasonable Practices.*— On Thursday night, a man of the name of Scholes, was brought to London by a King's Messenger and a Bow-street officer, from Wakefield. On Friday Scholes underwent an examination at the Secretary of State's Office for the Home Department, before Lord Sidmouth, the Law Officers, Sir N. Conant, &c. At the same time several others, who had been in custody for some time, were brought from the House of Correction, and underwent an examination. After which Scholes was sent off to Cambridge prison.— On Saturday night, between nine and ten o clock, a King's Messenger and a Bow-Street Officer arrived in town with another man in custody, on a charge of Treasonable Practices, by virtue of a warrant issued against him, signed by Lord Viscount Sidmouth, as Secretary of State. On account of the lateness of the hour, no person was in attendance at the Secretary of State's Office, and no Magistrate being sitting, he was lodged in the House of Correction.
-
-William Wheatley, who was brought to London on Saturday night, was on Monday removed from the House of Correction to the Secretary of State's Office for the Home Department, where he underwent an examination before Lord Viscount Sidmouth, the Law Officers, Sir N. Conant, &c. He was afterwards remanded. The Messenger and Officer brought him from Huddersfield, in Yorkshire.
+...
 
 *Oliver the Spy.*— This fellow, whom no invitation seems likely to drag from his hiding place, is said to be a native of Wales, and a carpenter by trade. He was last summer a prisoner in the Fleet, where he would have been starved, had it not been for some friends to reform— of whom he pretended to be one of the most zealous. He is also a freemason, (but we hope, will not long remain so,) and secretary to the Royal Public Lodge. No. 100, held at Mr. Murphey's, the Golden Hind, little Moorfields. He is a tall good-looking man, near six feet in height, and inclined to be corpulent. He was a few years ago a serjeant in the grenadier company of the Whitechapel volunteers.— *Liverpool Mercury*.
 
-...
 
-Since our last, were committed to York Castle, ... - Also, Thomas Riley, of Crosland Moor, tailor, charged upon the oath of one credible witness, with being accessory before the fact, and procuring, counselling, commanding, or abetting others to bring about and commit certain riots, unlawful assemblies, and felonies, at the parishes of Kirkburton, Almondbury and Huddersfield, or one of them, and which riots, unlawful assemblies, and felonies, took place on the night of the 8th of June last.-Also, Benjamin Green, of Honley, cloth dresser, charged upon the oath of Joshua Kemp, with being present and aiding and assisting in a riot and unlawful assembly, at the township of Honley on Saturday, the 8th of June last, and tumultuously going about, and unlawfully and feloniosly demanding, stealing, taking and carrying away certain fire arms, from the dwelling-houses of Sarah Jessop and others, in Honley aforesaid. Also, Joseph Jysop, of Lockwood, cloth-dresser, charged upon the oath of Charles Earnshaw, with being present and aiding and assisting in a riot and unlawful assembly, and bearing arms, at a place called Folly Hall Bridge, in Huddersfield on the night of Sunday the 8th June last, to the terror of the people, and along with others unknown, and with intent to have done some of his Majesty's liege subjects some grievous bodily harm.
-
-
+```
 
 
 
@@ -84,4 +143,5 @@ In the House of Commons on Friday, in a debate on the State of the Nation, Mr. H
 
 *Frame-breaking*.-The *Gazette* of Tuesday night contains the Proclamation of the Prince Regent, offering an amnesty to the persons concerned in the offence of frame-breaking, except in the case of the outrage at Loughborough; the intention of issuing which was announced by Lord Sidmouth on the discussion of the Frame-breaking Bill in the House of Lords. After alluding to the increase of punishment annexed to this offence by the Act recently passed, and expressing a hope that persons will thus be deterred from the future commission of such offences, the Proclamation proceeds—
 
-" We do hereby promise and declare, that every person who hath committed any offence against the form of the Statute made in the fifty-fourth year of his Majesty's reign, for the punishment of persons destroying stocking or lace-frames, but hath not yet been charge therewith, and who shall, previous to the first day of September next ensuing, appear before some Justice of the Peace or Magistrate and declare such his offence, and when, where, and by whom the same was committed, shall receive his Majesty's most gracious pardon for such offence, and that no confession so made by any such person shall be given in evidence in any Court, or in any case whatever; provided nevertheless, that nothing herein contained shall extend to the offence so committed at Loughborough as afore said, nor to any other offence, except such as may have been committed contrary to the said Statute made in the fifty-fourth year aforesaid."
+"We do hereby promise and declare, that every person who hath committed any offence against the form of the Statute made in the fifty-fourth year of his Majesty's reign, for the punishment of persons destroying stocking or lace-frames, but hath not yet been charge therewith, and who shall, previous to the first day of September next ensuing, appear before some Justice of the Peace or Magistrate and declare such his offence, and when, where, and by whom the same was committed, shall receive his Majesty's most gracious pardon for such offence, and that no confession so made by any such person shall be given in evidence in any Court, or in any case whatever; provided nevertheless, that nothing herein contained shall extend to the offence so committed at Loughborough as afore said, nor to any other offence, except such as may have been committed contrary to the said Statute made in the fifty-fourth year aforesaid."
+
