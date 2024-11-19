@@ -183,7 +183,41 @@ London Chronicle - Friday 11 July 1817
 TREASONABLE PRACTICES.—On Tuesday several of the persons in custody on charges of treasonable practices, underwent examinations at the Secretary of State's Office for the Home Department, before Lord Viscount SIDMOUTH, the Crown Lawyers, Sir NATHANIEL CONANT, and other official Gentlemen. BENJAMIN WHITELEY, from Huddersfield, brought to London on Saturday evening, was taken to the Office by the Governor of the House of Correction; and, after he had undergone an examination, he was sent off to Salisbury Prison. Orders were given, at the same time, to remove Mr. KNIGHT from Reading to Salisbury Prison.
 ```
 
-A dramatic and rather inflammatory account of the events appeared a couple of days after the committal in the *Leeds Intelligencer* of [Monday 14 July 1817](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18170714/023/0003). The report also reported the arrest of Benjamin Whiteley, a Thornhill-Lees delegate, and of one of "the chief conspirators", albeit unnamed, who appears to have attempted "self-destruction" (which is to say: suicide) whilst in detention.
+The same detail appears to be reported in *Leeds Mercury* of July 12, 1817, although the name used appears to be in error?
+
+```{admonition} Brought from Hudderfield, in Yorkshire, July 1817
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003
+Leeds Mercury - Saturday 12 July 1817
+p3
+
+*Charges of Treasonable Practices*
+
+...
+
+William Wheatley, who was brought to London on Saturday night, was on Monday removed from the House of Correction to the Secretary of State's Office for the Home Department, where he underwent an examination before Lord Viscount Sidmouth, the Law Officers, Sir N. Conant, &c. He was afterwards remanded. The Messenger and Officer brought him from Huddersfield, in Yorkshire.
+
+...
+```
+
+Does the following item in the same edition of the *Leeds Mercury* also refer to the same man?
+
+```{admonition} Lodged in the House of Correction, July 1817
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003
+Leeds Mercury - Saturday 12 July 1817
+p3
+
+*Charges of Treasonable Practices.*
+
+...
+
+On Saturday night, between nine and ten o clock, a King's Messenger and a Bow-Street Officer arrived in town with another man in custody, on a charge of Treasonable Practices, by virtue of a warrant issued against him, signed by Lord Viscount Sidmouth, as Secretary of State. On account of the lateness of the hour, no person was in attendance at the Secretary of State's Office, and no Magistrate being sitting, he was lodged in the House of Correction.
+
+...
+```
+
+A dramatic and rather inflammatory account of the Folly Hall events appeared a couple of days after the committal in the *Leeds Intelligencer* of [Monday 14 July 1817](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18170714/023/0003). The report also reported the arrest of Benjamin Whiteley, a Thornhill-Lees delegate, and of one of "the chief conspirators", albeit unnamed, who appears to have attempted "self-destruction" (which is to say: suicide) whilst in detention.
 
 The account was widely circulated over the next few days, as the following report demonstrates.
 
