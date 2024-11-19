@@ -1,10 +1,74 @@
-# THe Weekend of June 8th
+# The Weekend of June 8th
 
 
 COver thornhill lees,
 
 folly hall separate
 
+The June 7 1817 edition of the *Leeds Mercury* is not available in the British Newspaper Archive, but we can glean something of its contents from copies of the relevant articles elsewhere:
+
+```{admonition} Rumours of threatened insurrection, June 1817
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18170610/035/0004
+Morning Herald (London) - Tuesday 10 June 1817
+
+The *Leeds Mercury* of Saturday, states the detection of a Conspiracy in the West Riding of Yorkshire, and the arrest of ten persons near Dewsbury, charged with treasonable practices, as will be seen by the following letter:
+
+"Leeds, Saturday, June 7.  
+"Rumours of threatened Insurrection have been circulated in this place, with great confidence, for some days past, and these reports rest on the authority of persons in official situations. The story, as it has reached us, is, that delegates have of late held secret meetings, in various parts of the West Riding of Yorkshire, as well as in other parts of the kingdom, at which a general rising of the People has been determined upon for the purpose of overturning the Government, and Sunday or Monday next is mentioned as the appointed time for the breaking out of the Rebellion. The report adds, that the Magistrates are to be seized as hostages and that one of Insurgents objects of the Insurgents is to liberate the State Prisoners.
+
+"Since writing the above paragraph, we have received information on which we can rely, stating, that by the exertions of General Byng, ten persons, supposed to be delegates, were yesterday apprehended at Thornhill Lees, near Dewsbury, on suspicion of being concerned in treasonable and seditious practices. On the apprehension of she prisoners they were sent off to Wakefield in carriages, escorted by a detachment of cavalry; and so strong was the sensation produced in that place that many hundred of persons surrounded the Court house, and pressed for admission. The examination took place before Sir Francis Lindley Wood, Bart. Benjamin Dealtry, Esq. and other Magistrates, and terminated in the committal of the prisoners for further examination. In the mean time a dispatch has been sent by the Magistrates to the Secretary of State for the Home Department."
+
+The information relating to the time of meeting, anti the objects contemplated by the Delegates, was, we understand, furnished to the Civil and Military Authorities by one of their own number; and, upon the same authority, it was stated that 50 stand of arms would be found concealed in a barn near the place of meeting. To ascertain the veracity of this assertion, a person was dispatched to the place pointed out by the informer, but the sittings of the Magistrates, which were continued till between eight and nine o'clock last night, having broken up before the messenger's return, we are unable to give his report.
+```
+
+```{admonition} Presuming reports to be correct, June 1817
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0002785/18170610/027/0004
+Commercial Chronicle (London) - Tuesday 10 June 1817
+
+[In the report of the STATE TRIALS]
+
+...
+
+If any thing could add to the interest felt in the State Trials, it must be the rumour: for as yet we do not wish to state it as more than a rumour, of the arrest of ten delegates at Thornbury-hill *(sic)*, near Dewsbury, charged with treasonable practices. In a subsequent column will be found an article extracted from the *Leeds Mercury* of Saturday, which we presume is at least so far correct, as relates to the arrest of the individuals alluded to, and the nature or the crime with which they are charged. It is a different question, whether their plots were of so wide extent as is there suggested: and we cannot easily credit the notion that so wild a scheme as that of a general rising of the people for the purpose of overturning the Government, could, under the existing circumstances of the country have been contemplated. That there is the same turbulent and uneasy feeling in vast numbers of deluded people; that there are the same guilty hopes in many of their leaders, and the same rancorous feelings against all lawful authority, we can easily believe; but the links of the conspiracy have been already broken, a want of confidence must exist among the guilty parties themselves; and Government, at least so long as the suspension of the Habeas Corpus Act continues, has the most effectual means of crushing in a moment every enterprise that may be formed against the public safety.
+
+...
+
+INTENDED INSURRECTION IN YORKSHIRE.
+
+A plot for an insurrection has been fortunately discovered in Yorkshire. The object in view was nothing less than the overthrow of the Government. Delegates had held meetings in various parts of the West Riding, and it was determined that the rising of the people should take place yesterday or to day. The Magistrates were to have been seized as hostages, and the rescue of the State Prisoners was one of the objects of the insurgents. Such are the reports which have been circulated for some days past in Leeds. These have received confirmation from the arrest of several persons. The *Leeds Mercury* of Saturday gives the following information, which it states to be on good authority:—"That, by the exertions of General BYNG, ten persons, supposed to be delegates, were yesterday apprehended at Thornhill-Lees, near Dewsbury, on suspicion of being concerned in treasonable and seditious practices. On the apprehension of the prisoners they were sent off to Wakefield in carriages, escorted by a detachment of cavalry, and so strong was the sensation produced in that place, that many hundreds of persons surrounded the Court-House, and pressed for admission. The examination took place before Sir FRANCIS LINLEY Wood, Bart. BENJAMIN DEALTRY, Esq. and other Magistrates, and terminated in the committal of the prisoners for further examination. In the mean time a dispatch has been sent by the Magistrates to the Secretary of State for the Home Department.
+
+The same Paper adds, "The information, relating to the time of the Meeting, and the objects contemplated by the Delegates, was, we understand, furnished to the civil and military authorities by one of their own number, and upon the same authority it was stated, that fifty stand of arms would be found concealed in a barn, near the place of meeting. To ascertain the veracity of this assertion a person was dispatched to the place pointed out by the informer, but the Sittings of the Magistrates, which were continued till between eight and nine o'clock last night, having broken up before the messenger's return, we are unable to give the report."
+```
+
+The Camnbridge Chronicle of Friday, June 13, carried a piece by the *Leeds Intelligencer* as well as rerprinting the *Leeds Mercury* report:
+
+```{admonition} Rumours by persons in official situations, June 1817
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000420/18170613/005/0002
+Cambridge Chronicle and Journal - Friday 13 June 1817
+
+LEEDS, SATURDAY JUNE 7.
+
+Rumours of threatened insurrection have been circulated in this place, with great confidence, for some days past, and these reports rest on the authority of persons in official situations. The story, as it has reached us, is that delegates have of late held secret meetings in various parts of the West Riding of Yorkshire, as well as in other parts of the kingdom, at which a general rising of the people has heen determined upon for the purpose of overturning the Government, and Sunday or Monday next is mentioned as the appointed time for the breaking out of the rebellion. Thereport adds, that the Magistrates are to be seized as hostages, and that one of the objects of the insurgents is to liberate the State prisoners.
+
+Since writing the paragraph, we received information on which we can rely, stating, that by the exertions of General Byng, 10 persons, supposed to he delegates, were yesterday apprehended at Thornhill-Lees, near Dewsbury, on suspicion of being concerned in treasonable and seditious practices. On the apprehension of the prisoners they were sent off to Wakefield in carriages, escorted by a detachment of cavalry: and so strong was the sensation produced in that place, that many hundreds of persons surrounded the Court-house, and pressed for admisssion. The examination took place before Sir Francis Lindley Weod, Bart., Benjamin Dealtry, Esq. and other magistrates, and terminated in the committal of the prisoners for farther examination. In the mean time a dispatch has been sent by the Magistrates to the Secretary of State for the Home Department.
+
+The information relating to the time of the meeting and the objects contemplated by the delegates, was, we understand, furnished to the Civil and Military Authorities by one of their own number; and upon the same authority it was stated, that 50 stand of arms would be found concealed in a barn near the place of meeting. To ascertain the veracity of this assertion a person was dispatched to the place pointed out by the informer, but the sittings of the Magistrates, which were continued till between eight and nine o’clock last night, having broken up before the Messenger’s return, we are unable to give his report.— *Leeds Mercury.*
+
+FROM THE LEEDS INTELLIGENCER, Monday, JUNE 9
+
+"We are not at liberiy, nor would it be prudent, to divulgw all the circumstances that have heen ascertained; but the most perfect information of the state and disposition of all the seditious in this district, is in the hands of the Magistrates: and woe to them who shall hazard another attempt to disturb it. The wretches who have just been frustrated, have held secret meetings (as they thought) in the character of delegates in various parts of this county, as well as other quarters of the kingdoms; and had determined, in the madness of their hearts, on hoisting the signal for a general rebellion. Fools that they are! They saw not that they were drawing down inevitable destruction upon none but themselves! Of their supposed number (for we shall not say more till they have been mt upon their trial) 6 have been apprehended at Sheffield, and ten others were taken on Friday last, while they were assembled together, in a public-house at Thornhill Lees, near Dewsbury. Amongst these are James Mann, cloth-dresser, the Chairman of your late Leeds Union Club, for obtaining Parliamentary Reform, according to the Constitution; Thomas Murray, of Leeds, linenweaver, and John Smaller, of Horbury. They and their seven companions were immediately escorted to Wakefield by a detachment of cavalry, where they were examined hefore Sir Francis Lindley Wood, Bart. Benjamin Dealtry, Esq. and other Magistrates.— After re-committing the prisoners for a second examination, a dispatch was sent off to the Secretary of State; from whom, probably, instructions will be received as to their present disposal.
+
+"In the mean time, the Magistrates and Sir John Byng, the General commanding the District, have adopted the most effectual precautions for the preservation of the peace. In every quarter of the District, prudent arrangements have been entered into, In Leeds, a number of Special Constables have been sworn in. Two troops of the 13th Light Dragoons have been marched in from York, as an addition to the military force previously stationed here; and an inecreased force can be had at the shortest notice. Patroles of horse and of vigilantly traverse the streets during the night. That fine corps, which has received sueb distinguished praise from Sir John Byng, for its spirit, appearance, and discipline, the Northern Regiment of West Riding Yeomanry, assembled yesterday afternoon at Harewood, and other places, and are ready to act in any direction.
+
+"As the plot is discovered, its explosion is for the present, no doubt, subdued. But vigilance and activity are not the less indispensable. Those who are well affected will now of course be more and more strongly impressed with the necessity of enrolling themselves in Volunteer Corps—not for the defence of Government, which is far beyond the reach of any danger,—but for the protection of themselves and their families and homes—the preservation of local tranquillity,—and the salvation of the deluded men themselves, who would rush into excesses, the end of which could be nothing but their own wretchedness and destruction. We have every reason to believe, that the Magistrates could readily obtain in this town and neighbourhood, the services of a sufficient number of individuals to form a corps of Volunteer Infantry."
+
+"*Monday Morning, one o'clock.*—We stop the press to state that the whole of the cavalry are just mustered by the sound of a bugle. All we can learn is that they are to march in the direetion of Wakefield immediately. We suspect that attempts are probably making to liberate the prisoners in that town. Excepting that stones have been thrown at some of the horse patrole, Leeds is yet perfectly tranquil."— *Leeds Intelligencer.*
+```
+
+A more comprehensive report of events from the week before appeared in the *Leeds Mercury* of June 14, 1817.
 
 ```{admonition} Projected Insurrection in Yorkshire, June 1817
 :class: dropdown
@@ -38,11 +102,6 @@ We feel great satisfaction in having to state that the most perfect tranquillity
 ```
 
 ---
-
-
---
-https://britishnewspaperarchive.co.uk/viewer/bl/0002633/18170615/021/0003
-Englishman - Sunday 15 June 1817
 
 
 
