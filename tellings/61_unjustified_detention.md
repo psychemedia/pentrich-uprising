@@ -273,7 +273,7 @@ Thomas Riley. — The *Leeds Intelligencer* says: "In the *Mercury* we have upwa
 
 The *Intelligencer* then reprinted Lee's petition (as included above), a statement by *Richard Carlton*, who had shared a cell with Lee and claimed to have been the person who cleared up Riley's cell, and observations by the clerk to the Hudderfield magistrates, and of Lee's gaoler at York.
 
-```{admonition} The state,ment of Richard Carlton, March 1818
+```{admonition} The statement of Richard Carlton, March 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003
 Leeds Intelligencer - Monday 09 March 1818
@@ -374,7 +374,7 @@ The infamous falsehoods upon which most of the Petitions to the House of Commons
 
 "TO OUR READERS.
 
-Sir Francis Burdett having given notice, that h"e shall bring BEN SCHOLES's Petition before the House of Commons, after the recess, we think proper to defer our refutation of it till that period."
+Sir Francis Burdett having given notice, that he shall bring BEN SCHOLES's Petition before the House of Commons, after the recess, we think proper to defer our refutation of it till that period."
 
 "In the Intelligencer of the 9th inst. it will be recollected we inserted a copy of the petition to the House Of Commons, of Richard Lee, of Holmfirth, one of the men apprehended under the Suspension Act, in which the petitioner complains of the injustice of his arrest, and of cruel and vindictive treatment during his imprisonment at York Castle.
 
