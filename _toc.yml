@@ -3,7 +3,7 @@ root: _preface
 parts:
 - caption: The Opening Chapter
   chapters:
-  -file: histories/10_events-1811.md
+  - file: histories/10_events-1811.md
 - caption: A Time of Dissent
   chapters:
   - file: tellings/50_march_of_the_blanketeers
