@@ -796,7 +796,7 @@ We have been led into these observations by a circumstance of a very extraordina
 
 ```
 
-*The McKinley case, relating to the administering of oaths, ended with a "Not proven" verdict from the jury, not least because at least two key witness testimonies were rejected: one for being paid for, the other becuase it was based on what had been read in the newspapers.*
+*The McKinley case, relating to the administering of oaths, ended with a "Not proven" verdict from the jury, not least because at least two key witness testimonies were rejected: one for being paid for, the other because it was based on what had been read in the newspapers.*
 
 ```{admonition} The King vs. Andrew McKinley, for administering unlawful oaths, July, 1817
 :class: dropdown seealso
@@ -1001,7 +1001,7 @@ What a mixture of reluctant acknowledgements, with studied insult to the Magistr
 
 "No, no!— The events and scenes of former years must not be *forgotten*!— The more intelligint and wealthy classes must never forget the murders, and the destruction of property, perpetrated by a deluded class of men, who had been poisoned by an incediary press!—The deluded class must never forget what was the terrible punishment which fell upon the heads of some of the guilty, after their career of crime had become almost intolerable!—These things must bevr be forgotten, or the unhappy men who paid the forfeit of their lives to the outraged laws of their country, will have been consigned to the grave, for the sake of public tranquillity, IN VAIN.
 
-Is it likely to unite the different classes in bonds of unity, while it is acknowledged there have been *"very unjustifiable excesses* to tell the persons accused of having perpetrated them , that they have been subjected to the resign of terror, merely becuase they have been subjected, by an upright Magistracy, to the ordinary course of the law  of the land!———
+Is it likely to unite the different classes in bonds of unity, while it is acknowledged there have been *"very unjustifiable excesses* to tell the persons accused of having perpetrated them , that they have been subjected to the resign of terror, merely because they have been subjected, by an upright Magistracy, to the ordinary course of the law  of the land!———
 
 But we confess, we have not patience to dwell upon these features of the inflammatory publication in question. Let us hasten, then, to the conclusion of an article, already, perhaps, (in resuming being self-evident) too much prolonged.
 
