@@ -56,7 +56,7 @@ Cheltenham Chronicle - Thursday 18 December 1817
 On Friday week Mr. Stavely, of York Castle received a warrant from the Right Honourable Secretary of State, authorising him to discharge out of custody Richard Lee, a state prisoner, upon condition that he should enter into recognizance of 100*l.* to appear on the first day of next Term in the Court of King's Bench, and not to depart without leave of the said Court. He, having confirmed to such order, was on the same day discharged accordingly.
 ```
 
-So what might have prompted the release of Lee in Decemeber, 1817? It is not until February, 1818, at least as far as the public press goes, that we get some inkling, by way of a petition from Richard Lee. At the same time, Benjamin Whiteley was presenting his own petition.
+So what might have prompted the release of Lee in December, 1817? It is not until February, 1818, at least as far as the public press goes, that we get some inkling, by way of a petition from Richard Lee. At the same time, Benjamin Whiteley was presenting his own petition.
 
 ```{admonition} Petitions from Whiteley and Lee, February 1818
 :class: dropdown
@@ -480,7 +480,7 @@ There is one circumstance only, respecting Riley, in the statement of the Mercur
 
 ```{admonition} The Frank Ward Libel
 :class: seealso
-Frank Ward was accused in a report of Novemeber, 1817, of having been a potential leader in the supposed national revolt of which the Derbyshre uprising played a part earlier that year. Ward prosecuted a libel case against the publisher in January, 1819, and was successful in his claim.
+Frank Ward was accused in a report of November, 1817, of having been a potential leader in the supposed national revolt of which the Derbyshre uprising played a part earlier that year. Ward prosecuted a libel case against the publisher in January, 1819, and was successful in his claim.
 ```
 
 ```{admonition} A correction follows, April 1818
