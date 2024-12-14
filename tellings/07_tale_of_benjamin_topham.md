@@ -4,9 +4,9 @@ Many of the tales I tell are traditional folk tales; they're the sorts of story 
 
 But I also tell "historical tales", of events I've often come across by way of a song; tales that I've gone chasing in contemporary news reports of the time, and then forgotten the facts. Because stories are what's left behind, when the facts are forgotten.
 
-If you'd been reading the papers in the late 1830s, you might have been surprised to see death notices of a couple of "old Luddites", of John Chettle and Thomas Glover, men who were charged as Luddites at the end of the Ludding times, in 1816; men who were found *__not__ guilty* in a court case that perhaps reflected the will of the people as much as it did the long arm of the law.
+If you'd been reading the papers in the *late* 1830s, you might have spotted the death notices of a couple of "old Luddites", of John Chettle and Thomas Glover, men who were charged 1n 1816, at the end of the Ludding times; men who were found *__not__ guilty* in a court case that perhaps reflected the will of the people as much as it did the long arm of the law.
 
-And case was notable for another reason, too: it had involved the destruction of several frames at a knitting shop in Pentridge. Some of the frames that were broken there had been been broken before. They werenlt owned by the house owner, but leased from a certain Mr Benjamin Topham. And Topham had had dealings with the Luddites before.
+The case was notable for another reason, too: it had involved the destruction of several frames at a knitting shop in Pentridge. Some of the frames that were broken there had been been broken before. They weren't owned by the house owner, but leased from a certain Mr Benjamin Topham. And Topham had had dealings with the Luddites before.
 
 At the start of 1811, ...
 
@@ -30,13 +30,6 @@ And that is the tale of Benjamin Topham.
 
 perhaps also start with the death of the the luddites in 1837 / 8 who broke his frames in 1816
 
-Topham - death notice
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0004591/18320211/078/0008
-Nottingham and Newark Mercury - Saturday 11 February 1832
-
-On Thursday week, at Pentridge, of which place he was a native, Mr. Benjamin Topham, aged 67. He some years arm resided in Nottingham, where he was well known. His polities were liberal; yet at the Derbyshire, or Jerry Brandreth *revolution*, in June 1817 `sic`, all Topham's frames were broken. The disturbances broke out at Pentridge, where Topham was then living. He was an upright, industrious man, but he laid the breaking of his frames so much to heart, that he lost his energy of spirit, and almost sank under it.
-
-[Frames also broken in December 1811, March 1812 and June 1816
 
 
 
