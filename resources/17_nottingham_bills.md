@@ -317,6 +317,6 @@ https://archive.org/details/np212725_0004/page/632/mode/2up?q=frame
 
 52 George III 1812 Cap. 16 pp.633-4
 
-An Act for the more exemplary Punishment of Persons deftroying or injuring any Stocking or Lace Frames, or other Machines or Engines ufed in the Framework knitieil ManufaGury, or any Articles  or Goods in fuch Frames or Machines ; to continue in force until the Firll Day of Man-i One tboufand eight hundred and fourteen. C^othMorfb 1812.'
+An Act for the more exemplary Punishment of Persons deftroying or injuring any Stocking or Lace Frames, or other Machines or Engines used in the Framework knitieil Manufactury, or any Articles  or Goods in fuch Frames or Machines; to continue in force until the First Day of Man-i One thousand eight hundred and fourteen. C^othMorfb 1812.'
 
 
