@@ -3,9 +3,13 @@ root: _preface
 parts:
 - caption: The Opening Chapter
   chapters:
+  - file: tellings/about/framing
+- caption: Topham's Tales
+  chapters:
   - file: histories/10_events-1811
   - file: histories/16_topham_1812
   - file: histories/53_topham_1816
+  - file: tellings/07_tale_of_benjamin_topham
 - caption: A Time of Dissent
   chapters:
   - file: tellings/50_march_of_the_blanketeers
