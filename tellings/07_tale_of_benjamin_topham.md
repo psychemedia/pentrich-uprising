@@ -1,4 +1,4 @@
-# The Tale of Benjamin Topham
+# The Conjoined Tales of Benjamin Topham, and Chettle and Glover
 
 Many of the tales I tell are traditional folk tales; they're the sorts of story that can often be found  in books that were published throughout the 19th century, of tales that were orally collected, *as told*.
 
@@ -8,48 +8,15 @@ If you'd been reading the papers in the *late* 1830s, you might have spotted the
 
 The case was notable for another reason, too: it had involved the destruction of several frames at a knitting shop in Pentridge. Some of the frames that were broken there had been been broken before. They weren't owned by the house owner, but leased from a certain Mr Benjamin Topham. And Topham had had dealings with the Luddites before.
 
-At the start of 1811, ...
-
-Jan
-
-Nov
-
-March.
-
-And so when his frames were broken again, this was not just distressing for Benjamin Topham, but also made the attack even more noteworthy.
-
-Remember, Topham's frames had been broken early on Nov. 1811., the start of those Ludding times, and now here again, after a period of relative calm, his frames were being brokenb again. WOuld history be about to repeat itself.
-
-In the court case, at ... describe. then describe the court finale.
-
-And that is the tale of Benjamin Topham.
-
-
-
-
-
-perhaps also start with the death of the the luddites in 1837 / 8 who broke his frames in 1816
-
-
-
-
-
-TO DO REFRAME THE FOLLOWING - make it a tale about topham, dropping in elements of the Nottingham setting with opportunities to slot in additional bits of history
-
-THIS CAN:
-
-- provide history of Notts Luddism (even tho Derbyshire...)
-- set up Pentridge
-
 For the stocking-makers servicing the top-end of the market, they perhaps hadn't been too concerned in the earlier "Good Times" by the masters taking on too many colts, the unskilled workers who hadn't served their seven years of apprenticeship. Nor by the wide frames that were used to make cut-ups - poor quality stockings that were sewn together and sold cheaply. But the fashion had changed, the exports had stopped, and the prices had collapsed. And for the master stocking-makers, the skilled and professional workers who took a pride in their work, well, the cheap tat produced by the unskilled colts was now taking their business, and forcing down the prices that were paid for their work.
 
 And they weren't happy.
 
-They tried to argue their case; they even went so far as holding the jack-wires you needed to work the frames to ransom, hiding them in the sanctuary of local churches thereabouts, and for a while, an accommodation was made. But then some of the hosiers started reducing the prices again, hiring the colts, paying master stockingers in truck — giving them credit rather coin and forcing them to buy goods from the hosier's shop at ridiculous prices. 
+They tried to argue their case; they even went so far as holding the jack-wires you needed to work the frames to ransom, hiding them in the sanctuary of local churches thereabouts, and for a while, an accommodation was made. But then some of the hosiers started reducing the prices again, hiring the colts, paying master stockingers in truck — giving them credit rather coin and forcing them to buy goods from the hosier's shop at ridiculous prices.
 
-I couldn't tell you why they had it in for Benjamin Topham, who, at not quite fifty years of age, made his business round Pentridge way, but they surely seemd to have it in for him, one way or another.
+I don't really know why they seemed to have it in for Benjamin Topham in particular. Or perhaps they didn't; perhaps his frames were always just in the wrong place, at the wrong time. He was not quite fifty years of age, made his business in and around Pentridge, and was amongst the first — and the last — of the lace makers to have their frames broken.
 
-That first night, early in December it was, soon after midnight, when they came round to his house, and knocked at his door, they pointed three guns at him, demanded the key to his workshop — "we'll blow yer brains out if yer don't" — and a light to see by. But he claimed not to have the wide frames, not to be doing the cut-up work, he was a good man, and honourable man, and they left him cursing their bad intelligence. And paid a visit to several other shops in the village. And they made it known that they be back to demolish any frames that were used at an under price, or worked by Colts.
+The first time was early in December, 1811. It was just after midnight when they came round to his house, knocked at his door, pointed three guns at him, and demanded the key to his workshop — "we'll blow yer brains out if yer don't" — and a light to see by. But he claimed not to have the wide frames, not to be doing the cut-up work, he was a good man, an *honourable* man, and they left him cursing their bad intelligence. And paid a visit to several other shops in the village. And they made it known that they be back to demolish any frames that were used at an under price, or worked by Colts.
 
 And so they came back the following night, but the prices had been raised, so they went away again, save for breaking a couple of frames from shops in villages roundabout there that deserved it.
 
@@ -70,3 +37,35 @@ So even as the frames were being broken for just cause — at least as they Ludd
 And so it was that in the few days before the Frame-Breaking Act received Royal Assent from the Prince Regent, Topham received a *third* visit from the frame-breakers. He knew he wouldn't be able to talk them round this time, so he placed a premium on his own personal safety and hid in a cupboard, while outside, he heard his life threatened by the many voices of the men who would break ten more of his frames, and the doors and windows of his house and shop too; for in those days your house was your shop.
 
 Now as I've heard it told that he *was* paying full-price for the work on those frames, and that this was some sort of vengeful attack; but that's not to say there weren't those who deserved to have their machines broken, nor whether there was some other reason he'd attracted the ire of the frame-breakers. 'Cos history doesn't say so much about those other men who were targeted. Maybe Topham was the exception, which is why the press chose to mention him rather than the ones they couldn't defend.
+
+At this point, machine-breaking in the Nottinghamshire area largely dropped off, though fifty miles to the North, the woollen textile workers of West Yorkshire were starting engaging in their own forms of frame-breaking.
+
+But then, a few years later, it started to flare up again... and once again, Benjamin Tophams's frames became a target.
+
+It was June, 1816, and the disturbances in Nottigham has started up again. Nineteen frames had been broken in New Radford, operated by a lace-manufacturer from Nottingham who worked some of his own frames as well as several that were rented in. Three of which belonged to Benjamin Topham.
+
+Two men in particular had been taken up for that attack, though thirty or so men had been involved in it: Thomas Glover and John Chettle. And many a tale was told about their trial, one Saturday in August, 1816, at the Nottingham summer Assizes. The trial had started at 2, in the afternoon, but didn't finish until two, the next morning. The Luddite lawyer, Thomas Denman, provided their legal defence. Throughout the day, many of the actual framebreakers — twenty or more had been involved in the original action — were said to have gathered in an around the court room; some of them armed, the constables powerless against them; they prevented any light to appear in court, excepting on the bench and the counsel table; and it was surely clear to the judge and jury alike what sort of verdict they expected to see.
+
+But Denman was well up to his task, and the alibis he presented gave the jury all the reason they needed to acquit the two men accused, even though tht prosecution had pre-emptively tried to cast doubt on any such thing — this was a time, remember, before mobile phones... you'd typically know the time from the tolling of the Church bell, and even if you were only half an hour out in estimating that the time, that could be time enough for committing a crime.
+
+The major evidence against the men was the eye-witness testimony of the shop-owner's daughters and wife, Mrs Wright; his daughter, Ann, who had been woken in the early hours of the morning, just before 1am, by the screams of her sister and the sound of the door being smashed open by hatchets, had peeked through the curtains of their upstairs bedroom window and seen both Glover and Chettle stood outside; her sister had also sworn to having recognised Chettle's voice. And Wright's wife, who had been awoken by a noise and gone to investigate, was on the stairs as they broke in and immediately run to a window to scream "Murder!" as a cry for help; at which point she saw a dozen men stood outside below, who responded with a volley of stones that broke several panes of glass and angry shouts telling her to shut the window.
+
+Denman then made his case for the defence.
+
+One witness, who was mother to three children by Chettle, and was celebrating the return of another of sons from his soldiering, as well as several others had been drinking well into the early hours that night with Chettle. He'd turned up a little after eleven — the owner of the Cross-Keys said he'd been drinking in that establishment from 9 till 11 — joined them in a drink, then fallen asleep. He was turned out at two am, still rather the worse for wear. Another witness,who was up early that Sunday morning washing her children's clothes in readiness for Sunday School, good Christian woman that she was, was just emptying the suds in the street as it was starting to get light, heard the clock striking a quarter past two, and saw Chettle coming towards her, still rather tipsy. And yes, she does know the prosecution witness Ann Wright - "and every knows she's not to be believed, even her own father and mother say so"...
+
+As for Glover, he'd been drinking with half-a-dozen others in the Odd Fellows Arms public-house at New Radford from about nine o'clock, and some watermen had also been in there. He'd gone out around about 10 o'clock or so, and then come back twenty minutes later with a handful of steaks as a treat to them all. The steaks were put on to cook, and every one payed for their own bread. The landlady had wanted them to leave at twelve, and refused to serve them after that hour, law-abiding landlay that she was, but they had stayed there almost till two. The serving girl was sure he'd been there all night, even when she'd gone outside about one and heard a  pistol shot near by: Glover had put his head outside the door, with the others, to see what was going on, but they hadn't left the pub. One witness particularly remembered the time, because he only lived a coupleof hindred yards from the pub, and he pulled the clock up every Satruday night, which he'd done that night and he specifically recalled the clock was showing a quarter to two.
+
+Several other defence witnesses swore to having spoken to Mrs. Wright the day after the attack, when she'd said she hadn't recognised any of the offenders, and that they wouldn't trust a word she said, even under oath, either.
+
+It being well about midnight by this point, the Judge attempted to sum up the evidence from memory, regretting that he couldn't see well enough by the by flickering candle-light to properly refer to many of the notes that he had taken, telling the jury to let the verdict be whatever it might.
+
+After twenty minutes or so, the Jury said they hadn't heard sufficient evidence to prove the prisoners were guilty, so they were both pronounced Not Guilty.
+
+And as the verdict was given, three cheers went up three times, and the Judge could nothing to quieten it. The celebrations then continued through the streets for several hours.
+
+Two other charges were read against Glover and Chettle when the Court reassembled at nine o'clock on the Monday morning, but no evidence was presented and a summary verdict of Not Guilty was awarded to them. Whilst the Judge obviously had to discharge the men, he couldnlt help but comment on the system of violence against property that appeared to be prevalent in the towm, and a system of perjury might arise from, not that he was saying such a conspiracy had operated in this case. And that anyomne who engaged in such a conspiracy should be cautious, becuase even though they might evade the law in the short term, the rule of law would not be deterred in the long term.
+
+Following the case, it is said the real offenders declared that Chettle, at least, had had no involvlement in the affair. But when he died twenty years later, his involvment in the case, and the resulting trial, is what was remembered about him.
+
+And as for Mr Benjamin Topham? It is said that following the final attack, in 1816, he had lost his energy of spirit, and almost sank under it...
