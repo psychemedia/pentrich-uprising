@@ -1,41 +1,3 @@
-Songs
-
-
-Foster's Mill Yorkshire Garland
-
-https://www.yorkshirefolksong.net/song.cfm?songID=63
-
-Lyrics
-1
-Come, all you croppers stout and bold,
-Let your faith grow stronger still,
-For the cropper lads in the county of York
-Have brocken the shears at Foster’s Mill.
-
-2
-Around and around we all will stand
-And sternly swear we will,
-We’ll break the shears and the windows too
-And we’ll all set fire to tazzlin’ mill.
-
-3
-The wind it blew and the sparks they flew,
-Which alarmed the town full soon,
-And out of bed poor folk did leave,
-And they run bi the light o’ the moon.
-
-4
-Around and around they all did stand
-And solemnly did swear,
-Neither bucket nor kit nor any such thing
-Should be of any assistance there.
-
-5
-All dark and dreary is the day
-When men ’ave to feight for their bread;
-Some judgment sure will clear the way
-And the coach of triumph shall be led.
-
 
 
 https://www.spenvalleycivicsociety.org.uk/spen-fame-trail/plug-rioters
@@ -57,6 +19,7 @@ The Plug Rioters attacked the mill on 15th August 1842.
 
 
 https://www.spen-valley.org/2019/09/13/whiff-of-revolution/
+
 The Plug Riots of August 1842 were a protest about working conditions, food prices and lack of reform. The first attack in Cleckheaton targeted Anderton’s factory at Providence Place. A mob attempted to draw the plug from the boiler,[to cut off the steam and shut down the mill], but they were beaten away. They met little resistance at Roundhill Mill, Gomersal. Five to six thousand men and women then assailed St. Peg Mill. Two of the three boiler plugs were drawn before special constables, a troop of lancers and a detachment of the Yorkshire Hussars arrived. Fighting broke out on a grand scale. The throng was dispersed without loss of life.
 
 
@@ -73,7 +36,7 @@ Reports of various riot related court appearances
 https://britishnewspaperarchive.co.uk/viewer/bl/0001652/18420818/036/0004
 Globe - Thursday 18 August 1842
 
-[Preceding page and column describes gathering at Halifax of 12-15,000 people]
+[Preceding page and column describes unrest in various districts, incl. gathering at Halifax of 12-15,000 people]
 
 HUDDERSFIELD. Monday.—Soon after five o'clock this morning, a meeting of working people, not the regular turn-outs, but principally comprising women and children, was held at Back Green. Their number, probably, would be about four hundred. Shortly after they had mustered, Mr. William Brook, the magistrate, accompanied by a number of special constables, proceeded to the spot, and advised them to go home; they remained some time longer, but eventually dispersed between six and seven peaceably.
 
@@ -99,3 +62,68 @@ Up to a late hour the authorities were employed in keeping the streets clear.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18420816/042/0006 Morning Herald (London) - Tuesday 16 August 1842
 RIOTING IN YORKSHIRE. (From a Fourth Edition of the Leeds Mercury.). Our reporter, on his return to Leeds this evening, has received particular and positive information the the mill-hands have been turned out at Huddersfield. This information was given to him in the train by a manufacturer who entered the carriage at Cooperbridge, the Huddersfield station, and who declared that he had himself seen the movements of the mob, and that his own mill had been stopped. A railway guard, who arrived here at half-past four, brought the information that the turn•outs had begun their operations at Huddersfield; but he was told that the party who produced the turn out there went from Leeds We are bound to say, however, that we have not heard these important particulars confirmed from any other quarter, and we cannot help thinking that conirmation would have reached Leeds if such events had really occurred at a town so near as Huddersfield. We only, therefore, give the following statement just as our reporter received it, and without vouching for its truth. He was informed as follows : "A body of the Todmorden turn-outs (about 700 in number) reacted Huddersfield this afternoon at about two o'clock, and having brought everything to a stand between that place and Todmorden, they at once began to call out the workpeople from the factories. In a great majority of the cases they met with no opposition, the workpeople manifesting every disposition to join the mob. Where resistance was offered they immediately set about drawing out the boilerplugs, defying all opposition; and before half-past four o'clock there was not a factory at work either in Huddersfield or the surrounding districts. No attempts to injure either property or person were manifested. Up to six o'clock the combined turn-outs were peaceably perambulating the streets in one great procession." - - Our reporter resumes the particulars he has gained, as follows:—" The rioters having stopped all the mills at Mytholmroyd, some of them retired to Cragg Valley, but others went off in a detachment to Hud dersfield. Huddersfield, it is understood, is the last place that it is intended to visit to-day. But for Monday morning, at seven o'clock, the instructions are, that those who ard at Huddersfield, and the party at Cragg Valley, shall each make a descent upon other parts of Yorkshire." (From a Fifth Edition of the Leeds Mercury) Saturday, 11 o'clock, p.m.— We learn by gentlemen who have just reached Leeds from Huddersfield, a full confirmation of the facts stated in our fourth edition as to the turn-out of all the mill-hands in that town. The rioters who invaded this town came from Oldham, not, as had been stated, from Todmorden. They were about 5,000 or 6,000, with many women. They arrived at three o'clock p.m., and went early to the mill of Messrs. Starkey Brothers, who, being magistrates, blockaded the gates, and declared that they would read the Riot Act. The turn-outs disregarded these threats, broke open the gates, entered the mill, and turned out every hand. The rioters then proceeded to Mr. Kay's mill, and turned out all the hands. At the mill of Mr. William Brook, the magistrate, in North-street, that gentleman made some opposition, but it was altogether fruitless; the mob broke into the mill, burst in the plug of the steam-engine boilers, and turned out all the workmen. In fact, the hands were expelled from every mill in the town in the curse of the afternoon. A meeting was held, but we do not know the resolutions come to. After the mills had been stopped, the invaders marched through the town, many of them begging, ,but not committing any acts of plunder. _ The bulk of the inv a ders from the cotton districts are thought to have returned home into Lancashire; but it was said that many would attend the meeting of the colliers at Wakefield on Monday next. In Leeds the authorities are quite on the alert. Arrangements are making to swear in 500 special constables on Monday morning. The town is also provided with a good military force, the 17th lancers (Prince George of Cambridge's regiment), and one or two troops of artillery being at our barracks. We learn from a gentleman who has been in many of the mills in this neighbourhood to-day, that the best disposition is manifested by the workmen who will resist any attempt to seduce or intimidate them. A squadron of the 11th hussars have received orders from Colonel Wemyss, at Manchester, to march from York to Rochdale; they will arrive in Leeds to-morrow.
+
+
+https://archive.org/details/risingsluddites00peelgoog/page/n8/mode/2up
+THE RISINGS OF THE LUDDITES
+
+CHARTISTS AND PLUG_DRAWERS
+
+Frank Peel
+
+SECOND EDITION.
+
+1888
+
+pp.338-347
+
+CHAPTER XXXIX. The Plug Riots.
+
+A crouching dastard sure is he,  
+Who would not fight for liberty,  
+And dies to mako old England free,  
+From all her load of tyranny.— *Bamford.*
+
+Trade in 1842, the year of the plug riots, was worse than ever, and the sufferings of the working classes throughout Yorkshire and Lancashire were very great. It was hoped that as summer came on matters might improve, but they grew gradually worse, and at the beginning of August the distress was at its height. The corn laws were then in full operation, and the ports being closed the people throughout the country were starving, In the north it was reported that a fourth part of the population were dying of famine. At Stockport half the masters had failed, and five thousand workpeople were walking the streets, nor were they much better in any of the towns in Lancashire. The Chartist movement had gathered much strength during the past year, and the working classes in all the large towns were in a state of great discontent and disaffection. The masses of the people were still persuaded that the "People's Charter" would enable them to secure higher wages and better food, and that for that very reason the "aristocrats," against whom they inveighed so furiously would not grant it. Another immense petition in favour of the charter was presented in the House of Commons in May, and great meetings were of almost nightly ocoorrence in all large towns of Yorkshire. At Leeds the pauper stone heaps now amounted to one hundred and fifty thousand tons, and the guardians offered 6/- weekly for doing nothing rather than 7/6 for stone breaking. Poor rates swelled to the size of rents, and the middle classes viewed with dismay the heavy drain on their resources. Towards the end of June a meeting of tradesmen and shopkeepers was held in the Bradford courthouse, "to enable them publicly to make known the unparalleled distress which prevailed, and the decay of trade consequent thereon, and to adopt such measures relative thereto as might be deemed advisable with a view to avert impending ruin."
+
+Disturbances of an extraordinary character, and on a large scale took place in Lancashire, which speedily assumed an alarming character. They commenced at Staleybridge. On Sunday, August 7th, a large meeting was hold at Mottram Moor, which was attended by eight or ten thousand people. Tho disturbances originated in this way:— Some of the mauufaKurers of Staleybridge finding, as they stated, that others in the vicinity were paying lower wages than they were gave notice of a reduction. The workmen cousented at one mill at the expiration of the notice to take the lower price. At another place, however, they refused to submit to the change. The workpeople of the firm last mentioned waited upon their employers, Bayley Brothers, and spake roughly on the proposed reduction, on which one of the masters said if they took the matter up in that spirit they had better play until they thought differently of it. On hearing this the deputation set up a loud shout, when all the hands left the mill, without waiting for any formal answer to the demands of their representatives. Proceeding to the different mills in the town, the workpeople nearly all turned out and joined them, and their number soon swelled to more than 5000, of whom one-third were females. Day by day they extended their march and emboldened by their numbers they determined to put an end to all work until their political demands were met. In accordance with this resolve they stopped all the collieries, and insisted upon men of all trades participating in the general holiday. Finding that all were not willing to join in the mad enterprise, they did not hesitate to overawe and coerce them, and procuring a number of formidable bludgeons, they tried to intimidate any workman who resisted them. Proceeding to the print works of Thomas Hoyle and Son, who had made themselves very obnoxious, they spoiled a great many of their goods, and then went on to Ashton, where they were joined by fresh crowds. An immense meeting was held there, when the passions of the mob were inflamed by the fiery oratory of reckless demagogues. They next proceeded to Oldham and Manchester, where, however, they found the military drawn up to check their excesses. As the mob did not at once commit depredations the military were withdrawn, but a scene of pillage and disorder soon followed, the chief sufferers being the provision dealers and bakers. The military again marched out and fourteen of the ringleaders were taken into custody. At Birley's Mill a determined struggle took place. The rioters were first deluged with water, but as this did not compel them to disperse, some of the workpeople ascended the roof and threw pieces of iron, stones, and other missiles upon them. Many persons were very seriously hurt, and a young girl killed on the spot. From Lancashire the disaffection speedily spread into Yorkshire. On Sunday, August 14th, a large gathermg took place at Bradford Moor, under the presidency of George Bishop. Mr. Ibbotson, a well known news vendor, whose place of business was on the Bowling Green, addressed the gathering, which was estimated to number 10,000, and was followed by other speakers, stirring up the enthusiasm of the surging crowd, who received their treasonable utterances with wild cheering. The alarmed authorities summoned the chief inhabitants to meet the same evening at the Talbot Inn, when it was resolved that steps should be taken to put down the outbreak. Special constables were sworn in large numbers, and troops were sent for from Leeds. Next morning another meeting was held in front of the Oddfellows' Hall, at the early hour of seven, when it was resolved that the people should never relinquish their demands until the Charter became the law of the land. The immense crowd then formed into military order and marched up Manchester Road to Halifax, stopping all the mills and causing great excitement. Here they were joined by the Lancashire turnouts, a large number of whom were women, and many white-headed old men also appeared in the ranks. The thousands of female turnouts were looked upon with some commiseration by the well-disposed inhabitants, as many were poorly clad and not a few marching barefoot. When the Riot Act was read, and the insurgents were ordered to disperse to their homes, a large crowd of women, who stood in front of the magistrates and the military, loudly declared they had no homes, and dared them to kill them if they liked. They then struck up
+
+THE UNION HYMN.
+
+Oh! worthy is the glorious cause.  
+Ye patriots of the union;  
+Our father's rights, our father's laws   
+Demand a faithful union.
+
+A crouching dastard sure is he  
+Who would not strive for liberty,  
+And die to mako old England free  
+From all her loud of tyranny.  
+Up, brave men of the union!
+
+Our little ones shall learn to bless  
+Their fathers of the union.  
+And every mother shall caress  
+Her hero of the union.  
+Our plains with plenty shall be crowned.  
+The sword shall till the fruitful ground.  
+The spear shall prune our trees around,  
+To bless a nation's union.
+
+Singing this stirriug hymn they defiantly stood in their ranks as the special constables marched up, but their music did not save them, for the constables did not hesitate to strike them with their stayes, and a melee ensued in the dispersion of the mob in considerable disorder. At Ackroyd's Mill the military were summoned to the defence and three of the rioters were shot before order could be restored.
+
+When these stirring events were occurring I was a lad of some ten years of age, but I well remember the savage appearance of that huge crowd of men as they marched through Horton to Bradford, at the close of their day's work at Halifax. The sight was just one of those which it is impossible to forget. They came pouring down the wide road in thousands, taking up its whole breadth— a gaunt, famished looking desperate multitude, armed with huge bludgeons, flails, pitch-forks and pikes, many without coats ana hats, and hundreds upon hundreds with their clothes in rags and tatters. Many of the older men looked foot sore and weary, but the great bulk were men in the prime of life, full of wild excitement. As they marched they thundered out to a grand old tune a stirring melody, of which this was the opening stanza:—
+
+Men of England, ye are slaves.  
+Though ye "rule" the roaring "waves,"  
+Though ye shout, 'From sea to sea  
+Britons everywhere are free.'"
+
+As the wild mob swept onward, terrified women brought out all their bread and other eatables, and in the hope of purchasing their forbearance, handed them to the rough-looking men who crowded to the doors and windows. A famished wretch, after struggling feebly for a share of the provisions, fell down in a fainting condition m the doorway where I was standing. A doctor, who lived close at hand, was got to the spot as soon as possible, but the man died in his presence. One of his comrades told us that the poor fellow had eaten raw potatoes at Ovenden after being without food two days; these the doctor said had killed him, "raw potatoes on an empty stomach being poison."
+
+By this time all the towns and villages in Yorkshire were in a state of great excitement and confusion. On Tuesday, the 16th of August, a considerable mob entered Cleckheaton, and met with much opposition from the people at work in the mills. They succeeded in stopping one mill, and then went on to the works of Mr. George Anderton. Here they were gallantly opposed by the workmen within the mill, who with the assistance of a large number of the inhabitants drove them out of the millyard, and pelted them with stones until they finally expelled them from the town. On the same day mob law was put in force at Dewsbury. A large meeting was held at the Market Cross at six o'clock in the evening, after which a procession was formed, and the crowd proceeded to Batley Carr, Batley, Birstall, Littletown, and Heckmondwike. They tapped all the boilers on the way and turned out all the hands, after which another meeting was held at the Cross, at which it was stated that thirty-six boilers had been "let off." The Dewsbury shops were closed as soon as word came that the rioters were returning, and the public-houses closed at six o'clock. Next morning another gathering took place, after which the mob marched through Earlsheaton, and Horbury Bridge, coming back by way of Thornhill Lees. They had some time to wait at the colliery of Joshua Ingham, Esq., to get out the men and horses before they tapped the boilers. Here a field of turnips belonging to the Rev. Henry Torr, the rector, was nearly stripped of its produce. Another meeting was held at the Cross on their return, and it was arranged that the next muster should be held at Birstall. The shops were again closed, although it was market day. The men, who were all armed, went from house to house begging, and in many instances, if refused and only women happened to be in the house, force was resorted to. The magistrates, J. B. Greenwood and John Hague, Esqs., attended from early in the morning till late at night to swear in special constables, and many hundreds from Dewsbury, Batley, and Heckmondwike offered their services.
+
+On Thursday morning all the factories and collieries round Dewsbury were stopped by a mob 5,000 strong. The same mob then visited Batley and stopped Bromley's and Ellis and Sons' mills, where they drew the plugs without any opposition. They then resolved to pay a second visit to Cleckheaton, to do the work they had been unable at their previous visit to accomplish, and strong parties were told off to stop the mills, collieries, etc., at Gomersal, Millbridge, and Heckmondwike. It does not appear that any opposition was offered at any of those places, and as the various mobs passed rapidly through the towns to rejoin the main body of their comrades at Cleckheaton their ranks were swelled by a large number of local chartists, who, deceived by the apparent impotence of the authorities, were persuaded that they were about to inaugurate a revolution. The time for redressing their grievances had, they were persuaded, at last arrived. The long-suffering people had risen in their strength, and by stopping all production were going to teach "the aristocrats" how completely they were dependent on the classes beneath them in the social scale, to whom they had so long denied their just political rights. Many of the men had coarse grey blankets strapped to their backs, their idea being that when they had stopped all the mills and turned out the workpeople they would march in immense bodies to London, and there put the affairs of the nation on an equitable basis. "And what would you have done?" one of them was afterwards asked, "when you had got to London?" "Done," replied the simpleton in amazement, "why we sud a taen t'nation and sattled t'national debt." Amongst the prominent local men who joined the movement was the late Isaac Clissett, a man who, however he might be misled by his political opinions at the time, proved himself afterwards a peaceful and worthy citizen. At first Clissett did not throw himself heartily into the movement, and joined at last with an honest desire to restrain the mob, but, carried away by the enthusiasm of his companions, he entered Cleckheaton in the front rank of the Heckmondwike detachment.
+
+The first attack of the mob at Cleckheaton was on the mill of Mr. Sutcliffe Broadbent, where they were suffered to draw the plugs without any serious resistance being offered, and being joined by some of the other detachments, they proceeded in a body numbering some five or six thousand to St. Peg mill, and had withdrawn the plugs from two of the boilers when an alarm was raised that the soldiers were coming. As soon as it became known that the rioters were approaching Cleckheaton in strong force, the late Mr. Jas. Anderton, of Upper House, then a young man, rode, it is said, from Cleckheaton to Bradford in the incredibly short space of half an hour to fetch a troop of the Lancers then stationed there, but before they arrived a troop of the Yorkshire Hussars came from Leeds, where Prince George of Cambridge was acting against the insurgents. When the Yeomanry reached Cleckheaton they were joined by some hundreds of special constables, and then proceeded in a body to Peg Mill. The mob had, as we have stated, withdrawn the plugs from two of the boilers, and were proceeding to the third when they saw the soldiers defiling down the lane. Hastily massing themselves, those who were unarmed proceeded to pick up all the loose stones in the yard, while those who were armed with bludgeons, scythes, &c., were thrust to the front. The appearance of the rioters, as they somewhat unsteadily waited for the arrival of the troops, was certainly formidable, but the discipline of the little band who came to attack them more than counterbalanced the disadvantage of the great disparity of numbers. The leader of the friends of law and order called out for a halt as they neared the mob, and addressed to his men a few simple words of encouragement, appealing to their sense of duty to the throne and the peace of the realm. He then waited for the reading of the Riot Act. Before this could be done the mob advanced in disorderly fashion and threw pieces of dross at the compact mass before them, and several men were knocked senseless and bleeding from their horses. The moment was critical, as the mob, taking advantage of the confusion occasioned, were advancing with stones in their hands once more, Clissett, who was in the front rank, excitedly waving his arms and crying, "Follow me, my brave boys!" when orders were given to fire. Though this and a second volley was fired in the air, the crowd fell back in disorder, and the Yeomanry, taking advantage of the confusion, rode rapidly upon them, flourishing their sabres over their heads and striking them with the flat sides. The special constables followed up the advantage thus gained and drove the rioters towards the beck, on reaching which they scattered in all directions, some crossing the stream and others rushing into a neighbouring corn field, where they hoped by lying flat to hide from their pursuers, in a few minutes about twenty or thirty were taken into custody, and all the fields and lanes in the neighbourhood were black with wild struggling masses of human beings trying to escape from the horsemen, who rode after them flourishing their weapons. The following is a list of those taken into custody:— Chas. Leighton, (18), farmer, Gomersal; Richard Thomson (26), clothier, Gomersal; Thos. Barber (22), collier, Gomersal; David Walker (17), clothier, Bailey Carr; Chas. Brearley (32) machinist, Batley Carr; John Hay (18), collier, Hightown; Matthew Parkinson (30), dyer, Dewsbury; Josh. Holdroyd (20), raiser, Dewsbury; David Brooke (34), sawyer, Dewsbury; Joseph Farnhill (35), weaver, Dewsbury; W. Allport Bell, Dewsbury; Robert Waterson (16), no trade, Birstall; Mattliew Mawson (26), collier, Birstall; J. Hodgkinson (30), weaver, Birstall; Samuel Newsome (14), clothier. Hanging Heaton; Josh. Blakeborough (39), weaver, Batley; Edward Exley (22), weaver, Earlsheaton; Wm. Wild (17), collier, Alverthorpe; and Matthew Castle, hawker, Bradford.
+
