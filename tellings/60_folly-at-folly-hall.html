@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!-- 
-    this give us a css class that will be invisible only if js is disabled 
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
 
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
-    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="../_static/documentation_options.js?v=a8e58a58"></script>
     <script src="../_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Pentrich Rising" href="72_telling_pentrich-rising.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -285,16 +296,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -801,7 +820,7 @@ they were all discharged.</p>
 <p>We readily admit that the offences clearly proved to have been committed in the neighbourhood of Huddersfield, on the night of the 8th of June, called for legal investigation: but, while we deprecate popular tumult and violence, in every shape, and call for punishment upon the lawless, we shall always, in the benign spirit of the English law, claim for the accused candour and fair-dealing on the part of the public prosecutor. <em>Justice</em>, rather than <em>Conviction</em>, ought to be the object of the Government, and of all the persons acting under their directions and authority.</p>
 <p>We have been led into these observations by a circumstance of a very extraordinary nature that has come to our knowledge, and which bears a striking affinity the case of McKinle, so recently before the High Court of Justiciary in Edinburgh: but before we proceed to state the facts to which we allude, it may be proper, for the perfect understanding of the subject, to quote the words of Baron Wood, in his charge to the Jury, on the trial of Benjamin Lockwood and others, for maliciously, shooting at Mr. David Alexander, one of the Huddersfield yeomanry cavalry, on the night the 8th of June. After adverting to the testimony George Armytage, one of the witnesses for the Crown, who had sworn that he and a person of the name of Earnshaw, or Hearnshaw, had been forced to join the rioters at Folly-hall-bridge, his Lordship said—— “There is another circumstance deserving the serious consideration of the jury— the non-production of Hearnshaw as a witness. He has been in the custody of the prosecutors; he is now at York; he was stated by the witness to have been present, and to have seen all the circumstances that Armytage has asserted in evidence; and yet he is not produced! The Jury will draw their own inferences from this strong fact. It was the duty of the prosecutors, and due to the justice of the case, to have brought forward this witness.”</p>
 </div>
-<p><em>The McKinley case, relating to the administering of oaths, ended with a “Not proven” verdict from the jury, not least because at least two key witness testimonies were rejected: one for being paid for, the other becuase it was based on what had been read in the newspapers.</em></p>
+<p><em>The McKinley case, relating to the administering of oaths, ended with a “Not proven” verdict from the jury, not least because at least two key witness testimonies were rejected: one for being paid for, the other because it was based on what had been read in the newspapers.</em></p>
 <div class="dropdown seealso admonition">
 <p class="admonition-title">The King vs. Andrew McKinley, for administering unlawful oaths, July, 1817</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0002408/18170724/013/0003">https://britishnewspaperarchive.co.uk/viewer/BL/0002408/18170724/013/0003</a></p>
@@ -915,7 +934,7 @@ CHARLES HEARNSHAW.”</p>
 <p>Further,— “That there has been <em>very unjustifiable excesses</em> in that neighbourhood, <em>must not be denied</em>, and we hope that the persons engaged in them will, from this moment, discard from their minds any rankling feelings of revenge, or resentment, for the events of past years. If severity produced or aggravated heart-burnings and animosity which every good man must deplore, let clemency extinguish these dispositions, and cast the mantle of oblivion <em>over scenes that ought long since to have been forgotten</em>!”</p>
 <p>What a mixture of reluctant acknowledgements, with studied insult to the Magistracy; half-concealed commendation of the rioters, with open censure upon the Government;— the cant of hypocritical moderation, with the most diabolical incentives to fresh atrocities! Is it for the purpose of bringing about <em>“a cordial and friendly disposition between the different classes in the neighbourhood of Huddersfield,”</em> that the disaffected class are told they were treated with severity in the atrocious days of Luddism, and that they are requested (patience, Heaven!) to forgive and forget their <em>oppressions!</em>—and this, too, (that mischief may never be unmingled[?] with absurdity,) because they are told by one and the same person, in one and the same address, that they have been treated with “clemency,” and that they have, <em>at the same time</em>, been subjected to the <em>“reign of terror!”</em></p>
 <p>“No, no!— The events and scenes of former years must not be <em>forgotten</em>!— The more intelligint and wealthy classes must never forget the murders, and the destruction of property, perpetrated by a deluded class of men, who had been poisoned by an incediary press!—The deluded class must never forget what was the terrible punishment which fell upon the heads of some of the guilty, after their career of crime had become almost intolerable!—These things must bevr be forgotten, or the unhappy men who paid the forfeit of their lives to the outraged laws of their country, will have been consigned to the grave, for the sake of public tranquillity, IN VAIN.</p>
-<p>Is it likely to unite the different classes in bonds of unity, while it is acknowledged there have been <em>“very unjustifiable excesses</em> to tell the persons accused of having perpetrated them , that they have been subjected to the resign of terror, merely becuase they have been subjected, by an upright Magistracy, to the ordinary course of the law  of the land!———</p>
+<p>Is it likely to unite the different classes in bonds of unity, while it is acknowledged there have been <em>“very unjustifiable excesses</em> to tell the persons accused of having perpetrated them , that they have been subjected to the resign of terror, merely because they have been subjected, by an upright Magistracy, to the ordinary course of the law  of the land!———</p>
 <p>But we confess, we have not patience to dwell upon these features of the inflammatory publication in question. Let us hasten, then, to the conclusion of an article, already, perhaps, (in resuming being self-evident) too much prolonged.</p>
 <p>The <em>facts</em> of the disturbances have been completely established, though the Jury did not consider that sufficient legal proofs had been brought against the particular individuals put upon trial for life and death before them. It is established that a still greater number of persons were assembled at the bridge than we ever stated—that more shots were fired that we particularised—and that more persons have absconded. The <em>Times</em>, it is true, and his unworthy coadjutors, have endeavoured, again and again, to make the whole affair assume a trifling and ludicrous aspect, by falsely asserting, in the face of truth, that the insurgents were <em>dispersed</em>, by so small a force as <em>six yeomanry</em>.The yeomanry, on the contrary, were <em>forced to retire before the insurgents</em>, who, in the mean time, very probably decamped, before a greater force was brought against them— a force, which, of course, could have cut double the number of ill-organised ill-armed men to pieces.</p>
 <p>But, (and it is with the utmost solemnity we call the Public attention to these concluding observations, and that we pledge ourselves for their truth) the plan and hope of the Insurgents were, to have marched in silence into Huddersfield, after they had been joined by the numerous other parties of rioters, who had not yet come up to the bridge, when the Yeomanry fell in with them; and to have endeavoured to <em>surprise</em> the Military, and the Civil Authorities, in which event they would have been strong enough, before morning, to have kept possession of Huddersfield, for at least some days, and to have commenced their operations of</p>
@@ -1079,8 +1098,7 @@ Colne-Bridge, Aug. 2d, 1817.</p>
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -1143,8 +1161,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
-<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

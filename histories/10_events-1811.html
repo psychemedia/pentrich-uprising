@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!-- 
-    this give us a css class that will be invisible only if js is disabled 
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
 
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
-    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="../_static/documentation_options.js?v=a8e58a58"></script>
     <script src="../_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Preface" href="../_preface.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -285,16 +296,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -503,7 +522,7 @@ Morning Post - Monday 18 November 1811</p>
 <p>On Wednesday morning, not having finished their work, the rioters assembled in open day, and again repaired to Sutton, where they destroyed in all fifty-three frames and a corn-mill; for now, having gained strength, and meeting with no effectual opposition for want of military aid, the mob grew more emboldened, and changed the frame breaking employment into more violent proceedings, and now swore vengeance against wide frames, millers, corn-dealers, and all others concerned in raising the price of bread.</p>
 <p>On Thursday similar proceedings were continued, and all remonstrances from the Magistrates having failed to restrain the rioters within bounds, it was considered high time to think of decisive measures; many of the most active of the peace-breakers were already in custody, but this seemed to have no weight with those at large. The military were called out, but when in full muster they did not exceed 30 men, who were dismounted dragoons, and they being unequal to any thing, the Sheriff the same day issued orders for calling out the <em>posse comitatis</em>, and the 1st and second regiments of local militia, and a further aid was required of Government by a special messenger sent to town for that purpose, who reached the Office of the Home Department about three o’clock on Friday morning.</p>
 <p>All Thursday was employed in assembling together the militia, in conformity to the orders of the Sheriffs, during the while the mob were enabled to carry on thepredations in distinct quarters, nor could they with policy be molested, as it was very much apprehended that if the town wasleft for a moment unprotected, they would make a suddent attempt to get possession of the depot of arms, for it appeared to many that their proceedings had a tendency to that end.</p>
-<p>Our last advices are to nine o’clock on Friday morning, at which time intelligence had just been received that several frames of an ordinary size had been destroyed at Kimberly, becuase they were worked by women. The Local Militia were under arms, and the <em>posse comitatis</em> in readiness, but violent measures would not be proceeded in until fresh assistence and advice were received from Government.</p>
+<p>Our last advices are to nine o’clock on Friday morning, at which time intelligence had just been received that several frames of an ordinary size had been destroyed at Kimberly, because they were worked by women. The Local Militia were under arms, and the <em>posse comitatis</em> in readiness, but violent measures would not be proceeded in until fresh assistence and advice were received from Government.</p>
 </div>
 <p>By the end of the week, the editor of the <em>Nottingham Review</em> wrote not of furhter outbreaks of violence, but in some sort of defence of the framework-knitting trade, and against the introduction of low quality “cut up” work. He also identified what he saw as the root cause of the current distress: the ongoing war.</p>
 <div class="dropdown admonition">
@@ -607,7 +626,7 @@ Nottingham Review - Friday 06 December 1811</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0001100/18111206/037/0004?browse=true">https://britishnewspaperarchive.co.uk/viewer/BL/0001100/18111206/037/0004?browse=true</a>
 Nottingham Review - Friday 06 December 1811</p>
 <p><em>THERE has now existed in the neighbourhood of NOTTINGHAM, for a considerable Time, a most outrageous Spirit of Riot and Tumult.— Houses have been feloniously broken into, and a great number of Stocking Frames has been violently broken and destroyed by an armed Multitude, accompanied with Menaces to the Lives of those, who should endeavour to interfere in preventing the Mischief; various threatening Letters have been sent, Arms have been feloniously demanded and seized, Stacks have been fired, and private Property destroyed; and Contributions have been levied under the Pretence of Applications for charitable Relief, but under the real Influence of Terror; these are acts of so flagrant a nature, and leading to Insurrection and such fatal Consequences, that the Magistrates of the County and Town of NOTTINGHAM, as the legal Guardians of the public Peace, have the Duty incumbent upon them, of suppressing the Evil by the civil and military Force of the Country, and by putting the Laws in execution on the Offenders, many of whom have committed Crimes, for which the Law demands on their conviction, the Forfeiture of their Lives.</em></p>
-<p>*The Magistrates require that the Public peace shall be kept, and that if any violation of it shall take place, to the great disgrace of the County and Town, all Persons shall exert themselves in detecting and bringing to justice the Offenders; they feel themselves also bound distinctly to state, that the Persons who are Collecting Money, under whatever pretence, for the manifest purpose of supporting a system of outrage, under the influence of terror, are guilty of Felony; And that all those who Contribute, under any such impression, are Accessories to the Offence, and guilty of a high Misdemeanour against the Public peace. Having expressed this, they call upon all Persons of every description, firmly to refuse and discountenance Contributing to purposes so wicked and illegal; and it is their firm determination to Prosecute for every contempt of this Notice.</p>
+<p>The Magistrates require that the Public peace shall be kept, and that if any violation of it shall take place, to the great disgrace of the County and Town, all Persons shall exert themselves in detecting and bringing to justice the Offenders; they feel themselves also bound distinctly to state, that the Persons who are Collecting Money, under whatever pretence, for the manifest purpose of supporting a system of outrage, under the influence of terror, are guilty of Felony; And that all those who Contribute, under any such impression, are Accessories to the Offence, and guilty of a high Misdemeanour against the Public peace. Having expressed this, they call upon all Persons of every description, firmly to refuse and discountenance Contributing to purposes so wicked and illegal; and it is their firm determination to Prosecute for every contempt of this Notice.</p>
 <p>By Order of the Magistrates for the County of Nottingham,
 GEO. SCULTHORPE.</p>
 <p>By Order of the Magistrates for the Town of Nottingham,
@@ -615,7 +634,7 @@ GEO. COLDHAM, Town Clerk.</p>
 </div>
 <p>And following it, reports of the latest actions, in what the Editor now seems to regard as an item of standing news, a “beat” report on the number of frames broken over the previous week.</p>
 <div class="dropdown admonition">
-<p class="admonition-title">The Magistrates require…, December 1811</p>
+<p class="admonition-title">Condemning the measures, and narrating the events, December 1811</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0001100/18111206/037/0004?browse=true">https://britishnewspaperarchive.co.uk/viewer/BL/0001100/18111206/037/0004?browse=true</a>
 Nottingham Review - Friday 06 December 1811</p>
 <p>Vague indeed and devoid of sensibility must be the mind, that can contemplate the progress of internal commotion, without feeling alarmed at its dread consequences, and for its fatal result: in particular when it is every hour extending its ramifications and gaining new strength at every advancing step.</p>
@@ -624,7 +643,7 @@ Nottingham Review - Friday 06 December 1811</p>
 <p>Rumour, at the early part of the week, stated a number of frames to have been broken at Lowdham and Burton, in the neighbourhood of Nottingham, but upon stricter inquiry, we believe but little, if any, mischief has been done at those places. Every step which the magistrates could take, for the restoration of tranquility, has been taken; in aid of whose authority, the Bunny and Holme troops of yeomanry have again been called out: and some hosiers, for the better security of their frames, have removed many of them to places of greater safety, than that of their remaining in the workmen’s hands.</p>
 <p>On Wednesday last, a meeting was held in our shire hall, by the magistrates and many of the hosiers, on the subject of the present disturbances, which we hope will be attended with happy results. A handbill has since been published by the hosiers, and one by the town magistrates: copies of both will be found in our paper amongst the advertisements.</p>
 <p>Last night a frame was broken in Tyler-street, in this town, which was working goods at an inferior price. We understand likewise, that several were last night broken at Basford.</p>
-<p>We have receieved information, that the Berks Militia left Ipswich early on Tuesday morning, under orders to make the best of their way to this town, by forced marches.</p>
+<p>We have received information, that the Berks Militia left Ipswich early on Tuesday morning, under orders to make the best of their way to this town, by forced marches.</p>
 </div>
 <p>The handbill published by the hosiers appeared in the form of the following advertisement notice.</p>
 <div class="dropdown admonition">
@@ -789,7 +808,7 @@ by Hammond, J. L. (John Lawrence), 1872-1949; Hammond, Barbara Bradby, 1873-1961
 <div><p>A gamekeeper of Sir Joseph Banks was shot by a poacher about a fortnight ago. John North, a farmer in the neighbourhood, who was suspected, has been taken up, and the gun left in the wood, at the time of wounding the gamekeepeer, is identified by four witnesses as having belonged to him. Three witnesses also recognised the hat left on the ground at the same time. The Prisoner is fully committed to Lincoln jail.</p>
 </div></blockquote>
 </div>
-<p>We also hear of an attack on the evening of December 25th, 1811, art South Wingfield, where a certain <em>MR Topham</em> receieved a visit from men asking to inspect his frames, then robbing him. <em>It is not cleear whether this is <strong>Benjamin</strong> Topham, who address typically seems to be given as Pentridge, or another Mr. Topham.</em></p>
+<p>We also hear of an attack on the evening of December 25th, 1811, art South Wingfield, where a certain <em>Mr. Topham</em> received a visit from men asking to inspect his frames, then robbing him. <em>It is not clear whether this is <strong>Benjamin</strong> Topham, who address typically seems to be given as Pentridge, or another Mr. Topham.</em></p>
 <div class="dropdown admonition">
 <p class="admonition-title">A still more violent and atrocious visitation, December 1811</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000317/18111228/008/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0000317/18111228/008/0003</a>
@@ -855,8 +874,7 @@ Northampton Mercury - Saturday 28 December 1811</p>
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -917,8 +935,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
-<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>
