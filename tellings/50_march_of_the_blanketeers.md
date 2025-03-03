@@ -2,7 +2,7 @@
 
 The following is a version of the Blanketeers' story told in the style of a traditional fairy tale, and based on the principle that the story is what's left when the facts have been forgotten. I'm not sure whether it works, but I thought I'd give it a go...
 
-> Once, there was a King; a *mad* King; the King was so infirm that his son, the Prince, ruled in his place; but the prince like to drink, and the prince was a profligate, and the prince was a philanderer. In short, the prince was a full time playboy. And so, the King's Ministers ran the country instead.
+> Once, there was a King; a *mad* King; the King was so infirm that his son, the Prince, ruled in his place; but the prince liked to drink, and the prince liked to party; and the prince was a profligate, and the prince just had to have those beatiful shoes, and that fabulous jacket. In short, the prince was a full time fasshion victim playboy. With terrible taste. And so, the King's Ministers ran the country instead.
 >
 > For a long time, the kingdom had been fighting many wars, and even though the wars were over now, the people were still very poor. And their discontent lead to angry mobs and riots.
 >
