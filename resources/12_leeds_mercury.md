@@ -161,13 +161,14 @@ Leeds Mercury - Saturday 27 June 1812
 
 Our Huddersfield Correspondent under the date of the 25th instant says:—
 
-"Last Monday about midnight, a great number of armed men, with their faces disfigured by broad black marks down each cheek and over the forehead, assembled near the dwelling-house of Mr. Fisher, a shop-keeper, at Briestwistle, in this neighbourhood, and after firing two guns or pistols, demanded admittance into Mr. Fisher's house, which he refused. They then broke open the door, and wo of them rushing into the house, seized Mr. Fisher, who had just got out of bed; they each presented a pistol to his breast, and threatened him with instant death if he stirred a foot. Not intimidated by this threat, Mr. Fisher rushed from them towards the door, when he was seized by other six men, who placing a sheet over his head, face and arms, kept him in that situation while their comrades ransacked the house, and took from his pocket-book bills to the amount of the 116*l.* besides 21l. in notes and some cash; they also took a quantity of notes and cash out of a drawer, but to what amount Mr. Fisher does not exactly know. When the depredation was completed, the Leader cried out to the guard placed over Mr. Fisher, "Let him go; don't hurt him; we have got what we wanted, and we will bring it back in three months," and immediately made off.
+"Last Monday about midnight, a great number of armed men, with their faces disfigured by broad black marks down each cheek and over the forehead, assembled near the dwelling-house of Mr. Fisher, a shop-keeper, at Briestwistle, in this neighbourhood, and after firing two guns or pistols, demanded admittance into Mr. Fisher's house, which he refused. They then broke open the door, and wo of them rushing into the house, seized Mr. Fisher, who had just got out of bed; they each presented a pistol to his breast, and threatened him with instant death if he stirred a foot. Not intimidated by this threat, Mr. Fisher rushed from them towards the door, when he was seized by other six men, who placing a sheet over his head, face and arms, kept him in that situation while their comrades ransacked the house, and took from his pocket-book bills to the amount of the 116*l.* besides 21*l.* in notes and some cash; they also took a quantity of notes and cash out of a drawer, but to what amount Mr. Fisher does not exactly know. When the depredation was completed, the Leader cried out to the guard placed over Mr. Fisher, "Let him go; don't hurt him; we have got what we wanted, and we will bring it back in three months," and immediately made off.
 
 A man of the name of James Oldroyd, was apprehended at Dewsbury, on Tuesday evening last, by a troop of the Queen's Bays, sent from hence for that purpose, on suspicion of having been concerned in the attack on Mr. Cartwright's Mill at Rawfolds. He underwent an examination  yesterday morning, at Mills-Bridge *(sic)*, before Joseph Radcliffe, Esq. when he was committed to York-Castle to take his trial at the ensuing Assizes.
 
 "Huddersfield, 25th June, 1812."
 
 ---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120704/009/0003
 ## Leeds Mercury - Saturday 04 July 1812
 
@@ -184,6 +185,7 @@ We have considered it our duty to inquire, with more than ordinary diligence, in
 On the 20th ult. the Luddites, about twenty in number, entered the house of Mr. John Wood, a shopkeeper at Huddersfield, and carried away a pistol and a small cask of gunpowder. On Friday the 3d est. parties of the same description, entered the houses of Mr. Benjamin Dyson and Mr. Wm. Mellor, of Stainiland, near Halifax, and took from each a gun and a sword. The same night, another party, about ten in number, armed and disguised, several of them with their shirts over their coats, attacked the family of Mr. Megson, a carpenter, residing near the Porter's-Lodge, at Whitley-Hall; after securing the family in a back room, they proceeded to rifle the drawers, and took away four Guinea Notes and some provisions. They did not demand any fire-arms. A person of the name of Patrick Doring, alias Dr. Bell, of Scholes, near Holmfirth, was apprehended on Tuesday, and was the following day committed to York Castle on a charge of endeavoring to intimidate witnesses from appearing at York in evidence against the rioters at the ensuing Assizes. —A person of the name of Barrowclough, of Holmfirth, a Corporal in the Upper Agbrig Local-Militia, has been apprehended, charged on his own confession, with having been concerned in the murder of Mr. Horsfall, and with having assisted in the attack on the Shearing Mill of Mr. Cartwright, at Rawfolds; but it appears, on investigation, that Barrowclough was at York with the regiment at the time the murder took place.— This singular infatuation of accusing himself of crimes of which he is not, and could not be guilty, is attributed to a mental infirmity under which he is said to labour when he has "put an enemy is his mouth to steal away his brains." The story in the London Papers about the apprehension of 50 men, &c. is an entire fabrication, though two Police officers have been in that neighbourhood in disguise for some time, and the Military, both horse and foot, are very active, and were on duty all Wednesday night.
 
 ---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120711/009/0003
 ## Leeds Mercury - Saturday 11 July 1812
 
@@ -207,7 +209,6 @@ A person of the name Barrowclough, of Holmfirth, a corporal in the Upper Agbrig 
 
 ---
 
-
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003
 ## Leeds Mercury - Saturday 25 July 1812
 
@@ -217,7 +218,6 @@ The Assizes were opened at York, on Saturday last, by Baron Wood and Mr. Justice
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003 Leeds Mercury - Saturday 25 July 1812
-
 
 Yorkshire Summer Assizes
 
@@ -311,13 +311,11 @@ https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002
 
 The persons called Luddites it is said, may be divided into three classes— *Robbers*, men who wish to live by plunder, and avail themselves of the disturbed state of the country to carry on their villainous purposes. *Anti-Machinists*, persons who impute a difficiency of labour to the use of Machinery in shearing cloth, weaving cotton, and weaving hosiery; and *Spies*, men that have introduced themselves amongst the depredators to worm out information, and whose employment must cease with the disturbances. We should be glad to know to which of these classes the persons at present engaged in stealing arms belong; we have our suspicions; and cannot forget, that a man of the name of Watt, a spy, was executed at Edinburgh, about the year 1794, for an act of High Treason in which he had engaged while labouring in his vocation, in order to draw others into his snares. The history of this man is curious, and we will take an early opportunity of recalling it to public recollection.
 
-
 On Wednesday morning in the plantation, adjoining the house of Mr. Tootal, of Wakefield, were found an hussar jacket and pantaloons, and a butcher's knife, the former of which had been stolen from the White Hart, and the latter from the common slaughter house in the course of the night. The purpose for which these were taken is yet to us a mystery, but we cannot help surmising that is must have been a very bad one.
 
  https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/015/0004?browse=true
  Volcano report
  Declaration of war by America on other pages
-
 
 ---
 
@@ -363,6 +361,7 @@ These villains have frequently been examined before, but have always been discha
 It appears ——— and ———— have been Chiefs in all the disgraceful transactions that have occurred in this part of the country the last twelve months, especially at Rawfolds, where the former was captain of the gun-division, and the latter of the pistol. ————— has thus made discoveries which will lead to the detection of a great number of these offenders, and, it is hoped, ultimately restore the West-Riding to its former tranquility.
 
 ---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003
 ## Leeds Mercury - Saturday 28 November 1812
 
