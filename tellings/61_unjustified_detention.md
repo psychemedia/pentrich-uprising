@@ -513,7 +513,7 @@ Keeper of York Castle.
 April 15, 1818
 ```
 
-It seems that Richard Lee also sent a letter to the editor of the *Leeds Mercury*, published in the edition of April 18, 1818. Unfortunately, this edition is missing from the British Newspaper Archive (the only edition for April is from April 23, 1818), and, as yet, I have been unable to find a copy of it republished in any other pubication.
+It seems that Richard Lee also sent a letter to the editor of the *Leeds Mercury*, published in the edition of April 18, 1818. Unfortunately, this edition is missing from the British Newspaper Archive (the only edition for April is from April 23, 1818), and, as yet, I have been unable to find a copy of it republished in any other publication.
 
 The letter did, however, provoke a response in the *Intelligencer*, with one correspondent questioning who actually wrote it. William Staveley was also moved to further defend himself against charges apparently made in it:
 
@@ -610,7 +610,7 @@ WILLIAM KEELING,
 Holmfirth, April 23, 1818
 ```
 
-But just as William Keeling took issue with Richard Lee, Richard Lee in turn took issue with that curate from Homfirth:
+But just as William Keeling took issue with Richard Lee, Richard Lee in turn took issue with that curate from Holmfirth:
 
 ```{admonition} The busiest mortal alive, in sowing discord and strife. May 1818
 :class: dropdown
