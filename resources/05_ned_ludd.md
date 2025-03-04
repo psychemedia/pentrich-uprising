@@ -20,7 +20,7 @@ At present, a person named Ned Ludd, is become more famous, by the destruction o
 Hence the persons who have lately repeated Ned's operation, on a very extended scale, in this and the neighbouring Counties, have thought proper to assume his name and conceal their own.
 ```
 
-```{admonition}
+```{admonition} An ignorant youth, by the name of Ludlam, 1815
 :class: dropdown
 https://archive.org/details/historyofnotting00blac/page/402/mode/2up
 The history of Nottingham, embracing its antiquities, trade, and manufactures, from the earliest authentic records, to the present period
