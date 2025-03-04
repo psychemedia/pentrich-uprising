@@ -6,9 +6,11 @@ The reporting also gives us an insight into the opposing views of the pro-Govern
 
 It's September, harvest time. And the Luddites are out again. The *Nottingham Review* wonders whether a system of alarms, in the form of rattles — as used in *that London* — to be used if ever a house or a shop is attacked, in order to attract the attention of the patrols that have started to be posted again, might help? But these are rural villages, not city streets, and attacks often take place some distance apart.
 
-It was well-known that, even though they were neighbours, and had known each other for years, Thomas Garton, a workshop owner, and James Towle, a frameworker, did not get on. Garton was often heard saying that if ever any of his frames were broken, he'd make Towle suffer for it. And as for Towle, he had little respect for Garton.
+It was well-known that, even though they were neighbours, and had known each other for years, Thomas Garton, a workshop owner, and James Towle, a frameworker, did not get on. Some time previously, Towle had gone with another man to pick up one of Garton's frames, and Garton had chastised him for "bringing that frame breaker Towle" with him. Another time, garton had told the same man that if any more his frames were broken in the next five years, he'd have Towle taken up.
 
-At the Three Crowns public-house, in Parliament-street, Nottingham, Towle had got out of the house where his children were ill with measles. He'd just made plans to sleep at Bamford's house the following night, where he rented a frame; he had a job to do that needed a steady eye; so he needed a good night's sleep, and an early start. And he wouldn't get that at home.
+And as for Towle, he had little respect for Garton either.
+
+At the Three Crowns public-house, in Parliament-street, Nottingham, Towle, a short man, five feet two inches high, and in his early thirties,  had got out of the house where his children were ill with measles. He'd just made plans to sleep at Bamford's house the following night, where he rented a frame; he had a job to do that needed a steady eye; so he needed a good night's sleep, and an early start. And he wouldn't get that at home.
 
 Over a pint, he was quizzing a man about Garton's workshop.
 
@@ -129,7 +131,9 @@ By Order, EDWARD SMITH GODFREY, Clerk of the Peace. Newark, November 3, 1814.
 
 ## The (First) Trial of James Towle
 
-The trial of James Towle was presided over by Mr. Justice Bayley.  Towle was accused of breaking in to Thomas Garton's house and, with several others, breaking Garton's frames. Garton declared that it was Towle who had originally demanded entry, immediately recognising him from his voice, although he didnlt actually see him: he had known Towle for years, and they only lived a few hundred yards apart.
+The trial of James Towle was presided over by Mr. Justice Bayley.  Towle was accused of breaking in to Thomas Garton's house and, with several others, breaking Garton's frames. It is said that fifty pounds had been raised in subscription amongst the frameworknitters to help retain Towle’s Counsel.
+
+During the trial, key witness Thomas Garton declared that it was Towle who had originally demanded entry, immediately recognising him from his voice, although he didnlt actually see him: he had known Towle for years, and they only lived a few hundred yards apart.
 
 As the Luddites were forcing entry, Garton had retreated to his bedroom upstairs; he'd listened as they smashed his frames, knew there was no point trying to stop them. When he was sure they were gone, he dressed himself and went to fetch the local constable, then immediately went round to Towle's house, demanding Towle's presence, but the constable claimed he had no authority to enter the property, so Garton whent to find the constable at Old Basford who *would* search the house. But to no avail.
 
@@ -149,9 +153,13 @@ Towle's kids were ill with the measles, so Towle had asked if he could spend the
 
 As it was, Bamford had got up at three, when Towle stirred and gave him a candle light to work by. When the constable had come looking for him, Towle had had to get the key from Bamford's wife.
 
-The jury spent half an hour or so in their box, deliberating.
+In summing up, the Judge advided to the Jury that the only evidence limnking Towle to the crime was the claim that his voice had been heard, a form of testimony that could not be relied upon. There had been the evidence from the pub the night before the attack, but Towle was surely not so indiscreet if he had been serious about breaking Garton's frames the following night. It's true he might have been an accessory — he might have lended his chisel to the frame breakers that night — but he was charged with the act itself, not being an accessory to it. As for what Garton had or hadnlt send about having Towle taken up if any of his frames were broken? Well, it was a case "he said", "oh, no, I didn't", and the jury would have to decide for themselves how to interpret *that* evidence.
 
-And when they returned their verdict, it was in favour of Towle: *not guilty*.
+And so the jury to, and spent the next half an hour or so in their box, deliberating.
+
+And then, they returned their verdict: *not guilty*. As soon as the crowd of framewrok-knitters who had gathered outside the Court heard the verdict, a huge cheer went up, followed by morning cheering in favour of the Judge as he made his way back to his lodgings.
+
+*Meanwhile, the trial of Charles Sutton, the proprietor of the Nottinghan Review, on a charge of libel for publishing a satirical letter signed off by "General Ludd", was also due to be heard at this Assizes. But it was postponed until the next Assizes. And in any case, *that* is another story...*
 
 ```{admonition} James Towle, Capitally Indicted, March 1815
 :class: dropdown
@@ -238,24 +246,34 @@ The jury after deliberating in the box, about half an hour, brought in their ver
 The judge addressed the prisoner before he left the bar. He said he could not deny but that he had had a most patient and fair trial. He told him that he had stood on dangerous ground, and might have brought much misery on his family, and on every one connected with him. He hoped he would take timely warning, and beware of courses, which were contrary to law, and which it would be found the law would ultimately be strong enough to put down.
 ```
 
-TO DO
-
-
-
+```{admonition} After the verdict, March 1815
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18150324/018/0003
 Nottingham Gazette - Friday 24 March 1815
 
-We have given an accurate and very long account the trial of James Towle for framebreaking, who was acquitted; and the verdict was no sooner comniunicated immense to an immense crowd of framework-kniiters and others, who were outside the Court, than they rent the air with the loudest acclamations. The Judge, too,was enthusiastically cheered from the Court to his lodgings. Towle is a little man, and of decent appearance.
+We have given an accurate and very long account the trial of James Towle for framebreaking, who was acquitted; and the verdict was no sooner communicated immense to an immense crowd of framework-kniiters and others, who were outside the Court, than they rent the air with the loudest acclamations. The Judge, too, was enthusiastically cheered from the Court to his lodgings. Towle is a little man, and of decent appearance.
 
 It is said that not less than fifty pounds was raised in subscription amongst the frameworknitters, and employed in retaining Towle’s Counsel.
 
 The trial of Mr. Sutton, proprietor of the Review, is postponed, we understand till next Assizes.
 
+```
 
----
-
+```{admonition} Further reports from the trial, March 1815
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0001100/18150324/023/0003?browse=true
 Nottingham Review - Friday 24 March 1815
+
+Full transcript available as: In https://ludditebicentenary.blogspot.com/search?q=towle
+
+...
+
+John Torr was next sworn, and he stated that Towle went with him some time ago to take a frame of Garton, on which account the latter said to him shortly after, "You are to blame for bringing Towle with you, for he is a frame-breaker." And in a conversation about Christmas, 1813, Garton said, "If I have any more frames broken within five years, I will have him taken up." Witness stated that Reuben Kilder was not present when any conversation of this nature took place with Garton.
+
+
+...
+
+On the flat contradiction given by Torr to part of Kilder’s testimony, the Judge remarked in his summing up, that though a person might remember the import of any particular conversation, it did not follow that he must always be correct as to the persons who were present; a circumstance which was frequently proved to most men of observation; and, if confidence could be placed in the testimony of the last three witnesses, it would most materially affect that of Garton's.
 
 ...
 
@@ -264,3 +282,5 @@ Here the evidence closed; and it may be necessary, for the information of many o
 ...
 
 Counsel for the Prosecution, Mr. Serjeant Vaughan and Mr. Reader.— Attorneys, Messrs. Coldham and Enfield, Nottingham. Counsel for the Prisoner, Mr. Serjeant Copley and Mr. Denman—Attorney, Mr. Henry Wilkinson, Nottingham.
+
+```
