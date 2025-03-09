@@ -16,6 +16,7 @@ parts:
 - caption: A Time of Dissent
   chapters:
   - file: tellings/50_march_of_the_blanketeers
+  - file: resources/62_march_1817
   - file: tellings/52_spa_fields_trial
 - caption: An Ill-Fated Rebellion
   chapters:
