@@ -77,7 +77,7 @@ We regret to learn, that the most dreadful outrages and confusion continue to pr
 At the coroner's court, the two deaths received very different verdicts.
 
 ```{admonition} Wilful murder, and justifiable homicide, October 1814
-:class; dropdown
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18141021/040/0004
 Nottingham Review - Friday 21 October 1814
 
@@ -131,6 +131,11 @@ By Order, EDWARD SMITH GODFREY, Clerk of the Peace. Newark, November 3, 1814.
 
 ## The (First) Trial of James Towle
 
+An first attempt at a telling...
+
+```{admonition} James Towle, tale the first
+:class: dropdown seealso
+
 The trial of James Towle was presided over by Mr. Justice Bayley.  Towle was accused of breaking in to Thomas Garton's house and, with several others, breaking Garton's frames. It is said that fifty pounds had been raised in subscription amongst the frameworknitters to help retain Towle’s Counsel.
 
 During the trial, key witness Thomas Garton declared that it was Towle who had originally demanded entry, immediately recognising him from his voice, although he didnlt actually see him: he had known Towle for years, and they only lived a few hundred yards apart.
@@ -164,10 +169,9 @@ In summing up, the Judge advised to the Jury that the only evidence limnking Tow
 And so the jury to, and spent the next half an hour or so in their box, deliberating.
 
 And then, they returned their verdict: *not guilty*. As soon as the crowd of framewrok-knitters who had gathered outside the Court heard the verdict, a huge cheer went up, followed by morning cheering in favour of the Judge as he made his way back to his lodgings.
+```
 
-*Meanwhile, the trial of Charles Sutton, the proprietor of the Nottinghan Review, on a charge of libel for publishing a satirical letter signed off by "General Ludd", was also due to be heard at this Assizes. But it was postponed until the next Assizes. And in any case, *that* is another story...*
-
-```{admonition} James Towle, Capitally Indicted, March 1815
+```{admonition} James Towle, at Nottingham Lent Assizes, March 1815
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0001099/18150324/008/0002?browse=true
 
@@ -264,6 +268,8 @@ It is said that not less than fifty pounds was raised in subscription amongst th
 The trial of Mr. Sutton, proprietor of the Review, is postponed, we understand till next Assizes.
 
 ```
+
+*Meanwhile, the trial of Charles Sutton, the proprietor of the Nottinghan Review, on a charge of libel for publishing a satirical letter signed off by "General Ludd", was also due to be heard at this Assizes. But it was postponed until the next Assizes. And in any case, that is another story...*
 
 ```{admonition} Further reports from the trial, March 1815
 :class: dropdown
