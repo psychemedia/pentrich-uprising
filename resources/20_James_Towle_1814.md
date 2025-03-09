@@ -4,6 +4,9 @@ One event in 1814 stands out - the appearance of James Towle, who would also rea
 
 The reporting also gives us an insight into the opposing views of the pro-Government *Nottingham Gazette* and the radical *Nottingham Review*.
 
+```{admonition} Setting the scene (telling)
+:class: dropdown seealso
+
 It's September, harvest time. And the Luddites are out again. The *Nottingham Review* wonders whether a system of alarms, in the form of rattles — as used in *that London* — to be used if ever a house or a shop is attacked, in order to attract the attention of the patrols that have started to be posted again, might help? But these are rural villages, not city streets, and attacks often take place some distance apart.
 
 It was well-known that, even though they were neighbours, and had known each other for years, Thomas Garton, a workshop owner, and James Towle, a frameworker, did not get on. Some time previously, Towle had gone with another man to pick up one of Garton's frames, and Garton had chastised him for "bringing that frame breaker Towle" with him. Another time, garton had told the same man that if any more his frames were broken in the next five years, he'd have Towle taken up.
@@ -21,6 +24,7 @@ Over a pint, he was quizzing a man about Garton's workshop.
 Later that evening, Towle called round at Growcock, the blacksmith's, in search of a crow bar. One of the blacksmith's men heard his master say "you should leave off the frame-breaking", but Towle was insistent.
 
 And then, three workshops are attacked: Thomas Ford's and James Smith's, both in the parish of Basford; and Thomas Garton's, in New Basford.
+```
 
 ```{admonition} In need of alarms? September 1814
 :class: dropdown
