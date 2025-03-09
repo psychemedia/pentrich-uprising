@@ -10,6 +10,9 @@ parts:
   - file: histories/16_topham_1812
   - file: histories/53_topham_1816
   - file: tellings/07_tale_of_benjamin_topham
+- caption: The Tragedy of James Towle
+  chapters:
+  - file: resources/20_James_Towle_1814
 - caption: A Time of Dissent
   chapters:
   - file: tellings/50_march_of_the_blanketeers
