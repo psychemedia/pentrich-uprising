@@ -99,7 +99,7 @@ THE UNION HYMN.
 
 Oh! worthy is the glorious cause.  
 Ye patriots of the union;  
-Our father's rights, our father's laws   
+Our father's rights, our father's laws  
 Demand a faithful union.
 
 A crouching dastard sure is he  

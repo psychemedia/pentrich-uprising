@@ -2,35 +2,25 @@
 
 *This is the tale that perhaps everyone knows?*
 
-As Edward Baines, editor and owner of the Leeds Mercury, commented on Saturday 18 April 1812, it was "an event that will survive in local remembrance the present generation"
+As Edward Baines, editor and owner of the Leeds Mercury, commented on Saturday 18 April 1812, it was *"an event that will survive in local remembrance the present generation"*.
 
-False trials - pissed and bragging eg in https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003 Leeds Mercury - Saturday 25 July 1812
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002?browse=true&fullscreen=true
-Leeds Mercury - Saturday 25 July 1812
-
-The persons called Luddites it is said, may be divided into three classes— *Robbers*, men who wish to live by plunder, and avail themselves of the disturbed state of the country to carry on their villainous purposes. *Anti-Machinists*, persons who impute a difficiency of labour to the use of Machinery in shearing cloth, weaving cotton, and weaving hosiery; and *Spies*, men that have introduced themselves amongst the depredators to worm out information, and whose employment must cease with the disturbances. We should be glad to know to which of these classes the persons at present engaged in stealing arms belong
-
------
-
-Once, there was a King. A mad King. A King so mad that everyone one agreed he wasn't really fit to be a King at all, or at least, not to rule as one. But he was still the King, and so they couldn't just *get rid of him*. But they could perhaps get someone else to rule in his place. Like his son, perhaps, the Prince: the Prince Regent.
-
-Now if the King was *mad*, you could equally say the that Prince was *bad*. And from quite an early age too. He'd started as a playboy, and became an adulterer; over-sexed and over-lubriccted; he could spend money faster than any Parliament could grant it to him; and he knew how to party. You might even say that was all he knew how to do.
-
-And the Government? What sort of Government were they? The Orders in Council they called them, hadn't they, those stupid rules that had pretty much put an end to all the export trade. Was there anyone they weren't blockading by now?
-
-That blasted foreign war had been going on for years, and now things were hitting hard at home too. For sure, the war might have been a Good Thing at the start: lots of soldiers meant lots of uniforms — lots of cloth that needed making — and the export trade had seemed to take as much as anyone could make, and at a fair price too. But when the blockades began, and the exports stopped? Well, it had been downhill ever since.
-
-It was Monday night at the sign of the Black-Bull, the Black-Bull in Mirfield, and several of the regulars were sat in the back room, drinking, one too many, and then some more, arguing over the news in Saturday's paper. Some good news, at least: it seemed the Orders in Council might be put an end to; but those London folk didn't know what they were talking about, with their "no evidence of distress in the West Riding of Yorkshire". Half the families round about in need of charity? Half of them!
-
-And then talk turned to the fire at the Gibraltar Woollen Mill the Sunday before. You can just imagine it...
-
-"Says here it weren't the Ludds that fired it; Baines reckons it were just a wool pile going up. But the whole building's done for, and all the machines. And good riddance to 'em", and they all said cheers to that.
-
-"S'what we should'a done at Rawfolds" said another of them. "Torched it."
-
-And so his tale began. "I were there, that night. At Rawfold's Mill. And I saw us men fell, too."
+> Once, there was a King. A mad King. A King so mad that everyone one agreed he wasn't really fit to be a King at all, or at least, not to rule as one. But he was still the King, and so they couldn't just *get rid of him*. *Although someone had plotted to do exactly that, a few years before; `Captain Despard` was his name; but that's another story, for another day.* But for now, the Government could perhaps get someone else to make proclamations in his place. Such as his son, the Prince: the Prince Regent.
+>
+> Now if the King was *mad*, you could equally say the that Prince was *bad*. And from quite an early age too. He'd started as a playboy, and became an adulterer; over-sexed and over-lubricated; he could spend money faster than any Parliament could grant it to him; and he knew how to party. You might even say that was all he knew how to do.
+>
+> And the Government? What sort of Government were they? The Orders in Council they called them, hadn't they, those stupid rules that had pretty much put an end to all the export trade. Was there anyone they weren't blockading by now?
+>
+> That blasted foreign war had been going on for years, and now things were hitting hard at home too. For sure, the war might have been a Good Thing at the start: lots of soldiers meant lots of uniforms — lots of cloth that needed making — and the export trade had seemed to take as much as anyone could make, and at a fair price too. But when the blockades began, and the exports stopped? Well, it had been downhill ever since.
+>
+> It was Monday night at the sign of the Black-Bull, the Black-Bull in Mirfield, and several of the regulars were sat in the back room, drinking, one too many, and then some more, arguing over the news in Saturday's paper. Some good news, at least: it seemed the Orders in Council might be put an end to; but those London folk didn't know what they were talking about, with their "no evidence of distress in the West Riding of Yorkshire". Half the families round about in need of charity? Half of them!
+>
+> And then talk turned to the fire at the Gibraltar Woollen Mill the Sunday before. You can just imagine it...
+>
+> "Says here it weren't the Ludds that fired it; Baines reckons it were just a wool pile going up. But the whole building's done for, and all the machines. And good riddance to 'em", and they all said cheers to that.
+>
+> "S'what we should'a done at Rawfolds" said another of them. "Torched it."
+>
+> And so his tale began. "I were there, that night. At Rawfold's Mill. And I saw us men fell, too."
 
 And the three passing travellers who were sat round in the bar on the other side of the thin wood partition that separated the back room from the bar, its small glass window partially broken, they heard him say that too.
 
@@ -38,13 +28,15 @@ And the three passing travellers who were sat round in the bar on the other side
 
 "And what would you know about it..."
 
-We met at Dumb Steeple. It were pretty much a pitch black night, so we needed somewhere we could find.
+And so he began his tale.
+
+They met at Dumb Steeple. It were pretty much a pitch black night, so we needed somewhere we could find.
 
 --
 
 TO DO - account of attack on Rawfold's Mill
 
-It's fair trek out of Huddersfield to the Dumb Steeple, and uphill too. By midnight??, ?? men had gathered there, then organised into rankes, and counted off. A regular drill, but tonight they meant business. A group from Leeds?? were  to meet them at Rawfolds, to bolster the numbers even further. Cartwright would have defences in place, but through strength of numbers, the Luddites would show him who was boss. The final advance began.
+It's fair trek out of Huddersfield to the Dumb Steeple, and uphill too. By midnight??, ?? men had gathered there, then organised into ranks, and counted off. A regular drill, but tonight they meant business. A group from Leeds?? were  to meet them at Rawfolds, to bolster the numbers even further. Cartwright would have defences in place, but through strength of numbers, the Luddites would show him who was boss. The final advance began.
 
 Cartwright had made his way to bed about ??. Also in the mill were ??
 
@@ -75,7 +67,7 @@ With no Constables to be had, the three travellers became investigators, took th
 
 And when they challenged him again: "get away wi yer. If yer've got a problem wi' me, take it up wi Cartwright. He'll vouch for me."
 
-The next day, in Dewsbury, a troop of the Queen's Bays, arrested a man by the name of James Oldroyd, a man who had been out drinking in Mirfield, at the sign of the Black Bull, the evening before, on suspicion of having been concerned in the attack on Mr. Cartwright's Mill at Rawfolds. He was examined by the local Magistrate, Joseph Radcliffe, then committed to York-Castle to take his trial at the next Assizes.
+The next day, in Dewsbury, a troop of the Queen's Bays, arrested a man by the name of James Oldroyd. He'd been out drinking in Mirfield, at the sign of the Black Bull, the evening before, and was arrested on suspicion of having been involved in the attack on Cartwright's Mill at Rawfolds. He was examined by the local Magistrate, Joseph Radcliffe, then committed to York-Castle to take his trial at the next Assizes.
 
 A couple of weeks later, there was another breakthrough for the forces of law and order. A corporal in one of the local militias had confessed not just to taking part in the attack on Rawfold's Mill, but also as to having been involved with the murder of William Cartwright. Which was where it had arguably all started to go wrong for the Yorkshire Luddites.
 
@@ -84,7 +76,7 @@ Let me tell you about it.
 TO DO - murder of William Horsfall
 
 
-But now this Barrowclough chap from Holmfirth, this corporal in the local Militia, had admitted to playing a part in Cartwright's murder. He was taken across the Pennines to Manchester, safe from interference, and examined. Under questioning, he revealed the location of two depots of arms, one near Holmfirth, the other near Grange Moor. Three hundred or so Scotch Greys were dispatched from Manchester, and all the force in Huddersfield, civil and military, ordered to co operate with them in seizing the concealed arms; the whole night was spent in a fruitless search. They'd found nothing. Further questioning of Barrowclough took place. Further investigation. Further investigation that revealed that Barrowclough had been at York, with his regiment, at the time of Horsfall's murder. It wasn't just the King who suffered from mental infirmit, the presamable cause of the singular infatuation he had for accusing himself of crimes which was not, and could not, be guilty.
+But now this Barrowclough chap from Holmfirth, this corporal in the local Militia, had admitted to playing a part in Cartwright's murder. He was taken across the Pennines to Manchester, safe from interference, and examined. Under questioning, he revealed the location of two depots of arms, one near Holmfirth, the other near Grange Moor. Three hundred or so Scotch Greys were dispatched from Manchester, and all the force in Huddersfield, civil and military, ordered to co operate with them in seizing the concealed arms; the whole night was spent in a fruitless search. They'd found nothing. Further questioning of Barrowclough took place. Further investigation. Further investigation that revealed that Barrowclough had been at York, with his regiment, at the time of Horsfall's murder. It wasn't just the King who suffered from mental infirmit, the presumable cause of the singular infatuation he had for accusing himself of crimes which was not, and could not, be guilty.
 
 But there was still James Oldroyd, the Monday night drinker who'd declaimed his part in the attack on Cartwright's Rawfolds Mill whilst under the sign of the Black Bull at Mirfield, and whose trial was now due.
 

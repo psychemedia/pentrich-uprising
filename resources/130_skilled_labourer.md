@@ -12,6 +12,9 @@ pp341-376
 
 Also appendix, p377-8
 
+https://archive.org/details/skilledlabourer00hammiala/page/340/mode/2up
+pp. 341-376
+
 CHAPTER XII THE ADVENTURES OF OLIVER THE SPY
 
 ' Close by the ever-burning brimstone beds,  
@@ -45,13 +48,13 @@ In spite of this blow to their plans, delegates from Manchester, Birmingham, Not
 
 What relation does this lurid picture bear to the actual course of events? It will be best to answer this question by giving a narrative of what happened, a narrative based mainly on the Home Office Papers, which contain the documents on which the Reports of the Secret Committees are based. We shall find the main actor in the latter part of the story to be a certain Mr. Oliver, alias Richards, alias Hollis, celebrated by Lamb in the verses quoted at the head of this chapter, who, although his activities pass unrecorded in the Reports of the Secret Committees, figures extensively both in the Home Office Papers and in subsequent debates in the House of Commons.
 
-The earlier events at Manchester, in which Oliver had no share, fall into two divisionsfirst, the march of the Blanketeers on March 10; second, that 'most daring and traitorous conspiracy' for March 30. We will take these two episodes in order. The unfortunate Blanketeers' march was organised by two of the more hot-headed amongst the working-class reformers, Bagguley and Drummond. `[See p. 101 above. Bamford says that the scheme of the march came from London ( *Passages in the Life of a Radical*, p. 32). Prentice mentions a story that it was approved of by Cartwrigpt and Cobbett (Prentice, op. cit. , pp. 93-94)]` The other leaders dissuaded or, as Bagguley considered, deserted them. `[H.O., 42. 164.]` The spinners were also connected with the plan.
+The earlier events at Manchester, in which Oliver had no share, fall into two divisionsfirst, the march of the Blanketeers on March 10; second, that 'most daring and traitorous conspiracy' for March 30. We will take these two episodes in order. The unfortunate Blanketeers' march was organised by two of the more hot-headed amongst the working-class reformers, Bagguley and Drummond. `[See p. 101 above. Bamford says that the scheme of the march came from London (*Passages in the Life of a Radical*, p. 32). Prentice mentions a story that it was approved of by Cartwright and Cobbett (Prentice, op. cit. , pp. 93-94)]` The other leaders dissuaded or, as Bagguley considered, deserted them. `[H.O., 42. 164.]` The spinners were also connected with the plan.
 
 To understand the material of misery on which Bagguley and Drummond worked for their scheme, it is worth while to glance at some statements about weavers' earnings and deductions, published in the Manchester *Political Register* for January 4:
 
-8 (1) Weekly receipt for Week's Expenses *. d. Is. 5d. of particular Rent . . .19 kind of warp which Fire . . .10 a man weaves in s. d. Sizing warp . .03 5 weeks . . 6 4| Looming . .03 Size or Sowan for do. 3 Soft soap, tallow, oil 2 Candles . . .04 Soap for family and washing . .04 
+8 (1) Weekly receipt for Week's Expenses *. d. Is. 5d. of particular Rent . . .19 kind of warp which Fire . . .10 a man weaves in s. d. Sizing warp . .03 5 weeks . . 6 4| Looming . .03 Size or Sowan for do. 3 Soft soap, tallow, oil 2 Candles . . .04 Soap for family and washing . .04
 
-Leaving 2s. Ofd. for support. 
+Leaving 2s. Ofd. for support.
 
 (2) Journeyman doing same Weekly deductions work s. d. for loom room, &c., s. d. Weekly receipt . 6 4 one-fourth . . 1 7 Sizing warp . .03 Looming . .03 Candles . . .04 Lodging, cooking, and washing . . .16 
 

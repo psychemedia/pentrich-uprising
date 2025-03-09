@@ -60,7 +60,7 @@ On Saturday last James Towle, of New Basford, was committed to the County Gaol, 
 
 Thomas Garton was the leading witness against Towle, and the Luddites knew this. Threats of violence were made against hinm, Garton suspected that an attack would follow. His wife went to stay with a neighbout, a certain Mr Kilby, while Garton remained at home, to wait with several others recruited to aid his defence.
 
-When the attack came, an was entry forced, and a demand was made for Garton to show himself; as the candles went out, there was confusion, and shots were fired, killing one of the Luddites outright. As they retreated, presumably trying to quell the fears of Mrs Garton, who was likely hysterical at the noises she could hear coming from her own home, went to the door to see what was happening. Outside, the Luddites saw him, told him to go back inside or he would have his brains blown out. Perhaps Kilby tried to object, or perhaps Mrs Garton joined the fray. But something happened. Another shot was fired, and Kilby was instantly killed.
+When the attack came, an was entry forced, and a demand was made for Garton to show himself; as the candles went out, there was confusion, and shots were fired, killing one of the Luddites, a lad named Samuel Bamford, outright. As they retreated, presumably trying to quell the fears of Mrs Garton, who was likely hysterical at the noises she could hear coming from her own home, went to the door to see what was happening. Outside, the Luddites saw him, told him to go back inside or he would have his brains blown out. Perhaps Kilby tried to object, or perhaps Mrs Garton joined the fray. But something happened. Another shot was fired, and Kilby was instantly killed.
 
 ```{admonition} Ambush at Garton's
 :class: dropdown
@@ -151,9 +151,15 @@ As well as the men who would testify to Barton's having always said he'd come af
 
 Towle's kids were ill with the measles, so Towle had asked if he could spend the night, get a good night's rest, an early start for a tricky job he had to finish, and had arrived about 11. He'd gone up to bed in the upstairs room, with Bamford's lads, while Bamford slept in the parlour by the stairs. Bamford's wife had locked the door and taken the key to bed with her. There was no way Towle could have left the house. The stairs creaked, and the door was locked. There was a window in the room where Towle slept, but it'd be a heck of a tight squeeze, And a long drop into the muddy ditch below with no way back up. You'd have to be some sort of magician to get in and out of that room without anyone noticing. There was no way he could have done it.
 
-As it was, Bamford had got up at three, when Towle stirred and gave him a candle light to work by. When the constable had come looking for him, Towle had had to get the key from Bamford's wife.
+From his description of the house, Bamford was obvuiosly trying to make it clear that no one could get out, or come in, in the night, without his knowledge; and he believed, *on his oath*, that Towle had not left the house that night.
 
-In summing up, the Judge advided to the Jury that the only evidence limnking Towle to the crime was the claim that his voice had been heard, a form of testimony that could not be relied upon. There had been the evidence from the pub the night before the attack, but Towle was surely not so indiscreet if he had been serious about breaking Garton's frames the following night. It's true he might have been an accessory — he might have lended his chisel to the frame breakers that night — but he was charged with the act itself, not being an accessory to it. As for what Garton had or hadnlt send about having Towle taken up if any of his frames were broken? Well, it was a case "he said", "oh, no, I didn't", and the jury would have to decide for themselves how to interpret *that* evidence.
+These were the days before Ludwig and Jonathan Creek, remember. And also the days in which Juries were as likely to be swayed, or not, by circumstance and alibi, as well as the Judge's summing up.
+
+As it was, Bamford had got up at three am, when Towle stirred and gave him a candle light to work by. When the constable had come looking for him, Towle had had to get the key from Bamford's wife.
+
+When the prosecuting counsel then asked him about the circumstances of his son having been shot in the attack on Garton's, the Judge interposed, and stopped any further questions on that account.
+
+In summing up, the Judge advised to the Jury that the only evidence limnking Towle to the crime was the claim that his voice had been heard, a form of testimony that could not be relied upon. There had been the evidence from the pub the night before the attack, but Towle was surely not so indiscreet if he had been serious about breaking Garton's frames the following night. It's true he might have been an accessory — he might have lended his chisel to the frame breakers that night — but he was charged with the act itself, not being an accessory to it. As for what Garton had or hadnlt send about having Towle taken up if any of his frames were broken? Well, it was a case "he said", "oh, no, I didn't", and the jury would have to decide for themselves how to interpret *that* evidence.
 
 And so the jury to, and spent the next half an hour or so in their box, deliberating.
 
@@ -264,7 +270,11 @@ The trial of Mr. Sutton, proprietor of the Review, is postponed, we understand t
 https://britishnewspaperarchive.co.uk/viewer/BL/0001100/18150324/023/0003?browse=true
 Nottingham Review - Friday 24 March 1815
 
-Full transcript available as: In https://ludditebicentenary.blogspot.com/search?q=towle
+Full transcript available as: https://ludditebicentenary.blogspot.com/2015/03/21st-march-1815-trial-of-james-towle.html
+
+...
+
+John Bamford ... From the description which witness gave of the interior and situation of the house, he endeavoured to make it manifest, that no one could get out, or come in, in the night, without his knowledge; and he believed on his oath, the Towle had not been out during the night.
 
 ...
 

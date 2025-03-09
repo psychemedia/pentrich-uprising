@@ -46,6 +46,7 @@ and special commission york 1813
 https://books.google.co.uk/books?id=Mw9AAAAAYAAJ&dq=cobbett%20state%20trials%20%22volume%2031%22&pg=PP11#v=onepage&q&f=false
 https://archive.org/details/cobbettscomplet14jardgoog/page/n10/mode/2up
 
+Special Commission York 1813 https://archive.org/details/cobbettscomplet14jardgoog/page/n490/mode/2up pp 959-1169
 
 Thomas Hardy - Trial High treason  - London corresponding society - acquitted https://en.wikipedia.org/wiki/Thomas_Hardy_(political_reformer)
 
