@@ -20,6 +20,12 @@ To his Majesty's Lieutenant in the county of _____.
 
 TO DO
 
+
+
+---
+Seditious Meetings Act, 1817 https://books.google.co.uk/books?id=7GM0AQAAMAAJ&pg=PA36&redir_esc=y#v=onepage&q&f=false
+
+
 ```{admonition} Lord Sidmouth's Circular, May 1817
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001286/18170504/006/0002

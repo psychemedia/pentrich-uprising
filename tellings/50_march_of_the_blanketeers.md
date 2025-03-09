@@ -1,4 +1,4 @@
-# The Blanketeers and the Seditious Meetings Bill
+# The Blanketeers (Fairy Tale Style Telling)
 
 The following is a version of the Blanketeers' story told in the style of a traditional fairy tale, and based on the principle that the story is what's left when the facts have been forgotten. I'm not sure whether it works, but I thought I'd give it a go...
 
