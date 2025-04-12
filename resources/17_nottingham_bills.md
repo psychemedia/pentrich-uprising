@@ -264,7 +264,7 @@ It seems, however, that the Lords did not insist on the adoption of that amendem
 https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120313/001/0002
 Stamford Mercury - Friday 13 March 1812
 
-PARLIAMENTARY PROCEEDINGS.—In the House of *Lords* on Thursday, the Frame Breaking Prevention Bill went through its remaining stages, and passed the House. On Monday, the Watch and Ward Bill was read a third time and passed.  ... In the House of *Commons*...— On Monday, after a Committee was appointed to acquant the Lords that the Commons disagreed with the amendment (relating to the punishment attending misdemeanours) which their Lordships had made in the Bill.
+PARLIAMENTARY PROCEEDINGS.—In the House of *Lords* on Thursday, the Frame Breaking Prevention Bill went through its remaining stages, and passed the House. On Monday, the Watch and Ward Bill was read a third time and passed. ... In the House of *Commons*...— On Monday, after a Committee was appointed to acquant the Lords that the Commons disagreed with the amendment (relating to the punishment attending misdemeanours) which their Lordships had made in the Bill.
 
 ```{admonition} Oh, go on then..., March 1812
 :class: dropdown
@@ -317,6 +317,6 @@ https://archive.org/details/np212725_0004/page/632/mode/2up?q=frame
 
 52 George III 1812 Cap. 16 pp.633-4
 
-An Act for the more exemplary Punishment of Persons deftroying or injuring any Stocking or Lace Frames, or other Machines or Engines used in the Framework knitieil Manufactury, or any Articles  or Goods in fuch Frames or Machines; to continue in force until the First Day of Man-i One thousand eight hundred and fourteen. C^othMorfb 1812.'
+An Act for the more exemplary Punishment of Persons deftroying or injuring any Stocking or Lace Frames, or other Machines or Engines used in the Framework knitieil Manufactury, or any Articles or Goods in fuch Frames or Machines; to continue in force until the First Day of Man-i One thousand eight hundred and fourteen. C^othMorfb 1812.'
 
 

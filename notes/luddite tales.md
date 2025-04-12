@@ -28,11 +28,11 @@ Hudds Oct-Dec,
 1813 Jan hanging
 1816? Loughborough - Towle tried 1816, informed, new trial April 1817
 
-1816 Year wthout a summer https://en.wikipedia.org/wiki/Year_Without_a_Summer volcano in Indonesia in April 1815;  there was also a volcano in 1808 that led to global cooling - when was earlier poor harvests of 1809 and 1810?
+1816 Year wthout a summer https://en.wikipedia.org/wiki/Year_Without_a_Summer volcano in Indonesia in April 1815; there was also a volcano in 1808 that led to global cooling - when was earlier poor harvests of 1809 and 1810?
 
 Luddite June 1816 55 frames Loughborough, Heathcote and Boden's factory; James Towle hanged nov 1816,
 1816 Spa fields
-1817 Oliver, Trial in London for Spa Field; Lougbborough trial, Huddersfield  revolt
+1817 Oliver, Trial in London for Spa Field; Lougbborough trial, Huddersfield revolt
 Leeds Mercury - Oliver Spy; Huddersfield trial; questions in parliament
 Pentrich - bound over
 October
@@ -60,14 +60,14 @@ Folklore in the sense of me forming an impression and telling tales based on thi
 
 Tales
 
-??start w  Spa Fields, the setting of reform; the blanketers; the date of spa fields trial.. Pentridge revolution for that date; but also the Ludite trial. For  over the previous 5 years, we can see there is another sort of revolt happening - the Luddite revolution.
+??start with Spa Fields, the setting of reform; the blanketers; the date of spa fields trial.. Pentridge revolution for that date; but also the Ludite trial. For over the previous 5 years, we can see there is another sort of revolt happening - the Luddite revolution.
 
 - original outbreaks in Nottinghamshire/Derbyshire
 - Huddersfield Luddites 1812, hanging 1813
 - 1814 Towle
 - Denman 1815 incl Towle?
 - 1816? New Radford - still Luddite sentiment
-- Elsewhere, reform: Spa Fields; early 1817, trial upcoming; Loughborogh (1816) and spa fields;  Pentridge revolution, also via Blanketeers [William Oliver - Baines]
+- Elsewhere, reform: Spa Fields; early 1817, trial upcoming; Loughborogh (1816) and spa fields; Pentridge revolution, also via Blanketeers [William Oliver - Baines]
 
 
 
@@ -75,16 +75,16 @@ machine-breaking made a capital offence in 1727
 10th-19th June 1779, frame breaking in Nottingham?
 March 1811 - frames were "deactivated" and essentially held hostage by removal of jack wires [?], complaining against master hosiers not paying full price?
 https://ludditebicentenary.blogspot.com/2011/03/11th-march-1811-first-luddite-attack-at.html
-Monday, March 11, 1811, march  from market place in Nottingham to village of Arnold (5 miles to the north), the crowd growing all the time, and breaking of frames between dusk and dawn, "entering the homes of unpopular stockingers and special, hated hosiers".
+Monday, March 11, 1811, march from market place in Nottingham to village of Arnold (5 miles to the north), the crowd growing all the time, and breaking of frames between dusk and dawn, "entering the homes of unpopular stockingers and special, hated hosiers".
 
 Who were the Luddites?
 
 - Nottinghamshire Luddites - protesting at the bad practice of employers
-  -  mechanical knitting machine ('stocking frame') by William Lee in Nottinghamshire village of Calverton in 1589
-  -  master hosiers subcontracted to "small masters" who often rented frames from them;
-  		-  Truck – payment in goods or in kind, via the hosier's store (more expensive than marketplace); payment was at the shop price, not what goods could be resold at
-  		-  colting (??too many (unskilled) apprentices)
-  		-  cut ups - cheap, inferior, (large bits of material cut up and sewn to make stockings?)
+  - mechanical knitting machine ('stocking frame') by William Lee in Nottinghamshire village of Calverton in 1589
+  - master hosiers subcontracted to "small masters" who often rented frames from them;
+  		- Truck – payment in goods or in kind, via the hosier's store (more expensive than marketplace); payment was at the shop price, not what goods could be resold at
+  		- colting (??too many (unskilled) apprentices)
+  		- cut ups - cheap, inferior, (large bits of material cut up and sewn to make stockings?)
 - Yorkshire Luddites - rebelling against mechanisation
 
 The rise of violence in Huddersfield
@@ -279,7 +279,7 @@ THE LuppitTtrs. [ 630
 
 by degrees into the savage state just described!
 
-There is a paper in London, called the Courier, which is always praising the acts of the government and always abusing the Reformers in the most gross and outrageous manner. The Morning Chronicle asserts that the proprietor of this paper has regular communications with the offices of government. I do not know how this may be; but, certain it is, that, through thick and thin, it praises the acts |} of the government. This paper, on the twenty-first instant, contained the following paragraph :—‘* Amongst other em‘¢ ployments for the poor, it is recom‘© mended, that parishes should furnish ‘¢ themselves with hand corn-mills ; that ** parish bake offices should be establish"ed; and that the women and girls ‘should be employed in spinning and ‘€ carding of wool. In Essex many hands " have been employed to shell beans in ‘¢ the fields, which has been donesolow as "¢ 3d. per bushel, asum under that usually ‘ naid for threshing. By this means, the *¢ beans are got quick to market, first being dried upon the kiln, with the ad. *¢ vantage of not being bruised, as they ‘* must otherwise have been, if threshed ‘© with a flail."
+There is a paper in London, called the Courier, which is always praising the acts of the government and always abusing the Reformers in the most gross and outrageous manner. The Morning Chronicle asserts that the proprietor of this paper has regular communications with the offices of government. I do not know how this may be; but, certain it is, that, through thick and thin, it praises the acts |} of the government. This paper, on the twenty-first instant, contained the following paragraph :—‘* Amongst other em‘¢ ployments for the poor, it is recom‘© mended, that parishes should furnish ‘¢ themselves with hand corn-mills ; that ** parish bake offices should be establish"ed; and that the women and girls ‘should be employed in spinning and ‘€ carding of wool. In Essex many hands "have been employed to shell beans in ‘¢ the fields, which has been donesolow as "¢ 3d. per bushel, asum under that usually ‘ naid for threshing. By this means, the *¢ beans are got quick to market, first being dried upon the kiln, with the ad. *¢ vantage of not being bruised, as they ‘* must otherwise have been, if threshed ‘© with a flail."
 
 This is actually a bold step towards the savage state. It is exceedingly foolish, buf, as I shall presently show, exceedingly mischievous also; or, at least, it would be so, if the people had not too much sense to be misled by it. The mind of man has discovered a mode of preparing corn for making him food by the use of brooks, streams, rivers, and the wind. His mind has sub-
 

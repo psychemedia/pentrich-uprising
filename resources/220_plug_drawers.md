@@ -9,7 +9,7 @@ Worsted mill powered by Luddenden Brook.
 In 1833, workers here were recorded as working a 78-hour week. Of 48 workers at the mill, 37 were children under the age of 16.
 
 Owners and tenants have included
-Robert Whitworth & Company [1795] until 1832 when they moved  to Halifax
+Robert Whitworth & Company [1795] until 1832 when they moved to Halifax
 Ambler family of Midgley & Warley
 Robert Ambler [1835]
 John Ambler [1842]

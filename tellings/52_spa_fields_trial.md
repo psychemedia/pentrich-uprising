@@ -233,7 +233,7 @@ Lord Ellenborough—"You say you have no further charge—therefore I shall orde
 Mr. Harmer now conducted the prisoners out of the Court the back way behind the Bench, under the Piazzas of the House of Lords. An immense concourse of people were waiting in Palace-yard, in expectation that they would come out that way, but one or two persons recognized them under the Piazzas, and immediately, by their shouts, made known their discovery to those in front of Westminster Hall.
 ```
 
-The outcome of the trial was commmented on by the editor of the *Leeds Mercury*: 
+The outcome of the trial was commented on by the editor of the *Leeds Mercury*: 
 
 ```{admonition} The acquittal of obscure and unprotected men, June 1817
 :class: dropdown

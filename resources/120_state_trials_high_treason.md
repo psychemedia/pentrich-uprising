@@ -48,7 +48,7 @@ https://archive.org/details/cobbettscomplet14jardgoog/page/n10/mode/2up
 
 Special Commission York 1813 https://archive.org/details/cobbettscomplet14jardgoog/page/n490/mode/2up pp 959-1169
 
-Thomas Hardy - Trial High treason  - London corresponding society - acquitted https://en.wikipedia.org/wiki/Thomas_Hardy_(political_reformer)
+Thomas Hardy - Trial High treason - London corresponding society - acquitted https://en.wikipedia.org/wiki/Thomas_Hardy_(political_reformer)
 
 The Language of High Treason: Thomas Hardy, John Horne Tooke, and the Edinburgh Seven
 https://www.jstor.org/stable/3817744
