@@ -27,7 +27,7 @@ Three days later, on Saturday April 11th, a coin toss decides the target of the 
 
 George Mellor and William Thorpe, familiar names to this day.
 
-At the mill, mill owner William Cartwright made his way to bed at twenty-five minutes past midnight. I say mill, but it was nevertheless a fortified location: five armed soldiers  and four other men were barracked there; spiked rollers and vitriol, which is to say, concentrated sulphuric acid, also added to the defences.
+At the mill, mill owner William Cartwright made his way to bed at twenty-five minutes past midnight. I say mill, but it was nevertheless a fortified location: five armed soldiers and four other men were barracked there; spiked rollers and vitriol, which is to say, concentrated sulphuric acid, also added to the defences.
 
 Fifteen minutes later, Cartwright heard his dog barking an alarm. One of the soldiers went to sound an alarm bell, but the bell rope broke.
 
