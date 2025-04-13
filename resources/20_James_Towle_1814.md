@@ -13,7 +13,7 @@ It was well-known that, even though they were neighbours, and had known each oth
 
 And as for Towle, he had little respect for Garton either.
 
-At the Three Crowns public-house, in Parliament-street, Nottingham, Towle, a short man, five feet two inches high, and in his early thirties,  had got out of the house where his children were ill with measles. He'd just made plans to sleep at Bamford's house the following night, where he rented a frame; he had a job to do that needed a steady eye; so he needed a good night's sleep, and an early start. And he wouldn't get that at home.
+At the Three Crowns public-house, in Parliament-street, Nottingham, Towle, a short man, five feet two inches high, and in his early thirties, had got out of the house where his children were ill with measles. He'd just made plans to sleep at Bamford's house the following night, where he rented a frame; he had a job to do that needed a steady eye; so he needed a good night's sleep, and an early start. And he wouldn't get that at home.
 
 Over a pint, he was quizzing a man about Garton's workshop.
 
@@ -140,7 +140,7 @@ An first attempt at a telling...
 ```{admonition} James Towle, tale the first
 :class: dropdown seealso
 
-The trial of James Towle was presided over by Mr. Justice Bayley.  Towle was accused of breaking in to Thomas Garton's house and, with several others, breaking Garton's frames. It is said that fifty pounds had been raised in subscription amongst the frameworknitters to help retain Towle’s Counsel.
+The trial of James Towle was presided over by Mr. Justice Bayley. Towle was accused of breaking in to Thomas Garton's house and, with several others, breaking Garton's frames. It is said that fifty pounds had been raised in subscription amongst the frameworknitters to help retain Towle’s Counsel.
 
 During the trial, key witness Thomas Garton declared that it was Towle who had originally demanded entry, immediately recognising him from his voice, although he didnlt actually see him: he had known Towle for years, and they only lived a few hundred yards apart.
 
@@ -201,7 +201,7 @@ Cross-examined.— Witness did not know prisoner worked at Bamford's, nor did he
 
 *Edward Hawke* worked with Garton for about four months previous to the frames being broken, and till that time. Saw Towle on the Saturday before the frames vere broken, at the Three Crowns public-house, in Parliament-street, Nottingham, in company with many others. Prisoner asked witness if he worked at Garton's, and if had "*bated*," (reduced their wages.)— Witness said, "Yes," on which prisoner upbraided him about Garton killing tup mutton, and forcing his men to take it. Witness said, it was not true. Prisoner then said, Garton had *bated*, and his frames should be broken. Prisoner asked where witness's frame stood. Witness told him, on which, prisoner said, he knew well where it stood, and what it was working, and that it was 36 guage. Prisoner repeated that the frames should be broken. Witness told Garton of this conversation next day, (the Sunday when the frames were broken.) Never has been in Garton's since the frames were broken. Has very little knowledge of Towle. Only knew him since he worked with Garton.
 
-Cross-examined.—Has never gone by any other name than that of Edward Hawke. Knows a man named Reuben, who worked with Garton.  Witness has lived at Mansfield since the frames were broken, and has never received any thing from Garton, nor has he seen him since till the seventh of this mouth.
+Cross-examined.—Has never gone by any other name than that of Edward Hawke. Knows a man named Reuben, who worked with Garton. Witness has lived at Mansfield since the frames were broken, and has never received any thing from Garton, nor has he seen him since till the seventh of this mouth.
 
 *Joseph Sutton* worked with ——— Growcock, a Blacksmith, and slept at his house the night Garton's frames were broken. He went to bed at half past eight o'clock that night. Growcock went to bed at nine. Prisoner came to the house between nine and ten. Witness knew his voice, and heard him call Growcock up, and ask him to lend him an iron crow. Growcoock said he would not lend him the crow, as he might be noticed if it were lost. Growcock desired prisoner to leave off the business of frame-breaking, or he would be catched out and hanged. Prisoner replied, "I'll be d——d if I don't reinforce." Witness heard Growcock name Towle, and say he would lend him an iron bar, when they went out together, and witness heard the shop door unlocked.
 

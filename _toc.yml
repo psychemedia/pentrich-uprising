@@ -13,6 +13,7 @@ parts:
 - caption: The Tragedy of James Towle
   chapters:
   - file: resources/20_James_Towle_1814
+  - file: resources/54_towle_1816
 - caption: A Time of Dissent
   chapters:
   - file: tellings/50_march_of_the_blanketeers
