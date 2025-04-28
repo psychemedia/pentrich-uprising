@@ -1,6 +1,6 @@
 # Preface
 
-The story of the Luddites is one that has always fascinated me, particularly the tales of the how skilled workers of the town and its surroundings where I grew up Huddersfield rose up to break the machines of the profiteering mill owners.
+The story of the Luddites is one that has always fascinated me, particularly the tales of how the skilled workers of the town and its surroundings where I grew up Huddersfield rose up to break the machines of the profiteering mill owners.
 
 But I hadn't realised quite how turbulent the times were. Take the aborted march of the Blanketeers, for example, or the Pentrich Rebellion, which I first learned of from a Ferociuos Dog song,
 
