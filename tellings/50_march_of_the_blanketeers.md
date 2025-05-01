@@ -20,7 +20,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > Now the people knew that the Ministers had no love for the poor people, and nor did the local Magistrates, dirty smelly rabble that they were — the people, that is, not the Magistrates: they probably smelled beautiful and probably had a bath at last once a month — and they knew that the soldiers would be set on them if they looked like a mob.
 >
-> So they were clever; they would gathered together in small groups of ten people or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, and they would march in small groups, because nobody could argue with that.
+> So they were clever; they would gather together in small groups of ten people or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, and they would march in small groups, because nobody could argue with that.
 >
 > Because the journey was long one, they would each take a blanket, to keep them warm at night as they'd have to camp under the stars; the one with petitions would pin them to the blanket, as a badge, to show their intention; and everyone who wasn't going on the march would raise what little money they could so the marchers could buy some small amount of food each day.
 >

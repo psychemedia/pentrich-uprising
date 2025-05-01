@@ -54,7 +54,7 @@ On Saturday, the 9th January, eight prisoners were charged with having (along wi
 "A timid spirit."
 
 "But it seems your timidity at last gave way. How was it that at length you summoned up courage to make a disclosure?"
->
+
 "When I was questioned upon oath I was then obliged to speak the truth, and leave the consequences."
 
 Mr. Cartwright in his evidence related the details of the attack and the defence, so far as his own observation and action went, but he was not able to speak to the person of any individual concerned in the attack.

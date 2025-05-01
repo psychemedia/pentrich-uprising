@@ -4,6 +4,8 @@ As is still the case today, every so often local newspapers would take a histori
 
 So let us begin with a remembering, from 1875, of the Luddite times of over fifty years before that. The story starts in 1811, and ends in 1817, a tale of the Yorkshire Luddites, topped and tailed with parallel troubles from the neighbourung counties to the south...
 
+`This is actually a reprint of a chapter in Walter Thornbury's "Old Stories Retold", 1835.`
+
 ```{admonition} Old Stories Retold: The Luddites, 1875
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000470/18750921/016/0004
@@ -116,7 +118,7 @@ At the time of the crisis of disorder in 1812, when the Luddite conspiracy was n
 
 "Enoch made them, and Enoch shall break them."
 
-Suffering, and believing that they would suffer more, these impetuous men totally forgot that al] improvements in a trade tend to enlarge that trade; that all lessenings of cost in the production of a fabric tend to increase the sale of that fabric; and that if the finishing-machines reduced the number of croppers, the manufacture of them undoubtedly led to the employment of more hammermen. To these truths they were indifferent; all they knew, was, that the new frames lessened the immediate work for the croppers, and they were determined not merely to destroy those already in use, but to terrify employers from further adopting them.
+Suffering, and believing that they would suffer more, these impetuous men totally forgot that all improvements in a trade tend to enlarge that trade; that all lessenings of cost in the production of a fabric tend to increase the sale of that fabric; and that if the finishing-machines reduced the number of croppers, the manufacture of them undoubtedly led to the employment of more hammermen. To these truths they were indifferent; all they knew, was, that the new frames lessened the immediate work for the croppers, and they were determined not merely to destroy those already in use, but to terrify employers from further adopting them.
 
 Yet the croppers themselves, as long as they could get work, were well-to-do men, their wages being twenty-four shillings a week. The Marsden people were, indeed, seldom in distress, for the great cotton trade was already developing, and warp and weft ready for the hand-loom were brought from Lancashire fortnightly and put out to Marsden weavers. But let us be just; the times were hard everywhere, and a shilling did not bring then what it had brought before, and what it brings now. Men worked week in and week out, and only just, after all, kept the wolf from the door. Oh! there was a sharp biting suffering, before thoughtful working men could combine in that thirty years' conspiracy that brought many brave lads to the gallows, and sent many to pine away the rest of their miserable and wasted lives in the dismal restrictions of New South Wales. Time is full of common sense; it brings men to the truth; yet for nearly a whole generation it never stopped these disturbances, erroneous as they were. The man who thinks that the troubles indicated no foregone misery and wrong, would call a dying man's groans and screams mere practical jokes.
 
