@@ -8,17 +8,23 @@ They were times of rebellion, and times of revolt.
 
 A time of war, and a time of failed harvests.
 
-Sons followed their fathers into the troop ships and onto the ships of war; and where the explorers had opened up new lands to trade with, well, the blockades had put a stop to all that. Poor harvests increased the price of wheat, and when a large part of your diet relied on your daily bread, pricier bread meant less food all round. And that winter? It was cold, so cold that even the largest rivers froze over. And the late Spring? That in turn would mean a slow start to the growing season, and the expectation of another poor harvest.
+A time when sons would follow their fathers onto troop ships and ships of war; when the women worked, and their children helped them; a time when intrepid explorers were opening up new lands to trade with, at least, until the blockades had started. And a time when poor harvests increased the price of wheat. And if pretty much all you ate was bread, then the pricier the bread , the less there was to go round of anything else at all.
 
-Before the machines came, life hadn't really changed much at all from one generation to the next. Prices went up, then prices went down. Your parents paid pretty much the same amount for their bread as their parents had before them. But with the never-ending war abroad, the loss of the commons at home -  no more, an acre of your own, for a pig, and a cow, and your own crop of potatoes — and with the arrival of the factories and the new fangled machines inside of them, life was changing. Prices went up, and then up again, not down; and wages, if anything, they went down. And with a mad King on the throne, and a Government elected from the few, by the few, people started to take things into their own hands.
+It was a cold time, too. It used to be remembered that is was so cold, that winter, that even the largest rivers froze over.
 
-Now, one of the *benefits* of machinery is that it *can* do work for you, it can make likfe easier; but one of the *problems* of machinery is that a machine can cost you a lot to buy it in the first place. If you can actually afford to buy a machine, you can benefit from it. And if you can pay someone else to work it for you for less than it makes back for you, then you're quids in. And if you can force your workers to rent the machines from you that they have to use to do their work for you, and pay them in truck — vouchers that you can only exchange for goods in the overpriced factory shop — well, that's even better.
+And the late Spring? That in turn meant a slow start to the growing season. And *that* meant there'd be another poor harvest.
 
-Now, I'm not saying that Benjamin Topham, of Pentridge, was necessarily doing all that, or even, any of that. But others were. And Topham was doing all right. He'd built up a small fleet of machines that he could run out of his own shop, or rent out to others, and there was still a market for the good quality lace goods he was producing.
+Before the machines came, life had never really changed much at all, not in my time, nor your time, nor your granparent's time, or... ever. Prices went *up*; then prices went *down*; and then up again, for a bit, then down again. And your parents paid pretty much the same amount for their bread as *their* parents had before them.
 
-At the time, there was a significant trade in lace and stocking making around those parts. Machines had been a part of the industry for years, but a trend had started in using them differently. As trade with the new land had opened up, business had grown like crazy. To keep up, the old ways had continued for the domestic market, but new ways had come in too: cheaper ways of making things, cheaper products in several senses of the word. For the stocking makers, wider frames meant you could make flat pieces of material, then cut it to shape, and quickly sew it together, rather than have to use the older, craftier ways, ways that took seven years of apprenticeship and more pay than you had to give to the unapprenticed colts. And you could make a good business exporting tat abroad. But when the blockades had started, the quality market at home had suffered too. The cheap goods, with the lower prices, stayed at home; and as the quality market declined, the wages sank too. The skilled framework knitters tried to seek redress, of course, appealing to Govenrment, and to the mad King and playboy Prince Regent, for help. But without success. So they turned instead to direct action: frame-breaking.
+But with the never-ending war abroad, the loss of the commons at home -  no more, an acre of your own, for a pig, and a cow, and your own crop of potatoes — and with the arrival of the factories and the new fangled machines inside of them, life was changing. Prices went up, and then up again, not down; and wages, if anything, they went down. And with a mad King on the throne, and a Government elected from the few, by the few, people started to take things into their own hands.
 
-By all accounts, Benjamin Topham was paying a fair price for the lace being made on his machines. But that didn't stop the machine breakers calling. Luddites, they called themselves, followers of King Ludd. Apparently named after an apprentice lad called Ludd,  Ned Ludd, or Ludlam, he'd been hauled up before the magistrate several years before for his workshy attitude, and whipped as a punishment. And in return, he'd taken up a hammer and used to smash his master's knitting frame to pieces.
+Now, one of the *benefits* of machinery is that it *can* do work for you, it can make life easier; but one of the *problems* of machinery is that a machine can cost you a lot to buy it in the first place. If you can actually afford to buy a machine, you can benefit from it. And if you can pay someone else to work it for you for less than it makes back for you, then you're quids in. And if you can force your workers to rent the machines from you that they have to use to do their work for you, and pay them in truck — vouchers that you can only exchange for goods in the overpriced factory shop — well, that's even better.
+
+I have no idea whether or Benjamin Topham, of Pentridge, was necessarily doing all that, or even, any of that. But others were. And Topham *was* doing all right for himself. He'd built up a small fleet of machines that he could run out of his own shop, or rent out to others, and there was still a market for the good quality lace goods he was producing.
+
+There were lace and stocking makers all over the place round there, of course. And machines. They'd been used for years. But it was all getting a bit different now. You knew where you were when you were selling stuff locally: there were only so many pairs of stockings anyone needed, after all. But when you're selling to a whole new world, where they don't really know hopw to make their own stockings, or don't have the wool to make it, well, business had grown like crazy. So while you *could* carry on making the traditional, crafty stuff, for use at home, you needed a quicker way to turn out the tat you could sell further away from home. That's where the wide knitting frames were pretty handy: you could make flat pieces of material, cut it to shape, and then quickly sew it together. And you don't need seven years apprenticeship to do that. You can get the  young colts on the case, the ones who'd bever make it as an appreentice, *and* pay them a fraction of the price. But then it all went bad. It'd probably be done as a trade war nowadays, but back then, it was a bit more physical: *blockades*. Ships in the way, and turn people back. Or get turned back yourself, as a tit for tat response. And when *your* tat couldn't be sold elsewhere, it came back home. And becuase it was cheaper, and no-one could afford anything anyway, the it took all the prices down. And gave the product a bad a name. And took the wages for what little work wsa left down too. The skilled workers did what they'd always down, appealed to the Government then appealed to the King. But they didn't care any more, of they ever had. So what else can you do, but smash up those damned infernal machines, and bring the trade back home.
+
+By all accounts, Benjamin Topham had been paying a fair price for the lace being made on his machines. But that didn't stop the machine breakers calling. Luddites, they called themselves, followers of King Ludd. Apparently named after an apprentice lad called Ludd,  Ned Ludd, or Ludlam, he'd been hauled up before the magistrate several years before for his workshy attitude, and whipped as a punishment. And in return, he'd taken up a hammer and used to smash his master's knitting frame to pieces.
 
 It was soon after midnight when they'd first arrived at Mr Topham's. "Give us the key to your workshop" they'd said, and then gone in search of the wide frames. "Tell us where they are or we'll blow yer brains out" and they pointed three guns at his head. "I don't have any" he'd said, "I don't do any of that", meaning the cut up work, and he eventually placated them, and them talked them round, and they'd eventually left, cursing whoever had given them their dodgy information, and told them that there were frames in the house.
 
@@ -68,13 +74,44 @@ The plug drawers had a fantastic wheeze - pull out the plugs that empty the boil
 
 Blanketeers tale TO DO
 
+But that's not all they were getting up to.
+
+There were rumours that folk were not happy up in Scotland, either, and that march had started that was going to make its way to London to take their protest directly to Government. No more faffing about with letters: a demand for change from the people themselves. *A barbarian hoard.*
+
+There wasn't really any barbarian hoard, of course; but it got the people thinking. Maybe *they* could petition the Prince about the taxes they had to pay, the poor wages they received, the dire poverty in which they lived. Maybe *they* could persuade him to stop the Ministers taking the law into their own hands (they knew the King was mad, so it was pointless going to see him). And maybe *they* could lobby the Prince for a Parliament that represented the common people, "them that hasn't", rather than the Lords and Ladies and just "them that has".
+
+So they had a meeting. And there was standing on carts, and rousing speeches, and they decided they *would* march to London, a week's walk away, and petition him themselves.
+
+They all knew that the Ministers had no love for poor folk like themselves, of course. And neither did the local Magistrates, dirty smelly rabble that they were — the people, that is, not the Magistrates: they probably smelled beautiful and probably had a bath at last once a month —  and everyone knew that the soldiers would as likely as not be set on them if they looked like a mob.
+
+So they were a bit more clever about it: TO DO they would gather together in small groups of ten people or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, and they would march in small groups, because nobody could argue with that.
+>
+> Because the journey was long one, they would each take a blanket, to keep them warm at night as they'd have to camp under the stars; the one with petitions would pin them to the blanket, as a badge, to show their intention; and everyone who wasn't going on the march would raise what little money they could so the marchers could buy some small amount of food each day.
+>
+> So one morning, the people began to gather; thousands of them; a thousand or so set off on the march, "their bed blankets thrown over their shoulders, and fastened in front, over the breast, with a skewer. They were in full marching order; those who could not procure knapsacks or haversacks, had large bundles attached to their shoulders" as if they were soldiers, and leaving the rest to their speeches and fundraising.
+>
+> As emotions started to get heated in the crowd, in came the army, and arrested the ringleaders.
+>
+> And then they went after the marchers, who were expecting their leaders to catch up with them later that day with the money to support them.
+>
+> (As it was, I've heard it tell that the purseman with a pretty penny in funds to pay for food and accommodation along the way got lost himself, and only returned when all the money had been spent!)
+>
+> The soldiers came along on their horses, with swords and sabers and who knows what, and the marchers — well, a blanket didn't work so well as armour, so it's not hard to work out who came off worst.
+>
+> Some of the marchers were split up and sent this way, others were sent that way, and several hundred found themselves in jail for the night.
+>
+> The leaders of the march were given special treatment, imprisoned, and given a day in court. Their witnesses were made ready, and then: nothing; back to prison they went.
+>
+> The Ministers reacted in style, pushing through a law that banned unapproved gatherings of more than fifty people
+>
+> Several weeks later, a Special Jury was laid on. But when the time came to present the case before the Judge, on charges that included "begging", because the marchers hadn't actually done anything wrong — they had broken no law, and this was a land that was supposedly ruled by law — the lawyer for the prosecution just muttered something about it all being peaceful now, and there was no need to charge the men, so he wouldn't offer any evidence against them.
+>
+> And so they went free.
+>
+> As to the march to petition the Prince, it is said that one man, and one man only, actually made it to the city where the Prince lived. Maybe he got lost and didn't realise he was on his own. Who knows?
+
+
 > ?? ANOTHER SONG
-
-Year without a summer - 1816 - volcano, Mount Tambora, what was know to us as the East Indies, today's Indonesia, mid-way between Australia and Vietnam, where the Indan Ocean meets the mid-Pacfic, erupted April 10th, 1815
-
-Pentrich... Folly Hall, recalled the time X years before the men who had attacked Rawfolds mill, murder of Horsfall,
-
-XXX
 
 For our final tale, let us return to the village, and the town, to Pentrich, and to Huddersfield, where these stories began.
 
