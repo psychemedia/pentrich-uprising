@@ -4,6 +4,7 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18111123/007/0003
 ## Leeds Mercury - Saturday 23 November 1811
+
 RIOTS AT NOTTINGHAM
 
 For some time past the Wholesale Hosiers, who have Stocking-weaving Establishments in the county of Nottingham, have been obliged to curtail their hands; this produced considerable discontent among the workmen. Their riotous spirit was, however, increased by the trade having brought into use a certain wide frame for the manufacture of stockings and gaiters, which, was a considerable saving in manual labour, leading still further to the decrease of the hands employed. On Sunday se'nnight last this being generally known, a number of weavers assembled at different places in the vicinity of Nottingham, and commenced their career of outrage, by forcibly entering the houses of such persons as used particular frames.
@@ -366,6 +367,17 @@ MANY of you have so repeatedly served this office, and are so well acquainted wi
 
 ---
 
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18121110/026/0004
+Star (London) - Tuesday 10 November 1812
+
+LEEDS, November 7.
+
+Eleven persons were committed this week to York Castle, on charges of shear-breaking, and other offences, in the neighbourhood of Huddersfield : several others are in custody, and the police in that district are apprehending and bringing in prisoners daily.
+
+Since our last were committed to York Castle, M[ark] Hill, John Ogden, (No.52) Charles Cockcroft, Geo. Brook, James Brook, and John Brook, of Lockwood, in the West Riding, charged upon the oath of Wm. Hall with having, together with divers others, assembled on the night of 11th April last, at Liversedge in the said Riding, and riotously and feloniously made an attack upon a mill in the occupation of Wm. Cartwright; also Samuel Booth, George Lodge, and George Brook, of Dalton, in the said Riding, charged upon oath with assembling with divers others at Marsh, in Huddersfield, and feloniously entered the workshop of Joseph Hirst, cloth-dresser, and broke and destroyed divers sheers, used for dressing woollen cloth, the property of the said Joseph Hirst; likewise John Walker, Thomas Brook, and Joshua Scholfield, cloth-dressers, charged upon the oath of Wm. Hall and Joseph Drake, with feloniously attacking and beginning to demolish the mill of Wm. Cartwright, at Liversedge, in the West Riding.—*Leeds Mercury*.
+
 --
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121017/009/0003
@@ -376,15 +388,17 @@ Since the last assizes, no less than 43 felons have been committed to the Castle
 Since our last, were committed to York Castle, George Mellor, of Longwood Bridge, in Quarmby, in the West-Riding, cloth-dresser, charged upon the oath of Joseph Mellor, and others, with being strongly suspected of having, on the 28th day of April last, fired at, and shot Mr. Wm. Horsfall, of Marsden, in the said Riding, merchant, deceased, upon the King's highway. Also, James Varley, of Lockwood, in the West Riding, cloth-dresser, charged upon the oath of John Bates, with having on the night of Whitsun-Monday last, with divers other persons, unlawfully assembled at Gib-lane end, and feloniously stole and carried away divers guns, the property of Wm. Newton, of Hagswood Hill, in the said Riding.— Also, Joseph Brook, of Rastrick, tailor, charged upon the oath of Benjamin Strickland, and Ann Armitage, with having, in company with divers others unknown, at three o'clock in the morning of the 5th inst. burglariously broke, and entered the dwelling-house of the said Benjamin Strickland, and feloniously stolen thereout one silver watch, one pocket-book, and other articles, the property of the said Benjanmin Strickland.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002
-## Leeds Mercury - Saturday 07 November 1812
+Leeds Mercury - Saturday 07 November 1812
+
+Also appeared in [Lancaster Gazette - Saturday 07 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/010/0003).
 
 THE MURDERERS OF MR. HORSFALL.  
-We copy the following curious article from the Courier of Thursday the 29 ult. :-  
+We copy the following curious article from the Courier of Thursday the 29 ult.:-  
 To the Editor of the Courier. Huddersfield, Oct. 24.
 
 Sir.- A very important event happened here on Thursday last, of which as the Leeds Mercury of today does not appear to have had any information, I hasten to communicate the intelligence through the medium of your paper.
 
-A man'has been taken up and examined before that indefatigable Magistrate Joseph Radcliffe, Esq. and has at length received the offer of his Majesty's pardon, and given the most complete and satisfactory evidence of the horrible murder of Mr. W. Horsfall. In consequence of this, the whole of the wretches concerned in that dreadful transaction, have been taken and committed to York Castle, to take their trial at the ensuing Commission of Assize. — He was with the party (four in number) when Mr. Horsfall was shot.
+A man has been taken up and examined before that indefatigable Magistrate Joseph Radcliffe, Esq. and has at length received the offer of his Majesty's pardon, and given the most complete and satisfactory evidence of the horrible murder of Mr. W. Horsfall. In consequence of this, the whole of the wretches concerned in that dreadful transaction, have been taken and committed to York Castle, to take their trial at the ensuing Commission of Assize. — He was with the party (four in number) when Mr. Horsfall was shot.
 
 They were furnished with loaded pistols by ——— who ordered them to take their stand in the Plantation on Crossland Moor. Two others soon after joined them, and took their station about twenty yards before then. When the unfortunate Gentleman came up, two fired. They then all fled across the fields, and ——— damned them all the way for not firing their pieces. Two ran forwards to Honley, four miles off, and two more stopped at a place called Dungeon Wood, and hid their pistols at ————'s house there, in some flocks— left their great coats, and ran immediately in their jackets to Huddersfield, where the news of the murder had but just arrived. The next morning they all four met at the work-shop of their employer (a cropper) and ———— produced a Bible. and made them all swear not to betray each other.
 
@@ -393,6 +407,16 @@ These villains have frequently been examined before, but have always been discha
 It appears ——— and ———— have been Chiefs in all the disgraceful transactions that have occurred in this part of the country the last twelve months, especially at Rawfolds, where the former was captain of the gun-division, and the latter of the pistol. ————— has thus made discoveries which will lead to the detection of a great number of these offenders, and, it is hoped, ultimately restore the West-Riding to its former tranquility.
 
 ---
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18121024/011/0003
+Leeds Mercury - Saturday 24 October 1812
+
+Our Huddersfield correspondent, under the date of the 22d inst. says:—
+
+"On Saturday night, the 10th inst. four villains went to the house of Mr. Joseph Hirst, clothier, at Lepton, near Huddersfield, and attemppted to break open the door, when his son, Rd. [Richard] Hirst, who rushed out of the house to defend his father's was immediately fired at by one of the villains, and a ball went thro' his hat, took off a part of his hair and grazed the top of his head; but, fortunately, he sustained no other injury.—This house had been attempted several times before.—Mr. Radcliffe is employed in examining these infatuated poople daily, from morning till night, and the police are hourly bringing them in."
+
+---
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003
 ## Leeds Mercury - Saturday 28 November 1812

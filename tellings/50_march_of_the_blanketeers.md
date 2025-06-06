@@ -14,7 +14,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > One day, the people in the second city heard that a great mass of barbarians from the wastelands of the North were on a long march to the capital to complain to the King — or the Prince, or the Ministers, or to anyone who would listen, about how downtrodden they were.
 >
-> There wasn't really any barbarian hoard, but it got the people thinking. Maybe they could petition the Prince about the taxes they had to pay, the poor wages they received, the dire poverty in which they lived. Maybe they could persuade him to stop the Ministers taking the law into their own hands (they knew the King was mad, so it was pointless going to see him). And maybe they could lobby him for a Parliament that represented the common people, "them that hasn't", rather than the Lords and Ladies and just "them that has".
+> There weren't really any barbarian hoard, but it got the people thinking. Maybe they could petition the Prince about the taxes they had to pay, the poor wages they received, the dire poverty in which they lived. Maybe they could persuade him to stop the Ministers taking the law into their own hands (they knew the King was mad, so it was pointless going to see him). And maybe they could lobby him for a Parliament that represented the common people, "them that hasn't", rather than the Lords and Ladies and just "them that has".
 >
 > So they had a meeting, and some of the men stood on a cart and gave a rousing speech to the crowd. And they decided they would march to the city where the Prince lived, up to a week's walk away, to petition him.
 >

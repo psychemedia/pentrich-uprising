@@ -1,6 +1,6 @@
 # Lord Sidmouth's Circular
 
-In an attempt to suppress the Lord Sidmouth sent a circular to Magistrates TO DO
+In an attempt to suppress *"the circulation of Blasphemous and Seditious Pamphlets and Writings"*, Lord Sidmouth sent a circular to Magistrates informing them that in the event of individuals found *"selling, or in any way publishing such Pamphlets or Writings"* they should be *"brought immediately before a Justice of the Peace, under a warrant issued for the purpose, to answer for his conduct"*.
 
 ```{admonition} A circular from the Secretary of State for the Home Office, April 1817
 :class: dropdown
@@ -15,7 +15,7 @@ My Lord , —As it is of the greatest importance to prevent as far as possible t
 
 To his Majesty's Lieutenant in the county of _____.
 
-[TH: we might also note further down the page, the following report: *By accounts received from Leicester we learn that eight of the Luddites, tried at that town , have_been capitally convicted , and received sentence of death . A ninth ( JOHN SLATER ) has been convicted under the Frame-breaking Act , and sentenced to transportation for life . The tenth was seized with convulsion fits during his trial , and being reported by a medical person to be incapable of attending to his defence , was remanded to prison .*]
+[TH: we might also note further down the page, the following report: *By accounts received from Leicester we learn that eight of the Luddites, tried at that town, have_been capitally convicted, and received sentence of death. A ninth (JOHN SLATER) has been convicted under the Frame-breaking Act , and sentenced to transportation for life. The tenth was seized with convulsion fits during his trial, and being reported by a medical person to be incapable of attending to his defence, was remanded to prison.*]
 ```
 
 TO DO

@@ -588,7 +588,7 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180427/026/0003
 
 Leeds Intelligencer - Monday 27 April 1818
 
-Also in : https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180502/016/0004 York Herald - Saturday 02 May 1818
+Also in: https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180502/016/0004 York Herald - Saturday 02 May 1818
 
 To the Editor of the Leeds Intelligencer.
 
