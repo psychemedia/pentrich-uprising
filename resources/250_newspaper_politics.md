@@ -12,7 +12,7 @@ Nottingham Review - radical, Charles Sutton, https://nottinghamcivicsociety.org.
 https://britishnewspaperarchive.co.uk/viewer/bl/0000413/18160204/043/0004
 Windsor and Eton Express - Sunday 04 February 1816
 
-In the Court of King’s Bench, on Friday, the Attorney-General moved for the sentence of the Court upon Mr. Charles Sutton, for a libel inserted in the defendant’s newspaper, entitled 'The Nottingham Review', in which, under the form of a letter to the editor, a comparison was made between the conduct of the British forces at Washington, who had been rewarded, and the riots of the Luddites, at Nottingham, who had been executed.
+In the Court of King's Bench, on Friday, the Attorney-General moved for the sentence of the Court upon Mr. Charles Sutton, for a libel inserted in the defendant's newspaper, entitled 'The Nottingham Review', in which, under the form of a letter to the editor, a comparison was made between the conduct of the British forces at Washington, who had been rewarded, and the riots of the Luddites, at Nottingham, who had been executed.
 
 Mr. Denman having addressed the Court in extentuation of the offence.
 

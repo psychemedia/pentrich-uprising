@@ -107,7 +107,7 @@ that it appears by the London Gazette of October 22, 1814, that it having been h
 
 WAS BROKEN INTO
 
-by a Number of Armed Men, in Disguise, for the purpose murdering the said Thomas Garton; and that the Armed Men in question, after forcing their way into the said Thomas Garton's House, fired upon the Constable and other Persons therein assembled, and such Armed Men, John Garton (Brother of the said Thomas Garton,) and one of his Men, were wounded in the House, and William Kilby was killed near his own Door:———— His Royal Highness the PRINCE REGENT has caused it to be signified by Lord Sidmouth, His Majesty’s Secretary of State for the Home Department, that for the better apprehending and bringing to Justice the perpetrators of this atrocious 
+by a Number of Armed Men, in Disguise, for the purpose murdering the said Thomas Garton; and that the Armed Men in question, after forcing their way into the said Thomas Garton's House, fired upon the Constable and other Persons therein assembled, and such Armed Men, John Garton (Brother of the said Thomas Garton,) and one of his Men, were wounded in the House, and William Kilby was killed near his own Door:———— His Royal Highness the PRINCE REGENT has caused it to be signified by Lord Sidmouth, His Majesty's Secretary of State for the Home Department, that for the better apprehending and bringing to Justice the perpetrators of this atrocious 
 
 OUTRAGE AND MURDER,
 
@@ -140,7 +140,7 @@ An first attempt at a telling...
 ```{admonition} James Towle, tale the first
 :class: dropdown seealso
 
-The trial of James Towle was presided over by Mr. Justice Bayley. Towle was accused of breaking in to Thomas Garton's house and, with several others, breaking Garton's frames. It is said that fifty pounds had been raised in subscription amongst the frameworknitters to help retain Towle’s Counsel.
+The trial of James Towle was presided over by Mr. Justice Bayley. Towle was accused of breaking in to Thomas Garton's house and, with several others, breaking Garton's frames. It is said that fifty pounds had been raised in subscription amongst the frameworknitters to help retain Towle's Counsel.
 
 During the trial, key witness Thomas Garton declared that it was Towle who had originally demanded entry, immediately recognising him from his voice, although he didnlt actually see him: he had known Towle for years, and they only lived a few hundred yards apart.
 
@@ -267,7 +267,7 @@ Nottingham Gazette - Friday 24 March 1815
 
 We have given an accurate and very long account the trial of James Towle for framebreaking, who was acquitted; and the verdict was no sooner communicated immense to an immense crowd of framework-kniiters and others, who were outside the Court, than they rent the air with the loudest acclamations. The Judge, too, was enthusiastically cheered from the Court to his lodgings. Towle is a little man, and of decent appearance.
 
-It is said that not less than fifty pounds was raised in subscription amongst the frameworknitters, and employed in retaining Towle’s Counsel.
+It is said that not less than fifty pounds was raised in subscription amongst the frameworknitters, and employed in retaining Towle's Counsel.
 
 The trial of Mr. Sutton, proprietor of the Review, is postponed, we understand till next Assizes.
 
@@ -293,7 +293,7 @@ John Torr was next sworn, and he stated that Towle went with him some time ago t
 
 ...
 
-On the flat contradiction given by Torr to part of Kilder’s testimony, the Judge remarked in his summing up, that though a person might remember the import of any particular conversation, it did not follow that he must always be correct as to the persons who were present; a circumstance which was frequently proved to most men of observation; and, if confidence could be placed in the testimony of the last three witnesses, it would most materially affect that of Garton's.
+On the flat contradiction given by Torr to part of Kilder's testimony, the Judge remarked in his summing up, that though a person might remember the import of any particular conversation, it did not follow that he must always be correct as to the persons who were present; a circumstance which was frequently proved to most men of observation; and, if confidence could be placed in the testimony of the last three witnesses, it would most materially affect that of Garton's.
 
 ...
 
