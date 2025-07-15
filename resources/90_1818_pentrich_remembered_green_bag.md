@@ -54,5 +54,5 @@ Front Cover
 Thomas Cleary
 J. Onwhyn, 1819
 
-As well as Pentrich , eg Pentridge (eg in Hunt/Green Bag)
+As well as Pentrich, e.g. Pentridge (eg in Hunt/Green Bag)
 

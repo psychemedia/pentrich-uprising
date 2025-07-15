@@ -2,7 +2,7 @@
 
 In report of the trials surrounding the Folly Hall Affair, two names crop up of men who were remanded back to prison apparently by order of Lord Sidmouth under the Suspension Act: *Thomas Riley* and *Richard Lee*, perhaps the same Richard Lee who had appeared as a witness for the defence in the state trial at York in January, 1813. Around the same time, Mr. Benjamin Whiteley, of Holmfirth, was also taken up under the same powers.
 
-```{admonition} Committed to York Castle on suspicion of High Treason, August 1817
+```{admonition} Committed on suspicion of High Treason, August 1817
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000172/18170802/011/0003
 Leicester Chronicle - Saturday 02 August 1817
@@ -48,7 +48,7 @@ Cambridge Chronicle and Journal - Friday 12 December 1817
 On Friday morning, Mr. Staveley, of York Castle, received a warrant from Lord Sidmouth, Secretary of State, authorising him to discharge out of custody, Richard Lee, a state prisoner, upon condition that he should enter into recognizance of £100, to appear on the first day of the next term, in the Court of King's Bench.
 ```
 
-```{admonition} Summoned to the next Court of the King's Bench, December 1817
+```{admonition} Summoned to the Court of the King's Bench, Dec. 1817
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18171218/003/0002
 Cheltenham Chronicle - Thursday 18 December 1817
@@ -75,7 +75,7 @@ Leeds Intelligencer - Monday 09 March 1818
 
 *Mercurii 25 die Februarii, 1818.*
 
-A petition of Richard Lee, of Holmfirth, in the parish of Kirkburton, and County of York, was presented and read; setting forth, that the Petitioner is by trade a clothier, and hath never committed any crimes against the laws and country, being in every case a true subject of His Majesty King George; that on 13th June 1817, a number of men entered his house, with one *Matthew Bradley* at their head, while the Petitioner was at his work; and the said *M. Bradley* said, in a very insulting manner to the Petitioner, "You must go along with us;" the Petitioner replied, "Very well, but you will let me wash and clean myself first;" when the Petitioner had so done, the said *Matthew Bradley* drew a pistol out of his pocket, and said he would blow the Petitioner's brains out; they then took the Petitioner to an inn near his own house, where he begged to speak to his wife respecting his affairs; but, when she came for that purpose, the said *Bradley* said, the Petitioner must go immediately to Huddersfield, as they were ready and would not wait, and that she, meaning the Petitioner's wife, might follow the Petitioner to Huddersfield if they had any thing to say together; to which town they dragged the Petitioner, guarded by a number of ?? soldiers, and lodged him in a stinking dungeon without a bed or fire, although the Petitioner was wet through; that when the Petitioner's wife came afterwards to see the petitioner next day to Huddersfield, at great charge and hazard, in her situation, being then unwell with a complaint in her breast, which was afterwards cut for a cancer; she was not allowed to see the Petitioner at all; that on the next morning, in this uncomfortable state of mind and body, ill at ease on account of his family, he was brought some refreshment, but he could not eat, and about noon he was taken before a Magistrate, *Mr. B. H. Allen*, who said that the Petitioner was charged with High Treason, and must be hanged; whereupon the Petitioner said, "You make my case very black, it is time to be prepared I think;" he replied, "Yes it is:" about the hour of seven o'clock in the evening, the Petitioner said, "Is't not dinner time?" to this *Mr Thomas Atkinson*, who was present, said, "You shall have your dinner in my room, and sleep in it also:" the Petitioner replied that would be very acceptable, as he had no sleep the last night, but the said *Atkinson* then said, "You must make a man of yourself, and tell me all you know;" to which the Petitioner replied, as the truth was, "I know nothing;" that the said B. H. Allen then called the said Atkinson aside, and said, as the Petitioner could hear, "We must tow?er Lee again;" so, about eight o'clock, the Petitioner was remanded to the dungeon again, and about ten o'clock they came and began searching him while he was fast asleep, owing to his fatigue and want of rest: but being awoke by the search, the Petitioner asked, "What are you about?" but no answer was given to him, and they returned to him a three-shilling piece they had taken from his pocket just as he awoke, and kept him in this offensive dungeon five successive nights, and would not permit his wife to speak to him during that time, nor was he allowed to see her for three weeks afterwards: that the Petitioner was afterwards put into an empty room, where he remained six days without any bed or bedding, save only a handful of straw to lie upon, but no covering of any sort whatsoever but his own clothes that he had on: that on the 16th of July he was removed to York Castle like a felon, and ironed, in which state he was kept during the whole of his confinement, being twenty weeks and two days, five days of which time he was obliged to live in the same place, and sleep in the same room and bed with a man charged and afterwards executed for murder, with no other allowance than that of the prison, namely, bread and sixpence per week for nine weeks: that one *Thomas Riley*, confined in the same cell with the Petitioner, on a similar charge of a suspicion of High Treason, no doubt in a fit of derangement of mind, brought on by his confinement, cut his throat in the said prison, and on the day following, the Petitioner and another prisoner whom the Petitioner understood to be a convicted felon, were removed unto the very same cell in which the said *Riley* cut his throat, while the blood of the said *Riley* was still lying all over the floor, in a hard and congealed state: and the Petitioner and the said other prisoner were compelled to clean the same out with only a mop and broom, which,not being sufficient to remove the said blood, the Petitioner was obliged to scrape and take it up with his hands: that by this treatment his affairs and health are very much injured: to remedy things as far as he was able, he signed on the 5th of December a paper called a recognisance, although unconscious of any offence: wherefore, the Petitioner's circumstances being in a ruined state, and his health declining, he is led to pray for such relief as to the wisdom of the House shall seem meet: and that the House will cause inquiry to be made into the conduct of those by whom the Petitioner has been so cruelly treated, and will not pass any Bill of Indemnity to screen them from answering at Law for such unjust treatment of the Petitioner."
+A petition of Richard Lee, of Holmfirth, in the parish of Kirkburton, and County of York, was presented and read; setting forth, that the Petitioner is by trade a clothier, and hath never committed any crimes against the laws and country, being in every case a true subject of His Majesty King George; that on 13th June 1817, a number of men entered his house, with one *Matthew Bradley* at their head, while the Petitioner was at his work; and the said *M. Bradley* said, in a very insulting manner to the Petitioner, "You must go along with us;" the Petitioner replied, "Very well, but you will let me wash and clean myself first;" when the Petitioner had so done, the said *Matthew Bradley* drew a pistol out of his pocket, and said he would blow the Petitioner's brains out; they then took the Petitioner to an inn near his own house, where he begged to speak to his wife respecting his affairs; but, when she came for that purpose, the said *Bradley* said, the Petitioner must go immediately to Huddersfield, as they were ready and would not wait, and that she, meaning the Petitioner's wife, might follow the Petitioner to Huddersfield if they had any thing to say together; to which town they dragged the Petitioner, guarded by a number of ?? soldiers, and lodged him in a stinking dungeon without a bed or fire, although the Petitioner was wet through; that when the Petitioner's wife came afterwards to see the petitioner next day to Huddersfield, at great charge and hazard, in her situation, being then unwell with a complaint in her breast, which was afterwards cut for a cancer; she was not allowed to see the Petitioner at all; that on the next morning, in this uncomfortable state of mind and body, ill at ease on account of his family, he was brought some refreshment, but he could not eat, and about noon he was taken before a Magistrate, *Mr. B. H. Allen*, who said that the Petitioner was charged with High Treason, and must be hanged; whereupon the Petitioner said, "You make my case very black, it is time to be prepared I think;" he replied, "Yes it is:" about the hour of seven o'clock in the evening, the Petitioner said, "Is't not dinner time?" to this *Mr Thomas Atkinson*, who was present, said, "You shall have your dinner in my room, and sleep in it also:" the Petitioner replied that would be very acceptable, as he had no sleep the last night, but the said *Atkinson* then said, "You must make a man of yourself, and tell me all you know;" to which the Petitioner replied, as the truth was, "I know nothing;" that the said B. H. Allen then called the said Atkinson aside, and said, as the Petitioner could hear, "We must tow?er Lee again;" so, about eight o'clock, the Petitioner was remanded to the dungeon again, and about ten o'clock they came and began searching him while he was fast asleep, owing to his fatigue and want of rest: but being awoke by the search, the Petitioner asked, "What are you about?" but no answer was given to him, and they returned to him a three-shilling piece they had taken from his pocket just as he awoke, and kept him in this offensive dungeon five successive nights, and would not permit his wife to speak to him during that time, nor was he allowed to see her for three weeks afterwards: that the Petitioner was afterwards put into an empty room, where he remained six days without any bed or bedding, save only a handful of straw to lie upon, but no covering of any sort whatsoever but his own clothes that he had on: that on the 16th of July he was removed to York Castle like a felon, and ironed, in which state he was kept during the whole of his confinement, being twenty weeks and two days, five days of which time he was obliged to live in the same place, and sleep in the same room and bed with a man charged and afterwards executed for murder, with no other allowance than that of the prison, namely, bread and sixpence per week for nine weeks: that one *Thomas Riley*, confined in the same cell with the Petitioner, on a similar charge of a suspicion of High Treason, no doubt in a fit of derangement of mind, brought on by his confinement, cut his throat in the said prison, and on the day following, the Petitioner and another prisoner whom the Petitioner understood to be a convicted felon, were removed unto the very same cell in which the said *Riley* cut his throat, while the blood of the said *Riley* was still lying all over the floor, in a hard and congealed state: and the Petitioner and the said other prisoner were compelled to clean the same out with only a mop and broom, which, not being sufficient to remove the said blood, the Petitioner was obliged to scrape and take it up with his hands: that by this treatment his affairs and health are very much injured: to remedy things as far as he was able, he signed on the 5th of December a paper called a recognisance, although unconscious of any offence: wherefore, the Petitioner's circumstances being in a ruined state, and his health declining, he is led to pray for such relief as to the wisdom of the House shall seem meet: and that the House will cause inquiry to be made into the conduct of those by whom the Petitioner has been so cruelly treated, and will not pass any Bill of Indemnity to screen them from answering at Law for such unjust treatment of the Petitioner."
 
 ```
 
@@ -117,7 +117,7 @@ After a few words from Mr. Favell, in reply, the amendment was put and negatived
 After thanks to Messrs. Favell, Waithman, and the lord mayor, the hall was adjourned.
 ```
 
-```{admonition} A Commons Hall of the liverymen of London assembled, Marh 1818
+```{admonition} A Commons Hall of the liverymen of London, March 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0002412/18180301/012/0003
 Weekly Intelligence - Sunday 01 March 1818
@@ -146,7 +146,7 @@ Mr. WAITHMAN seconded the resolutions.
 
 Mr. WOOLER moved a series of resolutions in an amendment.
 
-Mr. HUNT, in reading the amendment, alluded to the trials at Derby. He would not defend the persons who were engaged in the riots that had taken place in that county; but they were only paupers instigated by the villain Oliver. They might have been convicted, one for murder, some for burglary, and some for robbery; but that would not do—they wanted convictions for high treason. They got the under-sheriff to pack a jury, in order to get them convicted and execated for high treason. Mr. Lockett had canvassed the neighbourhood, and examined who was on the right side and who was not, and then resigned the office of undersheriff, and became solicitor for the prosecution against all law and all justice. He got a jury of who had been terrified with Luddism, that they would have found the men guilty of bigamy had that been the charge against them. After the first verdict, the Judge rose up and said, "Gentlemen, I am very sorry that you have more cases to come before you; but, gentlemen, you have rendered an incalculable service to your country." He had heard the Judge use those expressions, and a juryman sitting beside him had said, "that's a pretty good hint to the rest of us, however!" but they were to be betrayed by their own counsel as well as by others: for one of them had promised to move an arrest of judgment which had never been done.
+Mr. HUNT, in reading the amendment, alluded to the trials at Derby. He would not defend the persons who were engaged in the riots that had taken place in that county; but they were only paupers instigated by the villain Oliver. They might have been convicted, one for murder, some for burglary, and some for robbery; but that would not do—they wanted convictions for high treason. They got the under-sheriff to pack a jury, in order to get them convicted and executed for high treason. Mr. Lockett had canvassed the neighbourhood, and examined who was on the right side and who was not, and then resigned the office of undersheriff, and became solicitor for the prosecution against all law and all justice. He got a jury of who had been terrified with Luddism, that they would have found the men guilty of bigamy had that been the charge against them. After the first verdict, the Judge rose up and said, "Gentlemen, I am very sorry that you have more cases to come before you; but, gentlemen, you have rendered an incalculable service to your country." He had heard the Judge use those expressions, and a juryman sitting beside him had said, "that's a pretty good hint to the rest of us, however!" but they were to be betrayed by their own counsel as well as by others: for one of them had promised to move an arrest of judgment which had never been done.
 
 The amendments were put and negatived, and the original resolutions carried almost unanimously.
 
@@ -155,7 +155,7 @@ It was then agreed that petitions founded on the resolutions should be presented
 The thanks were then given to Mr. Favell and Mr. Waithman, for their services, and to the Lord Mayor for his conduct in the chair, and the Hall broke up.
 ```
 
-So what were the actual reaolutions that were moved by Mr. Favell?
+So what were the actual resolutions that were moved by Mr. Favell?
 
 ```{admonition} Stating the Resolutions, March 1818
 :class: dropdown
@@ -227,7 +227,7 @@ Once the petition was presented to Parliament, the *Leeds Intelligencer* saw an 
 
 *Several editions of the Leeds Mercury over this period are missing from the British Newspaper Archive.*
 
-```{admonition} One of the greatest firebrands in the neighbourhood, March 1818
+```{admonition} A great firebrand of the neighbourhood, March 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003
 Leeds Intelligencer - Monday 09 March 1818
@@ -260,7 +260,7 @@ But the torments of his guilty conscience could not be endured; and, in York Cas
 
 We are in possession of many facts respecting his past life, but we wish not to rake up more than are sufficient to shew the kind of grounds on which Mr. Michael Stocks can prevail on Lord Milton to obtrude  upon Parliament causeless complaints of the conduct of Ministers.
 
-The fellow-prisoner of Riley, Richard Lee, has lived to send up a string of misrepresentations as to his own treatment. The following documents, being his position, the deposition of Richard Carlson, observations, &c. unveil another of the vile outrages offerred to the dignity and good sense of the Legislature.
+The fellow-prisoner of Riley, Richard Lee, has lived to send up a string of misrepresentations as to his own treatment. The following documents, being his position, the deposition of Richard Carlson, observations, &c. unveil another of the vile outrages offered to the dignity and good sense of the Legislature.
 ```
 
 ```{admonition} The Leeds Intelligencer says..., March 1818
@@ -271,7 +271,7 @@ Royal Cornwall Gazette - Saturday 14 March 1818
 Thomas Riley. — The *Leeds Intelligencer* says: "In the *Mercury* we have upwards of a column chiefly respecting Riley, the object of which is to make it appear that that unhappy wretch was unjustly charged with high treason, and that he put an end to his existence in York Castle, on the 7th of October last, not from feelings of conscious guilt, but in consequence of the hardships to which he was subjected by his imprisonment. In reply to all this trash, it is only necessary to state, that before Riley was imprisoned at York, that is, on the day after his apprehension at Huddersfield, in June last, he attempted to hang himself."
 ```
 
-The *Intelligencer* then reprinted Lee's petition (as included above), a statement by *Richard Carlton*, who had shared a cell with Lee and claimed to have been the person who cleared up Riley's cell, and observations by the clerk to the Hudderfield magistrates, and of Lee's gaoler at York.
+The *Intelligencer* then reprinted Lee's petition (as included above), a statement by *Richard Carlton*, who had shared a cell with Lee and claimed to have been the person who cleared up Riley's cell, and observations by the clerk to the Huddersfield magistrates, and of Lee's gaoler at York.
 
 ```{admonition} The statement of Richard Carlton, March 1818
 :class: dropdown
@@ -292,7 +292,7 @@ In the matter of the Petition of *Richard Lee*, late a prisoner in His Majesty's
 Sworn before me, Thomas C. R. Read, one of the visiting Magistrates at the Castle, at York, March 4th, 1818.
 ```
 
-```{admonition} Observations by Mr. Allis, Clerk to the Magistrates at Huddersfield, March 1818
+```{admonition} Observations by the Clerk to the Magistrates, March 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003
 Leeds Intelligencer - Monday 09 March 1818
@@ -334,7 +334,7 @@ The room occupied by Riley and Lee, is 23ft. long, 13 1/2 f. wide, 15ft. high, a
 Lee looked extremely well when he was discharged.
 ```
 
-```{admonition} Lord Lascelle's comments on Lee's petition and Burdett's reply, March 1818
+```{admonition} Lord Lascelle comments, March 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18180311/017/0004
 Sun (London) - Wednesday 11 March 1818
@@ -349,7 +349,7 @@ Sir F. BURDETT said, that the sort of testimony which the Noble Lord (Lascelles)
 
 ```
 
-```{admonition} On Lee's claims being investigated by Magistrates, March 1818
+```{admonition} On Lee's claims being investigated, March 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003
 
@@ -363,7 +363,7 @@ RICHARD LEE.— The following account is given in the *Leeds Intelligencer* of a
 
 The full editorial provided in the *Leeds Intellgencer* of [Monday 23 March 1818](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180323/018/0003) was also reprinted in the London press:
 
-```{admonition} Another take on the Intelligencer's report of Lee's Meeting with the Magistrates, March 1818
+```{admonition} Another take on the Intelligencer's report, March 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18180324/008/0003
 Sun (London) - Tuesday 24 March 1818
@@ -582,7 +582,7 @@ P.S. It may not be amiss, in order to show the manner in which justice was admin
 
 It seems, however, that Lee's testimony did not necessarily have the support of the local clergy:
 
-```{admonition} The vilest ingratitude and an alleged innocency of conduct, April 1818
+```{admonition} The vilest ingratitude, April 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180427/026/0003
 
@@ -612,7 +612,7 @@ Holmfirth, April 23, 1818
 
 But just as William Keeling took issue with Richard Lee, Richard Lee in turn took issue with that curate from Holmfirth:
 
-```{admonition} The busiest mortal alive, in sowing discord and strife. May 1818
+```{admonition} Sowing discord and strife, May 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18180509/014/0004
 Leeds Mercury - Saturday 09 May 1818
@@ -641,9 +641,9 @@ I am Sir, your obedient Servant,
 RICHARD LEE.
 ```
 
-The final word on the matter that I have found to date seems to side *against* Richard Lee. But then, we might expect nothing less of an aliased correspondent in the *Leeds Intelligenecer*:
+The final word on the matter that I have found to date seems to side *against* Richard Lee. But then, we might expect nothing less of an aliased correspondent in the *Leeds Intelligencer*:
 
-```{admonition} Master-pieces of falsehood and misrepresentation?, May 1818
+```{admonition} Falsehood and misrepresentation? May 1818
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180518/022/0003
 Leeds Intelligencer - Monday 18 May 1818

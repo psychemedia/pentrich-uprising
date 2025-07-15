@@ -197,7 +197,7 @@ HOUSE OF LORDS
 
 Thursday.`[Feb 27th, 1812]`—Several Bills of a private nature were read a first time, as was the Exchequer Bills Funding Bill second time. On the motion for the second reading of the Nottingham Frame-breaking Prevention Bill, Lord Byron, in a maiden speech, stated his conviction that the rioters were driven to the commission such offences by absolute want, and that had a proper investigation been instituted in the earlier stages of the disturbances, the present measure would have been unnecessary. He concluded by recommending that their wants should be inquired into and relieved.
 
-Lords Holland, Grenville, Lauderdale, and Grosvenor, spoke against it; and Lords Liverpool & Eldon in support of it—after which Lord Lauderdale's amendment for adjourning the debate till Monday, being negatived by 32 to 17, the Biii was read a second time.
+Lords Holland, Grenville, Lauderdale, and Grosvenor, spoke against it; and Lords Liverpool & Eldon in support of it—after which Lord Lauderdale's amendment for adjourning the debate till Monday, being negatived by 32 to 17, the Bill was read a second time.
 ```
 
 In prosecuting the men charged with frame-breaking, the maximum sentence that could be applied for *frame-breaking*, a simople felony, was transportation; but if it could be proven that they had entered with an intention of burglaty, then the penalty was a capital one.

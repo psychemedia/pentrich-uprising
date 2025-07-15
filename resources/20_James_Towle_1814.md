@@ -142,7 +142,7 @@ An first attempt at a telling...
 
 The trial of James Towle was presided over by Mr. Justice Bayley. Towle was accused of breaking in to Thomas Garton's house and, with several others, breaking Garton's frames. It is said that fifty pounds had been raised in subscription amongst the frameworknitters to help retain Towle's Counsel.
 
-During the trial, key witness Thomas Garton declared that it was Towle who had originally demanded entry, immediately recognising him from his voice, although he didnlt actually see him: he had known Towle for years, and they only lived a few hundred yards apart.
+During the trial, key witness Thomas Garton declared that it was Towle who had originally demanded entry, immediately recognising him from his voice, although he didn't actually see him: he had known Towle for years, and they only lived a few hundred yards apart.
 
 As the Luddites were forcing entry, Garton had retreated to his bedroom upstairs; he'd listened as they smashed his frames, knew there was no point trying to stop them. When he was sure they were gone, he dressed himself and went to fetch the local constable, then immediately went round to Towle's house, demanding Towle's presence, but the constable claimed he had no authority to enter the property, so Garton whent to find the constable at Old Basford who *would* search the house. But to no avail.
 
@@ -168,7 +168,7 @@ As it was, Bamford had got up at three am, when Towle stirred and gave him a can
 
 When the prosecuting counsel then asked him about the circumstances of his son having been shot in the attack on Garton's, the Judge interposed, and stopped any further questions on that account.
 
-In summing up, the Judge advised to the Jury that the only evidence limnking Towle to the crime was the claim that his voice had been heard, a form of testimony that could not be relied upon. There had been the evidence from the pub the night before the attack, but Towle was surely not so indiscreet if he had been serious about breaking Garton's frames the following night. It's true he might have been an accessory — he might have lended his chisel to the frame breakers that night — but he was charged with the act itself, not being an accessory to it. As for what Garton had or hadnlt send about having Towle taken up if any of his frames were broken? Well, it was a case "he said", "oh, no, I didn't", and the jury would have to decide for themselves how to interpret *that* evidence.
+In summing up, the Judge advised to the Jury that the only evidence limnking Towle to the crime was the claim that his voice had been heard, a form of testimony that could not be relied upon. There had been the evidence from the pub the night before the attack, but Towle was surely not so indiscreet if he had been serious about breaking Garton's frames the following night. It's true he might have been an accessory — he might have lended his chisel to the frame breakers that night — but he was charged with the act itself, not being an accessory to it. As for what Garton had or hadn't send about having Towle taken up if any of his frames were broken? Well, it was a case "he said", "oh, no, I didn't", and the jury would have to decide for themselves how to interpret *that* evidence.
 
 And so the jury to, and spent the next half an hour or so in their box, deliberating.
 
@@ -265,7 +265,7 @@ The judge addressed the prisoner before he left the bar. He said he could not de
 https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18150324/018/0003
 Nottingham Gazette - Friday 24 March 1815
 
-We have given an accurate and very long account the trial of James Towle for framebreaking, who was acquitted; and the verdict was no sooner communicated immense to an immense crowd of framework-kniiters and others, who were outside the Court, than they rent the air with the loudest acclamations. The Judge, too, was enthusiastically cheered from the Court to his lodgings. Towle is a little man, and of decent appearance.
+We have given an accurate and very long account the trial of James Towle for framebreaking, who was acquitted; and the verdict was no sooner communicated immense to an immense crowd of framework-knitters and others, who were outside the Court, than they rent the air with the loudest acclamations. The Judge, too, was enthusiastically cheered from the Court to his lodgings. Towle is a little man, and of decent appearance.
 
 It is said that not less than fifty pounds was raised in subscription amongst the frameworknitters, and employed in retaining Towle's Counsel.
 
