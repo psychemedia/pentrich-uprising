@@ -1,10 +1,10 @@
 # Ned Ludd
 
-I supsect that most people today are familiar with the term "Luddite", often used as an insult, to describe someone who is reluctant to use, or adopt, any technology invented after the technologies they grew up with.
+I suspect that most people today are familiar with the term "Luddite", often used as an insult, to describe someone who is reluctant to use, or adopt, any technology invented after the technologies they grew up with.
 
-Some may even claim to know the origin of the term, as deriving from the name *Nedd Ludd*. But fewer people know *his* supposed story. Or the stories of the original Luddites, the frame-breakers and machine breakers of the north of England just over two hundred years ago now. Or even the price they paid for their actions.
+Some may even claim to know the origin of the term, as deriving from the name *Ned Ludd*. But fewer people know *his* supposed story. Or the stories of the original Luddites, the frame-breakers and machine breakers of the north of England just over two hundred years ago now. Or even the price they paid for their actions.
 
-So let's start with the myth, and the character of "Nedd Ludd", or as he was properly known, *Edward Ludlam*? Who was he, and why is it his name that became attached to the machine breaking protests that started in the second decade of the 9th century on the Derbyshire-Nottinghamshire border?
+So let's start with the myth, and the character of "Ned Ludd", or as he was properly known, *Edward Ludlam*? Who was he, and why is it his name that became attached to the machine breaking protests that started in the second decade of the 9th century on the Derbyshire-Nottinghamshire border?
 
 ```{admonition} Ned Ludd, 1811
 :class: dropdown

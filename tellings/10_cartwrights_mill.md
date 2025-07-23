@@ -42,7 +42,7 @@ Cartwright had made his way to bed about ??. Also in the mill were ??
 
 Two guards?? posted outside were easily overcome by the Luddites, but a dog chained in the yard sounded the alarm, woke? Cartwright, who sounded the alarm.
 
-Windows were broken, a huge axe/hammer? the reinforced door, nails? hammering into it to prevent the blow of axes doing too much damage. Gunfire ... Cartwight had prepared vitriol — sulphuric acid — to be poured on the heads of the attackers should then make it inside the mill.
+Windows were broken, a huge axe/hammer? the reinforced door, nails? hammering into it to prevent the blow of axes doing too much damage. Gunfire ... Cartwright had prepared vitriol — sulphuric acid — to be poured on the heads of the attackers should then make it inside the mill.
 
 One man lost his hat.
 

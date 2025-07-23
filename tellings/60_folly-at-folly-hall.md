@@ -80,7 +80,7 @@ The following description identifies *two* tales that claim to describe the even
 
 ```{admonition} The Folly Hall Fight, Philip Ahier, 1942
 :class: dropdown
-Philip Ahier, [*The Legends and Traditions of Huddersfield and Its District: Volume I, Part V (1942)](https://huddersfield.exposed/wiki/The_Legends_and_Traditions_of_Huddersfield_and_Its_District:_Volume_I,_Part_V_(1942)_by_Philip_Ahier#page/n63/mode/1up)
+Philip Ahier, [*The Legends and Traditions of Huddersfield and Its District*, Volume I, Part V (1942)](https://huddersfield.exposed/wiki/The_Legends_and_Traditions_of_Huddersfield_and_Its_District:_Volume_I,_Part_V_(1942)_by_Philip_Ahier#page/n63/mode/1up)
 
 p304-6
 
@@ -314,6 +314,10 @@ Presenting Fire Arms with intent to Shoot.—John Rhodes, woolsorter, Linfitts, 
 Procuring Riotous Assemblies to be held.—Thomas Riley, tailor, 60, Crosland Moor.—*Leeds Mercury.*
 ```
 
+## On Trial — York Lammas Assizes, 1817
+
+Although the York Lammas Assizes did not have the full weight of the Special Commission assembled at York Castle for the trial of the Huddersfield Luddites several years, the outcome of that porceedings must surely have weighed on the minds of the Folly Hall men, their families, and their communities.
+
 ```{admonition} Yorkshire Lammas Assizes, July 1817
 :class: dropdown
 Lancaster Gazette - [Saturday 26 July 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18170726/015/0004)
@@ -340,8 +344,6 @@ Thomas Riley, charged with being accessory before the fact, and procuring, couns
 ...
 
 ```
-
-## On Trial — York Lammas Assizes, 1817
 
 A comprehensive report, largely reprinted from a report in the Leeds Mercury of [Saturday 26 July 1817](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170726/012/0003), also appeared in the *Carlisle Patriot*. It describes the trial on Friday, July 25th, 1817, of several men for stealing arms (Joseph Sykes, Isaac Johnson, Joshua Thewlis, Abraham Oldham*, John Oldham, Benjamin Donkersly, George Taylor, and Benjamin Shaw (the latter two not yet caught)), and on the Saturday for riotously assembling on June 9th and firing at David Alexander (Benjamin Lockwood, George Woffenden, John Wilson, and Joseph Jysop).
 
@@ -554,7 +556,7 @@ The Lord Lieutenant was present during these trials.— The verdicts, we underst
 
 For the prosecuting counsel, the verdicts were certainly not what they had hoped for:
 
-```{admonition} Mr. Baron Wood proceeded to pass sentence, August 1817
+```{admonition} Mr. Baron Wood passes sentence, August 1817
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18170804/004/0002
 Morning Post - Monday 04 August 1817
@@ -575,7 +577,7 @@ The Court met this morning at ten o'clock, and the convicted prisoners being cal
 
 THe week after the trial, the *Leeds Mercury* reported on the whole of the trial, re-covering the events of both the Friday and the Saturday. In Baron Wood's summing up of Friday's trial on blurglariously obtaining guns, the Judge was scathing against the prosecution witnesses.
 
-```{admonition} THe Huddersfield Plot, Friday Trial, August 1817
+```{admonition} The Huddersfield Plot, Friday Trial, August 1817
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0002
 Leeds Mercury - Saturday 02 August 1817
@@ -660,9 +662,9 @@ The Jury turned round in their box for a few moments, and then pronounced all th
 
 ```
 
-For the Saturday trial, of Lockwood and others for malicious shooting, BAron Wood appears to have done what he could in casting doubt as to whether those charged could be identified without significant doubt.
+For the Saturday trial, of Lockwood and others for malicious shooting, Baron Wood appears to have done what he could in casting doubt as to whether those charged could be identified without significant doubt.
 
-```{admonition} THe Huddersfield Plot, Saturday Trial, August 1817
+```{admonition} The Huddersfield Plot, Saturday Trial, August 1817
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0002
 Leeds Mercury - Saturday 02 August 1817
@@ -953,7 +955,7 @@ In reference to the Trials the Yorkshire Rioters, published in our last paper, t
 
 The *Carlisle Patriot* report also includes a copy of a letter sent to the *Leeds Intelligencer*, and the editor of that publication's response:
 
-```{admonition} Villainous attempts to attach vile imputations on the Magistracy, August 1817
+```{admonition} Vile imputations against the Magistracy, August 1817
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000365/18170809/003/0002
 ## Carlisle Patriot - Saturday 09 August 1817
@@ -975,7 +977,7 @@ Sir, —From the manner in which my Name has been brought forwards in the *Leeds
 
 The *Leeds Intelligencer* excerpt was taken from the issue dated *Monday 04 August*, which then continued in that original publication as follows:
 
-```{admonition}  We cannot refrain from presenting a few extracts, August 1817
+```{admonition} Presenting a few extracts, August 1817
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000268/18170804/018/0003
 
@@ -1069,7 +1071,7 @@ OBSERVER
 
 Even though it had already been published earlier that week (Monday August 04, 1817) in the *Intelligencer*, Thomas Atkinson's letter to the editor of the *Mercury* was not published in the *Leeds Mercury* until Saturday 09 August, 1817. That issue also included a discussion Hearnshaw's declaration and the various responses to it, including one from Mr. R. Haigh Allen, as well as the one from Thomas Atkinson:
 
-```{admonition} The Prosecution of the Huddersfield rioters, August, 1817
+```{admonition} Prosecution of the Huddersfield rioters, August, 1817
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170809/007/0003
 ## Leeds Mercury - Saturday 09 August 1817
@@ -1186,4 +1188,4 @@ Sources:
 - leeds_mercury.md
 
 ---
-SEE 61_unjustified_dentention.md
+SEE 61_unjustified_detention.md

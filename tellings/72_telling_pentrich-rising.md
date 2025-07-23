@@ -40,7 +40,7 @@ And then we fight
 ```
 
 ```{seealso}
-*In my dreams, I get to tell my protest set at a matinee show somewhere in the vicinity of an FD gig...
+*In my dreams, I get to tell my protest set at a matinee show somewhere in the vicinity of an FD gig...*
 ```
 
 In researching the tale, it also led me to the Folly Hall uprising, in Huddersfield, which was also new to me. As the events were connected, it seemed to make sense to make a single, short tale that combined them, and this was the result...
