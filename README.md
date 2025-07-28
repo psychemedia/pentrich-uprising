@@ -4,7 +4,7 @@ A long-standing interest in the Luddites, combined with the rebel tale of the "P
 
 The original plan was to try to give it an outing in the Rebel Tent, at Beautiful Days, in 2024... *If anyone can help me secure that gig, I'll get a round in... :-)*
 
-## Tradtional story set
+## Traditional story set
 
 A WIP set of traditional tales — the story is what's left when the facts have been forgotten — that start and end in Pentrich, or thereabouts, but also wander into neighbouring counties.
 

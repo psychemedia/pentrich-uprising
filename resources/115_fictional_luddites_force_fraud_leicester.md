@@ -7,6 +7,17 @@ by Henty, G. A. (George Alfred), 1832-1902
 Publication date [1895?]
 
 
+- ENSLAVED BY AN OATH., BY MRS. G. Linnaeus Banks [a copyright fictional tale featuring George Mellor]
+- MASTER OF THE MOAT, OLIVER THE SPY. A TALE OF THE WEST RIDING LUDDITES. BY JOSEPH BURGESS
+- FORCE & FRAUD, LUDDITES IN LEICESTER. By JAS. S. BORLASE
+
+Ben o Bills, the Luddite, D. F. Sykes
+
+https://sites.google.com/a/york.ac.uk/yorkshirewriters/the-luddite-novels-4-trant-daisy-baines
+
+https://sites.google.com/a/york.ac.uk/yorkshirewriters/yorkshire-luddism-fiction-and-commentary-1-tourism?authuser=0 and on for 10 parts in all (via More menu)
+
+
 Melton Mowbray Mercury and Oakham and Uppingham News - Thursday 18 September 1884
 
 FORCE & FRAUD, LUDDITES IN LEICESTER. By JAS. S. BORLASE.

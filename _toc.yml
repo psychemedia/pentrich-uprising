@@ -10,6 +10,13 @@ parts:
   - file: histories/16_topham_1812
   - file: histories/53_topham_1816
   - file: tellings/07_tale_of_benjamin_topham
+- caption: The Yorkshire Luddites
+  chapters:
+  - file: histories/20_huddersfield_unsettled
+  - file: histories/22_cartwrights_mill_1812
+  - file: tellings/10_cartwrights_mill
+  - file: histories/24_horsfall_shooting
+  - file: histories/26_special_commission_york_1813
 - caption: The Tragedy of James Towle
   chapters:
   - file: resources/20_James_Towle_1814
@@ -19,9 +26,13 @@ parts:
   - file: tellings/50_march_of_the_blanketeers
   - file: resources/62_march_1817
   - file: tellings/52_spa_fields_trial
+- caption: Last of the Luddites
+  chapters:
+  - file: resources/65_april_1817
 - caption: An Ill-Fated Rebellion
   chapters:
   - file: tellings/72_telling_pentrich-rising
   - file: tellings/60_folly-at-folly-hall
   - file: tellings/61_unjustified_detention
+
 

@@ -1,32 +1,159 @@
 
+spellchecker --files  *.md --dictionaries rce-dictionary.txt  > spellingreport.txt`
+
+oath
+
+https://www.historyhome.co.uk/c-eight/distress/oath.htm
+
+I, AB, of my own free will and accord do hereby promise and swear that I will never reveal any of the names of any one of this secret Committee, under the penalty of being sent out of this world by the first Brother that may meet me. I furthermore do swear, that I will pursue with unceasing vengeance any Traitors or Traitor, should there any arise, should he fly to the verge of ---- I furthermore do swear that I will be sober and faithful, in all my dealings with all my Brothers, and if ever I decline them, my name to be blotted out from the list of Society and never to be remembered, but with contempt and abhorrence, so help me God to keep this our Oath inviolate.
+
+---
 
 https://ia803409.us.archive.org/16/items/writings-of-the-luddites/Writings%20of%20the%20Luddites.pdf
 
+Measuring worth - retail price index / income / earnings / inflation etc sixteenth seventeenth eighteenth nineteenth century https://www.measuringworth.com/datasets/ukearncpi/
 
 
+https://archive.org/details/historyofmachine00felkuoft/page/152/mode/2up?q=%22cut-up%22+%22wide-frame%22
+A history of the machine-wrought hosiery and lace manufactures
 
 
+https://sites.google.com/a/york.ac.uk/yorkshirewriters/the-luddite-novels
+The Luddite Novels
 
-https://archive.org/details/memorialsofoldde00coxjuoft
-Memorials of old Derbyshire
-by Cox, J. Charles (John Charles), 1843-1919
 
-Publication date 1907
+https://britishnewspaperarchive.co.uk/viewer/bl/0000176/18861112/066/0011
+Nottinghamshire Guardian - Friday 12 November 1886
 
-p35-7
+ENSLAVED BY AN OATH., BY MRS. G. Linnaeus Banks
+
+[another copyright fictional tale featuring George Mellor]
+
+
+https://archive.org/details/bondslavesstory00bankgoog
+Bond Slaves: The Story of a Struggle
+by George Linnaeus Banks
+
+Publication date 1893
+
+--
+
+https://archive.org/details/yorkshirenotesa01turngoog/page/n6/mode/2up?q=luddites
+Yorkshire notes and queries
+by Turner, J. Horsfall (Joseph Horsfall), b. 1845
+
+Publication date 1888
+
+--
+
+https://bl.iro.bl.uk/concern/exhibition_items/d2cd4e82-5847-48a8-a5e1-4b8b3922f6dd
+
+Living with Machines: Human stories from the industrial age (exhibition board text)
+Mia Ridge
+John McGoldrick 
+2022
+
+---
+
+https://catalogue.nla.gov.au/catalog/6021935
+The blackfaces of 1812 [electronic resource] : consisting of Dr. Taylor's letter regarding the disturbances in Bolton in 1812, William Moor's letter to the late Col. Fletcher : with an introduction containing some notice of the spy system in 1812, 1817, and 1819
+
+---
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004152/19040318/044/0003
+
+MASTER OF THE MOAT, OLIVER THE SPY. A TALE OF THE WEST RIDING LUDDITES. BY JOSEPH BURGESS. Autho
+
+Chapter XIV
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004152/19040415/044/0003
+Yorkshire Factory Times - Friday 15 April 1904
 
 TO DO
 
-To this county belongs the discredit of being the last place in the provinces where that horrible medley of butchery and torture — "hung, drawn, and quartered" — which our forefathers invented as a penalty for high treason, was carried out, although happily in a somewhat modified form. The actually last instance occurred in 1820, when the five Cato Street conspirators were beheaded after being hung. This shocking form of death fell to the lot of a Derbyshire framework knitter and two stonemasons in 1817. This was the time when the distress amongst the working classes in the Midlands had come to a climax, when every project of constitutional reform was stifled, and when a few half-starved men, deliberately incited by the spies and informers of those in authority, planned an abjectly foolish but riotous and murderous scheme to obtain relief, which was hatched at the "White Horse" Inn, Pentrich. The two or three score of labourers who took part in this rising were almost instantly scattered by the yeomanry; but the policy of the Government seems to have been to use this instrument
+MASTER OF THE MOAT, OLIVER THE SPY. A TALE OF THE WEST RIDING LUDDITES. BY JOSEPH BURGESS. Author of "The Manchester Martyrs." Bills-o% Jacks," "Maggio etc.
 
-to terrify the populace at large, and thereby to crush all attempts at reform. Hence everything was done that could be to exaggerate the so-called rebellion, and although the misguided ringleaders richly deserved punishment at the hands of the ordinary authority, it seems monstrous to have charged the offenders with high treason, and with the crime of levying war against the King. However, a special commission of four judges was appointed, and the trials at Derby, which extended over ten days, began on 1 5th of October. Most of the forty-six prisoners were condemned to transportation, but three of the ringleaders, James Brandreth, William Turner, and Isaac Ludlam, received the capital sentence for high treason. The prince regent signed the warrant for the execution of these three "traitors," drawn from the humblest station in life, remitting that part of the sentence which related to "quartering," with other absolutely unspeakable details, but ordering the hanging, drawing, and beheading. Two axes were ordered of Bamford, a smith of Derby, the pattern being taken from one in the Tower, which was supposed to have served in like cases.
+--
 
-On the morning of Friday, the seventh of November, the three miserable men, heavily ironed, were jolted round the prison yard on a horse-drawn hurdle or sledge, prepared, like the block, by Finney, the town joiner. On mounting the scaffold in front of the county jail, Brandreth and his fellows briefly testified that they had been brought to this plight by the tempting of Oliver, the degraded Government spy. They hung from the gallows for half an hour. Brandreth's body was the first taken down and placed on the block. The greatest difficulty had been experienced in finding an executioner, but at last the high fee of twenty-five guineas secured several applicants. The chosen headsman was a Derbyshire collier; he was masked, and his identity was never disclosed. The mutilation was bungled; but when accomplished, the executioner seized the head by the hair, and holding it
 
-at arm's length in three different directions over the crowd, thrice proclaimed, "Behold the head of the traitor Jeremiah Brandreth." The other two were served in like manner. The scaffold was surrounded by a strong force of cavalry with drawn swords, and several companies of infantry were also present The dense crowd was quite over-awed, and could utter no other protest than "terrifying shrieks."
+See also - Luddites retold
 
-In that crowd was the poet Shelley. The day before the execution, the Princess Charlotte died in childbirth, and Shelley seized the opportunity to write a vigorous and now most rare pamphlet drawing a contrast between che two deaths.
+1811 Notts brief- crappy work; truck payments
+Justifiable homicide nov 1811 https://ludditebicentenary.blogspot.com/2011/11/11th-november-1811-john-westley-luddite.html
 
-The block on which these three men were beheaded is still preserved in the new county gaol at Derby. It consists of two 2| in. planks fastened together, and measures 6 ft. 6 in. by 2 ft. Six inches from one end a piece of wood 3 in. high is nailed across. The whole is tarred over, but the wood, strangely enough, remains damp in places. A tradition used to be current that the block sweated every seventh of November, on the anniversary of the execution; the writer visited it on that day in 1888, and found no difference in the sweating to what he had noticed in the previous week.
+Pentrich / Pentridge Dec 1811 https://ludditebicentenary.blogspot.com/2011/12/7th-december-1811-luddites-return-to.html Mr B Topham
+(and from 1816 "It is very singular, that three of the these frames belong to Mr. Benjamin Topham, of Pentrich, Derbyshire, and were broken about four years ago, in his shop, at that village, along with a number more, two of which have made very little work, and the other none since they were repaired." https://ludditebicentenary.blogspot.com/search?q=Pentrich)
+
+
+First Luddite attack, Arnold, March 11, 1811 https://ludditebicentenary.blogspot.com/2011/03/11th-march-1811-first-luddite-attack-at.html
+continued to end of that month: https://ludditebicentenary.blogspot.com/2011/03/26th-march-1811-public-meeting-between.html
+
+Then restarted:
+https://ludditebicentenary.blogspot.com/2011/10/22nd-october-1811-frame-breaking.html
+
+
+[Also 15 miles or so north of Derby, 15 miles or so south of Chesterfield]
+
+Machine breaking starts, march 1811, near Mansfield https://ludditebicentenary.blogspot.com/2011/03/; then in Arnold.
+
+
+Dec 1811 Topham  https://ludditebicentenary.blogspot.com/2011/12/1st-december-1811-derbyshire-luddites.html then frames broken
+https://ludditebicentenary.blogspot.com/2011/12/22nd-december-1811-william-milnes.html
+
+Burglary https://ludditebicentenary.blogspot.com/2011/12/25th-december-1811-burglary-at-south.html
+
+And in New Radford https://ludditebicentenary.blogspot.com/2011/12/1st-december-1811-frame-breaking-at-new.html
+
+Ned Ludd, a mythical character, in whose name these things are done. But Ned Ludd is not any one person. Rather like Jack, the hero of many a traditional tale, Jack, the everyman, Ned Ludd is an every-man of the working people. He may not exist as a person, but he exists as an idea. And as local leaders rise up and gather men together to act in his name, in a sense, they become him. They all become him.
+
+March 1816 New Radford - frames owned by Topham,
+
+And so we find ourselves back at Pentrich. Remember Pentrich, fifteen miles or so — a half day's walk — North West of Nottingham, where in late 1816 and early 1817, ?? Topham had ?? destroyed? Pentrich.
+
+
+--
+
+Nottinghamshire Luddites
+http://www.nottsheritagegateway.org.uk/people/luddites.htm
+
+Stocking manufacture
+https://history.pictures/2020/03/18/14-9-hose-stocking-manufacture/
+
+http://www.nottsheritagegateway.org.uk/people/frameworkknitters.htm
+
+
+TO visit Ruddington Framework Knitters museum possible venue
+https://frameworkknittersmuseum.org.uk/
+
+calverton folk museum
+
+
+https://archive.org/details/historyofmachine00felkuoft/page/n7/mode/2up
+William Felkin 1867
+
+History of stocking making etc framework knitting, lace, lace making on stocking-frame
+
+Chapter XVI Luddism pp227-42    
 
 ---
+
+
+Search legistlation
+on archive.org, in content:
+title:"The statutes of the United Kingdom of Great Britain and Ireland" 
+
+
+Parliament discuss nottingham
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18120215/003/0002
+Morning Chronicle - Saturday 15 February 1812
+
+also 
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0001651/18120215/010/0001?browse=true
+Globe - Saturday 15 February 1812
+
+
+etc
+

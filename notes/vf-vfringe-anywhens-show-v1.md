@@ -1,3 +1,9 @@
+---
+fontsize: 12pt
+geometry: margin=0.7in
+header-includes:
+  - \pagenumbering{gobble}
+---
 # Ventnor Fringe / vfringe AnyWhens set
 
 Tony "Monty" Hirst + The Anywhens
@@ -8,11 +14,11 @@ They were times of rebellion, and times of revolt.
 
 A time of war, and a time of failed harvests.
 
-A time when sons would follow their fathers onto troop ships and ships of war; when the women worked, and their children helped them; a time when intrepid explorers were opening up new lands to trade with, at least, until the blockades had started. And a time when poor harvests increased the price of wheat. And if pretty much all you ate was bread, then the pricier the bread , the less there was to go round of anything else at all.
+A time when sons would follow their fathers onto troop ships and ships of war; when the women worked, and their children helped them; a time when intrepid explorers were opening up new lands to trade with, at least, until the blockades had started. And a time when poor harvests increased the price of wheat. And if pretty much all you ate was bread, then the pricier the bread, the less there was to go round of anything else at all.
 
-It was a cold time, too. It used to be remembered that is was so cold, that winter, that even the largest rivers froze over.
+And a time when the Prime Minister would be assassinated for a failing to provide compensation to a British citizen who felt he had been wronged when trading in Russia by the Russian authorties. "Sorry, but we can't help" the Foreigh Office, had said, "so do your worst". And he had; by shooting and killing the Prime Minister of the time, William Percival. But that is another story...
 
-And the late Spring? That in turn meant a slow start to the growing season. And *that* meant there'd be another poor harvest.
+It was a cold time, too, so cold, that winter, that even the largest rivers froze over. The late Spring, in turn, meant a slow start to the growing season. And *that* meant there'd be another poor harvest.
 
 Before the machines came, life had never really changed much at all, not in my time, nor your time, nor your granparent's time, or... ever. Prices went *up*; then prices went *down*; and then up again, for a bit, then down again. And your parents paid pretty much the same amount for their bread as *their* parents had before them.
 
@@ -38,7 +44,7 @@ But it didn't prevent the Luddites from coming back to Topham's again, aggrieved
 
 And once again, the men responsible escaped justice.
 
-But then... the machine breaking stopped, in those parts at least. Or at least, it stopped for a while. Three or four years or so, all told. But then, it started up again. And whose frames would end up being broken again? Mr Benjamin Topham's...
+But then... the machine breaking stopped, in those parts at least, as an accomodation was come to between the manufacturers and the framework knitters. Or at least, it stopped for a while. Three or four years or so, all told. But then, it started up again. And whose frames would end up being broken again? Mr Benjamin Topham's...
 
 There is another tale about that, of course, of how this time two men *were* captured and brought to trial, of how their lawyer managed to get them off using a new fangled defence of *alibi*, of how the judge and jury were perhaps aided in their decision-making by the mob that had assmebled outside and the crowd that had made its way inside the court-room, and who'd made it more than clear which way they expected the case to go. But as time is short, I shall have to leave that as a tale for another day.
 
@@ -46,7 +52,7 @@ There is another tale about that, of course, of how this time two men *were* cap
 
 You could often tell a cropper lad: hard drinkers, they were, and well-paid for their jobs, the way they wielded the heavy cropping shears that cut the cloth clean, once the nap had been teasled and raised.
 
-[Times were hard for them, too. But their resentment towards the the machines was a different one. The framework knitters had always used machines. Their upset was to do with fair pay, and a change in the way the machines were being used. But for the croppers, they saw the machines not just as taking work directly away from them, as replacing them, but as destroying their whole way of life, replacing the skilled workers in the small workshops with factories filled with unskilled workers. They'd heard the arguments, that the machines could make the work *easier*, and it obviously could. But that benefit wasn't shared back with you. The mill owners didn't buy in the machines, and say "there you go, lad, isn't that much easier now?" No, they bought in the machines, they crammed them into factories, they took *all* the work away from you, and then they paid your wife and your kids a pittance to work longer hours than you ever did, in miserable conditions, to the service of the blasted machines. And you were left with out, with nothing to show for it.]
+[Times were hard for them, too. But their resentment towards the machines was a different one. The framework knitters had always used machines. Their upset was to do with fair pay, and a change in the way the machines were being used. But for the croppers, they saw the machines not just as taking work directly away from them, as replacing them, but as destroying their whole way of life, replacing the skilled workers in the small workshops with factories filled with unskilled workers. They'd heard the arguments, that the machines could make the work *easier*, and it obviously could. But that benefit wasn't shared back with you. The mill owners didn't buy in the machines, and say "there you go, lad, isn't that much easier now?" No, they bought in the machines, they crammed them into factories, they took *all* the work away from you, and then they paid your wife and your kids a pittance to work longer hours than you ever did, in miserable conditions, to the service of the blasted machines. And you were left with out, with nothing to show for it.]
 
 At first, they'd attacked the smaller workshops that had taken on the shearing frames, small bands of men mounting midnight raiding parties through the valleys around those parts, around Huddersfield way, before disappearing back into the moonlight. But soon, they had bigger game in their sights. The larger mills. You couldn't attack those with a small band of men. You needed more. Tens of men. Hundreds of men. And an almost military style of discipline. So they learned to sound out a count, so you'd know everyone was there without revealing your name. They learned to use pistol shots as signals. And they learned how to gather, to and assemble, so they could mount an attack in force.
 
@@ -70,52 +76,57 @@ The following day, a further eight men are charged regarding the attack on Cartw
 
 > Plug drawers
 
-The plug drawers had a fantastic wheeze - pull out the plugs that empty the boilers, and break the furnaces as a result. The disturbances had started in the neigbbouring county, stalybridge, into Manchester, girl killed, spread to West Yorks; big meetings, riot act read, and... they also gathered as petitioners, carried blankets, recalling a time X years before im Manchester - and the March of the Blanketeers; let me tell you about it.,
+The plug drawers had a fantastic wheeze - pull out the plugs that the engineers used to empty the boilers whilst they were still being used, and break the furnaces as a result. The disturbances had started over in the neighbouring county, in Stalybridge, then spread to Manchester. A girl had been killed in the ensuing distrubances, before the protesters crossed the Pennines; large meetings were held, and the riot act was read; petitioners also started to gather, carrying blankets, recalling a time twenty-five years or so years previously, in Manchester - and the March of the Blanketeers; let me tell you about it.
 
 Blanketeers tale TO DO
 
-But that's not all they were getting up to.
+It was the end of the Ludding times, and the time of growing calls for Parliamentary reform. In Manchester, despite being a growing metropolis, there was Parliamentary representation. And the people there were not happy about that, not happy at all. There were rumours that folk in Scotland were similarly minded, and that a march had started that was going to make its way to London to take *their* protest directly to Government. No more faffing about with letters: a demand for change from the people themselves. A barbarian hoard on the rampage, demonstrating their discntent in a way that could not be ignored.
 
-There were rumours that folk were not happy up in Scotland, either, and that march had started that was going to make its way to London to take their protest directly to Government. No more faffing about with letters: a demand for change from the people themselves. *A barbarian hoard.*
+Or perhaps not.
 
-There wasn't really any barbarian hoard, of course; but it got the people thinking. Maybe *they* could petition the Prince about the taxes they had to pay, the poor wages they received, the dire poverty in which they lived. Maybe *they* could persuade him to stop the Ministers taking the law into their own hands (they knew the King was mad, so it was pointless going to see him). And maybe *they* could lobby the Prince for a Parliament that represented the common people, "them that hasn't", rather than the Lords and Ladies and just "them that has".
+But it got the people thinking. Maybe they could petition the Prince about the taxes they had to pay, the poor wages they received, the dire poverty in which they lived.
+
+Maybe *they* could persuade him to stop the Ministers taking the law into their own hands (they knew the King was mad, so it was pointless going to see him). And maybe *they* could lobby the Prince for a Parliament that represented the common people, "them that hasn't", rather than the Lords and Ladies and just "them that has".
 
 So they had a meeting. And there was standing on carts, and rousing speeches, and they decided they *would* march to London, a week's walk away, and petition him themselves.
 
-They all knew that the Ministers had no love for poor folk like themselves, of course. And neither did the local Magistrates, dirty smelly rabble that they were — the people, that is, not the Magistrates: they probably smelled beautiful and probably had a bath at last once a month —  and everyone knew that the soldiers would as likely as not be set on them if they looked like a mob.
+They all knew that the Ministers had no love for poor folk like themselves, of course. And neither did the local Magistrates, dirty smelly rabble that they were — the people, that is, not the Magistrates: they probably smelled beautiful and probably had a bath at least once a month —  and everyone knew that the soldiers would as likely as not be set on them if they looked like a mob.
 
-So they were a bit more clever about it: TO DO they would gather together in small groups of ten people or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, and they would march in small groups, because nobody could argue with that.
->
-> Because the journey was long one, they would each take a blanket, to keep them warm at night as they'd have to camp under the stars; the one with petitions would pin them to the blanket, as a badge, to show their intention; and everyone who wasn't going on the march would raise what little money they could so the marchers could buy some small amount of food each day.
->
-> So one morning, the people began to gather; thousands of them; a thousand or so set off on the march, "their bed blankets thrown over their shoulders, and fastened in front, over the breast, with a skewer. They were in full marching order; those who could not procure knapsacks or haversacks, had large bundles attached to their shoulders" as if they were soldiers, and leaving the rest to their speeches and fundraising.
->
-> As emotions started to get heated in the crowd, in came the army, and arrested the ringleaders.
->
-> And then they went after the marchers, who were expecting their leaders to catch up with them later that day with the money to support them.
->
-> (As it was, I've heard it tell that the purseman with a pretty penny in funds to pay for food and accommodation along the way got lost himself, and only returned when all the money had been spent!)
->
-> The soldiers came along on their horses, with swords and sabers and who knows what, and the marchers — well, a blanket didn't work so well as armour, so it's not hard to work out who came off worst.
->
-> Some of the marchers were split up and sent this way, others were sent that way, and several hundred found themselves in jail for the night.
->
-> The leaders of the march were given special treatment, imprisoned, and given a day in court. Their witnesses were made ready, and then: nothing; back to prison they went.
->
-> The Ministers reacted in style, pushing through a law that banned unapproved gatherings of more than fifty people
->
-> Several weeks later, a Special Jury was laid on. But when the time came to present the case before the Judge, on charges that included "begging", because the marchers hadn't actually done anything wrong — they had broken no law, and this was a land that was supposedly ruled by law — the lawyer for the prosecution just muttered something about it all being peaceful now, and there was no need to charge the men, so he wouldn't offer any evidence against them.
->
-> And so they went free.
->
-> As to the march to petition the Prince, it is said that one man, and one man only, actually made it to the city where the Prince lived. Maybe he got lost and didn't realise he was on his own. Who knows?
+So they were a bit more clever about it: the word on the street was that if you only gathered in small groups of not more ten people or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, then there was nothing the dsoldiers could do to stop you. So they would march in small groups, exaclty like that, because then nobody could argue with them.
 
+The journey would be a long one, though: a hundred and fifty miles or more, so several days walk, and several nights where they'd have to find and make camp. So they'd each take a blanket; and as a badge, by way of marking out their cause, the petitions would be pinned to the blankets; and for everyone who wasn't going on the march? Well, they would raise what little money they could so the marchers could buy some small amount of food each day.
+
+The date was agreed, and the people began to gather; at Petersfield, (you might have heard of it); thousands of them. A thousand or so set off on the march, "their bed blankets thrown over their shoulders, and fastened in front, over the breast, with a skewer. They were in full marching order; those who could not procure knapsacks or haversacks, had large bundles attached to their shoulders" as if they were soldiers, and leaving the rest to their speeches and fundraising.
+
+Back at Petersfield, emotions started to get heated in the crowd. The army came in. The ringleaders were arrested. And the crowd.... By now, some of you may be thinking: and now the troops rode in, with their sabres swinging, and their swords stabbing, and there was the massacre, the famous Peterloo massacre. But this wasn't then — that was a couple of years later, and another story for another day.
+
+Becuase for now, in this time, in this story, the troops turned instead, and went after the marchers.
+
+They had been expecting their leaders to catch up with them later in the day, along with the money colection they need to support them and pay their way as they marched south.
+
+Instaed, the soldiers came along, on their horses, with swords and sabers and who knows what, and the marchers — well, a blanket didn't work so well as armour, so it's not hard to work out who came off worst.
+
+Some of the marchers were split up and sent this way, others were sent that way, and several hundred found themselves in jail for several nights, before being released.
+
+The leaders of the march were imprisoned, and treated to a court appearance. All manner of witnesses for the defence made themselves ready to appear as well, but then: nothing; so back to prison the ringleaders went.
+
+In London, the Ministers reacted in typical style. Then, as now, they considered one of the best ways to suppress popular discontent was to ban it, so they pushed through a law that banned unapproved gatherings of more than fifty people.
+
+It was several weeks before a Special Jury was laid on for the trial of the ringleaders. But when the time came to present the case before the Judge, on charges that included "begging", because the marchers hadn't actually done anything wrong — they had broken no law, and this was a land that was supposedly ruled by law — the lawyer for the prosecution just muttered something about it all being peaceful now, and there was no need to charge the men, so he wouldn't offer any evidence against them.
+
+And so they went free.
+
+At this point, you may be wondering what happened to the "purseman", who had been charged with bringing the money collected at the meeting to help pay the way — for the food and the accommodation — of the petitioners as thy went alonfg the march?
+
+Well, the story as I've heard it tell, was that a pretty penny in funds was raised. But that when he'd set off to catch up with the marchers, he'd taken a wrong turn and got lost. And only returned when the money had been spent...
+
+As to whether anyone actually made it to London, to petition the Prince, it's said that just one man did. That maybe he sat on a bench, to wait. And is maybe waiting there still...
 
 > ?? ANOTHER SONG
 
 For our final tale, let us return to the village, and the town, to Pentrich, and to Huddersfield, where these stories began.
 
-A month before, at the last of Luddite trials, nine men had stood charged with attacking Heathcoat and Boden's factory, in a neighboring county; nine men charged with shooting at one of the guards. Two others look on, having turned King's evidence, become witnesses for the crown. Of the the nine men in the dock, two are found guilty, but their sentences reprieved. One is sentenced to transportation. Another has his trial postponed, after falling ill at the moment the case opened against him. And of the remaining six? They were found guilty, and sentenced to hang, sent to the gallows as the last of Luddites.
+A month before, at the last of Luddite trials, nine men had stood charged with attacking Heathcoat and Boden's factory, in a neighboring county; nine men charged with shooting at one of the guards. Two others look on, having turned King's evidence, become witnesses for the crown. Of the nine men in the dock, two are found guilty, but their sentences reprieved. One is sentenced to transportation. Another has his trial postponed, after falling ill at the moment the case opened against him. And of the remaining six? They were found guilty, and sentenced to hang, sent to the gallows as the last of Luddites.
 
 But you should not necessarily weep for these men. They were working to contract, hired to attack the factory rather than being driven to attack it through a righteous anger driven by the threat of poverty and powerlessness, or a sense of despair, and their story, such as it is, is for another day.
 
@@ -182,3 +193,8 @@ There are many other tales that could be told, not just of those Ludding times, 
 But those are all tales for another time, and another place, becuase for now, our tales are done.
 
 > Farewell
+
+
+
+---
+

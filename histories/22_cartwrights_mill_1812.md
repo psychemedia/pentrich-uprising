@@ -1,5 +1,64 @@
 # The Huddersfield Luddites
 
+
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0002429/18030226/015/0002
+Oracle and the Daily Advertiser - Saturday 26 February 1803
+
+THE WOOLLEN TRADE.
+
+For the DAILY ADVERTISER AND ORACLE.
+
+Respecting the discordant matter's in the Woollen Manufactories, it is a pity Gentlemen in Parliament, who are to decide on the merits of a Bill to regulate trade, should not receive better information, or understand enough of the principle's to prevent so many misconstructions on Acts of Parliament, which, instead of rendering them clear and decisive, are too often found ambiguous and unintelligible, and this occasions much contention.
+
+A few years since the Sheermen brought actions against the Clothiers for using the gig-mill to abridge their labour; and herein they failed, because in the Act of Parliament on which they proceeded it was described as "burling machine," and Sheermen are not Burlers. This was tried at Salisbury.
+
+It is now represented to Parliament that the Sheermen oppose "a certain chemical process;" this is wrong. It 'should have been said mechanical; for, it is machinery only which they oppose.
+
+Manual labour is much taken off, and laws established by idle labourers, in clubs and secret committees, supported by compelling every individual to contribute a regular and equal portion, or be expelled from his trade. That the employer suffers much injury in his property, is cheated of labour for which he pays, and the credit of the cloths are affected to a serious degree in those countries where nocturnal depredations have prevented the use of gig-mills. This must introduce the sheering machines, which would render the manufacturers, in some degree, independent of these combinations, and greatly reduce manual labour. But the gig-mill has a contrary effect; for though it is a substitute for labour in raising wool on the face of the cloth, it produces so much more than Sheermen, by labour, will raise, that they are fully repaid in the extra business of cutting it off; and the cloth has a much more soft and delicate appearance.
+
+A FRIEND TO TRADE, AN ENEMY TO COMBINATIONS, BUT NO MANUFACTURER, AND A CANDID OBSERVER.
+
+N. B. Gig-mills in some parts of England have been in constant use for time immemorial, though so violently opposed in others.
+
+Through every combination amongst workmen, none is so desperate, secret, or systematic as that of the Sheermen.
+
+--
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120302/017/0003
+London Courier and Evening Gazette - Monday 02 March 1812
+
+*The first part of the report also appears in e.g. [Star (London) - Tuesday 03 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120303/010/0004).*
+
+We trust that the disturbances in Nottingham and to Vicinity are at an end: the Nottingham Paper of Saturday, which we received this morning, does not make any mention of disturbances during the last week. But a disposition to riot, we regret to state, has manifested itself near Huddersfield, in Yorkshire. Last Saturday week a number of persons assembled near the premises of Mr. Joseph Hirst, of Marsh, with their faces blacked, and their persons in other respects disguised, and having forcibly obtained admittance into the dressing-shops, proceeded to destroy all the machinery used in the dressing of cloth, such as dressing frames, shears, and other implements used in what is commonly called Gig Mills, the whole of which they completely demolished. The same, or a similar party then proceeded to the workshops of Mr. James Balderson, of Crossland Moor, where machinery of a similar description is employed, upon which they committed similar depredations, completely destroying or rendering useless the whole of the machinery. The depredations appeared to Magistrates to be of that alarming nature, to induce them to apply to Gen. Vyse, of Beverley, for military aid, who dispatched an express to Leeds, with an order for the troop of Scotch Greys stationed there, to proceed immediately to Huddersfield, and which marched at eleven o’clock Monday night, for that place. It not being thought expedient to leave Leeds without military, a squadron of cavalry was marched from Sheffield, and arrived about nine o’clock on Tuesday morning, and in the afternoon of the same day a squadron of the 2d Dragoon Guards stationed at the Barracks near York, were dispatched to Huddersfield, to relieve the Scotch Greys who returned to Leeds on Thursday.
+
+We have not heard that any disposition to disturbance has manifested itself in any other part of Yorkshire.
+
+
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120306/047/0004
+Nottingham Review - Friday 06 March 1812
+
+We understand that the disturbances have ceased, at least for the present, at Huddersfield. Small parties of the military guard all the gig mills near Leeds every night as a precautionary measure.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004
+Nottingham Journal - Saturday 14 March 1812
+
+No further depredations were committed in the neighbourhood of Leeds last week; but so much alarm prevails amongst the proprietors of gig-mills, that a military guard is stationed for their protection. The Scots Greys, which have been in Leeds some time, have received an order to march to Manchester, in which neighbourhood there is collected a large military force, not less than 6000 men.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120327/040/0004
+Nottingham Review - Friday 27 March 1812
+
+We have received a letter from our Correspondent at Leeds, this morning. He says, "Contrary to my expectations, I have to inform you of further depredations committed by the populace. On Tuesday night, the warehouse of Messrs. Dickenson and Shann, in the Meadow_lane, of this town, was entered by the roof, and cloth to the value of £500 was cut and damaged. Messrs. Thompson and Co. thought it necessary to guard their gig-mill at Rawden, but on Monday evening, the watchmen were all surprised and secured, and the obnoxious part of the machinery was destroyed. Various reports are in circulation of damage done in other places, one report states that cloth to the amount of £4000 has been destroyed at Elland, near Halifax; most probably this is an exaggeration, but I believe there is some truth in it."
+
+---
+
+
+
 In the Huddersfield area, the attacks on machinery started at the end of February, 1812.
 
 
@@ -23,7 +82,7 @@ Leeds Mercury - Saturday 29 February 1812
 
 MACHINERY DESTROYED
 
-It is with deep regret we have to state that outrages of a most alarming description and extent, have been recently committed in the neighbourhood of Huddersfield. On the night of Saturday last, a number of persons assembled near the premises of Mr. Joseph Hirst, of Marsh, with their faces blacked, and their persons in other respects disguised, and having forcibly obtained admittance in to the dressing shops, proceeded to destroy all the machinery used in the dressing of cloth such as dressing frames, shears, and other implements used in what is commonly call Gig Mills, the whole of which they completely demolished. The same, or a similar party then proceeded to tbe workshops of Mr. Jamnes Balderson, of Crossland Moor, in which machinery of the same description was employed, in which they committed similar depredations, completely destroying or rendering useless the whole of the machinery. The maanner in which these outrages were perpetrated, was this—The depredators, or to use the cant terms, Luddites, assemble with as much privacy as possible, at the place marked out for attack, and divide themseives into two parties, the more daring and expert of which enter the premises, provided with proper implements for the work of destruction, which they accomplish a with astonishing secrecy and dispatch. The other party remain conveniently stationed at the outside of the building, to keep off all intruders, or to give the alarm, if a superior force, was likely to be opposed to them. As soon as the work of destruction was completed, the Leader drew up his men, called over the roll, each man answering to a particular number instead of his name; they then fired off their pistols, (for they were armed,) gave a shout, and marched otf in regular military order. They do not appear to have done any mischief besides breaking the machinery; and one of the party having asked the Leader what they should do with one of the Proprietors, he replied, not hurt a hair of his head; but that should they be under the necessity of visiting him again, they could not shew him any mercy.
+It is with deep regret we have to state that outrages of a most alarming description and extent, have been recently committed in the neighbourhood of Huddersfield. On the night of Saturday last, a number of persons assembled near the premises of Mr. Joseph Hirst, of Marsh, with their faces blacked, and their persons in other respects disguised, and having forcibly obtained admittance in to the dressing shops, proceeded to destroy all the machinery used in the dressing of cloth such as dressing frames, shears, and other implements used in what is commonly call Gig Mills, the whole of which they completely demolished. The same, or a similar party then proceeded to the workshops of Mr. Jamnes Balderson, of Crossland Moor, in which machinery of the same description was employed, in which they committed similar depredations, completely destroying or rendering useless the whole of the machinery. The maanner in which these outrages were perpetrated, was this—The depredators, or to use the cant terms, Luddites, assemble with as much privacy as possible, at the place marked out for attack, and divide themseives into two parties, the more daring and expert of which enter the premises, provided with proper implements for the work of destruction, which they accomplish a with astonishing secrecy and dispatch. The other party remain conveniently stationed at the outside of the building, to keep off all intruders, or to give the alarm, if a superior force, was likely to be opposed to them. As soon as the work of destruction was completed, the Leader drew up his men, called over the roll, each man answering to a particular number instead of his name; they then fired off their pistols, (for they were armed,) gave a shout, and marched otf in regular military order. They do not appear to have done any mischief besides breaking the machinery; and one of the party having asked the Leader what they should do with one of the Proprietors, he replied, not hurt a hair of his head; but that should they be under the necessity of visiting him again, they could not shew him any mercy.
 
 The depredations appeared to the Magistrates to be of so alarming a nature, as to induce them to apply to General Vyse, of Beverley, for military aid, who dispatched an express to this town, with an order for the Troop of Scotch Greys stationed in this town, to proceed imediately to Huddersfield, and which marched at 11 o'clock on Monday night, for that place. And it not being thought expedient to leave this town without military, a squadron of Cavalry was marched from Sheffield, and arrived about nine o'clock on Tuesday morning, and in the afternoon of the same day, a squadron of the 2nd Dragoon Guards, arrived from York, and on Wednesday proceeded to Huddersfield, to relieve the Scotch Grey's who returned to this town on Thursday. The Cavalry from Sheffield left this place on Thursday morning. These military movements have naturally created much anxious curiosity, but no disptsition has been evinced in this neighbourbood, to disturb the publie peace.
 
@@ -47,7 +106,7 @@ We have more than once adverted to the unhappy disturbances at Nottingham, and a
 
 In Huddersfield the magistrates and mill-owners formed a committee against the outrages, and offered a reward for the arrest of those who were responsible.
 
-```{admoniiton} Resolutions of a Committee against the outrages, February 1812
+```{admonition} Resolutions of a Committee against the outrages, February 1812
 :class: dropdown
 https://ludditebicentenary.blogspot.com/2012/02/29th-february-1812-huddersfield.html
 
@@ -133,7 +192,7 @@ RIOTS IN THE COUNTRY.
 
 On Thursday night, about 12 o'clock, a large body of armed men broke into the cloth manufactory of Mr. Foster, near Wakefield, and destroyed all the shears and frames, materially injured the machinery of the scribbling mill and weaving shop, damaged a quantity of warp ready for the loom, and committed other acts violence. They likewise broke into the dwelling-house occupied by the sons of Mr. F, dragged two of them out of bed, and tied them together, making them lie naked upon the floor, the other they compelled to accompany them with the keys. The dwelling-house occupied by the book-keeper was also broken into, and his family treated with the most brutal violence; and they afterwards set fire to the building, but which was happily extinguished, after their departure, before it communicated to the main body of the building, but not before very considerable damage had been done.
 
-Sunday sennight, about twelve o'clock, a number of armed men, with their faces covered, entered the workshop of Mr. Smith, of Snowgate-head, Huddersfield, and broke all his dressing frames and shears. They next proceeded to Horn Coat, entered the dressing-shop of Mr. Joseph Brook, and not content with breaking his frames and shears, demolished his household furniture aud all the windows. At Reims `(sic; Reins)`, near Honley, about three miles further, they arrived about two o'clock, and entered the workshop Mr. James Brook, and broke one frame, which was all he had, and which had been taken down 5 weeks.
+Sunday sennight, about twelve o'clock, a number of armed men, with their faces covered, entered the workshop of Mr. Smith, of Snowgate-head, Huddersfield, and broke all his dressing frames and shears. They next proceeded to Horn Coat, entered the dressing-shop of Mr. Joseph Brook, and not content with breaking his frames and shears, demolished his household furniture and all the windows. At Reims `(sic; Reins)`, near Honley, about three miles further, they arrived about two o'clock, and entered the workshop Mr. James Brook, and broke one frame, which was all he had, and which had been taken down 5 weeks.
 
 ...
 
@@ -191,13 +250,26 @@ HUDDERSFIELD- This place has been all hurry and confusion during the present wee
 
 ```
 
+
+TO DO 
+
+```{admonition} The men left at Cartwright's Mill
+:class: dropdown seealso
+
+The two men left at Horsfall's mill, who were to later die of their wounds, were:
+
+- *John Booth*, aged 19, apprentice saddle-maker and son of a clergyman;
+- *Samuel Hartley*, aged about 24, a cropper, who had formererly worked for Cartwright, and a member of the Halifax militia.
+
+```
+
 ```{admonition} TO DO
 :class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000062/18120505/015/0003
 Hull Packet - Tuesday 05 May 1812
 
-A person of the name of Haigh was apprehended at Methley on Saturday se'nnight, on suspicion of having been concerned in the late attack upon Mr. Cartwright's mill. This man, who appears to have received a wound from a musket-ball in his shoulder without being able to give any satisfactory account of the cause of that wound, has undergone several examinations before Mr, Radcliffe, of Milnsbridge, and was on Thursday committed to York Castle. On Thursday he passed through Leeds, in a chaise and four, on his way to York, escorted by twelve dragoons. Two other wounded men `[elsewhere (e.g. Pilot (London) - Tuesday 05 May 1812 ) named as "Charles Cockroft and one Stocks"; Stock (sic) was liberated, but Cockroft remanded.]` have been in custody all the week on a similar charge, but we have not heard the result of their examination.
+A person of the name of Haigh was apprehended at Methley on Saturday se'nnight, on suspicion of having been concerned in the late attack upon Mr. Cartwright's mill. This man, who appears to have received a wound from a musket-ball in his shoulder without being able to give any satisfactory account of the cause of that wound, has undergone several examinations before Mr. Radcliffe, of Milnsbridge, and was on Thursday committed to York Castle. On Thursday he passed through Leeds, in a chaise and four, on his way to York, escorted by twelve dragoons. Two other wounded men `[elsewhere (e.g. Pilot (London) - Tuesday 05 May 1812 ) named as "Charles Cockroft and one Stocks"; Stock (sic) was liberated, but Cockroft remanded.]` have been in custody all the week on a similar charge, but we have not heard the result of their examination.
 ```
 
 
@@ -213,6 +285,8 @@ Committed to York Castle.— James Haigh, of Dalton, cloth-dresser, charged upon
 
 
 
+```{admonition} TO DO
+:class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18120413/026/0003
 Leeds Intelligencer - Monday 13 April 1812
@@ -227,7 +301,6 @@ From the direction of the shot, it is conjectured that he received his wound in 
 
 Several hammers, masks and a picklock key were left upon the premises. Both of the men died without making any confession of their accomplices; but several must have been so wounded as to lead to the knowledge of them.
 
-
 FRAME BREAKING
 
 About midnight on Sunday, the *Luddites* resumed their work of destruction in the neighbourhood of Huddersfield.— They were in considerable forc, armed, and their faces blacked. The first sufferer was Mr. Smith, of Snowgate-Head, near Holmfirth: the rioters broke all his shears and dressing-frames.— Horn Coat, about a mile distant, was the next place of action: there they destroyed the frames and shears of Mr. Joseph Brook, broke his windows and demolished his furniture. Mr. James Brook, of Reins, near Honley, three miles from the last place, had also one frame broken, the only one he had, and which had been taken down several weeks. This was near two o'clock; about which time they dispersed, without breaking his shears.
@@ -236,7 +309,7 @@ All these outrages, and much worse, are perpetrated without the detection even o
 
 On Thursday at midnight, about 300 of this desperate men, some undisguised, some having their faces covered; some with fire-arms; some with hatchets, and many with clubs, surrounded the factory of Mr. Joseph Foster, at Horbury, near Wakefield, broke into different parts of the shops and houses adjoining, destroyed the frames and shears, broke the windows and iron-window-frames, damaged a quantity of warp in the loops, and even wreaked theeir vengeance on the machinery in the scribbling mill.— whole this was going on, another party broke open the house occupied by the sons of Mr. Foster, in the most outrageous manner. They dragged two of the young men out of bed, tied them together on the floor, and made a third accompany them with keys, threatening on refusal, to put him instantly to death. The book-keeper's house was also broken into, and himself and family treated most brutally. And the miscreants departed setting the premises on fire! This was happily prevented from extending far: that whole damage is stated at 700*l.* The men were called over by numbers as before and dispersed. Many of them were met on the Huddersfield road upon Grange Moor returning about three o'clock. Others went through Horbury on the Wakefield road, saluting the house of Mr. Foster, sen., with a volley, as they passed, to his great alarm, as he has for some time been an invalid. It is said that Mr. F. intends to apply to the County for reparation. No military were stationed nearer than within 11 miles. This machinery of Mr. Foster's, we understand, has been at work several years.
 
-
+```
 
 
 

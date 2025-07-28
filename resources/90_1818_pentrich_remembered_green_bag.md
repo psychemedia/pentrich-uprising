@@ -56,3 +56,26 @@ J. Onwhyn, 1819
 
 As well as Pentrich, e.g. Pentridge (eg in Hunt/Green Bag)
 
+
+
+And the
+
+https://archive.org/details/trialofhenryhunt00huntiala/page/n3/mode/2up
+The trial of Henry Hunt, esq.
+by Hunt, Henry, 1773-1835, defendant; Great Britain. Courts of Oyer and Terminer and General Gaol Delivery; Knight, John, fl. 1818, defendant; Johnson, Joseph, of Manchester, defendant
+
+Publication date 1820
+
+HENRY HUNT, Esq. JNO. KNIGHT, JOS. JOHNSON, JNO. THACKER SAXTON, SAMUEL BAMFORD, JOS. HEALEY, JAMES MOORHOUSE, ROBERT JONES, GEO. SWIFT, and ROBERT WYLDE,
+
+FOR AN ALLEDGED
+
+CONSPIRACY
+
+TO
+
+OVERTURN THE GOVERNMENT, &c.
+
+before Mr. Justice Bayley, and a Special Jury,
+
+AT THE YORK LENT ASSIZES, 1820.
