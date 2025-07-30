@@ -27,7 +27,7 @@ Suppose, my Lord, that by inference piled on inference, interpretation tacked to
 
 As person convicted of high treason is not only to suffer an ignominious, but a cruel death; so a proof of that uncommon crime ought not to depend on slippery inferences and suppositions, but to be so plain and palpable that no man of sense could doubt it. A proof by construction hanging on construction, savours too much of the ludicrous reasonings of the adepts of derivation.
 
-In the way of ridicule, your Lordship may have heard "Pickled cucumber" thus derived from Jeremiah King."—"Jeremiah King"——"Jerry King" —"Jerkin"—Girking"—" Pickled Cucumber." Let us hope that nothing so ridiculous will be played off at Derby, for deriving high treason from a licentious tumult of a misguided, stupid rabble!
+In the way of ridicule, your Lordship may have heard "Pickled cucumber" thus derived from Jeremiah King."—"Jeremiah King"——"Jerry King" —"Jerkin"—Girking"—"Pickled Cucumber." Let us hope that nothing so ridiculous will be played off at Derby, for deriving high treason from a licentious tumult of a misguided, stupid rabble!
 
 Touching that part of the indictment, my Lord, which accounts for the depravity of mind—the seat of intention, which constitutes crime,—it is said that the tailor and his companions were "moved and seduced by the instigation of the Devil" to do as they did. This I take to be a fact; because I have been credibly informed, that a Devil in human shape was particularly active in the work of seduction and instigation.
 

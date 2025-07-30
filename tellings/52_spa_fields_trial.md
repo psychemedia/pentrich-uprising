@@ -186,7 +186,7 @@ Mr Richardson— Not guilty, my Lord.
 
 Mr. Stirling— You say the Prisoner is not guilty; this is your verdict; and so say you all.
 
-A Barrister, drawing aside the green curtain, instantly called out towards the Hall —" Acquitted." He was heard only by a small part of the company, but their plaudits immediately made it known to the others, and were re-echoed from all parts of the Hall. The intelligence spread rapidly through Palace-yard and the adjoining streets. It was impossible to walk in the neighbourhood without hearing the words a hundred times in five minutes.
+A Barrister, drawing aside the green curtain, instantly called out towards the Hall —"Acquitted." He was heard only by a small part of the company, but their plaudits immediately made it known to the others, and were re-echoed from all parts of the Hall. The intelligence spread rapidly through Palace-yard and the adjoining streets. It was impossible to walk in the neighbourhood without hearing the words a hundred times in five minutes.
 
 Lord Ellenborough looked round this Court, as if his Lordship, in the first moments of the impression made by the verdict, seemed to think the plaudits proceeded from a part of the audience there; but his Lordship soon perceived that the utmost decorum prevailed within its doors.
 
