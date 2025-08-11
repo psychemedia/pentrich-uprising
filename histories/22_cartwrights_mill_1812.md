@@ -273,6 +273,59 @@ A person of the name of Haigh was apprehended at Methley on Saturday se'nnight, 
 ```
 
 
+TO DO
+
+
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120502/011/0003
+## Leeds Mercury - Saturday 02 May 1812
+
+ATROCIUS MURDER. On Tuesday evening last,  at about half past six o'clock, as Mr. WILLIAM HORSFALL a very extensive Wollen Manufacturer at Marsden, about seven miles from Huddersfield, was returning from the market at that place, he was assassinated on the public road, on Crossland Moor.
+
+The circumstances, as stated to us by an eye-witness of this most barbarous Murder are these:— Mr. Horsfall and a Manufacturer, of the name of EASTWOOD, had left Huddersfield together, and at a short distant before they came to the fatal spot, Mr. Eastwood stopped to water his horse, while Mr. Horsfall rode leisurely along the road; when he had came within about 500 yards of the Warren Inn, a distance of about a mile and a half from Huddersfield, on the Manchester road, four men, each armed with a horse pistol, who had just before stepped out of a small plantation, placed the barrels of their pistols in appertures in the wall, apparently prepared for that purpose; the muzzel of two of these pieces Mr. Horsfall distinctly saw, but before he had time to extricate himself from his perilous situation, they all four fired, and inflicted four wounds in the left side of their victim, who instantly fell from his horse, and the blood flowed from the wounds in torrents. A number of passengers both horse and foot rushed almost instantly to the spot, and, after disentangling his foot from the stirrup, he was some difficulty got to the Inn.
+
+The Murderers, after they had perpetrated the sanguinary deed, walked to the distance of some yards, and soon after briskening their speed, they ran towards Dungeon Wood, and entirely escaped undiscovered, no pursuit or search having been made after them, till the arrival of a troop of the Queen's Bays, about three quarters of an hour afterwards. One of the Assassins is described to us as about six feet high, another as a low portly man, and the two others as about five feet six or seven inches high, and rather slender; they all wore dark coarse woollen coats, and appeared to be working men.
+
+From a professional Gentleman, who was called in to visit Mr. Horsfall, we learn, that three of the wounds, out of the four, were slight, and unattended with danger, but the fourth made by a musket ball, which entering the abdomen on the left side had taken a downward direction, and lodged in the back part of the right thigh, from which it was extracted on Wednesday, along with a pistol ball, at which time, some faint hopes were entertained of the patient's recovery; but on Thursday morning, about five o'clock, a profuse bleeding came on, accompanied by mortification, by which the thigh was swollen to an enormous size, and between eight and nine o'clock that morning, he expired, in perfect possession of his faculties.
+
+Mr. Horsfall had a very large Woollen Manufactory at Marsden, wherein about 400 work people were employed; and in a part of his premises there are Shearing Machines, which have been erected about seven years, and have attained considerable perfection; this circumstance, with the additional one of his unremitting activity in detecting, and bringing to justice the persons engaged in the attack at Rawfolds, and other Mills, had rendered him obnoxious in a high degree to the machine destroyers, who knowing his premises were too well defended to justify an attack on his property, committed a crime against his person, that will embitter every future day of their existence, and, that will, in all probability through the retributive justice of that Being, from whom no secrets are hid, bring the blood-stained perpetrators of this worst of crimes, to an ignominious end.
+
+A reward of £2000 will, we understand, be offered immediately to any person who will give such information as will lead to the conviction of any one or more of the four men concerned in the murder of Mr. Horsfall. 
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000045/18120504/005/0003
+Caledonian Mercury - Monday 04 May 1812
+
+On Saturday se'ennight a regimental court-martial was held at Huddersfield, on a private who misconducted himself at the attack on Rawfold-mill, in refusing or neglecting to defend it in the manner he might have done. He was found guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning he was marched, escorted by a detachment of dragoons, to Rawfold, the scene of action, where he was tied up, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr Cartwright.
+
+On Saturday se'enmight an attempt was made to assassinate Mr Cartwright, the intrepid defender of Rawfold's Mill, by two villains who fired at him from behind a hedge, as he was returning from Huddersfield. The shots were discharged at nearly the same moment from opposite sides of the road, but happily without effect.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18120507/005/0003
+Caledonian Mercury - Thursday 07 May 1812
+
+
+[ATROCIOUS MURDER article from Leeds Mercury.prefaced with:
+
+We formerly mentioned, that Mr Horsfall, of Marsden, had been waylaid, on his return home from market, by a gang of villains, by whom he was fired at and severely wounded. We are sorry to learn, by the following account, extracted, from the Leeds Mercury of Saturday last, that Mr Horsfall has since died of his wounds.
+
+...
+
+Mr Cartwright, who so bravely defended his property in Yorkshire, has been fired at on three distinct occasions but without doing him the slightest injury.
+
+Mr Trentham, notwithstanding his alarming wound, is likely to recover. The Luddites have had the audacity to placard the streets of Nottingham in the night, offerrng a reward for Mr Wilson, the mayor, dead or alive. He had committed no offence than signing the offer of a reward of L.600 fom the Corporation of Nottingham, for the discovery of the assassin who shot Mr Trentham. — These infatuated men are said actually to meet in the streets of Nottingham, in small parties, in the daytime, and triumphantly talk over their nightly depredations.
+
+The Gazette of last Saturday offers his Majesty's pardon, and a reward of L.  2000, for the conviction of the persons who shot Mr W. Horsfall, of Marsden, near Huddersfield, on Tuesday se'ennight, of which wounds he is since dead.— Also L. 600 reward, and a pardon, for the person who fired at Mr W Trentham, of Nottingham, on the evening of Monday se'ennight, as he was knocking at his own door, and wounded him in the breast.— L. 100 for the perspn who discharged a gun at Mr J. Rayner, of Lendthwaite, West Riding, on the 23d April, the ball of which went through his hat.— 100.guineas, and a pardon, for the discovery of the person who discharged a gun at Mr. E. Whitehead, deputy constable, at Huddersfield, as he was going to bed, on the 15th ult.— And L. 200 for the conviction of the persons who, on the night of the 21st of March, fired upon the boat's crew of his Majesty's schooner Pioneer, after she had chased three smuggling galleys on shore between Walmer and Deal, and by which two of them escaped.
+
+Accounts from Manchester state, that another mill has been burned near that town, and a woman, who offered to give evidence against the criminals, was shot, while the military were escorting her to the magistrate.
+
+Letters from different parts concur in stating, that the great tumults have subsided, but that shocking outrages are committed by small parties of depreda- tors and assassins.
+
+The most urgent representations, we hear, have within these few days been made to Government, that a renewal of disturbances might be expected in the northern counties, unless a greater proportion of troops was immediately sent down and quartered in those districts. It is said to have been ascertained by the Magistracy, that a regular organization had commenced in several places, and even oaths of fidelity and secrecy been administered to these deluded people. During the last week, not fewer than seven regiments have proceeded towards Cheshire and Lancashire. The provincial papers are filled with accounts of the movements of the military.
+
+A Special Commission will shortly be sent down to Chester and Lancaster to try the rioters (about 30) who have been committed to gaol in those counties.
+
 ```{admonition} TO DO
 :class: dropdown
 
@@ -320,7 +373,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003
 
 Leeds Mercury - Saturday 25 April 1812
 
-On Saturday, a regimental Court martial was held at Huddersfield, on the private, who mis-conducted himself at the attack on Rawfolds mill, in refusing or neglecting to defend it in the manner he ought to have done, he was guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning, he was marched, escorted by a detachment of dragoons, to Rawfold the scene of action, where he was tied sip, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr. Cartwright.
+On Saturday, a regimental Court martial was held at Huddersfield, on the private, who mis-conducted himself at the attack on Rawfolds mill, in refusing or neglecting to defend it in the manner he ought to have done, he was guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning, he was marched, escorted by a detachment of dragoons, to Rawfold the scene of action, where he was tied up, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr. Cartwright.
 
 On Saturday last, an attempt was made to assassinate Mr. Cartwright, the intrepid defender of Rawfolds Mill, by two villains who fired at him from behind an hedge, as he was returning from Huddersfield. The shots were discharged at nearly the same moment from opposite sides of the road, but happily without effect. This diabolical attempt upon the life of this gentleman, took place in open day, between the hours of four and five in the afternoon, about a mile on this side of Huddersfield. We have no words which can sufficiently describe our abhorrence of this dark and wicked attempt to murder. Surely, even the deluded followers of Gen. Ludd, cannot approve of private deliberate murder; are his troops already degenerated into a band of assassins? But wickedness is progressive, it is a downward road, the first step prepares the mind for a second, that for a third, until deeds of blood become familiar. And the man who begun his career, probably with the intention only of destroying machinery which he supposed inimical to his interest, ends it by deliberate assassination, There is something in this crime so cowardly, so foreign to the feelings of Englishmen, and so much at variance with the courage and humanity of our national character, that we are convinced, that not one man would have been found to have entered into the association, if it had previously intimated to him, that he was to exchange the character of an Englishman, for that of a cruel and cowardly Italian desperado. We would exhort and conjure those who are yet innocent of the blood of their fellow-creatures, to abjure a confederation which leads to such dreadful consequences, which sinks them below the level of civilized men, and points to the destruction of Society itself. It is at present possible to retreat; when we have next to address them, it may be too late.
 
@@ -356,3 +409,18 @@ Leeds Mercury - Saturday 04 July 1812
 Since our last were committed to York Castle, James Oldroyd, of Dewsbury, clothier, charged upon oath with having on the night of Monday the 22d of June inst. at the Sign of the Black-Bull, in Mirfield, confessed that he was at Rawfold's Mill on the night it was attacked, that he was engaged in that attack, and that he was near to his Fellow Creature when he fell. ...
 
 ```
+
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/021/0004
+Lancaster Gazette - Saturday 07 November 1812
+
+Also in eg https://britishnewspaperarchive.co.uk/viewer/bl/0001279/18121031/010/0003 Hull Advertiser - Saturday 31 October 1812
+
+Committed to York Castle, W. Thorpe (No. 44) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with being a commandor at, and aiding and assisting in an unlawful attack lately made upon Mr. Cartwright's mill, at Rawfolds; and also charged with being one of the men who shot and murdered Mr. William Horsfall. late of Marsden, merchant, in the month of April last. — Thomas Smith (No. 45) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the above attack on Mr. Cartwright's mill; and also with being one of the persons concerned in the murder of William Horsfall. James Haigh (No. 46) of Dalton, and Jonathan Dean (No. 47) of Huddersfield, cloth dressers, charged upon the oath of William Hall and others, with having, together with divers others, unlawfully and riotously assembled at Hartshead-cum-Clifton, in April last, and then proceeded to attack the mill, at Rawfolds. — Mark Hill (No 49) and Joseph Thornton (No. 50) cloth-dressers, charged upon the oath of William Hall, with having, together with divers others, unlawfully and feloniously assembled at the mill, at Rawfolds, and attempted to break into the same; and also with having assembled at the work-shop of Francis Vickerman, at Taylor Hill, in Almondbury, breaking and destroying divers shears and articles of machinery, the property of the said Francis Vickerman. — Also, Lazarus Naylor (No. 51) of Pudsey, charged vvith feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddlewoith. — Eight *Luddites* passed through Leeds on Saturday, on their way to York Castle. Three more passed through on Sunday.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18121128/006/0003
+Caledonian Mercury - Saturday 28 November 1812
+
+It has been determined to appoint a special commission for the trial of the persons accused of the murder of Mr Horsfall, and of the Luddites now confined in York Castle, to the number of between 40 and 50. The trials will take place, we believe, in about three weeks.
