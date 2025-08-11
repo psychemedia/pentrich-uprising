@@ -427,6 +427,12 @@ LEEDS, SATURDAY, Nov. 28. ... It has been determined to appoint a Special Commis
 
 TRIALS OF 1813?
 
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18130313/009/0003
+Leeds Mercury - Saturday 13 March 1813
+
+THE POINT AT ISSUE
+
 ---
 
 ---
