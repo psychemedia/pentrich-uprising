@@ -60,6 +60,15 @@ Wednesday, March 4.— The Watch and Ward Bill was read a second time, and order
 https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120328/013/0003
 Nottingham Journal - Saturday 28 March 1812
 
+
+NOTTINGHAMSHIRE.
+
+NOTICE IS HEREBY GIVEN, That a Special General Sessions of the Justices of the Peace acting in and for the County of Nottingham, will be holden at the Shire Hall, in Nottingham, in and for the said County, on Thursday the Second Day of April next, at Eleven o'Clock in the Forenoon, to take into consideration and to determine upon the expediency of carrying into effect all or any of the Powers and Provisions of an Act of Parliament passed in this present Session, and intitled "An Act for more effectual Preservation of the Peace, by enforcing the Duties of Watching and Warding, until the First Day of March One Thousand Eight Hundred and Fourteen, in Places where Dirturbances prevail or are apprehended." Dated this 25th Day of March, in the Year of our Lord 1812.  
+EDWARD SMITH GODFREY.  
+Clerk of the Peace. 
+
+...
+
 TOWN OF NOTTINGHAM
 
 WATCH AND WARD ACT
