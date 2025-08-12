@@ -349,3 +349,8 @@ https://ludditebicentenary.blogspot.com/2012/05/5th-may-1812-government-announce
 5th May 1812: Government announces Special Commissions and new Bill against illegal oaths
 On Tuesday 5th May 1812, the Government announced that it was bringing in new legislation to make the swearing of an illegal oath a capital offence and also a series of special trials ('Special Commissions') to try those arrested during the last few weeks. The Times of 6th May covered the debate in Parliament.
 
+
+https://archive.org/details/parliamentarypa146commgoog/page/n199/mode/1up?q=%22Framework+Knitters%22
+Report from.Committr on FrameWork Knitters
+
+Notts folk had submitted petitions and were tryong to gwt a bill to regulate their teade, deny truxknpaymwnts etc. That as much as the capital sentence bill ppssibly had as much to do with quellimg violence?
