@@ -480,7 +480,7 @@ There is one circumstance only, respecting Riley, in the statement of the Mercur
 
 ```{admonition} The Frank Ward Libel
 :class: seealso
-Frank Ward was accused in a report of November, 1817, of having been a potential leader in the supposed national revolt of which the Derbyshre uprising played a part earlier that year. Ward prosecuted a libel case against the publisher in January, 1819, and was successful in his claim.
+Frank Ward was accused in a report of November, 1817, of having been a potential leader in the supposed national revolt of which the Derbyshire uprising played a part earlier that year. Ward prosecuted a libel case against the publisher in January, 1819, and was successful in his claim.
 ```
 
 ```{admonition} A correction follows, April 1818

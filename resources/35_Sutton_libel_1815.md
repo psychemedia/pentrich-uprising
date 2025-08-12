@@ -35,7 +35,7 @@ response:
 https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18141028/014/0003
 Nottingham Gazette - Friday 28 October 1814
 
-The Proprietor of the Nottingham Review, is sorry find that an article which appeared in his last Number has given DISGUST to some of his friends, who have conceived it having a tendency to encourage the spirit ot insubordination and outrage, which has been so long prevalent in this neighbourhood, and which no man laments more than himself. He will not multiply words upon the subject. *He knows his own intentions, and he knows that nothing could possibly be further from his thoughts, either in that article or in any other, which at any time may have appeared in the Review.* — Nottinghan Review of October 21.
+The Proprietor of the Nottingham Review, is sorry find that an article which appeared in his last Number has given DISGUST to some of his friends, who have conceived it having a tendency to encourage the spirit of insubordination and outrage, which has been so long prevalent in this neighbourhood, and which no man laments more than himself. He will not multiply words upon the subject. *He knows his own intentions, and he knows that nothing could possibly be further from his thoughts, either in that article or in any other, which at any time may have appeared in the Review.* — Nottingham Review of October 21.
 
 Still under the impressions of horror which the atrocious proceedings at Basford have excited, we are almost unable to keep within due bounds our indignation at those who have caused the perpetration of so so much guilt. Error and misrepresentation, though baneful in their immediate operation, and subversive of all order—productive of all mischief—in their ultimate effects, are at first slow in their progress, and generally require a long period to render the minds of men ripe for the production of their most terrible consequences. If their progress, however, be at first slow, it for the most part advances, if the arts of delusion continue to be practised, with a steady and continually accelerating force, till having completely destroyed the perception of right and wrong, and created disciples to whom evil only is their good, ail kinds of monstrous and evil doings begin to abound, and robbery and assassination, civil discord and misery, are the fearful offspring of the follies of mankind, and the dreadful scourges of their sins. That this dishonoured district is rapidly verging to so lamentable a state, is too evident from the character of some late events. The Luddites, more and more inured to crime by each of their operations, become after each more and more bold and atrocious. They have now plunged into that abyss of guilt, that there is no deed of villany too black for their perpetration. Audacious and criminal as their proceedings have hitherto been, we must now be doubly on our guard, and expect from them atrocities of still more alarming and criminal aspect. The men who have proceeded from illegal combinations to the destruction of property, from acts of destruction to robbery, and from robbery to assassination, have advanced so far in wickedness that they must continue to go forward; and, the temptations to crime being so numerous, we must expect them to commence the pillage of private houses, as well as that of the frame-shops, and murder and robbery on the highways, as well as the assassination of their employers. And whom have we to thank for this alarming state of things? Who shall be loaded with the heavy responsibility of al this guilt — the horrid distinction of pre-eminence amongst the wicked — of having been the origin, the root and source of so much evil ? Who is it to whom the guilt of blood — the ruin of hundreds of families — and the indignation of a disgraced community ought to be attached? Surely, if the serpent can be discovered, all men will join in the work of his extermination. 
 
@@ -56,3 +56,43 @@ https://ludditebicentenary.blogspot.com/2015/07/22nd-july-1815-trial-of-charles-
 Mocked by Leeds Intelligencer, likening it to the Leeds Mercury "Nottingham Review (the Luddite and Buonapartean Mercury of that town)"
 
 https://ludditebicentenary.blogspot.com/2015/08/7th-august-1815-leeds-intelligencer.html
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000205/18160209/007/0002
+Leicester Journal - Friday 09 February 1816
+
+LAW INTELLIGENCE
+
+COURT OF KING'S BENCH. FEBRUARY 1st.
+
+*The King v. Sutton.*
+
+The Defendant in this case was convicted at the Assizes for Nottingham, before Mr. Baron Graham, of having inserted in *The Nottingham Review*, of which he is the Printer and Proprietor, a seditious and inflammatory libel, signed with the name of a certain imaginary personage (General Ludd,) reflecting on his Majesty's Government, and on the conduct of the British troops in America at the time the libel was written. At the tme of the trial, certain innuendoes were introduced into the indictment, setting forth, that at the period when the libel was written, great outrages had been committed by divers ill disposed persons on the property and persons of various individuals in and about the neighbourhood of Nottingham; and that the supposed Leader of the disaffected was a certain imaginary person, called Edward Ludd.—At the trial, it was contended by the defending Counsel, first, that the article charged as libellous was only a fair political discussion on political measures; and, secondly, that the averment in the indictment, setting forth that disturbances had and did exist in Nottingham and its neighbourhood, were not sufficiently made out by evidence. These objections, however, were over-ruled by the Learned Judge; who, in his address to the Jury, said, they, from their own local knowledge, could not be ignorant that in fact disterbances had existed; and by the knowledge they thus possessed, would serve to give credit to the evidence of the witnesses examined, and render official documents unnecessary.
+
+The Jury, without hesitation, found the defendant—*Guilty.*
+
+Mr, Denmnan, on the part of the defendant, had since applied for and obtained a rule for a new trial, on the two first grounds, and the additional one of mis-direction on the part of the Learned Judge, who, he contended, had directed the Jury that they were at liberty to impart their own knowledge into the case, as operating against the defendant.
+
+The Attorney General, Mr. Sergeant Vaughan, and Mr. Reader, this day argued against the rule being made absolute.
+
+On the part of *he defendant, Mr. Denman and Mr. Phillips repeated all their former arguinents in support of the rule.
+
+The Court, however, were of opinion were no grounds for a new trial. The rule was, therefore, discharged, and the defeodunt will be brought up for judgement in the course of the Term.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001659/18160216/043/0004
+Drakard's Stamford News - Friday 16 February 1816
+
+TRIALS, ACCIDENTS, OFFENCES, &c.
+
+COURT OF KING'S BENCH, Feb. 9.
+
+The King v. Charles Sutton.—On the motion of the Attorney-general this defendant was brought up to receive the sentence of the court for printing avd publishing a libel in the *Nottingham Review*, in form of a letter signed General Ludd.
+
+Several affidavits were put in on the behalf of the defendant, in mitigation of punishment, which represented him to have published the libel in question from an error in judgment; that he was an excelleat son, husband, and father, and a well-disposed subject.
+
+Mr. Denman and Mr. Phillips addressed the court on behalf of the defendant, contending that the letter in question was no more than a free commentary upon the conduct of the government; and that it was no more than the exercise of the right which belonged to every inhabitant of this fine country.
+
+The Attorney-general addressed the court in aggravation, contending that the libel had a most mischievous tendency at the time when it was publisied, being just after the termination of the recent disgraceful outrages in the town of Nottingham and its neighbourhood.
+
+The court, viewing all the circumstances of the case, senteaced the defendant to one year’s imprisonment in the gaol of Nottingham; and at the expiration of that period to find security for his good behaviour for three years, himself in £500, and two sureties to £250 each.
+

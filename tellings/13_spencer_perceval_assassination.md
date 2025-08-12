@@ -175,7 +175,7 @@ TO DO
 
 The prisoner received his sentence with a most profound awe, seemingly much affected by his dreadful situation.— The trial lasted from ten o'clock to half-past six.
 
-While Sir J. Mansfield was recapitlating the evidence, Bellingham, who certainly did not seem to expect the issue of the trial to be what it is, mentioned to his solicitor to be sure not to let slip the opportunity of acquainting his wife by that night's post, that he had been acquitted.
+While Sir J. Mansfield was recapitulating the evidence, Bellingham, who certainly did not seem to expect the issue of the trial to be what it is, mentioned to his solicitor to be sure not to let slip the opportunity of acquainting his wife by that night's post, that he had been acquitted.
 
 ...
 

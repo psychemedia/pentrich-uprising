@@ -1,6 +1,6 @@
 # Huddersfield Unsettled
 
-March, 1812. The discontent that had been manifest in and around Nottinghamshire and Derbyshre has started to spread north. There have been attacks on the mills around Leeds, and at the Yorkshire Lent Assizes at York .. TO DO
+March, 1812. The discontent that had been manifest in and around Nottinghamshire and Derbyshire has started to spread north. There have been attacks on the mills around Leeds, and at the Yorkshire Lent Assizes at York .. TO DO
 
 Hon. Baron Thompson and Sir Simon Le Blanc, Knt., Justice of His Majesty's Court of King's Bench
 
@@ -35,15 +35,15 @@ The Bill against James Shaw, of Leeds, clothdresser, charging him with having di
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18120120/023/0003
 Leeds Intelligencer - Monday 20 January 1812
 
-*Aslo reprinted in Manchester Mercury of Tuesday 21 January 1812, etc.*
+*Also reprinted in Manchester Mercury of Tuesday 21 January 1812, etc.*
 
-The greatest praise is due to the Magistrates of this Borough, for their alacrity and prompt decision in striking at the root of a dangerous conspiracy, which, if carried into effect, would seem to bear a close affinity to the disturhances in Nottinghamshire. Indeed, we have little doubt, that an organized system prevails, and that something more than the distresses of the times, is the moving cause of these conspiracies. The Magistrates fortunately had timely information, that a meeting was to be held on Wednesday night, of certain cloth-workers and others, at a given place, and that they were to proceed to the destruction of the different machines, in the neighbourhood, used for the dressing of cloth. A meeting of this description was certainly held, but, from what cause we know not, the system of depredation was not commenced. The Magistrates were personally on the alert; and a little after one o'clock on Thursday morning, one of them seized a perion of the name of James Shaw, on his return from the unlawful assembly. He had his face blacked and was with a hammer and a club.— Several others returning at the same time, similarly armed, escaped. On the day following, the prisoner underwent a long examination in before the Magistrates, at our Rotation Office, when he was fully committed to York Castle, under the Black Act, for disguising his person and being found with offensive weapons,— A party of the Scots Greys escorted the prisoner three miles out of the town.
+The greatest praise is due to the Magistrates of this Borough, for their alacrity and prompt decision in striking at the root of a dangerous conspiracy, which, if carried into effect, would seem to bear a close affinity to the disturbances in Nottinghamshire. Indeed, we have little doubt, that an organized system prevails, and that something more than the distresses of the times, is the moving cause of these conspiracies. The Magistrates fortunately had timely information, that a meeting was to be held on Wednesday night, of certain cloth-workers and others, at a given place, and that they were to proceed to the destruction of the different machines, in the neighbourhood, used for the dressing of cloth. A meeting of this description was certainly held, but, from what cause we know not, the system of depredation was not commenced. The Magistrates were personally on the alert; and a little after one o'clock on Thursday morning, one of them seized a person of the name of James Shaw, on his return from the unlawful assembly. He had his face blacked and was with a hammer and a club.— Several others returning at the same time, similarly armed, escaped. On the day following, the prisoner underwent a long examination in before the Magistrates, at our Rotation Office, when he was fully committed to York Castle, under the Black Act, for disguising his person and being found with offensive weapons,— A party of the Scots Greys escorted the prisoner three miles out of the town.
 
 It might, however, seem that even this promptitude has been insufficient to stem the torrent of that dangerous spirit, to which we have alluded.
 
 About seven o'clock, last night, (Sunday) the gig or dressing-mill of Messrs. Oates, situate near Woodhouse-Carr, was discovered to be ON FIRE! The flames spread with rapidity, and a great part of the building, about half, was destroyed.
 
-On the alarm the Scots Greys hastened to guard the propertu, and thousands thronged to the spot; many lamenting the calamity, the multitude shouting and proclaiming it a blessing!
+On the alarm the Scots Greys hastened to guard the property, and thousands thronged to the spot; many lamenting the calamity, the multitude shouting and proclaiming it a blessing!
 
 The day—the time of the day—the spirit which is afloat, stamp this as the act of incendiaries. It may not be so; we hope it is not so: but the general opinion goes against our probability and our hope.
 

@@ -62,9 +62,9 @@ On Saturday last James Towle, of New Basford, was committed to the County Gaol, 
 
 ## To Silence a Witness
 
-Thomas Garton was the leading witness against Towle, and the Luddites knew this. Threats of violence were made against hinm, Garton suspected that an attack would follow. His wife went to stay with a neighbout, a certain Mr Kilby, while Garton remained at home, to wait with several others recruited to aid his defence.
+Thomas Garton was the leading witness against Towle, and the Luddites knew this. Threats of violence were made against him, Garton suspected that an attack would follow. His wife went to stay with a neighbour, a certain Mr Kilby, while Garton remained at home, to wait with several others recruited to aid his defence.
 
-When the attack came, an was entry forced, and a demand was made for Garton to show himself; as the candles went out, there was confusion, and shots were fired, killing one of the Luddites, a lad named Samuel Bamford, outright. As they retreated, presumably trying to quell the fears of Mrs Garton, who was likely hysterical at the noises she could hear coming from her own home, went to the door to see what was happening. Outside, the Luddites saw him, told him to go back inside or he would have his brains blown out. Perhaps Kilby tried to object, or perhaps Mrs Garton joined the fray. But something happened. Another shot was fired, and Kilby was instantly killed.
+When the attack came, an entry was forced, and a demand was made for Garton to show himself; as the candles went out, there was confusion, and shots were fired, killing one of the Luddites, a lad named Samuel Bamford, outright. As they retreated, presumably trying to quell the fears of Mrs Garton, who was likely hysterical at the noises she could hear coming from her own home, went to the door to see what was happening. Outside, the Luddites saw him, told him to go back inside or he would have his brains blown out. Perhaps Kilby tried to object, or perhaps Mrs Garton joined the fray. But something happened. Another shot was fired, and Kilby was instantly killed.
 
 ```{admonition} Ambush at Garton's
 :class: dropdown
@@ -118,7 +118,7 @@ A REWARD OF Two Hundred Pounds
 is thereby offered by the PRINCE REGENT on behalf of His Majesty, to any Person (except as is before excepted) who shall discover his, her, or their Accomplice or Accomplices therein, so that he, she, or they, may be apprehended and convicted thereof; or to any Person or Persons who shall apprehend and bring the said Offenders, or any of them, to Conviction; or cause them, or any of them, to be apprehended and convicted, aforesaid, ——Such Reward of TWO HUNDRED POUNDS to paid the Lords Commissioners His Majesty's Treasury. Nottingham, October 24, 1814.
 ```
 
-With little progress apparently having been made in discoveruing who was responsible for Kilby's death, an additional reward was also offered.
+With little progress apparently having been made in discovering who was responsible for Kilby's death, an additional reward was also offered.
 
 ```{admonition} Offer of an additional reward, November 1814
 :class: dropdown
@@ -273,7 +273,7 @@ The trial of Mr. Sutton, proprietor of the Review, is postponed, we understand t
 
 ```
 
-*Meanwhile, the trial of Charles Sutton, the proprietor of the Nottinghan Review, on a charge of libel for publishing a satirical letter signed off by "General Ludd", was also due to be heard at this Assizes. But it was postponed until the next Assizes. And in any case, that is another story...*
+*Meanwhile, the trial of Charles Sutton, the proprietor of the Nottingham Review, on a charge of libel for publishing a satirical letter signed off by "General Ludd", was also due to be heard at this Assizes. But it was postponed until the next Assizes. And in any case, that is another story...*
 
 ```{admonition} Further reports from the trial, March 1815
 :class: dropdown

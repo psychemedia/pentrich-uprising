@@ -18,6 +18,9 @@ FRAME WORK BILL.
 HL Deb 27 February 1812 vol 21 cc964-79 
 Second reading
 
+Includes Lord Byron's maiden speech, against the bill, and in support of the Nottinghamshire men
+
+
 https://api.parliament.uk/historic-hansard/lords/1812/mar/02/protest-against-going-into-a-committee
 PROTEST AGAINST GOING INTO A COMMITTEE ON THE FRAME WORK BILL.
 HL Deb 02 March 1812 vol 21 cc1084-6
@@ -85,9 +88,7 @@ https://archive.org/details/np212725_0004/page/634/mode/2up
 
 52 Geo. III. 1812 CAP. XVII pp.634-41
 
-An Act for the more effectual Preservation of the Peace, by enforcing the Duties of Watching and Warding, until the First Day of March One thousand eight hundred and fourteen, in Places
-
-ubere Diflurbaucc-s prcmil or arc apprehended. . [zeth 1812.
+An Act for the more effectual Preservation of the Peace, by enforcing the Duties of Watching and Warding, until the First Day of March One thousand eight hundred and fourteen, in Places where Disturbances prevail or are apprehended. . [zeth 1812.
 
 20th March 1812
 
@@ -305,7 +306,7 @@ Sun (London) - Saturday 21 March 1812
 
 THE ROYAL ASSENT
 
-Was given by Commission to the Lottery Amendment Bill, the Two Mutiny Bills, Men be.s' Indemnity Bill, Oak Bark and Tobacco Imp° - tation Bills, Frame-Breaking Prevention Bill, Nottingham Watch and Ward Bill, and to several Private Bills.
+Was given by Commission to the Lottery Amendment Bill, the Two Mutiny Bills, Members' Indemnity Bill, Oak Bark and Tobacco Importation Bills, Frame-Breaking Prevention Bill, Nottingham Watch and Ward Bill, and to several Private Bills.
 
 ```
 
@@ -337,6 +338,14 @@ https://archive.org/details/np212725_0004/page/632/mode/2up?q=frame
 
 52 George III 1812 Cap. 16 pp.633-4
 
-An Act for the more exemplary Punishment of Persons deftroying or injuring any Stocking or Lace Frames, or other Machines or Engines used in the Framework knitieil Manufactury, or any Articles or Goods in fuch Frames or Machines; to continue in force until the First Day of Man-i One thousand eight hundred and fourteen. C^othMorfb 1812.'
+An Act for the more exemplary Punishment of Persons destroying or injuring any Stocking or Lace Frames, or other Machines or Engines used in the Framework knitieil Manufactury, or any Articles or Goods in such Frames or Machines; to continue in force until the First Day of March, One thousand eight hundred and fourteen. C^othMorfb 1812.'
 
+
+
+---
+
+https://ludditebicentenary.blogspot.com/2012/05/5th-may-1812-government-announces.html
+
+5th May 1812: Government announces Special Commissions and new Bill against illegal oaths
+On Tuesday 5th May 1812, the Government announced that it was bringing in new legislation to make the swearing of an illegal oath a capital offence and also a series of special trials ('Special Commissions') to try those arrested during the last few weeks. The Times of 6th May covered the debate in Parliament.
 
