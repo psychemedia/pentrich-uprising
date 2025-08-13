@@ -42,7 +42,7 @@ A plot for an insurrection has been fortunately discovered in Yorkshire. The obj
 The same Paper adds, "The information, relating to the time of the Meeting, and the objects contemplated by the Delegates, was, we understand, furnished to the civil and military authorities by one of their own number, and upon the same authority it was stated, that fifty stand of arms would be found concealed in a barn, near the place of meeting. To ascertain the veracity of this assertion a person was dispatched to the place pointed out by the informer, but the Sittings of the Magistrates, which were continued till between eight and nine o'clock last night, having broken up before the messenger's return, we are unable to give the report."
 ```
 
-The Camnbridge Chronicle of Friday, June 13, carried a piece by the *Leeds Intelligencer* as well as rerprinting the *Leeds Mercury* report:
+The Camnbridge Chronicle of Friday, June 13, carried a piece by the *Leeds Intelligencer* as well as reprinting the *Leeds Mercury* report:
 
 ```{admonition} Rumours by persons in official situations, June 1817
 :class: dropdown

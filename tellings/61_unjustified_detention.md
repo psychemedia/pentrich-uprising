@@ -361,7 +361,7 @@ RICHARD LEE.— The following account is given in the *Leeds Intelligencer* of a
 
 ```
 
-The full editorial provided in the *Leeds Intellgencer* of [Monday 23 March 1818](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180323/018/0003) was also reprinted in the London press:
+The full editorial provided in the *Leeds Intelligencer* of [Monday 23 March 1818](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180323/018/0003) was also reprinted in the London press:
 
 ```{admonition} Another take on the Intelligencer's report, March 1818
 :class: dropdown

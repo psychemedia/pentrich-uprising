@@ -81,7 +81,8 @@ We have the satisfaction to conclude this article, by stating a fact, that will 
 
 ```
 
-Despite claims that Oliverr was "merely a *passive* agent", the editor of the *Leeds Mercury*
+Despite claims that Oliver was "merely a *passive* agent", the editor of the *Leeds Mercury* TO DO
+
 ```{admonition} A merely passive agent? July 1917
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003

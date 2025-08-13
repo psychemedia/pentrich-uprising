@@ -393,7 +393,7 @@ destroy all machinery, and then the Lace cannot be made perhaps under 20s. What 
 
 a yard.
 
-demand for only one hundred thousand yards instead of five hund ed thousand There would still be 2,500 families employed in Lace-making, at 40l. a
+demand for only one hundred thousand yards instead of five hundred thousand There would still be 2,500 families employed in Lace-making, at 40l. a
 
 yards,
 

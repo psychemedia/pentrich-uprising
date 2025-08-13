@@ -21,7 +21,7 @@ From late February, through to April, several small scale attacks were mounted a
 
 On March 15th, the Ides of March, at 8.30 or so in the evening, an attack is made on Vickerman's Mill on Taylor Hill. Francis Vickerman, member and sponsor of the Committee for Suppressing the Outrages", is no friend of the Luddites.
 
-It's the 9th of April. A thursday. A gang of 300 men attack Joseph Foster's Mill at Horbury, east of Huddersfield on the road to Wakefield.
+It's the 9th of April. A Thursday. A gang of 300 men attack Joseph Foster's Mill at Horbury, east of Huddersfield on the road to Wakefield.
 
 Three days later, on Saturday April 11th, a coin toss decides the target of the next attack: Rawfolds Mill in Liversedge. Dumb Steeple, near Kirklees priory in Mirfield, and an arrow's shot away from Robin Hood's grave, just a short walk from the Three Nuns pub today, was the meeting place for over a hundred aggrieved men, men armed with hammers, mauls, pistols and muskets.
 

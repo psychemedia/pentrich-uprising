@@ -1,6 +1,6 @@
 # The last of the Luddites
 
-The Loughbourough Luddites
+The Loughborough Luddites
 
 Resources:
 
@@ -11,7 +11,7 @@ Resources:
   Stamford Mercury - Friday 16 August 1816 has interesting anecdotes
 also Leicester Journal - Friday 16 August 1816
 
-- trial of Loughboorough Luddites
+- trial of Loughborough Luddites
   - april_1817.md
   - courier.md
   - derby_mercury.md

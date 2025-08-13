@@ -316,7 +316,7 @@ Procuring Riotous Assemblies to be held.—Thomas Riley, tailor, 60, Crosland Mo
 
 ## On Trial — York Lammas Assizes, 1817
 
-Although the York Lammas Assizes did not have the full weight of the Special Commission assembled at York Castle for the trial of the Huddersfield Luddites several years, the outcome of that porceedings must surely have weighed on the minds of the Folly Hall men, their families, and their communities.
+Although the York Lammas Assizes did not have the full weight of the Special Commission assembled at York Castle for the trial of the Huddersfield Luddites several years, the outcome of that proceedings must surely have weighed on the minds of the Folly Hall men, their families, and their communities.
 
 ```{admonition} Yorkshire Lammas Assizes, July 1817
 :class: dropdown

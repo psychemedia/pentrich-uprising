@@ -578,7 +578,7 @@ https://ludditebicentenary.blogspot.com/2011/12/5th-december-1811-nottingham-und
 
 
 
-And what of 1817? The trial of Loughbourough Luddites, and the Pentrich Revolution?
+And what of 1817? The trial of Loughborough Luddites, and the Pentrich Revolution?
 
 ---
 https://archive.org/details/sim_all-the-year-round_1874-06-06_12_288/page/182/mode/1up?q=pentridge
