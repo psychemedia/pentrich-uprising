@@ -4,7 +4,7 @@ As is still the case today, every so often local newspapers would take a histori
 
 So let us begin with a remembering, from 1875, of the Luddite times of over fifty years before that. The story starts in 1811, and ends in 1817, a tale of the Yorkshire Luddites, topped and tailed with parallel troubles from the neighbourung counties to the south...
 
-`This is actually a reprint of a chapter in Walter Thornbury's "Old Stories Retold", 1835.`
+`This is actually a reprint of a column by Walter Thornbury in *All the Year Round* (1867-05-11: Vol 17 Iss 420, pp. 467-474), which would also later appear in "Old Stories Retold", published in 1879.`
 
 ```{admonition} Old Stories Retold: The Luddites, 1875
 :class: dropdown

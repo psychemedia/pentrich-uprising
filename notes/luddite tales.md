@@ -271,9 +271,12 @@ pp57-69
 https://archive.org/details/in.ernet.dli.2015.41560/page/n165/mode/1up
 Old Stories Retold
 by Thornbury, Walter
-Publication date 1835
+Publication date 1879
 The Luddites pp 157+
 [Also has a chapter on Cato Street Conspiracy]
+
+also in  *All the Year Round* [1867-05-11: Vol 17 Iss 420](https://archive.org/details/sim_all-the-year-round_1867-05-11_17_420/mode/2up), pp. 467-474
+
 
 ---
 
