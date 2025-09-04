@@ -1,5 +1,7 @@
 # Cato Street Conspiracy
 
+Also in Old Stories Retold
+
 https://archive.org/details/authentichistory00wilkiala/page/n5/mode/2up
 An authentic history of the Cato-Street conspiracy; with the trials at large of the conspirators, for high treason and murder; a description of their weapons and combustible machines, and every particular connected with the rise, progress, discovery, and termination of the horrid plot. With portraits of the conspirators, taken during their trials, by permission, and other engravings
 by Wilkinson, George Theodore; Great Britain. Central Criminal Court; Thistlewood, Arthur, 1770-1820, defendant; Ings, James, d. 1820, defendant; Brunt, John Thomas, 1782?-1820, defendant; Tidd, Richard, 1775?-1820, defendant; Davidson, William, 1786-1820, defendant

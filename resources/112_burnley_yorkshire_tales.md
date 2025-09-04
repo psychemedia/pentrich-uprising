@@ -2,7 +2,6 @@
  
 James Burnley's [*Yorkshire Stories Re-told*](https://play.google.com/books/reader?id=jboHAAAAQAAJ&pg=GBS.PA54&hl=en_GB), 1885, is TO DO
 
-
 THE STORY OF THE LUDDITE RIOTS
 
 TIMES were bad — even desperate. Trade was paralysed by the long and costly war which we had waged, and were still waging, with Napoleon. Ground down by taxation, reduced to the verge of starvation by the dearness of provisions and the scarcity of employment, the poorer classes of the community were discontented and unhappy, and complained bitterly of their lot. News came now and then of a fresh victory gained by Wellington in the Peninsula, and inspired a temporary hope that the war would be brought to a close and commerce would once more resume its sway, but the weary days went by and the working-men of England were still compelled to suffer from want and privation. Wheat was sold at £9 a quarter about this time in Leeds market, and the populace, headed by a woman whom they styled Lady Lud, assailed the dealers in the market, seized the corn and threw it about the streets. At Sheffield the mob broke into the local Militia store-room and destroyed 800 guns and bayonets. Riots, indeed, were of constant occurrence, and the country was in a highly agitated and troubled condition.

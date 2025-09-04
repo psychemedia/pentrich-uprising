@@ -236,6 +236,8 @@ TO DO
 https://archive.org/details/criminalrecorde00unkngoog/page/478/mode/2up
 The criminal recorder; or, Biographical sketches of notorious public characters, Vol. II
 
+TO DO
+
 1815
 
 pp478-483
@@ -280,7 +282,7 @@ Another accomplice gave a similar testimony.
 
 The jury found James Haigh, J. Dean, John Ogden, Thomas Brook, and John Walker, Guilty—James Brook, John Brook, and John Hirst, Not Guilty.
 
-January 11.—J. Hay, Joho Hill, and William Hartley, were next tried for a burglary in the house of Mr. George Haigh, of Sculcoates ; and found Guilty.
+January 11.—J. Hay, John Hill, and William Hartley, were next tried for a burglary in the house of Mr. George Haigh, of Sculcoates; and found Guilty.
 
 On Thursday the Grand Jury, after stating they had no more bills before them, inquired if any more were prepared.—Mr. Parke said—"I shall, with leave of the Court, answer the question put by the Grand Jury." Their Lordships intimated assent, and Mr. Parke 'proceeded:—"My learned friends and myself have examined the different cases which have been presented to you; and, considering that many of these people have acted under the influence of other persons, we have, in the exercise of that discretion confided to us by the Crown, declined, at present, to present any other bills before you, and I hope this lenity will preduce its proper effects; and that the persons on whom it is exercised, will prove themselves, by their future good conduct, deserving of it. But if it be abused, proceedings against them can be resumed."
 

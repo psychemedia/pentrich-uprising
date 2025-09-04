@@ -423,11 +423,17 @@ Since our last were committed to York Castle, James Oldroyd, of Dewsbury, clothi
 
 
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0001279/18121031/010/0003 Hull Advertiser - Saturday 31 October 1812
 
+Committed to York Castle, W. Thorpe and Thomas Smith, both of Huddersfield, cloth-dressers, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the attack on Mr. Cartwright's mill; and also with being two of the persons concerned in the murder of William Horsfall.—James Haigh of Dalton; Jonathan Dean of Huddersfield; Mark Hill, George Rigg, and Joseph Thornton, cloth-dressers, charged with attacking the mill of Mr. Cartwright; and the three latter with also having assembled at the workshop of Francis Vickerman, at Tailor Hill, Almondbury, and feloniously broke and destroyed divers shears and articles of machinery, the propery of the said Francis Vickerman.— Also, Lazarus Naylor, of Pudsey, charged upom oath with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18121102/032/0003
+Leeds Intelligencer - Monday 02 November 1812
+
+Also in 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/021/0004
 Lancaster Gazette - Saturday 07 November 1812
 
-Also in eg https://britishnewspaperarchive.co.uk/viewer/bl/0001279/18121031/010/0003 Hull Advertiser - Saturday 31 October 1812
 
 Committed to York Castle, W. Thorpe (No. 44) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with being a commander at, and aiding and assisting in an unlawful attack lately made upon Mr. Cartwright's mill, at Rawfolds; and also charged with being one of the men who shot and murdered Mr. William Horsfall. late of Marsden, merchant, in the month of April last. — Thomas Smith (No. 45) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the above attack on Mr. Cartwright's mill; and also with being one of the persons concerned in the murder of William Horsfall. James Haigh (No. 46) of Dalton, and Jonathan Dean (No. 47) of Huddersfield, cloth dressers, charged upon the oath of William Hall and others, with having, together with divers others, unlawfully and riotously assembled at Hartshead-cum-Clifton, in April last, and then proceeded to attack the mill, at Rawfolds. — Mark Hill (No 49) and Joseph Thornton (No. 50) cloth-dressers, charged upon the oath of William Hall, with having, together with divers others, unlawfully and feloniously assembled at the mill, at Rawfolds, and attempted to break into the same; and also with having assembled at the work-shop of Francis Vickerman, at Taylor Hill, in Almondbury, breaking and destroying divers shears and articles of machinery, the property of the said Francis Vickerman. — Also, Lazarus Naylor (No. 51) of Pudsey, charged with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth. — Eight *Luddites* passed through Leeds on Saturday, on their way to York Castle. Three more passed through on Sunday.
 
