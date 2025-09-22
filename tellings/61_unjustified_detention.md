@@ -554,7 +554,7 @@ On Lee's own shewing, or rather on the shewing of the person, who has perhaps *p
 
 The fact is, the attempt would be too contemptible for notice, were it not that the more contemptible the parties and occasions are which furnish grounds of attack upon Government, the more congenial do they seem to the grovelling malignity of jacobinism. It is on this account only, that we join in Mr. Staveley's wish that this fellow's case, however despicable, should be again brought before Parliament, in order that the infamy of the calumniators, who secretly circulate their poison in his name, may be complete:—We beg to refer our Readers to two letters from Mr. Staveley, in this day's paper, one in the front page,—the other in a subsequent column.
 
-*`The letter referred to as being on the front page of the Intelligencer was a duplicate of Staveley's letter to the editor of the  York Herald on Saturday 18 April 1818, albeit this time addressed to the editor of the Leeds Intelligencer.`*
+*`The letter referred to as being on the front page of the Intelligencer was a duplicate of Staveley's letter to the editor of the York Herald on Saturday 18 April 1818, albeit this time addressed to the editor of the Leeds Intelligencer.`*
 ```
 
 Lee, in turn, felt compelled to respond to Staveley's letter:

@@ -125,7 +125,7 @@ Under this kind of excitation, it is no wonder that the persons to whom such con
 
 The Magistrates, who appear to have displayed a more than ordinary share of vigour, soon found means to discover and to arrest a number of the persons engaged in these criminal excesses, and twenty-four of them have been committed to York Castle, to take their trials at the Assizes, which commence this day, while about half that number still remain in confinement in the prison at Huddersfield. It is much to be regretted that the persons apprehended, and about to be put upon their trials, have for the most part, been, at most, merely the dupes of the leaders of this miserable conspiracy, and that the instigators, including Mr. Oliver, the London delegate, have been suffered to escape.
 
-*Mr. Oliver's Cypher.*—  It appears from the evidence of the principal witness for the Crown given before the Lord Lieutenant and the Magistrates at Wakefield, on Monday, the 16th of June, that Mr. Oliver corresponded with his dupes in cypher, and that one of the mottos used by him for that purpose was—  *"The Old Mother is sick, and expects all her sons to arm."*
+*Mr. Oliver's Cypher.*— It appears from the evidence of the principal witness for the Crown given before the Lord Lieutenant and the Magistrates at Wakefield, on Monday, the 16th of June, that Mr. Oliver corresponded with his dupes in cypher, and that one of the mottos used by him for that purpose was—  *"The Old Mother is sick, and expects all her sons to arm."*
 
 ---
 

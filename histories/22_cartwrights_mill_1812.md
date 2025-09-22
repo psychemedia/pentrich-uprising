@@ -287,7 +287,7 @@ A person of the name of Haigh was apprehended at Methley on Saturday se'nnight, 
 TO DO
 
 
-
+[ALso see elsewhere for more on Horsfall; the following is duplicated in that.]
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120502/011/0003
 ## Leeds Mercury - Saturday 02 May 1812
@@ -302,7 +302,7 @@ From a professional Gentleman, who was called in to visit Mr. Horsfall, we learn
 
 Mr. Horsfall had a very large Woollen Manufactory at Marsden, wherein about 400 work people were employed; and in a part of his premises there are Shearing Machines, which have been erected about seven years, and have attained considerable perfection; this circumstance, with the additional one of his unremitting activity in detecting, and bringing to justice the persons engaged in the attack at Rawfolds, and other Mills, had rendered him obnoxious in a high degree to the machine destroyers, who knowing his premises were too well defended to justify an attack on his property, committed a crime against his person, that will embitter every future day of their existence, and, that will, in all probability through the retributive justice of that Being, from whom no secrets are hid, bring the blood-stained perpetrators of this worst of crimes, to an ignominious end.
 
-A reward of £2000 will, we understand, be offered immediately to any person who will give such information as will lead to the conviction of any one or more of the four men concerned in the murder of Mr. Horsfall. 
+A reward of £2000 will, we understand, be offered immediately to any person who will give such information as will lead to the conviction of any one or more of the four men concerned in the murder of Mr. Horsfall.
 
 
 
@@ -317,7 +317,7 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18120507/005/0003
 Caledonian Mercury - Thursday 07 May 1812
 
 
-[ATROCIOUS MURDER article from Leeds Mercury.prefaced with:
+[ATROCIOUS MURDER article from Leeds Mercury, prefaced with:
 
 We formerly mentioned, that Mr Horsfall, of Marsden, had been waylaid, on his return home from market, by a gang of villains, by whom he was fired at and severely wounded. We are sorry to learn, by the following account, extracted, from the Leeds Mercury of Saturday last, that Mr Horsfall has since died of his wounds.
 
@@ -325,9 +325,9 @@ We formerly mentioned, that Mr Horsfall, of Marsden, had been waylaid, on his re
 
 Mr Cartwright, who so bravely defended his property in Yorkshire, has been fired at on three distinct occasions but without doing him the slightest injury.
 
-Mr Trentham, notwithstanding his alarming wound, is likely to recover. The Luddites have had the audacity to placard the streets of Nottingham in the night, offerring a reward for Mr Wilson, the mayor, dead or alive. He had committed no offence than signing the offer of a reward of L.600 fom the Corporation of Nottingham, for the discovery of the assassin who shot Mr Trentham. — These infatuated men are said actually to meet in the streets of Nottingham, in small parties, in the daytime, and triumphantly talk over their nightly depredations.
+Mr Trentham, notwithstanding his alarming wound, is likely to recover. The Luddites have had the audacity to placard the streets of Nottingham in the night, offering a reward for Mr Wilson, the mayor, dead or alive. He had committed no offence than signing the offer of a reward of L.600 from the Corporation of Nottingham, for the discovery of the assassin who shot Mr Trentham. — These infatuated men are said actually to meet in the streets of Nottingham, in small parties, in the daytime, and triumphantly talk over their nightly depredations.
 
-The Gazette of last Saturday offers his Majesty's pardon, and a reward of L.  2000, for the conviction of the persons who shot Mr W. Horsfall, of Marsden, near Huddersfield, on Tuesday se'ennight, of which wounds he is since dead.— Also L. 600 reward, and a pardon, for the person who fired at Mr W Trentham, of Nottingham, on the evening of Monday se'ennight, as he was knocking at his own door, and wounded him in the breast.— L. 100 for the person who discharged a gun at Mr J. Rayner, of Lendthwaite, West Riding, on the 23d April, the ball of which went through his hat.— 100.guineas, and a pardon, for the discovery of the person who discharged a gun at Mr. E. Whitehead, deputy constable, at Huddersfield, as he was going to bed, on the 15th ult.— And L. 200 for the conviction of the persons who, on the night of the 21st of March, fired upon the boat's crew of his Majesty's schooner Pioneer, after she had chased three smuggling galleys on shore between Walmer and Deal, and by which two of them escaped.
+The Gazette of last Saturday offers his Majesty's pardon, and a reward of L.2000, for the conviction of the persons who shot Mr W. Horsfall, of Marsden, near Huddersfield, on Tuesday se'ennight, of which wounds he is since dead.— Also L. 600 reward, and a pardon, for the person who fired at Mr W Trentham, of Nottingham, on the evening of Monday se'ennight, as he was knocking at his own door, and wounded him in the breast.— L.100 for the person who discharged a gun at Mr J. Rayner, of Lendthwaite, West Riding, on the 23d April, the ball of which went through his hat.— 100 guineas, and a pardon, for the discovery of the person who discharged a gun at Mr. E. Whitehead, deputy constable, at Huddersfield, as he was going to bed, on the 15th ult.— And L.200 for the conviction of the persons who, on the night of the 21st of March, fired upon the boat's crew of his Majesty's schooner Pioneer, after she had chased three smuggling galleys on shore between Walmer and Deal, and by which two of them escaped.
 
 Accounts from Manchester state, that another mill has been burned near that town, and a woman, who offered to give evidence against the criminals, was shot, while the military were escorting her to the magistrate.
 
@@ -435,7 +435,7 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/021/0004
 Lancaster Gazette - Saturday 07 November 1812
 
 
-Committed to York Castle, W. Thorpe (No. 44) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with being a commander at, and aiding and assisting in an unlawful attack lately made upon Mr. Cartwright's mill, at Rawfolds; and also charged with being one of the men who shot and murdered Mr. William Horsfall. late of Marsden, merchant, in the month of April last. — Thomas Smith (No. 45) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the above attack on Mr. Cartwright's mill; and also with being one of the persons concerned in the murder of William Horsfall. James Haigh (No. 46) of Dalton, and Jonathan Dean (No. 47) of Huddersfield, cloth dressers, charged upon the oath of William Hall and others, with having, together with divers others, unlawfully and riotously assembled at Hartshead-cum-Clifton, in April last, and then proceeded to attack the mill, at Rawfolds. — Mark Hill (No 49) and Joseph Thornton (No. 50) cloth-dressers, charged upon the oath of William Hall, with having, together with divers others, unlawfully and feloniously assembled at the mill, at Rawfolds, and attempted to break into the same; and also with having assembled at the work-shop of Francis Vickerman, at Taylor Hill, in Almondbury, breaking and destroying divers shears and articles of machinery, the property of the said Francis Vickerman. — Also, Lazarus Naylor (No. 51) of Pudsey, charged with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth. — Eight *Luddites* passed through Leeds on Saturday, on their way to York Castle. Three more passed through on Sunday.
+Committed to York Castle, W. Thorpe (No. 44) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with being a commander at, and aiding and assisting in an unlawful attack lately made upon Mr. Cartwright's mill, at Rawfolds; and also charged with being one of the men who shot and murdered Mr. William Horsfall, late of Marsden, merchant, in the month of April last. — Thomas Smith (No. 45) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the above attack on Mr. Cartwright's mill; and also with being one of the persons concerned in the murder of William Horsfall. James Haigh (No. 46) of Dalton, and Jonathan Dean (No. 47) of Huddersfield, cloth dressers, charged upon the oath of William Hall and others, with having, together with divers others, unlawfully and riotously assembled at Hartshead-cum-Clifton, in April last, and then proceeded to attack the mill, at Rawfolds. — Mark Hill (No 49) and Joseph Thornton (No. 50) cloth-dressers, charged upon the oath of William Hall, with having, together with divers others, unlawfully and feloniously assembled at the mill, at Rawfolds, and attempted to break into the same; and also with having assembled at the work-shop of Francis Vickerman, at Taylor Hill, in Almondbury, breaking and destroying divers shears and articles of machinery, the property of the said Francis Vickerman. — Also, Lazarus Naylor (No. 51) of Pudsey, charged with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth. — Eight *Luddites* passed through Leeds on Saturday, on their way to York Castle. Three more passed through on Sunday.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18121128/006/0003
 Caledonian Mercury - Saturday 28 November 1812

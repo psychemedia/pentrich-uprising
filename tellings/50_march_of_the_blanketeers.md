@@ -2,7 +2,7 @@
 
 The following is a version of the Blanketeers' story told in the style of a traditional fairy tale, and based on the principle that the story is what's left when the facts have been forgotten. I'm not sure whether it works, but I thought I'd give it a go...
 
-> Once, there was a King; a *mad* King; the King was so infirm that his son, the Prince, ruled in his place; but the prince liked to drink, and the prince liked to party; and the prince was a profligate, and the prince just had to have those beatiful shoes, and that fabulous jacket. In short, the prince was a full time fashion victim playboy. With terrible taste. And so, the King's Ministers ran the country instead.
+> Once, there was a King; a *mad* King; the King was so infirm that his son, the Prince, ruled in his place; but the prince liked to drink, and the prince liked to party; and the prince was a profligate, and the prince just had to have those beautiful shoes, and that fabulous jacket. In short, the prince was a full time fashion victim playboy. With terrible taste. And so, the King's Ministers ran the country instead.
 >
 > For a long time, the kingdom had been fighting many wars, and even though the wars were over now, the people were still very poor. And their discontent lead to angry mobs and riots.
 >
@@ -10,7 +10,7 @@ The following is a version of the Blanketeers' story told in the style of a trad
 >
 > This did not go down well with common people in the kingdom.
 >
-> Far away from the city where the King and Prince lived, along with all the Ministers, but still within the kingdom, was another city. To walk from one to the other could take a week or more to walk — this is once, remember, and not everyone had a horse — and that was if you were a good walker.
+> Far away from the city where the King and Prince lived, along with all the Ministers, but still within the kingdom, was another city. To walk from one to the other could take a week or more to walk — this is *once*, remember, and not everyone had a horse — and that was if you were a good walker.
 >
 > One day, the people in the second city heard that a great mass of barbarians from the wastelands of the North were on a long march to the capital to complain to the King — or the Prince, or the Ministers, or to anyone who would listen, about how downtrodden they were.
 >

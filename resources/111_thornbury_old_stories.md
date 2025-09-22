@@ -263,7 +263,7 @@ by Thornbury, Walter
 Publication date 1879
 
 pp. 242-255
-THE CATO STREET CONSPIRACY ( 1820 ).
+THE CATO STREET CONSPIRACY (1820).
 
 -- 
 https://archive.org/details/in.ernet.dli.2015.41560/page/n9/mode/2up?q=wight

@@ -30,7 +30,7 @@ I have no idea whether or Benjamin Topham, of Pentridge, was necessarily doing a
 
 There were lace and stocking makers all over the place round there, of course. And machines. They'd been used for years. But it was all getting a bit different now. You knew where you were when you were selling stuff locally: there were only so many pairs of stockings anyone needed, after all. But when you're selling to a whole new world, where they don't really know hopw to make their own stockings, or don't have the wool to make it, well, business had grown like crazy. So while you *could* carry on making the traditional, crafty stuff, for use at home, you needed a quicker way to turn out the tat you could sell further away from home. That's where the wide knitting frames were pretty handy: you could make flat pieces of material, cut it to shape, and then quickly sew it together. And you don't need seven years apprenticeship to do that. You can get the  young colts on the case, the ones who'd bever make it as an appreentice, *and* pay them a fraction of the price. But then it all went bad. It'd probably be done as a trade war nowadays, but back then, it was a bit more physical: *blockades*. Ships in the way, and turn people back. Or get turned back yourself, as a tit for tat response. And when *your* tat couldn't be sold elsewhere, it came back home. And becuase it was cheaper, and no-one could afford anything anyway, the it took all the prices down. And gave the product a bad a name. And took the wages for what little work wsa left down too. The skilled workers did what they'd always down, appealed to the Government then appealed to the King. But they didn't care any more, of they ever had. So what else can you do, but smash up those damned infernal machines, and bring the trade back home.
 
-By all accounts, Benjamin Topham had been paying a fair price for the lace being made on his machines. But that didn't stop the machine breakers calling. Luddites, they called themselves, followers of King Ludd. Apparently named after an apprentice lad called Ludd,  Ned Ludd, or Ludlam, he'd been hauled up before the magistrate several years before for his workshy attitude, and whipped as a punishment. And in return, he'd taken up a hammer and used to smash his master's knitting frame to pieces.
+By all accounts, Benjamin Topham had been paying a fair price for the lace being made on his machines. But that didn't stop the machine breakers calling. Luddites, they called themselves, followers of King Ludd. Apparently named after an apprentice lad called Ludd, Ned Ludd, or Ludlam, he'd been hauled up before the magistrate several years before for his workshy attitude, and whipped as a punishment. And in return, he'd taken up a hammer and used to smash his master's knitting frame to pieces.
 
 It was soon after midnight when they'd first arrived at Mr Topham's. "Give us the key to your workshop" they'd said, and then gone in search of the wide frames. "Tell us where they are or we'll blow yer brains out" and they pointed three guns at his head. "I don't have any" he'd said, "I don't do any of that", meaning the cut up work, and he eventually placated them, and them talked them round, and they'd eventually left, cursing whoever had given them their dodgy information, and told them that there were frames in the house.
 
@@ -80,7 +80,7 @@ The plug drawers had a fantastic wheeze - pull out the plugs that the engineers 
 
 Blanketeers tale TO DO
 
-It was the end of the Ludding times, and the time of growing calls for Parliamentary reform. In Manchester, despite being a growing metropolis, there was Parliamentary representation. And the people there were not happy about that, not happy at all. There were rumours that folk in Scotland were similarly minded, and that a march had started that was going to make its way to London to take *their* protest directly to Government. No more faffing about with letters: a demand for change from the people themselves. A barbarian hoard on the rampage, demonstrating their discntent in a way that could not be ignored.
+It was the end of the Ludding times, and the time of growing calls for Parliamentary reform. In Manchester, despite being a growing metropolis, there was Parliamentary representation. And the people there were not happy about that, not happy at all. There were rumours that folk in Scotland were similarly minded, and that a march had started that was going to make its way to London to take *their* protest directly to Government. No more faffing about with letters: a demand for change from the people themselves. A barbarian hoard on the rampage, demonstrating their discontent in a way that could not be ignored.
 
 Or perhaps not.
 
@@ -92,7 +92,7 @@ So they had a meeting. And there was standing on carts, and rousing speeches, an
 
 They all knew that the Ministers had no love for poor folk like themselves, of course. And neither did the local Magistrates, dirty smelly rabble that they were — the people, that is, not the Magistrates: they probably smelled beautiful and probably had a bath at least once a month —  and everyone knew that the soldiers would as likely as not be set on them if they looked like a mob.
 
-So they were a bit more clever about it: the word on the street was that if you only gathered in small groups of not more ten people or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, then there was nothing the dsoldiers could do to stop you. So they would march in small groups, exaclty like that, because then nobody could argue with them.
+So they were a bit more clever about it: the word on the street was that if you only gathered in small groups of not more ten people or so, with a separate copy of the petition for each group, or even each person, even if that meant each petition only had a few names on it, or even just one name on it, then there was nothing the soldiers could do to stop you. So they would march in small groups, exactly like that, because then nobody could argue with them.
 
 The journey would be a long one, though: a hundred and fifty miles or more, so several days walk, and several nights where they'd have to find and make camp. So they'd each take a blanket; and as a badge, by way of marking out their cause, the petitions would be pinned to the blankets; and for everyone who wasn't going on the march? Well, they would raise what little money they could so the marchers could buy some small amount of food each day.
 
@@ -102,9 +102,9 @@ Back at Petersfield, emotions started to get heated in the crowd. The army came 
 
 Becuase for now, in this time, in this story, the troops turned instead, and went after the marchers.
 
-They had been expecting their leaders to catch up with them later in the day, along with the money colection they need to support them and pay their way as they marched south.
+They had been expecting their leaders to catch up with them later in the day, along with the money collection they need to support them and pay their way as they marched south.
 
-Instaed, the soldiers came along, on their horses, with swords and sabers and who knows what, and the marchers — well, a blanket didn't work so well as armour, so it's not hard to work out who came off worst.
+Instead, the soldiers came along, on their horses, with swords and sabers and who knows what, and the marchers — well, a blanket didn't work so well as armour, so it's not hard to work out who came off worst.
 
 Some of the marchers were split up and sent this way, others were sent that way, and several hundred found themselves in jail for several nights, before being released.
 
@@ -116,7 +116,7 @@ It was several weeks before a Special Jury was laid on for the trial of the ring
 
 And so they went free.
 
-At this point, you may be wondering what happened to the "purseman", who had been charged with bringing the money collected at the meeting to help pay the way — for the food and the accommodation — of the petitioners as thy went alonfg the march?
+At this point, you may be wondering what happened to the "purseman", who had been charged with bringing the money collected at the meeting to help pay the way — for the food and the accommodation — of the petitioners as they went along the march?
 
 Well, the story as I've heard it tell, was that a pretty penny in funds was raised. But that when he'd set off to catch up with the marchers, he'd taken a wrong turn and got lost. And only returned when the money had been spent...
 
@@ -132,7 +132,7 @@ But you should not necessarily weep for these men. They were working to contract
 
 Instead, let us look to Pentrich, and to Huddersfield, and to the tale that connects them, albeit with two very different endings.
 
-There is still unrest, but for those in Government, they fear it is now of a different kind. Revolution. Revolt. Rebellion. Poverty is rife.  While the war was on, well... now there isn't. And the troops have come back, And there is nowhere for them to go, and nothing for them to do. As if that wasn't bad enough, they'd called the year before "the year without a summer". A butterfly flaps its wings in one place, and a hurricane occurs in another? Maybe. Or maybe not. But when a volcano blows its top in a big enough way, then the sun goes out. Not totally, perhaps, not like a total eclipse; but enough to bring on the gloomy days, enough to wreck another harvest.
+There is still unrest, but for those in Government, they fear it is now of a different kind. Revolution. Revolt. Rebellion. Poverty is rife. While the war was on, well... now there isn't. And the troops have come back, And there is nowhere for them to go, and nothing for them to do. As if that wasn't bad enough, they'd called the year before "the year without a summer". A butterfly flaps its wings in one place, and a hurricane occurs in another? Maybe. Or maybe not. But when a volcano blows its top in a big enough way, then the sun goes out. Not totally, perhaps, not like a total eclipse; but enough to bring on the gloomy days, enough to wreck another harvest.
 
 A mass meeting is called, in the capital, demanding reform. The authorities call it a riot, and seek to bring the ringleaders to Justice.
 
@@ -190,7 +190,7 @@ And that is the end of the tale of the Folly Hall affair, and the Pentrich Upris
 
 There are many other tales that could be told, not just of those Ludding times, but of times before and after when the common man, and the common woman, stood up against the state. Of the Diggers and the Levellers, of Kett's rebellion and of Captain Swing.
 
-But those are all tales for another time, and another place, becuase for now, our tales are done.
+But those are all tales for another time, and another place, because for now, our tales are done.
 
 > Farewell
 

@@ -171,11 +171,11 @@ M*r. Wynne* objected to the penalty of death being inflicted by the Bill, on men
 
 *Sir S. Romilly* would not trust the life of a subject to any construction of a Bill by either Judge or Jury. If a clause was introduced, enacting pain of death only when more than one person was concerned in the offence, it would remove, in a great measure, his objections to the Bill.
 
-*Mr. Perceval* was of opionion that such a clause would go to defeat the whole purpose of the Bill. It was insurrection in disguise, and when it was considered that many of the holders of those frames were suspected of being parties to the combination, a single man entering a dwelling-house to effect the purpose, while his accomplices stood at the door, would be above the reach of the law. He thought the construction of the Bill might safely be left to the Judges and Jury.
+*Mr. Perceval* was of opinion that such a clause would go to defeat the whole purpose of the Bill. It was insurrection in disguise, and when it was considered that many of the holders of those frames were suspected of being parties to the combination, a single man entering a dwelling-house to effect the purpose, while his accomplices stood at the door, would be above the reach of the law. He thought the construction of the Bill might safely be left to the Judges and Jury.
 
-*Mr. Smith* wished the word *damage* to be left out, as conveying too indefiniteand extensive a meaning.
+*Mr. Smith* wished the word *damage* to be left out, as conveying too indefinite and extensive a meaning.
 
-A long desultory conversation took place on this amendement. The Bill afterwards passed the Committee with some verbal amendments; and the Report was ordered to be taken into consideration tomorrow.
+A long desultory conversation took place on this amendment. The Bill afterwards passed the Committee with some verbal amendments; and the Report was ordered to be taken into consideration tomorrow.
 
 The Nottingham Watch and Ward Bill afterwards went into a Committee, when several new clauses were introduced, one of which went to extend the provisions of the measures to other counties. The Report was brought up, and ordered for further consideration.
 ```
@@ -196,7 +196,7 @@ The Order of the Day for entering on the second reading of the Nottingham Frame-
 
 The Earl of LIVERPOOL rose and observed, that the object of the Bill before the House, and the unhappy cause of it were well known. They had originated in a long continued and systematic plan of riot and disorder. No exertions on the part of Government had been omitted to ascertain the causes and prevent the effect of such disorders. Persons had been sent to Nottingham to examine into them upon the spot.—The Bill divided itself into two parts. The second, but most prominent part, went to compel the persons, in whose houses frames and other manufacturing machines were destroyed, to be responsible for the damage and the outrage. The former part was merely conformable to other Acts of Parliament, previously framed with a view to similar offences. The root of the evil appeared to be in the difficulty of detection, and that difficulty rested on the mildness of the law as it at present stood, and which evidently called for that sort of rigour which had often been effectual, by striking terror into the minds of the guilty and the mischievous; but such rigour was only intended to have a temporary operation. It was obvious to review and reconsideration, and by no means meant to add permanency to the severity of the penal code. His Lordship concluded with moving, that the Bill be read a second time.
 
-Lord BIRON observed, that in offering his sentiments on the subject before the House, he should speak from a personal knowledge of a good deal of what related to it. Great disorders had undoubtedly existed, and he had known of 40 frames being broken and destroyed by the active perseverance of a body of men, habitually, till that occasion, industrious and honest. Large detachments of the military had been sent down, and Officers of police had been sent down, and authorised to take up many persons; but these were measures which would much better have been superseded by others of grave, wise, and rational inquiry into the true cause and origin of the disorders. That would be found in the misery attendant on the decay of trade and manufactures, in the policy which had, unhappily for the country, been too long pursued by his Majesty's Ministers, whose proceedings were marked throughout by weakness, rashness, and inconsistency; by marches and countermarches, terminating only in miscarriage, ushered forth with all the pride, pomp, and circumstance of glorious war. The harsh and cruel measure proposed in the Bill he could by no means approve of, and thought that even a mob might be better reclaimed by conciliation and mildness than by rigour; and when he recollected the benevolent exertions which in this country had taken place in behalf of the suffering and distressed Portuguese, he could not help contrasting that benevolence with the harshness set forth in the present Bill. But the evils to the correction of which their Lordships ought to look, were not confined to Nottingham; at Bristol and its neighbourhood he had lately witnessed misery not less striking and deplorable. To obviate such distresses rigour was not the hopeful means; Martial Law and decimation, were not to be applied to a whole country—in short, convinced as he was, that to pass the Bill without inquiry might produce the worst consequences, he should oppose the second reading.
+Lord BYRON observed, that in offering his sentiments on the subject before the House, he should speak from a personal knowledge of a good deal of what related to it. Great disorders had undoubtedly existed, and he had known of 40 frames being broken and destroyed by the active perseverance of a body of men, habitually, till that occasion, industrious and honest. Large detachments of the military had been sent down, and Officers of police had been sent down, and authorised to take up many persons; but these were measures which would much better have been superseded by others of grave, wise, and rational inquiry into the true cause and origin of the disorders. That would be found in the misery attendant on the decay of trade and manufactures, in the policy which had, unhappily for the country, been too long pursued by his Majesty's Ministers, whose proceedings were marked throughout by weakness, rashness, and inconsistency; by marches and countermarches, terminating only in miscarriage, ushered forth with all the pride, pomp, and circumstance of glorious war. The harsh and cruel measure proposed in the Bill he could by no means approve of, and thought that even a mob might be better reclaimed by conciliation and mildness than by rigour; and when he recollected the benevolent exertions which in this country had taken place in behalf of the suffering and distressed Portuguese, he could not help contrasting that benevolence with the harshness set forth in the present Bill. But the evils to the correction of which their Lordships ought to look, were not confined to Nottingham; at Bristol and its neighbourhood he had lately witnessed misery not less striking and deplorable. To obviate such distresses rigour was not the hopeful means; Martial Law and decimation, were not to be applied to a whole country—in short, convinced as he was, that to pass the Bill without inquiry might produce the worst consequences, he should oppose the second reading.
 
 Lord HOLLAND conceiving that he stood in a peculiar situation respecting the Bill under consideration, could not suffer it to proceed without some observation. He had been the first in that House to call the attention of their Lordships to the disorders at Nottingham, but he deprecated being supposed for a moment to have been consenting to any thing so monstrous as the Bill in question; and howsoever he might deplore the evils felt and complained of, he should prefer the rejection to the adoption of the Bill.
 
@@ -221,7 +221,7 @@ Thursday.`[Feb 27th, 1812]`—Several Bills of a private nature were read a firs
 Lords Holland, Grenville, Lauderdale, and Grosvenor, spoke against it; and Lords Liverpool & Eldon in support of it—after which Lord Lauderdale's amendment for adjourning the debate till Monday, being negatived by 32 to 17, the Bill was read a second time.
 ```
 
-In prosecuting the men charged with frame-breaking, the maximum sentence that could be applied for *frame-breaking*, a simople felony, was transportation; but if it could be proven that they had entered with an intention of burglaty, then the penalty was a capital one.
+In prosecuting the men charged with frame-breaking, the maximum sentence that could be applied for *frame-breaking*, a simple felony, was transportation; but if it could be proven that they had entered with an intention of burglary, then the penalty was a capital one.
 
 
 In the House of Lords, discussion of the Nottingham Frame-Breaking Prevention Bill ended with an amendment was called for that would keep frame-breaking a simple felony not attracting of a death sentence.
@@ -267,7 +267,6 @@ The clause requiring the occupier of any frame which might be destroyed, to give
 The House then resumed, and the Report was ordered to be brought up to-morrow.— Adjourned.
 ```
 
-
 ```{admonition} Nottingham Frame Breakers' Bill, third reading, March 1812
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004
@@ -278,14 +277,14 @@ HOUSE OF LORDS
 THURSDAY, March 5.— The Nottingham Frame Breakers' Bill, after some opposition from the *Earl of Carlisle* and the *Earl of Moira*, was read a third time and passed.
 ```
 
-It seems, however, that the Lords did not insist on the adoption of that amendement by the House of Commons.
+It seems, however, that the Lords did not insist on the adoption of that amendment by the House of Commons.
 
 ```{admonition} A message was received from the Lords, March 1812
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120313/001/0002
 Stamford Mercury - Friday 13 March 1812
 
-PARLIAMENTARY PROCEEDINGS.—In the House of *Lords* on Thursday, the Frame Breaking Prevention Bill went through its remaining stages, and passed the House. On Monday, the Watch and Ward Bill was read a third time and passed. ... In the House of *Commons*...— On Monday, after a Committee was appointed to acquant the Lords that the Commons disagreed with the amendment (relating to the punishment attending misdemeanours) which their Lordships had made in the Bill.
+PARLIAMENTARY PROCEEDINGS.—In the House of *Lords* on Thursday, the Frame Breaking Prevention Bill went through its remaining stages, and passed the House. On Monday, the Watch and Ward Bill was read a third time and passed. ... In the House of *Commons*...— On Monday, after a Committee was appointed to acquaint the Lords that the Commons disagreed with the amendment (relating to the punishment attending misdemeanours) which their Lordships had made in the Bill.
 
 ```{admonition} Oh, go on then..., March 1812
 :class: dropdown
@@ -338,7 +337,7 @@ https://archive.org/details/np212725_0004/page/632/mode/2up?q=frame
 
 52 George III 1812 Cap. 16 pp.633-4
 
-An Act for the more exemplary Punishment of Persons destroying or injuring any Stocking or Lace Frames, or other Machines or Engines used in the Framework knitieil Manufactury, or any Articles or Goods in such Frames or Machines; to continue in force until the First Day of March, One thousand eight hundred and fourteen. C^othMorfb 1812.'
+An Act for the more exemplary Punishment of Persons destroying or injuring any Stocking or Lace Frames, or other Machines or Engines used in the Framework knitting Manufactory, or any Articles or Goods in such Frames or Machines; to continue in force until the First Day of March, One thousand eight hundred and fourteen. C^othMorfb 1812.'
 
 
 
@@ -353,4 +352,4 @@ On Tuesday 5th May 1812, the Government announced that it was bringing in new le
 https://archive.org/details/parliamentarypa146commgoog/page/n199/mode/1up?q=%22Framework+Knitters%22
 Report from.Committr on FrameWork Knitters
 
-Notts folk had submitted petitions and were tryong to gwt a bill to regulate their teade, deny truxknpaymwnts etc. That as much as the capital sentence bill ppssibly had as much to do with quellimg violence?
+Notts folk had submitted petitions and were trying to gwt a bill to regulate their trade, deny truck payments etc. That as much as the capital sentence bill possibly had as much to do with quelling violence?

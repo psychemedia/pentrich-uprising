@@ -22,17 +22,17 @@ header-includes:
 \end{center}
 
 \begin{tabbing}
-00.00 \=  WELCOME - \itshape ... see you on the other side
+00.00 \= WELCOME - \itshape ... see you on the other side
 \\
-00.45 \>  [ WEAVING SONG ]
+00.45 \> [ WEAVING SONG ]
 \\
-02.30 \>  NED LUDD
+02.30 \> NED LUDD
 \\
-06.30 \>  TOPHAM'S TALE \\ \itshape ... and that is the tale of Benjamin Topham
+06.30 \> TOPHAM'S TALE \\ \itshape ... and that is the tale of Benjamin Topham
 \\
 11.00 \> [ CROPPER SONG INTRO MUSIC ]
 \\
-\>  HUDDERSFIELD CROPPERS
+\> HUDDERSFIELD CROPPERS
 \\
 14.45 \> [ CROPPER SONG V1 + C ]
 \\
@@ -87,7 +87,7 @@ header-includes:
 \\
 \> DEATH OF HORSFALL — OATHS
 \\
-\>  PROCLAMATION — 66 MEN — TRIAL
+\> PROCLAMATION — 66 MEN — TRIAL
 \\
 \> GEO. MELLOR / WILL. THORPE / THOS. SMITH
 \\

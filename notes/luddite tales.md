@@ -243,7 +243,7 @@ Book appointment:
 https://exploreyork.org.uk/archives/visiting-us/book-reading-room/
 
 
-The original series of articles was published in the Huddersfield Weekly News.  The only alternative would for you (or someone on your behalf) to come in, look at the item in the Reading Room, and scan and save the images to a USB. A Daily Photography Licence can be purchased for £10.You can book a session in the Reading Room here. https://exploreyork.org.uk/archives/visiting-us/book-reading-room/
+The original series of articles was published in the Huddersfield Weekly News. The only alternative would for you (or someone on your behalf) to come in, look at the item in the Reading Room, and scan and save the images to a USB. A Daily Photography Licence can be purchased for £10.You can book a session in the Reading Room here. https://exploreyork.org.uk/archives/visiting-us/book-reading-room/
  
 These charges relate only to the physical copying of the material. If you then wanted to reproduce the material, further charges may apply – see under ‘Permission to reproduce…’ on our fees page here
 https://exploreyork.org.uk/policies/#ALHFees

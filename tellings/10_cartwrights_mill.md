@@ -57,7 +57,7 @@ He finished his tale.
 
 "Yeah, an' I read all that in the paper too. Yer never were there..."
 
-"And I was too... I were there, that night. At Rawfold's Mill. And I saw us men fell, too.  And I were never engaged in any association in my life `cept that of General Ludd. Ever true to it. For three years and more." And he raised a toast to himself, and supped again.
+"And I was too... I were there, that night. At Rawfold's Mill. And I saw us men fell, too. And I were never engaged in any association in my life `cept that of General Ludd. Ever true to it. For three years and more." And he raised a toast to himself, and supped again.
 
 "Just hold yer peace, yer stupid bugger. If there were good trade, and a meal come down, Ned Ludd would die tomorra'." And at that, they all laughed.
 

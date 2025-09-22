@@ -16,6 +16,6 @@ In the Court of King's Bench, on Friday, the Attorney-General moved for the sent
 
 Mr. Denman having addressed the Court in extentuation of the offence.
 
-Mr. Justice Le Blanc passed the sentence of the  Court:— that the defendant should be imprisoned in Northampton gaol for one year, and at the end of that time should give securities for his good behaviour, himself in 500*l.* and two sureties in 250*l.* each.
+Mr. Justice Le Blanc passed the sentence of the Court:— that the defendant should be imprisoned in Northampton gaol for one year, and at the end of that time should give securities for his good behaviour, himself in 500*l.* and two sureties in 250*l.* each.
 
 Distressed Manufacturers.— We rejoice to bear that the Lord Mayor has announced his intention of giving a spiendid route at the Mansion House, the object of which is to assist the distressed manutacturers, particnlarly those concerned in the Spitalfields trade, 6000 of whom, it is confidently stated, are at present destitute of employment. A Committee of Gentlemen are about to undertake the Management of this benevolent plan, suggested by his Lordship. The Egyptian Hail, with all the other rooms in the Mansion-house, are intended to be thrown open on the occasion, and to be brilliantly illuminated with gas, for which purpose they are now preparing. The object of this entertainment is, that every idividaal present must wear, or bring with him, some newly purchased article of the Spitalfields mnanufacture.
