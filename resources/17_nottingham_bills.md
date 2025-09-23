@@ -4,7 +4,7 @@ At the end of November, 1811, the local Magistrates had ordered the early closin
 
 But as the frame-breaking outbreaks continued through the first few weeks of 1812, more extensive powers granted under an act of Parliament were called for.
 
-More severe punishments for the act of frame-breaking itself were also called for, under the argument that this would act as a deterrent. For men found guilty of frame-breaking, which was classed as a simple felony, the maximum sentence that could be applied was transportation; but if it could be proven that the men had entered with an intention of burglary, then the penalty was a capital one. And the capital sentence was now being sought for frtame-breaking in its own right.
+More severe punishments for the act of frame-breaking itself were also called for, under the argument that this would act as a deterrent. For men found guilty of frame-breaking, which was classed as a simple felony, the maximum sentence that could be applied was transportation; but if it could be proven that the men had entered with an intention of burglary, then the penalty was a capital one. And the capital sentence was now being sought for frame-breaking in its own right.
 
 
 
@@ -66,7 +66,7 @@ Nottingham Journal - Saturday 28 March 1812
 
 NOTTINGHAMSHIRE.
 
-NOTICE IS HEREBY GIVEN, That a Special General Sessions of the Justices of the Peace acting in and for the County of Nottingham, will be holden at the Shire Hall, in Nottingham, in and for the said County, on Thursday the Second Day of April next, at Eleven o'Clock in the Forenoon, to take into consideration and to determine upon the expediency of carrying into effect all or any of the Powers and Provisions of an Act of Parliament passed in this present Session, and intitled "An Act for more effectual Preservation of the Peace, by enforcing the Duties of Watching and Warding, until the First Day of March One Thousand Eight Hundred and Fourteen, in Places where Dirturbances prevail or are apprehended." Dated this 25th Day of March, in the Year of our Lord 1812.  
+NOTICE IS HEREBY GIVEN, That a Special General Sessions of the Justices of the Peace acting in and for the County of Nottingham, will be holden at the Shire Hall, in Nottingham, in and for the said County, on Thursday the Second Day of April next, at Eleven o'Clock in the Forenoon, to take into consideration and to determine upon the expediency of carrying into effect all or any of the Powers and Provisions of an Act of Parliament passed in this present Session, and intitled "An Act for more effectual Preservation of the Peace, by enforcing the Duties of Watching and Warding, until the First Day of March One Thousand Eight Hundred and Fourteen, in Places where Disturbances prevail or are apprehended." Dated this 25th Day of March, in the Year of our Lord 1812.  
 EDWARD SMITH GODFREY.  
 Clerk of the Peace. 
 
@@ -350,6 +350,6 @@ On Tuesday 5th May 1812, the Government announced that it was bringing in new le
 
 
 https://archive.org/details/parliamentarypa146commgoog/page/n199/mode/1up?q=%22Framework+Knitters%22
-Report from.Committr on FrameWork Knitters
+Report from Committee on FrameWork Knitters
 
 Notts folk had submitted petitions and were trying to gwt a bill to regulate their trade, deny truck payments etc. That as much as the capital sentence bill possibly had as much to do with quelling violence?

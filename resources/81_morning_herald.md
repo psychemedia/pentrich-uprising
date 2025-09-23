@@ -82,7 +82,7 @@ Four witnesses, all prisoners in the Castle of Edinburgh, were then called in su
 
 The Court not allow this witness to be further examined on that point, as it was evident his information was derived merely from newspaper report, not from any thing within his own knowledge.
 
-After examining these witnesses, the LORD ADVOCATE rose and addressed the Court, stating, that in consequence of the disappointment he had experienced in the turn which the evidence he bad adduced had taken, he found he could not receive the verdict which his former impressions had led him to expect. He therefore would not take up the valuable time of Judges and Jury in going further into a discussion which could neither be beneficial to the country nor to the panne; he therefore left it to the Jury to return a verdict of—*Not Proven* or *Not Guilty*, as they deemed mpst proper.
+After examining these witnesses, the LORD ADVOCATE rose and addressed the Court, stating, that in consequence of the disappointment he had experienced in the turn which the evidence he bad adduced had taken, he found he could not receive the verdict which his former impressions had led him to expect. He therefore would not take up the valuable time of Judges and Jury in going further into a discussion which could neither be beneficial to the country nor to the panne; he therefore left it to the Jury to return a verdict of—*Not Proven* or *Not Guilty*, as they deemed most proper.
 
 Mr. JEFFRAY paid a high compliment to the Lord Advocate and the other Counsel for the Crown, for their humane conduct on this occasion, and stated that he had not seen an occasion on which the conduct of the Court had been directed to the maintenance of the Constitution, and the liberty of the subject, with more propriety.
 
