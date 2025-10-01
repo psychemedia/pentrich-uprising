@@ -69,7 +69,7 @@ http://digitalcommons.osgoode.yorku.ca/ohlj/vol38/iss3/3
 https://www.tandfonline.com/doi/pdf/10.1080/01440368708530895?casa_token=_Kt17-n4fKQAAAAA:d9VJFbz3REPsBYTP7bsYU6JYwPwMxjmaCX2Tx2gAGEhIyciIc8r5l_kPjBu2Obfk1k8IVKCcvQkA
 Special juries in England: Nineteenth century usage and reform
 James Oldham
-To cite this article: James Oldham (1987) Special juries in England: Nineteenth century usag
+To cite this article: James Oldham (1987) Special juries in England: Nineteenth century usage
 
 https://www.tandfonline.com/doi/pdf/10.1080/01440360500347525?casa_token=zTdmbOa1ooQAAAAA:KIbtehfYzCssnETsXsJwZdfnTAjO89K15-Mu_OzBMTtPUgT1NqJ46RFklbgRPZg2w5JxaCA42amu
 The decline of civil jury trial in nineteenth-century
