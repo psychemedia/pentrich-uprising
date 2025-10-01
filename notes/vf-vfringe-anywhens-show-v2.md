@@ -10,7 +10,7 @@ Good afternoon, and welcome to the Bijou Tent. If you're not here for the *Prote
 
 All good..?
 
-THere is just one notice... If you do happen to have any infernal devices on your person, please make sure they're turned to off or silent. Or leave them outside. If they do interrupt the show, we reserve the right to treat them as the Luddites would, and smash them to smithereens.
+There is just one notice... If you do happen to have any infernal devices on your person, please make sure they're turned to off or silent. Or leave them outside. If they do interrupt the show, we reserve the right to treat them as the Luddites would, and smash them to smithereens.
 
 And don't think we won't.
 

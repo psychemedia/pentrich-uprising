@@ -111,7 +111,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001316/18170623/004/0001
 
 ---
 
-THe charge of wilful murder against Robert Walter seems to have been dropped as the charge of high treason was pursued?
+The charge of wilful murder against Robert Walter seems to have been dropped as the charge of high treason was pursued?
 
 ---
 

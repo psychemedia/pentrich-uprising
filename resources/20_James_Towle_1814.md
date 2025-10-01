@@ -160,7 +160,7 @@ As well as the men who would testify to Barton's having always said he'd come af
 
 Towle's kids were ill with the measles, so Towle had asked if he could spend the night, get a good night's rest, an early start for a tricky job he had to finish, and had arrived about 11. He'd gone up to bed in the upstairs room, with Bamford's lads, while Bamford slept in the parlour by the stairs. Bamford's wife had locked the door and taken the key to bed with her. There was no way Towle could have left the house. The stairs creaked, and the door was locked. There was a window in the room where Towle slept, but it'd be a heck of a tight squeeze, And a long drop into the muddy ditch below with no way back up. You'd have to be some sort of magician to get in and out of that room without anyone noticing. There was no way he could have done it.
 
-From his description of the house, Bamford was obvuiosly trying to make it clear that no one could get out, or come in, in the night, without his knowledge; and he believed, *on his oath*, that Towle had not left the house that night.
+From his description of the house, Bamford was obviously trying to make it clear that no one could get out, or come in, in the night, without his knowledge; and he believed, *on his oath*, that Towle had not left the house that night.
 
 These were the days before Ludwig and Jonathan Creek, remember. And also the days in which Juries were as likely to be swayed, or not, by circumstance and alibi, as well as the Judge's summing up.
 

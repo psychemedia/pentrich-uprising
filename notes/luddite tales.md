@@ -38,7 +38,7 @@ Pentrich - bound over
 October
  
 
- THemes - press blackouts
+ Themes - press blackouts
  working men and soldiers
  Callbacks on place names
 

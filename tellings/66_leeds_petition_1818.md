@@ -1,6 +1,6 @@
 # Leeds Petition 1818
 
-Perhaps remininscent of blanketeers?
+Perhaps reminiscent of blanketeers?
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000172/18180411/017/0003
