@@ -1,6 +1,6 @@
 # The Report of the Committee on Secrecy and Two Related Bills
 
-TO DO  - tell a tale from the perspective of the legislation / biogrpahy of a piece of legislation?
+TO DO  - tell a tale from the perspective of the legislation / biography of a piece of legislation?
 
 - process
 - arguments in favour / against?
