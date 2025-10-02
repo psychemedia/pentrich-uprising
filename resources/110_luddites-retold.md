@@ -4,8 +4,6 @@ As is still the case today, every so often local newspapers would take a histori
 
 So let us begin with a remembering, from 1875, of the Luddite times of over fifty years before that. The story starts in 1811, and ends in 1817, a tale of the Yorkshire Luddites, topped and tailed with parallel troubles from the neighbouring counties to the south...
 
-`This is actually a reprint of a column by Walter Thornbury in *All the Year Round* (1867-05-11: Vol 17 Iss 420, pp. 467-474), which would also later appear in "Old Stories Retold", published in 1879.`
-
 ```{admonition} Old Stories Retold: The Luddites, 1875
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000470/18750921/016/0004
@@ -93,13 +91,20 @@ Cobbett wrote several powerful letters to the Luddites, in his *Political Regist
 
 ```
 
-A few years earlier, in 1867, a retelling of the tale of the Yorkshire Luddites appeared in *All the Year Round*, a literary journal founded and edited by Charles Dickens, and the *Leeds Times*. In part, a "local authority" is quoted in the article, although without a full citation.
+A few years earlier, in 1867, a retelling of the tale of the Yorkshire Luddites appeared in the "Old Stories Retold" series of articles in *All the Year Round*, a literary journal founded and edited by Charles Dickens, a book collection of those articles, and the *Leeds Times*. In part, a "local authority" is quoted in the article, although without a full citation.
 
 ```{admonition} Old Stories Retold: The Luddites, 1875
 :class: dropdown
 https://archive.org/details/sim_all-the-year-round_1867-05-11_17_420/page/467/mode/1up?
 All the Year Round 1867-05-11: Vol 17 Iss 420
 Publication date 1867-05-11
+
+Also included in the collection
+https://archive.org/details/in.ernet.dli.2015.41560/page/n165/mode/1up
+Old Stories Retold
+by Thornbury, Walter
+Publication date 1879
+The Luddites pp 157-172
 
 > Also appeared as https://www.britishnewspaperarchive.co.uk/viewer/BL/0000336/18670511/020/0006?browse=true Leeds Times - Saturday 11 May 1867 p6, continued on https://www.britishnewspaperarchive.co.uk/viewer/bl/0000336/18670511/021/0002 Leeds Times - Saturday 11 May 1867, p2
 
@@ -246,8 +251,6 @@ It is well known that for a great number of years Mr. Robinson has been a close 
 
 ---
 
-
-----
 ---
 
 Letter in praise of the benefits of technology
@@ -489,7 +492,7 @@ Upon whose head was the blood of these men? It is hard to say. Men shook their h
 
 
 
-```{admonition} Old Derby Stories Retold, No. I — The Poisoners of the "Old WIhite Horse Tavern"
+```{admonition} Old Derby Stories Retold, No. I — The Poisoners of the "Old White Horse Tavern"
 :class: dropdown seealso
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000052/18750203/027/0006
@@ -577,7 +580,6 @@ Text here: https://en.wikisource.org/wiki/The_Prose_Works_of_Percy_Bysshe_Shelle
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000052/18780522/012/0005
 Derby Mercury - Wednesday 22 May 1878
-
 
 THE LANCASHIRE RIOTS AND THEIR TEACHINGS.
 
