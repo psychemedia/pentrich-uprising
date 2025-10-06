@@ -1,7 +1,65 @@
 
 
+
+https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Thornbury,_George_Walter CC A-SA
+
+THORNBURY, GEORGE WALTER (1828–1876), miscellaneous writer, son of George Thornbury, solicitor, of 16 Chancery Lane, was born in London on 13 Nov. 1828. He was educated at Cheam, Surrey, by the rector, Barton Bouchier, who was husband of his father's sister Mary. Although he was destined by both parents for the church, he resolved to become an artist, and spent some time at the academy of James Mathews Leigh [q. v.] Very soon, however, he settled down to the career of a journalist and man of letters, and achieved some reputation as a versifier, a biographer, and author of popular historical and topographical sketches. He began writing for the press at Bristol, and at the age of seventeen contributed a series of topographical and antiquarian articles to Farley's 'Bristol Journal.' At Bristol he also published a small volume of poems.
+
+Returning to London before 1851, Thornbury joined the staff of the 'Athenæum,' his earliest contributions being a series of papers descriptive of the first Great International Exhibition. These on their completion were republished in 1851, under the title of 'The Courts of the Crystal Palace in Hyde Park.'
+
+Soon afterwards he was associated with Dickens as a contributor to the later volumes of 'Household Words;' and when 'All the Year Round' was inaugurated, he proved 'one of Charles Dickens's most valuable contributors' (Dickens, Letters, ii. 170, iii. 239). In the service of the two periodicals he travelled widely, and wrote articles vividly depicting the United States and Palestine, the Iberian Peninsula, and European Turkey. Another series of articles in 'All the Year Round,' entitled 'Old Stories Retold,' dealt with topics like 'Trafalgar in 1805,' 'Bombardment of Algiers in 1816,' 'The Assassination of Mr. Perceval in 1812,' 'The Cato Street Conspiracy in 1820,' 'The Two Great Murders in the Ratcliffe Highway in 1811,' and 'The Resurrection Men—Burke and Hare, in 1829.' But the long series was brought to a close on account of Dickens's dislike of the sanguinary topics to which Thornbury confined the later papers. The articles were published in a volume in 1870 `[actually, 1869]`.
+
+To the monthly magazines Thornbury was also a frequent contributor, and in later life engaged largely in art criticism. His most important independent publication was his 'Life of J. M. W. Turner,' from original letters and papers (2 vols. 1861). He wrote the whole of it under the watchful observation of Mr. Ruskin; and, as Thornbury himself remarked to the present writer, it was 'very much like working bareheaded under a tropical sun!' As the writer of half a dozen three-volume novels, Thornbury added little to his reputation. One of these novels, called 'True as Steel' (1863), was based on Goethe's 'Goetz von Berlichingen;' another, 'Wildfire' (1864), was the expansion of a sketch by Diderot, and illustrated the period of the great French revolution. Thornbury's last undertaking of importance was a popular descriptive history of London, called 'Old and New London.' The first volume appeared in 1872, and the second just before Thornbury's death. The work was completed in four additional volumes by Edward Walford [q. v.]
+
+Thornbury died of overwork at Camberwell House Asylum, Peckham Road, London, on 11 June 1876, and was buried on the 13th at Nunhead cemetery. He married about 1872, and his young widow and three young sons survived him.
+
+Besides the works mentioned, Thornbury's chief publications were:
+
+'Lays and Legends, or Ballads of the New World,' 1851.
+'The Monarchs of the Main, or Adventures of the Buccaneers, illustrated by Phiz,' 1855.
+'Shakespeare's England, or Sketches of our Social History in the Reign of Queen Elizabeth,' 2 vols. 1856.
+'Art and Nature at Home and Abroad,' 2 vols. 1856.
+'Songs of the Cavaliers and Roundheads, illustrated,' 1857.
+'Pierre Dupont's Legend of the Wandering Jew, translated with Critical Remarks by G. W. T.,' 1857.
+'Every Man his own Trumpeter,' 3 vols. 1858.
+'Life in Spain, Past and Present, with eight tinted Illustrations,' 2 vols. 1860.
+'British Artists, from Hogarth to Turner: a Series of Biographical Sketches,' 1861.
+'Cross Country,' 1861.
+'Ice Bound,' 3 vols. 1861.
+'Tales for the Marines,' 2 vols. 1865.
+'Greatheart: a Novel,' 3 vols. 1866.
+'Two Centuries of Song, illustrated,' 4to, 1867.
+'The Vicar's Courtship,' 3 vols. 1867.
+'The Fables of La Fontaine, translated into English Verse by G. W. T.,' 4to, 1867.
+'The Yorkshire Worthies in the National Exhibition,' 1868.
+'A Tour round England,' 2 vols. 1870. 19. 'Criss Cross Journeys,' 2 vols. 1873.
+[Personal Recollections; Memoir by the present writer in the Athenæum of 17 June 1876; Boase and Courtney's Bibl. Cornub.; Annual Reg. 1876; Men of the Time, 10th ed.; Illustrated London News, 24 June 1876, with portrait.]
+
 elsewhere in all the year round - thornton and battle of wager
 
+https://archive.org/details/sim_illustrated-london-news_1876-06-24_68_1926
+Illustrated London News - Saturday 24 June 1876
+
+THE LATE MR. THORNBURY.
+
+George Walter Thornbury, a well-known and popular author, whose death we announced last week, was born in 1828, the son of Mr. Thornbury, a solicitor. His numerous contributions to the literature of the day were highly appreciated; the best remembered are—"Monarchs of the Main,"Shakspeare's England during the Reign of Elizabeth," ‘Songs of Cavaliers and Roundheads," "True as Steel," "British Artists from Hogarth to Turner," "Ice Bound," "Wildfire," "Haunted London," "Old Stories Retold," and "Tales for the Marines." He was formerly art critic to the Atheneum, and, for some time, a constant writer in *All the Year Round*.
+
+His funeral in Nunhead Cemetery took a on Tuesday week.
+
+The portrait of Mr. Thornbury is engraved from a photograph by Mr. Charles Watkins, of Parliament-street,
+
+![Walter Thornbury — portrait](images/walter_thornbury.png)
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001578/18760617/042/0007
+Illustrated London News - Saturday 17 June 1876
+
+ECHOES OF THE WEEK
+
+...
+
+Tuesday last I stood in Nunhead Cemetery the open grave of poor Walter Thornbury, who died on the previous Sunday, in the forty-eighth year of his age. He was buried close to the tomb of Tom Hood. Among the half-dozen persons (certainly not more) who were present at the interment of Mr. Thornbury, I failed (with one exception) to recognise face that was familiar to me. Notice had been given in that morning's papers of the time and place of the funeral; but the season is at its height, and of the hundreds of friends the poor fellow should have had, none, apparently, could spare time to show so trifling a mark of respect for his memory or sympathy with those he leaves behind as to follow his remains to the narrow house appointed for all. Walter had been toiling at the craft of authorship ever since the year 1845. He was one time the art-critic of the *Athenaeum*. He was one of the earliest and the most distinguished contributors to *Household Words* and *All the Year Round*. He was a fluent versifier, a laborious and appreciative, if not always accurate, antiquary and topographer; and in quaint, out-of-the-way knowledge of old London, its manners, customs, and traditions, he equalled Peter Cunningham. He had written two or three novels also, a Life of Turner, and multitude books of travel. He was a kind, single-hearted, genial man; but he was certainly not fortunate either in his life or in his death. *Cras nobis*, I suppose. The miserable spectacle Tuesday last made me wish, somehow, that I were eligible to become a Forester, or a Druid, or an Odd Fellow. At least, were I affiliated to one those mystic Brotherhoods, somebody would come to my funeral.
+
+...
 
 https://archive.org/details/pub_all-the-year-round?tab=collection&query=%22old+stories+re-told%22&sin=TXT&sort=date
 
@@ -37,7 +95,7 @@ Glorious First of June, xviii. 420
 Great Frost of 1814, xvii. 294
 Great Stock Exchange Hoax, xvii. 43
 Highwaymen, A String of, xvii. 512
-John Howard alias or William Cour-tenay, &c., xvii. 441
+John Howard alias or William Courtenay, &c., xvii. 441
 Life of a Methodist Preacher, xvii. 398
 London Street Riots in the Last Century, xviii. 372
 Loss of the Kent East Indiaman, xvi. 444
@@ -45,7 +103,7 @@ Luddites, The, xvii. 407
 Massacre of the Mamelukes, xviii. 157
 Murder of Mr. Weare, of Lyons Inn, xvi. 506
 Mutinies in the Navy, xviii. 519
-O'Connell, xvii. 53
+O'Connell, xvii. 53 ?Old Patch
 O. P. Riots, xvii. 149
 Peterloo, xvii. 559
 Prison Discipline, xviii. 251
@@ -59,7 +117,7 @@ Thomas Dermody Weinecourt, Poisoner, xvii. 34
 Trafalgar, xviii. 108
 Trial and Execution of Fauntleroy, xvi. 470
 The Two Great Murders in Ratcliff Highway, xvi. 350
-Wager of Battle, xviii. 3
+Wager of Battle, xviii. 3 [actually, 39]
 Wager of Battle, Murder of Mary Ashford, xvii. 436
 Wild Boys, xviii. 891
 Wreck of the Halsewell, East Indiaman, xvii. 347
@@ -78,9 +136,63 @@ by Thornbury, Walter, 1828-1876; Fairholt, F.W. (Frederick William), 1814-1866
 Publication date 1865
 
 -- 
-https://britishnewspaperarchive.co.uk/viewer/bl/0005087/18881107/408/0047
-Bookseller - Wednesday 07 November 1888
-OLD STORIES RE-TOLD. (Murders, Wrecks, Conspiracies, Riots, Insurrections, Forgeries, Duels, Battles, Fires, &.) By WALTER THORNBURY. A New Edition. Post Bvo, Illus___ trated boards, 2s. ; cloth limp, 2s. 6d. 
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18691228/020/0003
+Echo (London) - Tuesday 28 December 1869
+
+OLD STORIES RE-TOLD. `["Old Stories Re-told." By Walter Thornbury, London: Chapman and Hall.]`
+
+Mr. Thornbury has dealt, in his "Old Stories Re told," very pleasantly with a very unpleasant series of subjects. He tells us of the Luddites and their outrages; of Thurtell, the gambler, and the cruel murder he perpetrated: of Sarah Malcolm, the murderess of her mistress; of old Patch, the forger; of the fatal duel between Lord Byron the grand uncle of the great poet of the same name and Mr. Chaworth; of the great banker and forger, Fauntleroy, and of the mysterious murder of Mary Ashford. Then we have a very black list of political offences and political offenders, where we find an account of Emmet's insurrection, in 1805, and the Irish Rebellion in 1798, the assassination of Mr. Perceval, the Prime Minister, in 1812; the burning of Wildgoose Lodge co. Louth, Ireland, in 1816; the Cato-street conspiracy in 1820, and the Bristol riots of 1834. When we add to these crimes the catastrophes of the wreck of the *Medusa*, in 1816, anf the loss of the *Kent* East indiaman by fire in 1829, and a few murders and other atrocities of lesser note, we shall have presented our readers with the whole subject-matter of Mr. Thornbury's most interesting volume. To be, however, appreciated as a whole it must be read as a whole. It is impossible to read these terrible pictures of depravity and disaster without being deeply impressed with the consolatory reflections. In the first case, we are made to feel that human nature, even in its most corrupted phases, is still *human*, and not *devilish*, and that even some of the blackest criminals have some soft spot in their hard hearts, and are capable of acts of kindness, as well as susceptible of sincere religious feelings. It is to the credit of our author, and, we may add, to the delight of his readers, that so many cases are here pointed out in this dark calendar of crime which what is excellent in human character is mingled with what is corrupt. As no man is altogether good, so we believe that no man is altogether bad, and that he is the best man who has the greater proportion of what is best, and he the worst who has the greatest proportion of what is worst in human character.
+
+To our mind, the bright bits of redeeming sunshine thrown on the dark characters of his criminals is by far the best portion of these stories retold, and of this we will give our readers the benefit of a few examples. Fauntleroy, the well-known London banker, was hanged, as we before observed, for forgery, in 1824. This unhappy man found the banking firm deeply involved when he entered it as a partner in 1817. His forgeries were made to retrieve the position of the bank. "He *never had embezzled* one shilling," we are told, "for himself." Witnesses of the highest respectability were produced at his trial who had known him for a life time. All gave evidence to his honour and to his integrity. "A most benevolent man, with a stainless character." Death was, we must confess, a very hard doom for a man of otherwise spotless reputation, whose only crime was a dishonest effort not to enrich himself, but to maintain the credit of others. Here is a "ghastly anecdote" told of poor Fauntleroy, which we give in our author's own words:—
+
+"A ghastly anecdote, illustrative of the deep sincerity of dinner-friendships, and the profound attachment whereof boon companions are capable, long survived this miserable man, and was, within these twenty years, told for truth by one of his generation. His elegant dinners had been particularly renowned for some remarkable and unmatchable Curacoa. He had been frequently asked at his own table of whom he bought it, but always kept the secret. When he was ordered for execution, three friends, bound to him by the remembrance of many feasts and many glasses of this famous liqueur, had a parting interview with him in his Condemned Cell. They had discharged themselves of such edifying remarks as they had brought with them, and had taken their final leave of him and were about to retire, when the most impressive of the three stepped back, and said 'Fauntleroy, you stand on the verge of the tomb, and Eternity awaits you. We brought nothing into this world, and it is certain we can take nothing out. At so supreme a moment, have you any objection to say how, and of whom, you procured that Curacoa?'"
+
+In the murderer Burke (the Resurrection man), it is not less singular than pleasing to note his friendly care and anxiety for his wife, which is not forgotten in this sombre record of appalling horrors. Thurtell—the villain who murdered Mr. William Weare in 1823, in conjunction with Hunt, who turned King's evidence—had the noble generosity to forgive the man who brought him to the gallows, and the night before his execution he shook him cordially by the hand, and said, "God bless you, Hunt; you have brought me to this situation, but I freely forgive you, and hope you will be reprieved and live to repent of your past errors. If you had had nerve like us, none of us would have been convicted of this crime, but I forgive you from the bottom of my heart."
+
+The story of Sarah Malcolm, who murdered her mistress—a rich widow, Mrs. Duncombe—is, in truth, a sad story, but still relieved from something of its ghastly gloom by such an incident as the following:—
+
+"It was the custom at this time, pursuant to a bequest of Robert Dowe, a merchant tailor, for the bellman of St. Sepulchre's to come to Newgate a little past the midnight before the execution of prisoners, to ring his bell under the grated windows of the condemned hold, repeating the following well-meaning but doggrel verses:
+
+"'All you that in the condemn'd-hold do lie,  
+Prepare you, for to-morrow you shall die.  
+Watch all and pray, the hour is drawing near,  
+That you before th' Almighty must appear,  
+Examine well yourselves, in time repent,  
+That you may not t' eternal flames be sent:  
+And when St. 'Pulchre's bell to-morrow tolls,  
+The Lord above have mercy on your souls!   
+Past twelve o'clock!'"
+
+Some prisoner or turnkey speaking to Sarah Malcolm, and bidding her mind what the bellman said, she replied that she did. When the bellman finished, she looked out of window, and cried—
+
+"'D'ye hear, Mr. Bellman, call for a pint of wine, and I'll throw you a shilling to pay for it.'
+
+"She then threw down the shilling.
+
+"On the Sunday night, about ten o'clock, she called to a man named Chambers—the prisoner condemned to die the next day, and whose cell was opposite her window—and asked him if she should pray with him. He replied—
+
+"'Do, Sarah: let us pray with all our hearts.'
+
+"She then prayed fervently till all the candles were burnt out, and then exhorted him not to go to sleep, but to spend the night in prayer to God for his forgiveness."
+
+Then the inhuman atrocities of the Irish Rebellion of '98 give us the following glimpse of the true charity that beats in a good man's heart even in the wildest delerium of political frenzy and excitement.
+
+"Six Protestants out of ten had been already impaled, when Father Corria came running up to save the residue. Finding all his arguments useless, the priest at length took off his hat, and desired the murderers to kneel down with him and pray for the souls of the poor prisoners before they put them to death. Having got them in this attitude, he said:
+
+"'Now pray to God to have mercy on your owm souls, and teach you to show that kindness towards these men which you expect from Him in the hour of death and in the day of judgement.'
+
+"He then rose and led the Protestants back to prison unopposed. The massacre ceased about eight o'clock in the evening; out of forty-eight in the market-house only nineteen had escaped."
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000686/18691211/213/0006
+Yorkshire Post and Leeds Intelligencer - Saturday 11 December 1869
+
+OLD STORIES RETOLD `[Old Stories Re-told. By Walter Thornbury, author of "Haunted London," &c., London: Chapman & Hail.]`
+
+TO DO
+
+It was but the other day that reviewed admirable novel—"The Vicar's Courtship" by Mr Walter Thornbury, and now another book, of a different character, by the same versatile and industrious writer, lies before us. It is, as the title indicates, a collection of old stories retold—stones of actual events, episodes of social and political history—great crimes, memorable battles, terrible disasters sea and land, riots, rebellions, conspiracies, and so forth-which, remarkable as they are, and forcibly as they must have impressed themselves on the minds of men when they occurred, have gradually faded from memory, until nothing is left of them but their barest outlines, and in some cases only their mere names or titles. It indeed strange how soon events the most memorable become forgotten. How many persons, to take some of Mr Thornbury's subjects as examples, remember the circumstances of the O. P. Hints of 1809. of the assassination of Mr Percival 1812, of the wreck of the Medusa in 1816, of the murder of William Weare Thurtell in 1823, of the burning of the Kent East Indiaman in 18251 Again, perhaps ninety-nine out of a hundred selected at random from any large crowd or company, could not tell what was the cause and result of the duel between Lord Byron ami Mr Chaworth in 1765, and we undertake to say that not a few would be puzzled, if asked to state whether the Lord Byron in question was the poet of not. How many persons can name the date of the battle ot Vinegar Hill and the nationality and objects of the parties engaged in it, or have idea of the purpose the Cato Street Conspiracy, or of the crimes tor which Fauntleroy was executed in 1824, or know what instigated the Bristol Riots of 1831, or what was their extent and effect But so it will be with the events passing under our own eyes, and in the course of a few years the memory of the wordsds I will lose its grasp of the details of such familiar facts the loss of the Royal Chatter, the murder of Mr Briggs by Muller, and of Mrs Sheward by her husband, the Fenian conspiracy and the shooting of Police-sergeant Brett at Manchester, and the outrage at Clerkenwell, the Reform League riots H.\de Park, and the Pantin massacre, together with all tbo moral lessons which these incidents suggest. One of these days, perhaps, the events of our own times will be dealt with Mr Thornbury has dealt with the events that excited society those of our fathers of the past three generations. To an able writer like him such subjects will furnish tempting themes, and, probably, the success with which he has revived tho forgotten half-forgotten stories he has re-told may induce others to follow in his footsteps. If any doubt could exist as to the propriety or expediency of resuscitating these stories, it is removed the manner in which the resuscitation has been effected. Mr Thornbury certainly is not one of those who "mars a good story in the telling." master of the art of graphic description he has few rivals, and he has shown his skill in this respect in no work more remarkably than in the vblumc before us. His style of narration is simple, without being commonplace or dry ; it is dramatic without being vulgarly sensational. He embellishes his subject not by flights of the imagination, but the sheer force of picturesque treatment. In perusing these stories his one cannot fail to be struck by the seeming paradox—that there is at once so much and yet so little of his own in them. But this is because, while he adheres closely to truth and fact—while his book is, it were, crammed (if such a term can be applied to what is perfect in order and arrangement) with historical detail, the manner of the narratives is fresh and novel as the subjects of them are old. The stories seem to tell themselves, so fertile arc their materials in interesting incident, but it is to the art of the narrator that we are indebted for the powerful and vivid impression which they make upon us. For example, what a perfect pictur —conceived in the true Hogarthian spirit —is the following sketch of brutal gambler-bully of the last century: Major Oneby wait neither the Eagle nor the Woodpecker. bad sank into the loweet all gamost Bally. was the bloat, frank old eoldi-r who talked Marlborough, by , air, and Prince Engine. had a groan humour of hie own, and told infamous stories well, when he was neither quarrelsome nor dangerous. He roared and cursed for wine Will's or the Mitre, struck the drawers, trod on people's hate, or kicked their swords sdehe to his seat. was the terror of all quiet and timidly respectable men. Hr: uied dap bis sword the table, and glance round dertautly at the company. He would howl out blasphemies addressed to one specially, bat still amounting a challenge the fiercest or bravest man in the room. It was necessary to his reputation a terrorist that should kill a man now and then, and woe to the young Templar, vain his fencing, who that night came in his way. would volunteer show the youug country spendthrift the sights of the town. Some evening, after three or four of wine, the Deluder pr-tend-, with bis own jovial laugh, to be tired of Booth ami Q >in, Vauxhail and Kanelagh. of the Mall and the tracingschool, of the masquerade and the Park. Some peopls they meet by chance at Will's turn out very lively acquaintances, with torn for faro or chicken h vzard. They adjourn to a gambling-house, and set work wi'h the dice and the red and black pipe. Mr Littlebram, tho rich young gentleman from 8 first wins surprisingly. The gold tide sets towards him. They call for more Burgundy. He instate on higher stakes, astonished to find how he is startling the old dice-shakers of Covent Garden. More Burgundy; the room seems to get lighter and larger ; the dice tiy out faster and fatter. The tide at last turns; the gold floats from him in shoals. He h.'s lost all bod won and five thousand guineas more, besides the large farm near Taunton, He has also signed some papers that good-natured old lawyer pereenk required as securities for the loan of another thousand, already half gone. Gradually the fumes of the wine subside, and one suspicious glance discloses to him the old lawyer changing a pack of cards which he (novice) had placed ready at bis elbow. He sees a friend make signs the benevolent lawyer. Then he feels into what a park wolves has fallen. In a moment Littlebrain dashes over his chair, leaps a settee, gets down his hat and sword from the peg behind the door, and shouts "Thieves!" from the window to the watch, who have just passed, crying, sleepily: Past four, and rainy morning," The gang is furious, their eyes glare, they prepare for a The gallant captain, whose red face, barred with black plasters, looks like a hot fire seen between the bars of a grate, sweeps two or three dozen guineas from the green cloth into bis panniers of pockets. Then some one knocks out the lights, several swords clash with Littlebrain's, and one passes through his unlucky body. He staggers to the stairs, and falls headlong down them—dead. There a dash the watchmen, who threaten the gamblers with their staves. The old men, however, fall before the tempestuous charge, and the next moment there is no one in the gambling house but two frightened women, old watchman, who is bolding the dim lantern to the dead man's face with one hand, and removing bis watch and purse with the other; the only sound is the wind whistling through the keyhole. In such affairs, subtle, cruel, and deadly. Major Oneby has been no subordinate actor. In nothing does Thornbury show his skill to better advantage than in tales of crime and mystery. He is not content with a mere piling up of horrors, but he constructs, even out of the most revolting of his subjects such as the butcheries of Burke and Hare, and the murders Katcliffe Highway—tales that rise to the dignity of tragedy. In this way, his stories of crime ro- Femble not the hideous records of the Newgate Calendar, but the skillfully-elaborated narratives of Edgar Poe. We doubt whether even that accomplished historian of the terrible has ever "led up" to the climax of any of his tales of mystery with art more subtle than that which Mr Thornbury displays in many of his stories. The following thrilling narrative of the discovery of the murders by Sarah Malcolm, in the Temple, in 1733, is, in our opinion, a master piece of the art of story telling,.admirable for its play of light and shade, for the dexterity with which it seizes the attention and keeps it on the stretch of expectation, and fills the mind with sense of impending calamity Exactly one on that Sunday, Mrs L'lve, neat and trim as Quaker, comes dine in Tanfield Court. She very punctual: it is exactly o'clock the great dials, and the St Donstan giants have just done their lightest work, and struck out with their dabs, clear, and loud. Mrs Love shuffled over the paved court, and last reaches the special door with the name Lydia Duncomb in black on the door-post. N savoury smell of dinner greets her. She ascends the old dusty ink-splashed stairs;—one flight—that is Mr Knight's door. Silent, all out for the Sunday ; second flight, she reals; third flight, here is the landing at last, and welcome enough to her poor old knees. There Mr Grisly's name still over his door—be is going to leave: and facing it, again, the well-known name of Mrs Lydia pun comb. It singular, though, as they cannot all nave gone to church, that Mrs I) an comb's outer door is accident, doubt. Mrs Love knocks with the confidence of a punctual visitor, true to the dinner hour. Iso answer! It is very silent and lonesome there the top of the house, on the cold landing opposite Grisly's unoccupied chambers. chill creeping of the bl(x*l comes over Mrs Love. Five, ten, fifteen minutes' more knocking. No answer. Something must be the matter. Nanny must be out, and Mrs Betty ill in bed. too infirm to come the door, and too weak to call out load enough to heard. Down the three flights at last trots Mrs Love, see she can find anybody who has seen any one the family that morning, la the court whom should she meet but Mrs OliDhant, and she asks her at once. "No " said Mrs Oliphant, I have seen none of them ; yon'd better knock louder. Up again goes Mrs Love, feeling sure that they will now be stirring. Skill all silent up the great stairs. She knocks again, nervously fast, till the whole staircase re-echoes, and from every empty room there seem to come voice*—shadowy faint voices—but no articulate answer. She waits. No • 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000329/18700516/086/0003
 Western Morning News - Monday 16 May 1870
@@ -103,24 +215,20 @@ The story of the loss of the Kent, East Indiaman, is most noble one, and full of
 
 "He left Westminster Hall with the brand of Cain upon his forehead. A mysterious and indelible stain was upon h'a escutcheon. The 'maccaronies' in the world fashion somehow shunned him, a whisper suspicion followed him wherever he went He retired into Nottinghamshire, and sank into sullen, gloomy, morose man. His passions grew more inveterate; he changed into a half-crazed, revengful, brooding misanthrope, a wicked Timon of Athens. always wont armed, as if dreading secret enemies. one occasion he is said, in rage, to have thrown his wife into the lake in front of the abbey, from which she was rescued the gardener, who then thrashed her savage husband. Another time he is said to have shot his coachman for disobeying orders, then to have thrown the bleeding body into the coach where Lady Byron was seated, and driven home himself. At war with.the human race, the wicked lord in 'austere and savage seclusion,' took refuge in the love of animals. He tamed immense number of crickets, whom he allowed to crawl over him, and corrected, when too familiar, with wisp of straw. When their patron died, there is a tradition that they left the Abbey altogether, flocking across the courts, corridors, and cloisters in all directions."
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18691228/020/0003
-Echo (London) - Tuesday 28 December 1869
 
-OLD STORIES RE-TOLD.* Mr. Thombury ltas dealt, in his “Old Stories Re toll,” very ; leasantly with a very unpleasant sevics of subects, He tells vs of the | ud(gtcs and their outrages ;of Thurtell, the gambler, and the cruel murder he perpetrat-d: of Sarah Malcolm, the murderess of ber mistress ; of old Patch, the forzer; of the fatal ducl between Lord Byron the grand uncle of the great roet of the same nome and Mr. Chaworth. of the great banker and forger, auntleroy, and of the myst.rious murder of M. ry ‘shford, ~ Then we have a ver, black list of political oTences und political offeaders, where we find an account of IZimmet's insurrection, in 1803, and the Irish Rebellion in 1708, the assassi nation of Mr, Perceval, the Prime Minister, in 1512; the burning of Wildgoose |odge co. Louth, Ireland) in 1510 ¢ the Cato-strect conspiracy in 1820, and the Bristol riots of 1831, When we add to these crimes the catistrophes of the wreck of the AZowia, in 1816, anl the loss of the KAewt East indiaman Ly fire in iB2), and a few murders an‘ other atrocities of lesser note, w shall have presented our readers with t:e whole subjcct-matter of Mr. Thornbury’s most interesting volume. To be, however, apjreciated as a whole it must be read as a whole. Itis impossible to read these terrible pictures of depravity and disaster without being deeply imxusscd with the consolatory reflections. In the first case, we are made to feel that human nature, even in its most oom:med phases, is still sxman, and not devilish, and that even some of the blackest criminals have some soft spotin their hard hearts, and are carable of acts of kindness, as well as susceptible of sincere religious feclings. It is to the credit of our author, and, we may add, to the delight of his readers, that so many cases are here pointed out in this dark calendar of crime which what is excellent in human character is mingled with what is corrupt. As no man is altogether good, so we believe that no man is altogether bad, and that he is the best man who has the greater proportion of what is best, and he the worst who has the greatest proportion of what is worst in human character, To our mind, the bright bits of redeeming sunshine thrown on the dark characters of his criminals is by far the best portion of these storics retold, and of this we will ll:'i"e our readers the benefit of a few examples. Fauntleroy, the wellknown London banker, was hanged, as we before observed, for forgery, in 1824. This unhap;;y man found the banking firm deeply involved when he entered it as a partner in 1817, His fwﬁﬁ“ were made to retrieve the position of the bank. “He never had embessled one shilling,” we are told, “forhimself.” Witnessesof the highest respectability were IProdut:ed at his trial who had known him ¥or a life time. All gave evidence to his honour and to his inwfi(y. “ A most benevolent man, with a stainless character.” Death was, we must confess, a very hard doom for a man of otherwise spotless reputation, whose onl( crime was a dishonest effort not to earich himself, but to maintain the credit of others, Here is a “ghastly anecdote” told of poor I'auntleroy, which we give in our author’'s own words :— e ‘¢ A ghastly anecdote, illustrative of the deep sincerity of dinner-friendships, and the pro‘ound attachment whereof boon companions are capable, long survived this miserable man, and was, within these twenty years, told for truth by one of his generation. His Jegnt dinners had been particularly renowned for some remarkable and unmatchable Curacoa, He had been frejuently asked at his own table of whom he bought it, but always kept the secret, When he was ordered for execution, three friends, bound to him by the remembrance of many feasts and many glasses of this famous liqueur, had a ;uai.li.i:tm' with him in his Condemned Cell. They had discharged themselves of such edifying remarks as they bad brought with them, and had taken their final leave of him and were about to retire, when the most impressive of the three stepped back, and said * Fauntleroy, you stand on the verge of the tomb, and Eternity awaits you, We brought nothing into this world, and itis certain we can :fe nothing out. At so supreme a moment, have you any objection to say how, and of whom, you procured that Curajoa? ' " In the murderer Burke (the Resurrection man), it is not less singular than pleasing to note hi friendly care and anxiety for his wife, which is not forgotten inthis sombre record of appalling horrors. Thurtell—the villain who murdered Mr. William Weare in 1823, in conjunction with Hunt, who turned King’s evidence—had the noble generosity to forgive the man who brought him to the gallows, and the night before his execution he shook him cordially by the hand, and said, “ God bless you, Hunt ; you have brought me to this situation, but I freely forgive you, and hope you will be mftieved and live to repent of your ¥m errors, If you had had nerve like us, none of us would have been convicted of this crime, but I for_Fihve you from the bottom of m{ heart.” e story of Sarah Malcolm, who murdered her mistress—a rich widow, Mrs. Duncombe—is, in truth, a sad story, but still relieved from something of its ghastly 3oom by such an incident as the following :— “ It was the custom at this time, pursuant to a bequest of Robert Dowe, a merchant tailor, for the bellman o St. Sepulchre’s to come to Ncwrrte a little past the mid. night before the execution of prisoners, to mﬁl his bell under the grated windows of the condemned hold, repeating the following well-meaning but doggrel verses; “ ¢ All you that in the condemn’d-hold do lie, Prepare you, for to-morrow you shall die. Watch all and pray, the hour is drawing near, That you before th’ Almighty must appear, Examine well yoursclves, in time repent, That you may not t’ eternal flames be sent : And when St. 'Pulchre’s bell to-morrow tolls, The Lord above have mercy on your souls ! Past twelve o'clock !’ ¢ Some prisoner or turnkey speaking 'o Sarah Malcolm, and Liddin her mind what the bellman said, she replied that she dgid. When the bellman finished, she looked out of window, and cried - ¢ D'ye hear, Mr. Pellman, call for a pint of wine, and I'll throw you a shilling to \a{ for its’ ‘“She then lfuew down tﬁc sll\il ing. “On the Sunday night, about ten o'clock, she called to a man named Chambers--the prisoner condemned to dic the next day, and whose cell was opposite her window—and asked him if she should pray with him. He reﬂ‘i’ed-— Do, Sarah : let us pray with all our hearts.’ ““She then prayed fervently till all the candles * “Old S.orie; Re-told.” By Walter Thornbury, London: Chapman and Hall,
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000686/18691211/213/0006
-Yorkshire Post and Leeds Intelligencer - Saturday 11 December 1869
+https://britishnewspaperarchive.co.uk/viewer/bl/0005087/18881107/408/0047
+Bookseller - Wednesday 07 November 1888
+OLD STORIES RE-TOLD. (Murders, Wrecks, Conspiracies, Riots, Insurrections, Forgeries, Duels, Battles, Fires, &.) By WALTER THORNBURY. A New Edition. Post 8vo, Illustrated boards, 2s.; cloth limp, 2s. 6d.
 
-OLD STORIES RETOLD `[Old Stories Re-told. By Walter Thornbury, author of "Haunted London," &c., London: Chapman & Hail.]`
 
-It was but the other day that reviewed admirable novel—“ The Vicar’s Courtship by Mr Walter Thornbury, and now another book, of a different character, by the same veraatile and industrious writer, lies before us. It is, as the title indicates, a collection of old stories retold—stones of actual events, episodes of social and political history—great crimes, memorable battles, tcmble disasters sea and land, nots, rebellions, conspiracies, and so forth-which, remarkable as they are, and forcibly as they must have impressed themselves on the minds of men when they occurred, have gradually faded from memory, until nothing is left of them but their barest outlines, and in some cases only their mere names or titles. It indeed strange how soon events the most memorable become forgotten. How many persons, to take some of Mr Thornbury s subjects as examples, remember the circumstances of the O. P. Hints of 1809. of the assassination of Mr Percival 1812, of the wreck of the Medusa in 1816, of the murder of William Weare Thurtell in 1823, of the burning of the Kent East Indiaman in 18251 Again, perhaps ninety-nine out of a hundred selected at random from any large crowd or company, could not tell what was the cause and result of the duel between Lord Byron ami MrChawortb in 1765, and we undertake to say that not a few would be puzzled, if asked to state whether the Lord Byron in question was the poet of not. How many persons can name the date of the battle ot Vinegar Hill and the nationality and objects of the parties engaged in it, or have idea of the purpose the Cato Street Conspiracy, or of the crimes tor which Fauntlcroy was executed in 1824, or know what instigated the Bristol Riots of 1831, or what was their extent and effect But so it will be witr. the events passing under our own eyes, and in the course of a few years the memory of the worl I will lose its grasp of the details of such familiar f.icts the loss of the Royal Chatter, the murder of Mr Briggs by Muller, and of Mrs Sheward by her husband, the Fenian conspiracy and the shooting of Police-sergeant Brett at Manchester, and the outrage at Clerkenwell, the Reform League riots H.\de Park, and the Pantin massacre, together with all tbo moral lessons which these incidents suggest. One of these days, perhaps, the events of our own times will be dealt with Mr Thornbury has dealt wnth the events that excited society those of our fathers of the past three generations. To an able writer like him such subjects will furnish tempting themes, and, probably, the success with which he has revived tho forgotten half-forgotten stories he has re-told may induce others to follow in his footsteps. If any doubt coidd exist as to the propriety or exj*ediency of resuscitating these stories, it is removed the manner in which the resuscitation has been effected. Mr Thornbury certainly is not one of those who “mars a good story in the telling.” master of the art of graphic description he has few rivals, and he has shown his skill in this respect in no work more remarkably than in the vblumc before us. His style of narration is simple, without being commonplace or dry ; it is dramatic without being vulgarly sensational. He embellishes his subject not by flights of the imagination, but the sheer force of picturesque treatment. In perusing these stories his one cannot fail to be struck by the seeming paradox—that there is at once so much and yet so little of his own in them. But this is because, while he adheres closely to truth and fact—while his book is, it were, crammed (if such a term can be applied to what is perfect in order and arrangement) with historical detail, the manner of the narratives is fresh and novel as the subjects of them are old. The stories seem to tell themselves, so fertile arc their materials in interesting incident, but it is to the art of the narrator that we are indebted for the powerful and vivid impression which they make upon us. For example, what a perfect pictur —conceived in the true Hogarthian spirit —is the following sketch of brutal gambler-bully of the last century : Major Oneby wait neither the Eagle nor the Woodpecker. bad sank into the loweet all gamost Bally. was the bloat, frank old eoldi-r who talked Marlborough, by , air, and Prince Engine. had a groan humour of hie own, and told infamoae stories well, when he was neither quarrelsome nor dangerous. He roared and cursed for wine Will’s or the Mitre, struck the drawera, trod on people’s hate, or kicked their ewords he to hia seat. was the terror of all quiet and timidly res{>ectable men. Hr: uied dap bis sword the table, and glance round dertautly at the company. He would howl out blasphemiesaddressed to one specially, bat still amounting a challenge the fiercest or bravest man in the room. It was necessary to his reputation a terrorist that should kill a man now and then, and woe to the young Templar, vain his fencing, who that night came in his way. would volunteer show the youug country spendthrift the sights of the town. Some evening, after three or four of wine, the Deluder pr-tend-, with bis own jovial laugh, to be tired of Booth ami Q >in, Vauxhail and Kanelagh. of the Mall and the tracingschool, of the masquerade and the Park. Some peopls they meet by chance at Will’s turn out very lively acquaintances, with torn for faro or chicken h vzard. They adjourn to a gambling-house, and set work wi'h the dice and the red and black pipe. Mr Littlebram, tho rich yonng gentleman from 8 first wins surprisingly. The gold tide sets towards him. They call for more Burgundy. He instate on higher stakes, astonished to find how he is startling the old dice-shakers of Covent Garden. More Burgundy; the room seems to get lighter and larger ; the dice tiy out faster and fatter. The tide at last turns; the gold floats from him in shoals. He h.'s lost all bod won and five thousand guineas more, besides the large farm near Taunton, He has also signed some papers that good-natured old lawyer pereenk required as securities for the loan of another thousand, already half gone. Gradually the fumes of the wine subside, and one suspicious glance discloses to him the old lawyer changing a pack of cards which he (novice) had placed ready at bis elbow. He sees a friend make signs the benevolent lawyer. Then he feels into what a park wolves has fallen. In a moment Littlebrain dashes over his chair, leaps a settee, gets down his hat and sword from the peg behind the door, and shouts “Thieves!” from the window to the watch, who have jnst passed, crying, sleepily: Past four, and rainy morning,” The gang is furious, their eyes glare, they prepare for a The gallant captain, whose red face, barred with black plasters, looks like a hot fire seen between the bars of a grate, sweeps two or three dozen guineas from the green cloth into bis panniers of pockets. Then some one knocks out the lights, several swords clash with Littlebrain’s, and one passes through his unlucky body. He staggers to the stairs, and falls beadlong down them—dead. There a dash the watchmen, who threaten the gamblers with their staves. The old men, however, fall before the tempestuous charge, and the next moment there is no one in the gambliogkonse but two frightened women, old watchman, who is bolding the dim lantern to the dead man’s face with one hand, and removing bis watch and purse with the other; the only sonnd is the wind whistling through the keyhole. In such affairs, subtle, cruel, and deadly. Major Oneby has been no subordinate actor. In notbing does Thornbury show his skill to better advantage than in tales of crime and mystery. He is not content with a mere piling up of horrors, but he constructs, even out of the most revolting of his subjects such as the butcheries of Burke and Hare, and the murders Katcliffe Highway—tales that rise to the dignity of tragedy. In this way, his stories of crime ro- Femble not the hideous records of the Newgate Calendar, but the skillfully-elaborated narratives of Edgar Poe. We doubt whether even that accomplished historan of the terrible has ever “led up” to the climax of any of his tales of mystery with art more subtle than that which Mr Thornbury displays in many of his stories. The following tlirillmg narrative of the discovery of the murders by Sarah Malcolm, in the Temple, in 1733, is, in our opinion, a master piece of the art of story telling,.admirable for its play of light and shade, for the dexterity with which it seizes the attention and keeps it on the stretch of expectation, and tilla the mind with sense of impending calamity Exactly one on that Sunday, Mrs L'lve, neat and trim as Quaker, comes dine in Tanfield Court. She very punctual: it is exactly o’clock the great dials, and the St Donstan giante have just done their lightest work, and struck out with their dabs, clear, and loud. Mrs Love shulflee ivcr.>« the paved coart, and last reaches the special door with the name Lydia Duncomb in black on the door-post. N savoury smell of dinner greets her. She ascends the old dosty ink-splashed stairs;—one flight—that is Mr Knight’s door. Silent, all out for the Sunday ; second flight, she reals; third flight, here is the landing at last, and welcome enough to her poor old knees. Tnere Mr Grisly’s name still over his door—be is going to leave: and facing it, again, the well-known name of Mrs Lydia pun comb. It singular, though, as they cannot all nave gone to church, that Mrs I) an comb’s outer door is accident, doobt. Mrs Love knocks with the confidence of a punctual visitor, true to the dinner hour. Iso answer! It is very silent and lonesome there the top of the house, on the cold landing opposite Grisly’s unoccupied chambers. chill creeping of the bl(x*l comes over Mrs Love. Five, ten, fifteen minutes’ more knocking. No answer. Something must be the matter. Nanny must be out, and Mrs Betty ill in bed. too infirm to come the door, and too weak to call out load enough to heard. Down the three flights at last trots Mrs Love, see she can find anybody who has seen any one the family that morning, la the court whom should she meet but Mrs OliDhant, and she asks her at once. “No ” said Mrs Oliphaat, I have seen none of thtm ; yon’d belter knock louder.’* Up again goes Mrs Love, feeling sure that they will now be stirring. Skill all silent up the great stairs. She knocks again, nervously fast, till the whole staircase re-echoes, and from every empty room there seem to come voice*—shadowy faint voices—but no articulate answer. She waits. No • 
 
 https://archive.org/details/in.ernet.dli.2015.41560/page/n9/mode/2up?q=wight
 
 Old Stories Retold
 by Thornbury, Walter
 
-Publication date 1888? (new edition; original 1870?)
+Publication date 1888 (new edition; original 1869)
 
 Contents
 
@@ -173,3 +281,91 @@ Resurrection Men — Burke and Hare, 1829 . . 335
 The Bristol Riots, 1831 ..... 349
 
 FIESCH AND THE INFERNAL MACHINE, 1835 . . . 364
+
+
+## CATEGORISED
+
+### Protest
+
+
+Attempts to Assassinate King George the Third, xvii. 118
+Colonel Despard's Plot, xviii. 179
+Assassination of Mr. Percival, xvi. 441
+Cato-street Conspiracy, xvi. 415
+
+Burdett Riots, xvii. 230
+The Spa-fields Riots, xvi. 562
+Peterloo, xvii. 559
+Bristol Riots, xvii. 596
+
+O. P. Riots, xvii. 149
+London Street Riots in the Last Century, xviii. 372
+
+Luddites, The, xvii. 407
+
+Mutinies in the Navy, xviii. 519
+
+
+
+### Battles / War
+
+Bombardment of Algiers, xvii. 127
+Culloden, xviii. 271
+Massacre of the Mamelukes, xviii. 157
+
+### Natural World
+
+Earthquakes, xviii. 545
+Eclipses, The Racehorse, xix. 223
+Glorious First of June, xviii. 420
+Great Frost of 1814, xvii. 294
+
+### Civic / Travel / Transport
+
+Balloon Ascents, xvii. 44
+Brunswick Theatre, Accident at the, xx. 191
+First Use of Gas in London, xvii. 378
+Gambler's Life in the Last Century, xviii. 511
+Great Stock Exchange Hoax, xvii. 43
+John Howard alias or William Courtenay, &c., xvii. 441
+Life of a Methodist Preacher, xvii. 398
+Theatrical Farewells, Garrick and Siddons, xviii. 87
+Wild Boys, xviii. 891
+
+
+### Ireland
+
+Battle of Vinegar Hill, xvii. 205
+Burning of Wildgoose Lodge, xvii. 417
+Emmet's Insurrection, xvii. 537
+French in Ireland, xvii. 34
+
+### Duels
+
+Duel between Lord Byron and Mr Chaworth, xvii. 178
+Sheridan's Duel with Captain Mathews, xviii. 138
+Wager of Battle, xviii. 3 [actually, 39]
+Wager of Battle, Murder of Mary Ashford, xvii. 436
+
+### Crime / Punishment
+
+Eliza Fenning, xviii. 66
+French and the Infernal Machine, xvi. 322
+Highwaymen, A String of, xvii. 512
+Murder of Mr. Weare, of Lyons Inn, xvi. 506
+Old Patch, xvii. 53
+Prison Discipline, xviii. 251
+Red Barn, xviii. 397
+Resurrection Men, Burke and Hare, xvii. 286
+Sarah Malcolm, xvii. 589
+Thomas Dermody Weinecourt, Poisoner, xvii. 34
+The Two Great Murders in Ratcliff Highway, xvi. 350
+Trial and Execution of Fauntleroy, xvi. 470
+
+### Wrecks / Naval
+
+Loss of the Kent East Indiaman, xvi. 444
+Trafalgar, xviii. 108
+Wreck of the Halsewell, East Indiaman, xvii. 347
+Wreck of the Medusa, xvii. 77
+Wreck of the Rothsay Castle, xviii. 203

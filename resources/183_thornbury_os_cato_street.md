@@ -21,7 +21,7 @@ Hiden then revealed the plots of a knot of conspirators who held meetings in a l
 
 But the preliminary blow contemplated by these ferocious assassins was even more terrible.
 
-Four and twenty men, armed with pistols, sabres, knives, pikes, hand-grenades, and blunderbusses, were to proceed to Lord Harrowby's house when the company was assembled. Thistlewood was to knock at the door, and hand a letter to the footman. Directly the door opened, the band would rush in and seize the servants, threatening them with instant death if they resisted or gave the alarm. The stairs were next to be seized and guarded by men with lire-arms and grenades. If any one attempted to escape from above or below, handgrenades were to be dashed in among them. Two men were also to be placed at the same time at the area, and, armed with grenades and blunderbusses, to stop all fugitives with showers of shot and fire. Two swordsmen (old soldiers), told off for the higher class of murder, followed by the rest, wore then to nisli into the dining-room and kill every one — the bad for their oppression, the good for keeping such evil company. Ings, a pork-butcher, the most savage of the crow, was going to arm himself with a brace of pistols, a cutlass, and a specially prepared knife of great strength, weight, and keenness, and, cutting off the heads of Lord Castlereagh and Lord Sidmouth, carry them off (for some un
+Four and twenty men, armed with pistols, sabres, knives, pikes, hand-grenades, and blunderbusses, were to proceed to Lord Harrowby's house when the company was assembled. Thistlewood was to knock at the door, and hand a letter to the footman. Directly the door opened, the band would rush in and seize the servants, threatening them with instant death if they resisted or gave the alarm. The stairs were next to be seized and guarded by men with lire-arms and grenades. If any one attempted to escape from above or below, hand-grenades were to be dashed in among them. Two men were also to be placed at the same time at the area, and, armed with grenades and blunderbusses, to stop all fugitives with showers of shot and fire. Two swordsmen (old soldiers), told off for the higher class of murder, followed by the rest, were then to nisli into the dining-room and kill every one — the bad for their oppression, the good for keeping such evil company. Ings, a pork-butcher, the most savage of the crow, was going to arm himself with a brace of pistols, a cutlass, and a specially prepared knife of great strength, weight, and keenness, and, cutting off the heads of Lord Castlereagh and Lord Sidmouth, carry them off (for some un
 
 defined purpose) in two bags bought for the horrible occasion. Ings's cry, as they tore into Lord Harrowby^s dining-room, was to be —
 
@@ -31,7 +31,7 @@ These words are significant. The citizens evidently meant to renew the horrors o
 
 In the mean time, other persons besides Hiden had betrayed the conspirators. Dwyer, an Irish bricklayer, whoVad been employed to muster his countrymen, and to carry off the firearms from the Foundling, had informed ,*he Secretary of State by means of a Major James. An infamous informer, named Edwards, a modeller and image-seller at Windsor, had also spoken to a gentleman of the king's household.
 
-Lord Ilarrowby was wary, and did nothing to scare the assassins. The dinner was secretly put off, but not publicly or in the newspapers,^ The Archbishop of York, who lived next door, having a dinner the same day and hour, the carriages arriving at that house deceived the watchers whom Thistlewood liad placed for the whole day and night before in the square, and no alarm was excited in the minds of the 'gang.
+Lord Ilarrowby was wary, and did nothing to scare the assassins. The dinner was secretly put off, but not publicly or in the newspapers,^ The Archbishop of York, who lived next door, having a dinner the same day and hour, the carriages arriving at that house deceived the watchers whom Thistlewood had placed for the whole day and night before in the square, and no alarm was excited in the minds of the 'gang.
 
 On the afternoon of the 23 rd, Lord Ilarrowby, sending word to bis brother ministers, took refuge in Lord Liverpool's house, nor did he write to his servants to countermand the dinner till eight o'clock in the evening. At nine, Thistlewood and his men were to enter Grosvenor Square.
 
@@ -45,7 +45,7 @@ About three o'clock on the afternoon of the 23rd of February, 1820, a mail livin
 
 Several rendezvous had been appointed for the conspirators. Some were to assemble near John Street, and to be brought
 
-to the stable by safe men ; others were directed to the Horse and 0-room. Tidd gathered his party at Hole-in-tlie-Wall Passage, Brunt at Fox's Court, while Thistlewood was to go straight to Cato Street, where the blunderbusses, daggers, pistols, swords, pikes, pitch-balls, and hand-grenades had l)y this time been collected.
+to the stable by safe men ; others were directed to the Horse and 0-room. Tidd gathered his party at Hole-in-the-Wall Passage, Brunt at Fox's Court, while Thistlewood was to go straight to Cato Street, where the blunderbusses, daggers, pistols, swords, pikes, pitch-balls, and hand-grenades had by this time been collected.
 
 At two o'clock on the afternoon of that day eight or ten of the conspirators met at Brunt's room, to fit flints to pistols and slings to cutlasses. Many of the men were still ignorant of what was to be done. They were only to be told at the stable, when it was too late to retract. On Thistlewood's arriving, he said —
 
@@ -71,7 +71,7 @@ that knife he swore he would cut off the heads " of Castlereagh and the rest as 
 
 In the momentary absence of the dreaded Thistlewood and lirunt, a man named Palin said he hoped all present knew what they had met there for, and had considered whether the assassination would be approved by the country, and would really draw the people to their help. J ust then Brunt returned. Observing an alteration in the men's countenances, and being told the reason, he said —
 
-"This is not the place. Go with mo to Edgware Boad. There yen shall know what you are going about, and all that goes al<|[ig with me I will take care shall have a drop of something to drink to put them in spirits."
+"This is not the place. Go with mo to Edgware Road. There yen shall know what you are going about, and all that goes al<|[ig with me I will take care shall have a drop of something to drink to put them in spirits."
 
 The conspirators^ then armed themselves, put on their great-coats to conceal their weapons, and started for the rendezvous.
 
@@ -83,7 +83,7 @@ If you begin to talk of dropping the concern now," he said, I will wither cut my
 
 Brunt said there was no occasion for uneasiness; he would forfeit his existence if Tidd was not forthcoming. Thistle•wood kept quiet, and said —
 
-"For God's sake do not think of dropping the business now; if you do, it will turn out a second Despard job." Then he looked round and said, You seem to think there are not men sufficient." (He cast up the number.) "Let us see, there are ciglitecii here, and two below; that makes twenty; that is quite sufficient ; suppose there to be sixteen servants ill Lord Harrowby's liouse, they are not armed ; we shall go prepared, and it will not take us, from entering the house and coining out, more than ten minutes."
+"For God's sake do not think of dropping the business now; if you do, it will turn out a second Despard job." Then he looked round and said, You seem to think there are not men sufficient." (He cast up the number.) "Let us see, there are ciglitecii here, and two below; that makes twenty; that is quite sufficient ; suppose there to be sixteen servants ill Lord Harrowby's house, they are not armed ; we shall go prepared, and it will not take us, from entering the house and coining out, more than ten minutes."
 
 Fourteen men were to execute the murders, and six to be left to guard the servants. As the fourteen men were volunteering and being called out, Tidd entered, and Thistlewood, probably suspecting him to be a waverer, fixed his eyes sternly upon him ; but, seeing Adams watching him, he turned away directly. Adams going up to Tidd, said to him, tentatively—
 
@@ -93,7 +93,7 @@ Edd replied, in an ominous whisper, "Never."
 
 Brunt had just produced a gin^bottle from bis pocket to prime the assassins, when Adams heard somebody in the stable below.
 
-Yes, the toils had long slowly been gathering round these desperate wretches. Into that loft, as into a full rat-pit, the sharp-toothed terriers of the law were ready to dash. In other rooms besides that of Cato Street cutlasses had been that morning ground, and pistol-flints fitted. The Bow Street officers had already been lurking about the Horse and Groom public-house, and had secured a pike-stave left by one of the conspirators. About half-past eight, twelve of thora\ lad mot by appointment near John Street, and moved on together towards the well-marked stable. In t^e mean time. Lieutenant Fitzclareiice, with a picquet of the Coldstream Guards, had been sent by Mr. Birnio, the police magistrate, to wait in John Street till they were called. Buthven (a tall, sandy Scotchman), Smithers, Ellice, and others of the patrol found the stable-door watched by two or throe men. The man of colour, Davidson, and Ings were guarding the stairs, with blunderbusses on their shoulders and swords by their sides. Bnthven instantly ordered these men to be? secured, and mounted the ladder, followed by Ellice, Smithers, and three or four others.
+Yes, the toils had long slowly been gathering round these desperate wretches. Into that loft, as into a full rat-pit, the sharp-toothed terriers of the law were ready to dash. In other rooms besides that of Cato Street cutlasses had been that morning ground, and pistol-flints fitted. The Bow Street officers had already been lurking about the Horse and Groom public-house, and had secured a pike-stave left by one of the conspirators. About half-past eight, twelve of thora\ had met by appointment near John Street, and moved on together towards the well-marked stable. In t^e mean time. Lieutenant Fitzclareiice, with a picquet of the Coldstream Guards, had been sent by Mr. Birnio, the police magistrate, to wait in John Street till they were called. Buthven (a tall, sandy Scotchman), Smithers, Ellice, and others of the patrol found the stable-door watched by two or throe men. The man of colour, Davidson, and Ings were guarding the stairs, with blunderbusses on their shoulders and swords by their sides. Bnthven instantly ordered these men to be? secured, and mounted the ladder, followed by Ellice, Smithers, and three or four others.
 
 There were about five and twenty men iu the room, eating bread and cheese and drinking porter, or selecting arms from a long carijen tor's bench which stood close by the wall. Just at that juncture, Thistle wood, hearing a noise, and some one calling, " Hallo ! Show a light ! " took a candle, and looked down the stairs to see who was coming, and on seeing that there was a surprise he put the candle back on the bench, seized a sword, and, with three or four others, retreated stealthily to the further of the inner rooms — the one that bad a window looking out into Cato Street. At that moment, ono of the men seized Mow called up to warn his comrades — Look out there, above!"
 
@@ -119,7 +119,7 @@ He then pushed towards the door of the inner room, where Thistlewood stood thrus
 
 "Kill the at once! Throw them downstairs! Kill them!"
 
-Then there were twenty or thirty pistol-shots fired, and a tremendous headlong rush was made at the stairs, driving the Bow Street men backwards; the conspirators leaping down into the manger through the holes in the floor, or by the window, others firing at the officers on the stairs, or up through the manger, all making for the archway in Jolm Street. Tidd was caiiglit in the doorway, thrown on a dungheap by h nth veil, and disarmed. Davidson was pursued and taken in John Street. Wr*iglit, a patrol, was knocked down and stabbed by lugs, who was caught by a watchman in Edgware Road, after having tired at Brooks, one of the officers, wlio had attacked him with his cutlass.
+Then there were twenty or thirty pistol-shots fired, and a tremendous headlong rush was made at the stairs, driving the Bow Street men backwards; the conspirators leaping down into the manger through the holes in the floor, or by the window, others firing at the officers on the stairs, or up through the manger, all making for the archway in Jolm Street. Tidd was caiiglit in the doorway, thrown on a dungheap by h nth veil, and disarmed. Davidson was pursued and taken in John Street. Wr*iglit, a patrol, was knocked down and stabbed by lugs, who was caught by a watchman in Edgware Road, after having tired at Brooks, one of the officers, who had attacked him with his cutlass.
 
 In the mean time the jhequet of Foot Guards, hearing pistol-shots in the stable, had dashed up at the double, being mot by a police officer, who shouted to them —
 
@@ -169,15 +169,15 @@ Ings, who had once lx)a8ted that he had gone out intending to shoot the Prince R
 
 unarmed men, women, and children," he said, "was a disgrace to the name and character of Englishmen. He hoped his children would live to see the day when they should all be free men and see justice administered. I had rather," he concluded, '*dio like a man than live like a slave."
 
-Brunt said his life had been sworn away, he was no traitor or enemy to his king, but only to the boroughmongering faction, who destroyed the vitals of the country. He considered Lord Sidmouth's circular sent out to instigate the cavalry to murder the Manchester men. He admitted that he had attempted what he wished had been done, and he thought the country would have lK*en compensated had those men been put out of the way. "I think," he said, ''it is what they merit — 1 actually think it is what they merit. If a man inurdtjrs my brother, 1 have a right to murder him. What does the sriptures say: 'An eye for an eye, and a tooth for a tooth.' I have no private enmity against any gentleman in the country : it was for the public good that I (Niino forward, and I would have gone through with it. Try mo for murder, hang mo, draw mo, quarter me, but let me have justice; that is all I have to say."
+Brunt said his life had been sworn away, he was no traitor or enemy to his king, but only to the boroughmongering faction, who destroyed the vitals of the country. He considered Lord Sidmouth's circular sent out to instigate the cavalry to murder the Manchester men. He admitted that he had attempted what he wished had been done, and he thought the country would have lK*en compensated had those men been put out of the way. "I think," he said, "it is what they merit — I actually think it is what they merit. If a man inurdtjrs my brother, 1 have a right to murder him. What does the scriptures say: 'An eye for an eye, and a tooth for a tooth.' I have no private enmity against any gentleman in the country: it was for the public good that I (Niino forward, and I would have gone through with it. Try me for murder, hang me, draw me, quarter me, but let me have justice; that is all I have to say."
 
 Tidd said all the witnesses had sworn falsely except Captain Fitzclarence; as for shooting at that gentleman, as a private gentleman, he w^ould as soon have shot his owm father.
 
 Thistlewood, Davidson, Ings, Brunt, and Tidd were sentenced to be hung, and to have their heads severed from their bodies — the quartering being graciously forgiven.
 
-Wilson, Harrison, Bradburn, Strange, Gilchrist, and Cooper were transported for life. At a cabinet council on Saturday, the 29th of April, the execution of the desperate men was fixed for the ensuing Monday. The governor of Newgate received the death-warrant at seven p.m. on Saturday, and instantly went to the condemned room and read it to the prisoners, who were sitting there watched by eight oflScers. They aU rose respectfully when he entered, and seemed conscious Jf the news that he btought.
+Wilson, Harrison, Bradburn, Strange, Gilchrist, and Cooper were transported for life. At a cabinet council on Saturday, the 29th of April, the execution of the desperate men was fixed for the ensuing Monday. The governor of Newgate received the death-warrant at seven p.m. on Saturday, and instantly went to the condemned room and read it to the prisoners, who were sitting there watched by eight officers. They aU rose respectfully when he entered, and seemed conscious of the news that he brought.
 
-Thistlewood said quite calmly: "'The sooner we go, sir, the better — our jvisii is to die as soon as possible." The othe r prisoners expressed the same feeling.
+Thistlewood said quite calmly: "'The sooner we go, sir, the better — our jvisii is to die as soon as possible." The other prisoners expressed the same feeling.
 
 On Mr. Brown's asking them if they wished the assistance of a clergyman of any persuasion, they made no reply.
 
@@ -185,7 +185,7 @@ Th (7 slept soundly nearly the whole night, and only awoke at the unbarring of t
 
 The men could speak to each other through the loops in the cell walls: and lugs, during the night speaking of the scene in the morning, said, with savage bitterness—
 
-" There was plenty of men present, hut, d — n 'em, they have no pluck."
+"There was plenty of men present, but, d — n 'em, they have no pluck."
 
 At five o'clock Mr. Cotton came again round the cells with the sacrament. All refused it but Davidson, who received the elements with sincere devotion. Brunt seized tho wine, and drank tho king's health, and so did Davidstin, On the arrival of the sheriffs and attendants, the four leaders were so violent that it was thought prudent to pinion their arms before their irons were struck off. The procession then advanced through the long dark passages—dark even on that bright May morning. Thistlewood came first, his eyes fixed, and abstracted in thought. Then walked Tidd, trying to assume indifference, and rallied by lugs for his depression. After him strode Ings, laughing and reckless, followed by Brunt, who fixed liis eyes on the officers with a sullen rage. Davidson was last, his hands clasped, his eyes uplifted, and his lips moving in prayer. At the lodge leading to the scaffold there was a moment's pause. Thistlewood clenched his lips, and with a frown watched the preparations on the scaffold.
 
@@ -199,11 +199,11 @@ On a bystander beseeching Brnnt to ask God's pardon, Bmnt replied, tritk savage 
 
 when he was summoned to the scaffold. He turned to Brunt, smiled, and shook hands with him. On entering the lodge, he had said to some one who told him to be firm —
 
-"Firm? I am firm. But we have children, sir." I There was true pathos in this. '
+"Firm? I am firm. But we have children, sir." There was true pathos in this. '
 
 When the handkerchief was tied on, he cried out —
 
-"I hope, Mr. Cotton, you will give me' a good character." the chaplain bowed. Ings then commenced playfully swinging about in his hand a cotton nightcap. While the hatch was opening, he exclaimed with a loud voice —
+"I hope, Mr. Cotton, you will give me a good character." the chaplain bowed. Ings then commenced playfully swinging about in his hand a cotton nightcap. While the hatch was opening, he exclaimed with a loud voice —
 
 "Remember me to King George the Fourth. God bless him, and may he have a long reign!"
 
@@ -219,8 +219,8 @@ One by one they had gone to death, Thistlewood first. Tlii'oc times the mob had 
 
 Davidson was called next. He was astonishingly composed. On the Sunday, at parting with his wife, he had said, "the day of his death would be the happiest of his life." he was in fervent prayer when he was turned off.
 
-Brunt's last act was to take a pinch of snuff from a paper in his hand, stooping to put it to his nose, and pnsliing up his nightcap to take it. He took off his heavy nailed shoes, as one of the others had also done, and, as the report of the lime says, threw them at the people, either in contempt and brutal defiance, or to cheat the hangman.
+Brunt's last act was to take a pinch of snuff from a paper in his hand, stooping to put it to his nose, and pushing up his nightcap to take it. He took off his heavy nailed shoes, as one of the others had also done, and, as the report of the lime says, threw them at the people, either in contempt and brutal defiance, or to cheat the hangman.
 
-Exactly a quarter of an hour after the last man was hung, the order was given to cut the bodies down. The heads were then haggled off with brutal clumsiness with a surgeon's knife. The mob expressed loudly their horror and disgust, more especially when the turnkey, who exhibited the heads, dropped that of Brunt. Hallo, butter-fingers ! " shouted a rough voice from the rolling crowd below. The day had gone by for such useless brutality.* The executions occupied one hour and eight minutes. It was a quarter to eight when Thistlewood appeared on the scaffold, it was seven minutes to nine when Brunt's head, the last exhibited, was placed in the coffin. The hangman's assistant on this occasion was not the late Mr. Walkley, as many people still think, but a poor surgeon in the Edgware Road, who after this became wealthy.
+Exactly a quarter of an hour after the last man was hung, the order was given to cut the bodies down. The heads were then haggled off with brutal clumsiness with a surgeon's knife. The mob expressed loudly their horror and disgust, more especially when the turnkey, who exhibited the heads, dropped that of Brunt. "Hallo, butter-fingers!" shouted a rough voice from the rolling crowd below. The day had gone by for such useless brutality.* The executions occupied one hour and eight minutes. It was a quarter to eight when Thistlewood appeared on the scaffold, it was seven minutes to nine when Brunt's head, the last exhibited, was placed in the coffin. The hangman's assistant on this occasion was not the late Mr. Walkley, as many people still think, but a poor surgeon in the Edgware Road, who after this became wealthy.
 
 The cavalry, stationed to line all the streets in the neighbourhood, then disi)crscd, and the mob slowly melted away.
