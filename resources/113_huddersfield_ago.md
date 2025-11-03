@@ -136,6 +136,17 @@ One of Mr. Horsfall's most valued friends was Mr. Edmund Eastwood, then living a
 
 [To be continued.]
 
+--
+Refs below:
+
+https://books.google.co.uk/books?id=07tNAQAAMAAJ&pg=PA9&dq=cowgill+luddites&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi06NzS9d-OAxVrVUEAHQYOHikQ6AF6BAgHEAM#v=onepage&q=cowgill%20luddites&f=false
+An Historical Account of the Luddites of 1811, 1812, and 1813: With Report (Cowgill ) 1862
+
+
+https://babel.hathitrust.org/cgi/pt?id=umn.31951p00335898c&seq=7
+https://books.google.co.uk/books/about/Report_of_proceedings_under_commissions.html?id=iNxbAAAAQAAJ&redir_esc=y
+Report of proceedings under commissions of Oyer & Terminer and Gaol Delivery, for the county of York, held at the castle of York before Sir Alexander Thomson ... and Sir Simon Le Blanc ... from the 2d to the 12th of January 1813. From the short hand notes of Mr. Gurney. To which are subjoined two proclamations, issued in consequence of the result of those proceedings
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0003869/18640123/005/0005
 Huddersfield and Holmfirth Examiner - Saturday 23 January 1864
 
