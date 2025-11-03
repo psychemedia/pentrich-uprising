@@ -287,7 +287,7 @@ A person of the name of Haigh was apprehended at Methley on Saturday se'nnight, 
 TO DO
 
 
-[ALso see elsewhere for more on Horsfall; the following is duplicated in that.]
+[ALso see elsewhere for more on Horsfall; the following is duplicated in that but included here to give a sense of the timeline of the reports.]
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120502/011/0003
 ## Leeds Mercury - Saturday 02 May 1812
@@ -343,8 +343,96 @@ A Special Commission will shortly be sent down to Chester and Lancaster to try t
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000239/18120512/002/0002
 Manchester Mercury - Tuesday 12 May 1812
 
-Committed to York Castle.— James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Ardron, and other persons, as strongly suspected of having been one of the persons who, on the night of the 11th of April, riotously assembled and attacked the mill of Mr. W. Cartwright, at Rawfolds. —This man was apprehended Methley, on Saturday week. It appears that since the attack above mentioned, he had been first at the house of a sister in-law, at Penistone, from whence he went to another sister at Methley. He was taken before Joseph Esq. of Milnsbridge, and after undergoing several examinations was fully committed on Thursday. He was conveyed to the Cattle in a chaise and four, escorted by a party of dragoons. —Two other men were apprehended as accomplices at Hill-House, near Huddersfield, on Monday evening, after several examinations, one of them named Stocks was liberated, but the other, Cockroft, was remanded.—On Monday night, it is strongly suspected, with a view to the rescue of the above men, the stable of Major Gordon, at Huddersfield, was set on fire, and nearly destroyed. The stratagem, however, failed; for instead of drawing away the guard which was placed over the prisoners, the officer, with great promptitude, doubled its force. Happily the fire did not communicate to any other building.
+Committed to York Castle.— James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Ardron, and other persons, as strongly suspected of having been one of the persons who, on the night of the 11th of April, riotously assembled and attacked the mill of Mr. W. Cartwright, at Rawfolds. —This man was apprehended at Methley, on Saturday week. It appears that since the attack above mentioned, he had been first at the house of a sister in-law, at Penistone, from whence he went to another sister at Methley. He was taken before Joseph Esq. of Milnsbridge, and after undergoing several examinations was fully committed on Thursday. He was conveyed to the Cattle in a chaise and four, escorted by a party of dragoons. —Two other men were apprehended as accomplices at Hill-House, near Huddersfield, on Monday evening, after several examinations, one of them named Stocks was liberated, but the other, Cockroft, was remanded.—On Monday night, it is strongly suspected, with a view to the rescue of the above men, the stable of Major Gordon, at Huddersfield, was set on fire, and nearly destroyed. The stratagem, however, failed; for instead of drawing away the guard which was placed over the prisoners, the officer, with great promptitude, doubled its force. Happily the fire did not communicate to any other building.
 ```
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120509/004/0003
+Lancaster Gazette - Saturday 09 May 1812
+
+TO DO
+
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000268/18120727/037/0003
+Leeds Intelligencer - Monday 27 July 1812
+
+YORKSHIRE ASSIZES.
+
+Before the Hon. BARON WOOD, and the Hon. JUSTICE BAYLEY.
+
+...
+
+The Grand Jury having been sworn, Mr. Justice Bayley addressed them to the following purport:
+
+... No 13, in the calendar, (James Haigh) is the case of a person being concerned in an attack upon a mill. On this I would remark, that if the evidence amounts only to what may be called a conjecture or slight presumption, it would be adviseable to throw out the bill; but it often happens that more evidence is laid before you than is contained in the depositions handed to me. You will consider the amount of the evidence, and if it he but slight it would be better to reject the bill, unless you have reason to believe that you have all the evidence before you that can be collected on the case, because if you find the bill, and the party is tried, he cannot be tried for that offence again, whatever evidence may come out; but if the bill is thrown out, he would be still amenable to the law, if subsequent evidence should render it expedient to apprehend him.— I make these observations because is appears from the depositions that some persons refused to enter into recognisance to appear and give their evidence.
+
+It gives me concern to observe a disposition in any persons to obstruct the course of justice; and the Magistrates would have been justified, and I wish they had so acted, in committing the person, thus refusing, to prison.
+
+...
+
+In No. 25 (James Oldroyd,) the evidence will probably mainly rest on the confession of the party, you will therefore inquire what corroborating circumstances there may be in the case, and whether the confession rests under the suspicion of being made by the undue influence of promises or threats.
+
+...
+
+James Oldroyd, of Dewsbury, charged with having confessed that he was at Rawfolds mill on the night it was attacked.— *Not Guilty.*
+
+James Haigh, of Dalton, cloth dresser, charged with being strongly suspected of having been one of the persons who riotously assembled and attacked the mill of Mr. Cartwright, of Liversedge.*—No Bill.*
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120725/022/0004
+Lancaster Gazette - Saturday 25 July 1812
+
+YORKSHIRE ASSIZES.
+
+Sir Thomas Slingsby, Bart. High Sheriff.
+
+The following prisoners, in the Cattle of York, were to take their trials at these Affixes, which commenced on Saturday last. Before the Hon. Baron Wood, and the Hon. Justice Bayley:
+
+...
+
+James Haigh, of Dalton, cloth-dresser, charged with being strongly suspected of having been one of the persons who riotously assembled and attacked the mill of Mr. Cartwright, of Liversedge.
+
+...
+
+James Oldroyd, of Dewsbury, charged having confessed, that he was at Rawfolds mill, on the night it was attacked.
+
+...
+
+Patrick Doring, otherwise Patrick Bell, late of Scholes, surgeon, charged on the oath of Martha Culpin, of Penistone, with having threatened that the said Martha Culpin and her husband should be shot, for giving evidence against James Haigh, now confined in York Cattle.
+
+...
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120808/020/0004
+Lancaster Gazette - Saturday 08 August 1812
+
+
+YORKSHIRE ASSIZES. Before the Hon. BARON WOOD, and the Hon. JUSTICE BAYLEY, Sir THOMAS SLINGSBY, Bart., High Serriff.
+
+... James Odlroyd, for attacking Rawfolds Mill.—*Not Guilty.* ... James Haigh, for rioting— *No Bills*. ...
+
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001279/18120801/023/0004
+Hull Advertiser - Saturday 01 August 1812
+
+RAWFOLD MILL.
+
+PATRICK DORING, was charged with endeavouring prevent Martha Culpin from appearing to give evidence against James Haigh charged with being in the attack on Rawfold Mill, by threatening, that if she appeared him she would be shot.
+
+*Martha Culpin* stated, that she lived Penistone Green; has known the two or three years. Witness has heard of the attack on Rawfold Mill, and had been examined before Mr. Radcliffe, at Milnes Bridge, respecting James Haigh. About sun-set of the same day she saw the prisoner; he came to her house, and said" Why, you have been at Milnes Bridge, you must know what you have been for; if you go again, you will be obliged to go to York to give evidence; and if you do, take notice what I tell you; I know that the bullet is made with which you will be shot." Prisoner said he had risked his life in telling her this. He further said, if she and her husband would go away, he would find a place where they would be safe. In consequence of what the prisoner had said to her, she and her husband went into Derbyshire, where they remained about a week; on their return home, which was Tuesday, they received a summons to attend Mr. Radcliffe at Milnes Bridge, where they went and were examined. On the evening of their return, the prisoner came to their house and said, "What you have been again, but you will catch it." Prisoner, on one occasion, told her, that he had come near her house with an intention to dress James Haigh's wound, but there were many persons about the house that he durst not come in.
+
+Joseph Culpin, the husband of the last witness, stated, that on the day of their first examination before Mr. Radcliffe, he saw the prisoner going towards his (the witness's) house, but did not see him go in; had no conversation with him. In consequence of some communication with his wife, they went into Derbyshire, where they remained a week; this was in the month of June. After their return, they were examined a second time before Mr. Radcliffe, and entered into a recognizance to appear at the Assizes at York. The prisoner came to his house the same evening, and said to them, "What! you have been agian, but you shall catch it." Witness told the prisoner it was no business of his, and desired him to go about his business. Prisoner then went away, swearing at them. Witness said James Haigh was part of a day at his house; he appeared to be unwell, but witness did not know that he had been wounded.
+
+The Prisoner had no Counsel, nor did he call any witnesses. He addressed the Jury in his defence; stated that he had attended Martha Culpin's as a medical man three weeks, during which time he had furnished her medicines, and made a cure of her; but when he carried in his bill, she had not money to pay it, and gave him only a small part of it. He had several times requested payment of the remainder, but could not obtain it; one time in particular he pressed her for the payment, on which she said if he asked her for the money again she would swear his life away. Witness, upon this threat, went to Mr. Allison, attorney at law, Huddersfield, and desired him to write a letter to demand payment. Prisoner proceeded to state, that as soon as he had taken this step, they preferred this charge against him, which, he said, was entirely without foundation, as he never had any conversation with her on the subject, nor did he even so much as know James Haigh; and that he delivered himself as soon he knew that a warrant was issued against him. The prisoner concluded his defence by saying, that there was no man or subject more disposed than himself to stand true to his King and Country.
+
+The witnesses on the part of the prosecution were examined in support ot the prisoner’s defence. The note was proved to have been delivered to Martha Culpin, and the demand made by Mr. Allison, before the Culpins preferred any charge against the prisoner.
+
+After his Lordship had recapitulated the evidence, the Jury, without retiring, found the prisoner— *Guilty*.
+
+Mr. Justice *Bayley*, in passing sentence, addressed the prisoner in nearly the following terms:
+
+"You have been found guilty, on evidence which satisfies the Jury and the Court, of endeavouring, by threats, to obstrcut the regular course of justice; an offence of a very serious nature, and which, in this case, is much increased by the consideration of the aggravated nature of the crime you were endeavouring to screen and protect. The attack on Mr. Cartwright’s mill was of so atrocious and savage a nature, and struck so directly at the root of civil society, that it might have been expected that every man would have been anxious to bring the persons concerned in so daring an outrage, to justice; but instead of being difsposed to contribute, by the information of which you might be possessed, to this end you did all in your power to prevent those who were disposed to perform their duty, from giving their evidence. This attack was of so savage and cowardly a nature, that I should have thought there were few persons in this country of minds, of so depraved a character, as to be capable of joining a transaction of so dark a complexion. It is evident from your conduct, that you are either in some respects connected with persons concerned this transaction, or at least that you are a wellwisher to their cause. But it is quite certain that it is a cause which cannot succeed; the persons concerned in it will probably, in this world, be brought to justice; but there will a time come, when this attack, made in the darkness of the night, will be brought to light, and when all those concerned in it will stand unveiled, and when they must answer for their conduct at a tribunal from which nothing can be concealed."
 
 
 
@@ -429,11 +517,9 @@ Committed to York Castle, W. Thorpe and Thomas Smith, both of Huddersfield, clot
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18121102/032/0003
 Leeds Intelligencer - Monday 02 November 1812
-
 Also in 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/021/0004
 Lancaster Gazette - Saturday 07 November 1812
-
 
 Committed to York Castle, W. Thorpe (No. 44) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with being a commander at, and aiding and assisting in an unlawful attack lately made upon Mr. Cartwright's mill, at Rawfolds; and also charged with being one of the men who shot and murdered Mr. William Horsfall, late of Marsden, merchant, in the month of April last. — Thomas Smith (No. 45) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the above attack on Mr. Cartwright's mill; and also with being one of the persons concerned in the murder of William Horsfall. James Haigh (No. 46) of Dalton, and Jonathan Dean (No. 47) of Huddersfield, cloth dressers, charged upon the oath of William Hall and others, with having, together with divers others, unlawfully and riotously assembled at Hartshead-cum-Clifton, in April last, and then proceeded to attack the mill, at Rawfolds. — Mark Hill (No 49) and Joseph Thornton (No. 50) cloth-dressers, charged upon the oath of William Hall, with having, together with divers others, unlawfully and feloniously assembled at the mill, at Rawfolds, and attempted to break into the same; and also with having assembled at the work-shop of Francis Vickerman, at Taylor Hill, in Almondbury, breaking and destroying divers shears and articles of machinery, the property of the said Francis Vickerman. — Also, Lazarus Naylor (No. 51) of Pudsey, charged with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth. — Eight *Luddites* passed through Leeds on Saturday, on their way to York Castle. Three more passed through on Sunday.
 
