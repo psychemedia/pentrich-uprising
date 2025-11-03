@@ -236,8 +236,6 @@ TO DO
 https://archive.org/details/criminalrecorde00unkngoog/page/478/mode/2up
 The criminal recorder; or, Biographical sketches of notorious public characters, Vol. II
 
-TO DO
-
 1815
 
 pp478-483
@@ -295,3 +293,65 @@ Mr. Baron Thomson then passed sentence on the prisoners.—Fifteen were sentence
 On Saturday, the following malefactors convicted before mentioned were also brought to the same place of execution, at different times, viz. at eleven in the forenoon, John Hill, Joseph Crowther, N. Hayle, Jonathan Dean, John Ogden, Thomas Brook, and John Walker, were placed upon the scaffold. Many of them, after the clergyman had repeated, "The Lord have mercy upon you," in a very audible voice articulated, "I hope he will." The bodies, after hanging till twelve o'clock, were then cut down.
 
 At half-past one o'clock, John Swallow, John Batley, Joseph Fisher, William Hartley, James Haigh, James Hey, and Job Hay, were also executed. The conduct of the prisoners was becoming their awful situation.
+
+
+Spcial Commission at York  / Trial 1813 reports
+
+
+
+https://books.google.co.uk/books?id=07tNAQAAMAAJ&pg=PA9&dq=cowgill+luddites&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi06NzS9d-OAxVrVUEAHQYOHikQ6AF6BAgHEAM#v=onepage&q=cowgill%20luddites&f=false
+An Historical Account of the Luddites of 1811, 1812, and 1813: With Report (Cowgill ) 1862
+
+
+https://babel.hathitrust.org/cgi/pt?id=umn.31951p00335898c&seq=7
+https://books.google.co.uk/books/about/Report_of_proceedings_under_commissions.html?id=iNxbAAAAQAAJ&redir_esc=y
+Report of proceedings under commissions of Oyer & Terminer and Gaol Delivery, for the county of York, held at the castle of York before Sir Alexander Thomson ... and Sir Simon Le Blanc ... from the 2d to the 12th of January 1813. From the short hand notes of Mr. Gurney. To which are subjoined two proclamations, issued in consequence of the result of those proceedings
+
+--
+
+Proclamations following the Special Commission
+
+https://books.googleusercontent.com/books/content?req=AKW5QaeyOFengEab7kqdPyoYLM2lK8XADMtIpc5b-OrOb3ZVwPRhmJ6HVjIi8dp1Lxlmj48n4qdUsrva58OvKhewYaKfRYy4u-_jW0dhjluH2rtLN0ctL1UXgqfJRn4pflyhiChut88gDWVhjg2Va59KcOagBpnjYTkHGK9KRVJJcKJ4zf2WGC3pekvpqnS-OtxE3CfJpNebHebGZ054BgUk2MdKXyyZvlgkuIXcYftDHGgPhu23Li-kF5Rsf3CMFHytqDNlUNpjtZlHbz02AjimwB5COJI3HmwodwwFj0Epzze-UI1O6e0
+Report of proceedings under commissions of Oyer & Terminer and Gaol Delivery, for the county of York, held at the castle of York before Sir Alexander Thomson ... and Sir Simon Le Blanc ... from the 2d to the 12th of January 1813. From the short hand notes of Mr. Gurney. To which are subjoined two proclamations, issued in consequence of the result of those proceedings
+
+
+pp212-3
+
+By His Royal Highness The PRINCE of WALES, REGENT of the United Kingdom of Great Britain and Ireland,
+in the Name and on the Behalf of HIS MAJESTY.
+
+A PROCLAMATION.
+
+GEORGE P. R.
+
+WHEREAS it hath been represented unto Us, That divers unfortunate and misguided Persons, who have been induced by the Artifices of wicked and designing Men to take some Oath or Engagement, contrary to the Acts of Parliament in that behalf made in the 37th and 52d Years of His Majesty's Reign, or one of those Acts, or to steal Ammunition, Fire Arms, and other offensive Weapons, for the Purpose of committing Acts of Violence and Outrage against the Persons and Property of His Majesty's peaceable and faithful Subjects, and who are not yet
+charged with such their Offences, may be willing and desirous to make a Disclosure or Confession of such their Offences, and to take the Oath of Allegiance to His Majesty, upon receiving an Assurance of His Majesty's most gracious Pardon for such their Offences; WE, therefore, acting in the Name and on the Behalf of His Majesty, being willing to give such Assurance upon such Conditions as are hereinafter mentioned, and earnestly hoping that the Example of the just and necessary Punishments which have been inflicted in the Counties of Lancaster, Chester, and York, upon certain Offenders lately tried and convicted in those Counties, may have the salutary Effect of deterring all Persons from following the Example of their Crimes by a Renewal of the like Atrocities, HAVE thought fit, by and with the Advice of His Majesty's Privy Council, TO ISSUE THIS PROCLAMATION; and as an Encouragement and Inducement to His Majesty's misguided Subjects to relinquish all disorderly Practices, and return to their due and faithful Allegiance to His Majesty, We do hereby, acting in the Name and on the Behalf ofHis Majesty, promise and declare, that every Person not having been charged with any of the Offences hereinbefore mentioned, who shall, previous to the first Day of March next ensuing, appear before some Justice of the Peace or Magistrate, and declare his Offence, and the Oath or Engagement by him
+taken, and when and where the same was taken, and in what Manner, or the Ammunition, Fire Arms, or other offensive Weapons by him stolen, and when, where, and from whom the same were stolen, and the Place where the same were deposited, and also, according to the best of his Knowledge and Belief, the Place where the same may be found, and who shall at the same Time take before such Justice of the Peace or Magistrate the Oath of Allegiance to His Majesty, SHALL RECEIVE HIS MAJESTY'S MOST GRACIOUS PARDON for the said Offence; and that no Confession so made by any such Person shall be given in Evidence against the Person making the same
+in any Court or in any Case whatever
+
+Given at the Court at Carlton House, the 18th Day of January 1813, in the 53d Year of His Majesty's Reign.
+
+GOD Save The KING,
+
+
+pp214-5 (requires Hathi Trust version for p215)
+
+By His Royal Highness The PRINCE of WALES, REGENT of the United Kingdom of Great Britain and Ireland
+in the Name and on the Behalf of HIS MAJESTY.
+
+A PROCLAMATION.
+
+GEORGE P. R.
+
+WHEREAS We have beheld, with the deepest Regret, the daring Outrages committed in those Parts of England wherein some of the most important Manufactures of the Realm have been for a long Time carried on: And being firmly persuaded that such Outrages have been, in a great Degree, occasioned by the wicked Misrepresentations and Artifices of ill-designing Persons, who have deluded the ignorant and unwary, through the specious Pretext of procuring additional Employment and increased Wages for the labouring Manufacturers, by the Destruction of the various Kinds of Machinery now most beneficially employed in the Manufactures of this Kingdom, and have thus seduced them to enter into unlawful Associations, and to bind their Consciences by Oaths and Engagements not less injurious to their own Welfare, than destructive of the good Order and Happiness of Society; and seeing that the Extent and Progress of the Trade and Manufactures of this Country, which have been continually advanced by the Invention and Improvement of Machinery, afford the best practical Demonstration of the Falsehood of all such Pretexts; WE, therefore, acting in the Name and on the Behalf of His Majesty, being anxious by every Means in Our Power to bring back His Majesty's misguided Subjects to a just Sense of their own individual Interests, as well as of their Duty to His Majesty, and of the Regard which they owe to the Welfare of the Community, HAVE thought fit, by the Advice of His Majesty's Privy Council, to issue this Proclamation; and We do hereby, in the Name and on the Behalf of His Majesty, exhort all His Majesty's loving Subjects strenuously to exert themselves in their several Stations to prevent the Recurrence of those atrocious Combinations and Crimes, by which the public Peace has been so long disturbed, and the Persons and Property of Individuals endangered and destroyed, and which have so justly drawn down upon the Offenders the severest Penalties of the Law. AND We do more especially warn those, who may be exposed to such Seductions, against the Danger of binding themselves by illegal Oaths and Engagements to obey the Commands of secret Directors, who, keeping themselves aloof, involve their deluded Associates in all the Guilt and Peril of Violence, Robbery, and Murder. AND We do further, in the Name and on the Behalf of His Majesty, earnestly recommend and enjoin His Majesty's loving Subjects, whenever it shall be found necessary, to have Recourse to the salutary Measures which the Wisdom of Parliament has provided for the Protection of Persons and Property. AND We do further exhort the Proprietors of Machinery, not to be deterred from continuing the Use and Employment of the same, but vigilantly and strenuously to exert themselves in the Maintenance and Defence of their Property, and in the Prosecution of their lawful and meritorious Callings, in the full Persuasion that due Watchfulness and Resolution, exhibited in the first Instance on their own Part, will, as has been proved by recent Experience, most effectually prevent or repel such unlawful Aggressions. AND We do, further, in the Name and on the Behalf of His Majesty, charge and command all Sheriffs, Justices of the Peace, Mayors, Bailiffs, Constables and other Civil
+Officers, to continue their utmost Vigilance and Activity for the Preservation of Peace and good Order, the Prevention of Nightly and other unlawful Meetings of ill-designing and wicked Men, and for the Defence of His Majesty's peaceable and industrious Subjects from the secret Machinations and open Attacks of the Violators of Private Property, and the Disturbers of the Public Tranquillity: Trusting, as We do, that by the constant and active Exertions of all well-disposed Men, the Misguided may be reclaimed, and the Mischievous kept in Awe, without the Necessity of recurring to the Chastisements of the Law, which
+it will be Our Duty, as Guardian of the general Peace and Prosperity of the Realm, strictly to enforce, if unhappily the Renewal of such Atrocities, as We have lately had to deplore, should again call for the Infliction of just and exemplary Punishment.
+
+Given at the Court at Carlton House, this First Day of February 1813, in the 53d Year of His Majesty's Reign.
+GOD Save The KING.
+
+Luke Hansard and Sons, near Lincoln's-Ian Fields, London.
+
+
+--
+
