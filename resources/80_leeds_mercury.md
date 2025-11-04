@@ -243,18 +243,11 @@ A person of the name Barrowclough, of Holmfirth, a corporal in the Upper Agbrig 
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003
-## Leeds Mercury - Saturday 25 July 1812
+Leeds Mercury - Saturday 25 July 1812
 
 YORKSHIRE SUMMER ASSIZES
 
-The Assizes were opened at York, on Saturday last, by Baron Wood and Mr. Justice Bayley, the latter of whom presides at the Crown end.
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003 Leeds Mercury - Saturday 25 July 1812
-
-Yorkshire Summer Assizes
-
-The Assizes were opened at York, on Saturday last, by Baron Wood and Mr. Justice Bayley, the latter of who presides at the Coren End.
+The Assizes were opened at York, on Saturday last, by Baron Wood and Mr. Justice Bayley, the latter of who presides at the Crown End.
 
 [Mr. Justice Bayley, addressing the Jury]
 
