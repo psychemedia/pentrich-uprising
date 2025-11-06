@@ -7,10 +7,81 @@ But as the frame-breaking outbreaks continued through the first few weeks of 181
 More severe punishments for the act of frame-breaking itself were also called for, under the argument that this would act as a deterrent. For men found guilty of frame-breaking, which was classed as a simple felony, the maximum sentence that could be applied was transportation; but if it could be proven that the men had entered with an intention of burglary, then the penalty was a capital one. And the capital sentence was now being sought for frame-breaking in its own right.
 
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002646/18120130/017/0003
+Star (London) - Thursday 30 January 1812
+
+NOTTINGHAM RIOTS.
+
+NOTTINGHAM, JANUARY 29.—It is impossible to convey a proper idea of the state of the public mind in this town, during the last four or five days: The constant parading of the military in the night, and their movements in various directions during both night and day, give us the appearance of a state of warfare—may we not have it more in reality!
+
+The destruction of more than twenty frames, at Lenton, on Thursday evening last, within a few hundred yards of our barracks, and two being cleanly carried away in a neighbouring hamlet the same night, heightened the state of alarm; and the operations of several subsequent nights have given it an additional increase.
+
+On Saturday night the frame-breakers crossed the river Trent, broke fourteen frames at Ruddington, and twenty at Clifton, leaving but two whole in the latter town. An express was sent off to Nottingham for a troop of the Hussars, who went with all possible speed; and as many of the Bunney troop of yeomanry as could be collected, (they being in the neighbourhood of the scene of action) were immediately mounted—one party pursued the depredators, while others seized all the passes over the Trent for the space of four miles, under a full persuasion that the Luddites could not escape; but, such is the generalship of the latter, that they seized a boat which nobody else had thought of, and repassed the river in two divisions, in perfect safety, and escaped.
+
+The same night a frame was broken at Bulwell, while a Serjeant and six men, belonging to the Berkshire Militia, were employed to watch it—the parties exchanged shots several times, but it is not known that any one was wounded, though one of the Luddites lost a shoe and his hammer.
+
+On Sunday night 45 frames were broken at Selson, Bagthorp, and the neighbouring hamlets, about nine miles from this town; and the same evening, about seven o'clock, a circumstance took place at Basford of the most daring description; for, while three soldiers were in the house of one Wm. Barns, to protect three frames, a party of *Luddites* entered the house, and immediately confined the soldiers; and while two of the party stood sentry at the door with the soldiers' muskets, others demolished the frames; and, when the mischief was done, the muskets were discharged and the soldiers liberated, and the depredators wished them a good night.
+
+On Monday evening, three more frames were broken in the same village, one of which was taken and fixed on the top of the round-house, or village prison, and there left as a public spectacle, which was seen by many.
+
+These things are done almost in the face of eight Officers from Bow-street, an immense local police, and three regiments of soldiers.
+
+The last mentioned night 26 frames were demolished at Cotgrave, a village six miles South of the Trent; and the depredators again escaped across the water without detection. And, notwithstanding. the number of men who have been taken up, it is the general opinion, that not one real frame-breaker has been taken; nor, from the best information I can obtain, has any thing like correct evidence been drawn from any of the prisoners.
+
+Four prisoners were yesterday brought in, with great parade, by three several parties of military and civil officers; two of whom are persons who have had frames broken in their own houses, and another is a well known Maniac of the name of Waplington, who is at the present time a pauper of St. Mary's parish, in this town, and who has for years been in the habit of wandering about. It excited much laughter to see Bow-street Officer, with this poor creature confined in a cart by his side, driving furiously along the streets, and guarded by about half a score Hussars. It is supposed the maniac has been caught in one of his wandering excursions; and, as usual, refused to give an account of himself.
+
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120215/008/0003
 Star (London) - Saturday 15 February 1812
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002131/18120201/029/0003
+Nottingham Journal - Saturday 01 February 1812
+
+FRAME-BREAKING.
+
+TWO HUNDRED POUNDS REWARD.
+
+WHEREAS, on Thursday Night last, about Ten o'Clock, a great Number ofMen, armed with Pistols, Hammers, and Clubs, entered the Dwelling-House of George Ball, Framework-knitter, of Lenton, near Nottingham, disguised with Masks and Handkerchief over their Faces, and in other ways, and after striking and abusing the said George Ball, they wantonly and feloniously broke and destroyed FIVE STOCKING-FRAMES standing in the Workshop (Four of which belonged to George Ball, and One Frame, 40 Gauge belonging to Mr. Francis Braithwaite, Hosier, Nottingham), *all of which were working at the FULL PRICE*:—
+
+NOTICE IS HEREBY GIVEN,
+
+That if any Person will give Information of the Offender or Offenders, or any one of them who entered such Dwelling-House, and were concerned in such Felony, he or she shall receive a Reward of TWO HUNDRED POUNDS, to be paid on Conviction, in the Proportions following, viz. £50. under the King's Proclamation, £25. from the Committee of the Corporation of Nottingham, and £125. from the said Francis Braithwaite.
+
+WE, the under-signed Workmen of the above-named George Ball, do hereby certify, that we were employed in working the under-mentioned Frames, on the Work and at the Prices hereinafter stated, when the Mob came to break them; that we had never been abated in our Work, either by Mr. Braithwaite, the Hosier, who employed the Frames, or by the said George Ball, our Master, of whom we never complained, or had any Reason so to do.
+
+| *Quality of Work.* | *Price.* | *Workmen.* | *Owners.* |
+|---|---|---|---|
+
+TO DO
+
+40 Gauge, Maid's, Single Shape, 29 Shillings Thos. Raw :Jar. Two-plain, per Dozen. Mr. Braithwaite. - - 36 Gauge, Men's, Single Shape,l 29 Shillings IJ. Jackson George Ball. Ner. Two-plan, per Dozen, - 38 Gauge, Maid's, I E: Ge Single Shape, 26 Shillings T. Naylor orge Ball. Nar. 'Two-ylain, per Dozen, N. The other two Frames were worked to another Hosier, bu, et the full Price•
+
+THOMAS REW. JOHN JACKSON. THOMAS NAYLOR, Nottingham, 25th January, 1812.
+
+
+
+Below politics - Leeds Mercury also of similar opinion in Leeds Mercury - Saturday 18 July 1812
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18120217/010/0003
+Hampshire Chronicle - Monday 17 February 1812
+
+RIOTS AT NOTTINGHAM.
+
+It is with pleasure we state, that the destruction of frames this week has been much less than that of the last. On Monday evening one frame was broken at Bobbers-mill, and carried clean away; and one on Tuesday night at the same place. On the last mentioned evening, one frame was broken at Basford, and the same evening, two were broken at Taghill, in the vicinity of Heanor, in Derbyshire, and five at Burton-Joyce. On Tuesday the Royal Buckinghamshire Militia arrived here, 38 waggons, having left barracks at 7 o'clock on the preceding Friday. Yesterday two field-pieces arrived, which belong to the regiment. On Wednesday two more troops of the hussars likewise entered this town. We understand that the two London Magistrates have been using their utmost endeavours to learn whether politics have any connection with the present troubles in this neighbourhood; and we likewise understand that they are convinced of the contrary. Committed since our last, for trial at the assizes, W. Barnes, of Basford, charged with haying, in company with divers other persons at present-unknown, wilfully, maliciously, and feloniously broken, destroyed, and damaged two frames.
+
+*Letter from Ludd*.—The following is a literal copy of a letter stated to have accompanied the returned articles which had been stolen at the time when the frames were broken at Clifton:
+
+"Unknown Stranger, I have intrusted these Articles into your Care and do insist that you will see that they are Restored to their respective oners is with extream Regrat that inform you hou they Came into my hans when I came out with my men their weir sum joind us that I Never had ad with me before and wear these Villinds that plundered but ass we wear going out of Clifton one of my Men came and told me that he Beiievd that those Men got somethinck that they had no Business with I theirfore gave horders that thay should be searched and what we found on them we left the things at the Lown End and I hope that the oners has got agen we were just agoen to have hang'd one the Villends when we weir informed that the Soldiers weir at hand and we thot it Right to Reatreat.
+
+"N, B. The Men that had the things were entire strangers to horders or they Never dworst not have tuch'd one thinck but they have been punished for their vileny for one of them hare been hanged for 3 Menet and then Let down agane I ham a friend to the pore and distrest and a enemy to the oppressors thron.
+
+(Signed) GENERAL LUDD."
+
+
+The letter form ludd originally in Nottingham Review of the 7th February 1812  ?
 
 
 https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill
