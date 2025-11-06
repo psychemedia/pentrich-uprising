@@ -1,8 +1,14 @@
 # The Huddersfield Luddites
 
+In contrast to the stocking and lace-making trades of Nottinghamshire and Derbyshire, wool and the cloth-making trading was dominated the West Yorkshire town of Huddersfield, on the eastern edge of the Pennines.
 
+The traditional process for producing woollen cloth had been to raise the nap on the freshly woven cloth using teasels, and then cut the fuzz from the cloth, leaving it smoother, using large shears that could weight 30*lbs.* (20 kilograms) or more.
 
----
+But mechanisation was changing the game, first in the form of gig mills, smaller machines that could raise the nap; and then came the shearing frames, that cropped the cloth smooth.
+
+```{admonition} The Woollen Trade, 1803
+:class: dropdown
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0002429/18030226/015/0002
 Oracle and the Daily Advertiser - Saturday 26 February 1803
 
@@ -10,7 +16,7 @@ THE WOOLLEN TRADE.
 
 For the DAILY ADVERTISER AND ORACLE.
 
-Respecting the discordant matter's in the Woollen Manufactories, it is a pity Gentlemen in Parliament, who are to decide on the merits of a Bill to regulate trade, should not receive better information, or understand enough of the principle's to prevent so many misconstructions on Acts of Parliament, which, instead of rendering them clear and decisive, are too often found ambiguous and unintelligible, and this occasions much contention.
+Respecting the discordant matters in the Woollen Manufactories, it is a pity Gentlemen in Parliament, who are to decide on the merits of a Bill to regulate trade, should not receive better information, or understand enough of the principle's to prevent so many misconstructions on Acts of Parliament, which, instead of rendering them clear and decisive, are too often found ambiguous and unintelligible, and this occasions much contention.
 
 A few years since the Sheermen brought actions against the Clothiers for using the gig-mill to abridge their labour; and herein they failed, because in the Act of Parliament on which they proceeded it was described as a "burling machine," and Sheermen are not Burlers. This was tried at Salisbury.
 
@@ -23,47 +29,9 @@ A FRIEND TO TRADE, AN ENEMY TO COMBINATIONS, BUT NO MANUFACTURER, AND A CANDID O
 N. B. Gig-mills in some parts of England have been in constant use for time immemorial, though so violently opposed in others.
 
 Through every combination amongst workmen, none is so desperate, secret, or systematic as that of the Sheermen.
+```
 
---
-
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120302/017/0003
-London Courier and Evening Gazette - Monday 02 March 1812
-
-*The first part of the report also appears in e.g. [Star (London) - Tuesday 03 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120303/010/0004).*
-
-We trust that the disturbances in Nottingham and to Vicinity are at an end: the Nottingham Paper of Saturday, which we received this morning, does not make any mention of disturbances during the last week. But a disposition to riot, we regret to state, has manifested itself near Huddersfield, in Yorkshire. Last Saturday week a number of persons assembled near the premises of Mr. Joseph Hirst, of Marsh, with their faces blacked, and their persons in other respects disguised, and having forcibly obtained admittance into the dressing-shops, proceeded to destroy all the machinery used in the dressing of cloth, such as dressing frames, shears, and other implements used in what is commonly called Gig Mills, the whole of which they completely demolished. The same, or a similar party then proceeded to the workshops of Mr. James Balderson, of Crossland Moor, where machinery of a similar description is employed, upon which they committed similar depredations, completely destroying or rendering useless the whole of the machinery. The depredations appeared to Magistrates to be of that alarming nature, to induce them to apply to Gen. Vyse, of Beverley, for military aid, who dispatched an express to Leeds, with an order for the troop of Scotch Greys stationed there, to proceed immediately to Huddersfield, and which marched at eleven o’clock Monday night, for that place. It not being thought expedient to leave Leeds without military, a squadron of cavalry was marched from Sheffield, and arrived about nine o’clock on Tuesday morning, and in the afternoon of the same day a squadron of the 2d Dragoon Guards stationed at the Barracks near York, were dispatched to Huddersfield, to relieve the Scotch Greys who returned to Leeds on Thursday.
-
-We have not heard that any disposition to disturbance has manifested itself in any other part of Yorkshire.
-
-
-
----
-https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120306/047/0004
-Nottingham Review - Friday 06 March 1812
-
-We understand that the disturbances have ceased, at least for the present, at Huddersfield. Small parties of the military guard all the gig mills near Leeds every night as a precautionary measure.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004
-Nottingham Journal - Saturday 14 March 1812
-
-No further depredations were committed in the neighbourhood of Leeds last week; but so much alarm prevails amongst the proprietors of gig-mills, that a military guard is stationed for their protection. The Scots Greys, which have been in Leeds some time, have received an order to march to Manchester, in which neighbourhood there is collected a large military force, not less than 6000 men.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120327/040/0004
-Nottingham Review - Friday 27 March 1812
-
-We have received a letter from our Correspondent at Leeds, this morning. He says, "Contrary to my expectations, I have to inform you of further depredations committed by the populace. On Tuesday night, the warehouse of Messrs. Dickenson and Shann, in the Meadow_lane, of this town, was entered by the roof, and cloth to the value of £500 was cut and damaged. Messrs. Thompson and Co. thought it necessary to guard their gig-mill at Rawden, but on Monday evening, the watchmen were all surprised and secured, and the obnoxious part of the machinery was destroyed. Various reports are in circulation of damage done in other places, one report states that cloth to the amount of £4000 has been destroyed at Elland, near Halifax; most probably this is an exaggeration, but I believe there is some truth in it."
-
----
-
-
-
-In the Huddersfield area, the attacks on machinery started at the end of February, 1812.
-
-
-TO DO - https://www.ossett.net/beyond/Horbury_Bridge.html
-
+The Yorkshire croppers would surely have been aware of the actions being taking in Nottinghamshire. But even as a period of relative calm returned fifty miles to the south, direct action in the form of machine breaking started to appear in the villages and valleys around Huddersfield.
 
 ```{admonition} *"We learn with extreme concern..."*, February 1812
 :class: dropdown
@@ -106,44 +74,121 @@ We have more than once adverted to the unhappy disturbances at Nottingham, and a
 
 In Huddersfield the magistrates and mill-owners formed a committee against the outrages, and offered a reward for the arrest of those who were responsible.
 
+TO DO originally published as a hand-bill or poster, although it would not appear in the *Leeds Mercury* until almost a month later
+
 ```{admonition} Resolutions of a Committee against the outrages, February 1812
 :class: dropdown
-https://ludditebicentenary.blogspot.com/2012/02/29th-february-1812-huddersfield.html
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120328/013/0004
+Leeds Mercury - Saturday 28 March 1812
 
-Huddersfield.
+100 GUINEAS REWARD
 
-AT A GENERAL MEETING OF THE MAGISTRATES,  
-Merchants, Manufacturers, And Inhabitants  
-Of Huddersfield, and its Vicinity,
+AT a General MEETING of the Magistrates, Merchants, Manufacturers, And Inhabitants of Huddersfield, and its Vicinity, convened by Notice, to be holden at the House of Mr. John Townsend, the George Inn, in Huddersfield, aforesaid, on Thursday, the 27th. Day of February, 1812;
 
-Convened by Notice, to be holden at the House of Mr. John Townsend, the George Inn, in Huddersfield, aforesaid,
+*The following Resolutions were agreed to:*
 
-On Thursday, the 27th. Day of February, 1812,
+It appears to the Meeting, that a violent and determined Spirit of Insubordination has gained much ground amongst the Workmen employed in various Trades and Manufactures, and particularly amongst the Shearmen, and that the same are organized and supported in a Manner, not only alarming to Trade in general, but to the peaceable Inhabitants of this Town and Neighbourhood in particular.
 
-The following Resolutions were agreed to:
+That we cannot sufficiently deprecate the Attempts to limit the Ingenuity of our Artificers, the employment of our Capital, and to prescribe the mode in which which the different Operations of our Trade shall be conducted, and particularly those now making in this Neighbourhood, for the Destruction of the Machinery used in the finishing of Woollen Cloth.
 
-IT appears to the Meeting, that violent and determined Spirit of Insubordination has gained much ground amongst the Workmen employed in various Trades and Manufactures, and particularly amongst the Shearmen; and that the same is organized and supported in a Manner, not only alarming to Trade in general, but to the Peaceable Inhabitants of this Town and Neighbourhood in particular.
+That the Destruction already committed upon this Kind of Machinery in this Neighbourhood, and the Threats of future Depredations, evidently proceed from an illegal Combination of Desperate Men; and we conceive it the Duty of all Men to suppress, as much as lies in their Power, such vicious and unlawful Combinations, and to assist and use their utmost endeavours, to detect and bring to Justice, not only the Perpetrators, but such as countenance and support them.
 
-THAT We cannot sufficiently deprecate all Attempts to limit the Ingenuity of our Artificers, the employment of our Capital, and to proscribe the mode in which which the different operations of our Trade shall be conducted, and particularly those now making in this Neighbourhood, for the Destruction of the Machinery used in the finishing of Woollen Cloth.
+That a Subscription be immediately entered into, for the Purpose of procuring Information of the Proceedings of any illegal Combination, and of liberally rewarding any Person giving such Information as may lead to the Detection and Conviction of any such Offenders.
 
-THAT the Destruction already Committed upon this kind of Machinery in this Neighbourhood, and the Threats of future Depredations, evidently proceed from an illegal Combination of Desperate Men. And We conceive it the duty of all Men to suppress, as much as lies in their power, such Vicious and Unlawful Combinations, and to assist and use their utmost endeavours, to detect and bring to Justice, not only the Perpetrators, but such as Countenance and Support them.
+That the Management of this Subscription be under the Direction of a Committee, any Five of whom shall have power to act, as Occasion may require.
 
-THAT a Subscription be immediately entered into, for the purpose of procuring Information of the Proceedings of any illegal Combination, and of liberally Rewarding any Person, giving such Information as may lead to the Detection and Conviction of any such Offenders.
+In Pursuance of the above Resolutions, a Subscription has been entered into, and the Committee hereby offer a Reward of
 
-THAT the Management of this Subscription be under the Direction of a Committee, any Five of whom shall have power to act, as Occasion may require.
+ONE HUNDRED GUINEAS
 
-In Pursuance of the above Resolutions,
-
-A Subscription has been entered into; and the Committee hereby offer a Reward of
-
-One Hundred Guineas
-
-To any Person or Persons who will give such Information, so as to lead to the Conviction of any of the Parties recently concerned in Destroying the Dressing Frames of Mr. Joseph Hirst, of Marsh; Mr. James Balderston, of Crosland Moor; and Mr. William Hinchliffe, of Ley Moor, all near Huddersfield; and also the same Reward will be given to any Person or Persons who will give *Private Information* of the intention of the Depredators to commit any further Mischief, so as such Information shall lead to the Apprehension and Conviction of any of the Offenders, and *Inviolable Secrecy will be observed*.
-
-Huddersfield, 29th February, 1812.
-
-LANCASHIRE, PRINTER, HUDDERSFIELD.
+To any Person or Persons who will give such Information, so as to lead to the Conviction of any of the Parties recently concerned in Destroying the Dressing Frames of Mr. Joseph Hirst, of Marsh; Mr. James Balderson, of Crosland Moor; and Mr. William Hinchliffe, of Ley Moor, all near Huddersfield; and also the same Reward will be given to any Person or Persons, who will give private Information of the Intention of the Depredators to commit any further Mischief, so as such Information shall lead to the Apprehension and Conviction of any of the Offenders, and inviolable Secrecy will be observed.
 ```
+
+
+```{admonition} A disposition to riot, March 1812
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120302/017/0003
+London Courier and Evening Gazette - Monday 02 March 1812
+
+*The first part of the report also appears in e.g. [Star (London) - Tuesday 03 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120303/010/0004).*
+
+We trust that the disturbances in Nottingham and to Vicinity are at an end: the Nottingham Paper of Saturday, which we received this morning, does not make any mention of disturbances during the last week. But a disposition to riot, we regret to state, has manifested itself near Huddersfield, in Yorkshire. Last Saturday week a number of persons assembled near the premises of Mr. Joseph Hirst, of Marsh, with their faces blacked, and their persons in other respects disguised, and having forcibly obtained admittance into the dressing-shops, proceeded to destroy all the machinery used in the dressing of cloth, such as dressing frames, shears, and other implements used in what is commonly called Gig Mills, the whole of which they completely demolished. The same, or a similar party then proceeded to the workshops of Mr. James Balderson, of Crossland Moor, where machinery of a similar description is employed, upon which they committed similar depredations, completely destroying or rendering useless the whole of the machinery. The depredations appeared to Magistrates to be of that alarming nature, to induce them to apply to Gen. Vyse, of Beverley, for military aid, who dispatched an express to Leeds, with an order for the troop of Scotch Greys stationed there, to proceed immediately to Huddersfield, and which marched at eleven o'clock Monday night, for that place. It not being thought expedient to leave Leeds without military, a squadron of cavalry was marched from Sheffield, and arrived about nine o'clock on Tuesday morning, and in the afternoon of the same day a squadron of the 2d Dragoon Guards stationed at the Barracks near York, were dispatched to Huddersfield, to relieve the Scotch Greys who returned to Leeds on Thursday.
+
+We have not heard that any disposition to disturbance has manifested itself in any other part of Yorkshire.
+```
+
+As the Nottinghamshire attacks received attention in the West Yorkshire press, so too did events in the West Riding merit mentions in the Nottinghamshire press, albeit, very briefly.
+
+```{admonition} A Temporary Peace, March 1812
+:class: dropdown
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120306/047/0004
+Nottingham Review - Friday 06 March 1812
+
+We understand that the disturbances have ceased, at least for the present, at Huddersfield. Small parties of the military guard all the gig mills near Leeds every night as a precautionary measure.
+```
+
+Despite an apparent respite from attack, owners of the gig mills, which were often worked in the smaller shops, were still fearful.
+
+```{admonition} The Gig Mill Proprietors, March 1812
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120307/009/0003
+Leeds Mercury - Saturday 07 March 1812
+
+Leeds, March 7.
+
+No further depredations have been committed in this neighbourhood since our last; but so much alarm prevails among the proprietors of Gig-Mills, that a miliary guard is nightly stationed for their protection. And as it is necessary to have a still greater number on duty ready to act if occasion should require. It imposes a very severe duty on the troops stationed in this district. The Scotch Grays which have been in this town some time have received an order to march to Manchester, in which neighbourhood, there is collected a large military force, not less than 6000 men. This state of things is most deplorable, and if the evil should continue to increase, the whole military force of this country, will be insufficient to preserve its internal tranquility. The Scotch Grey's, which marched this morning, have been replaced by the second Dragoon Guards, which arrived here on Tuesday.
+
+It appears that since the commencement of the *Luddite* system in the neighbourhood of Nottingham, 42 lace frames, and 544 plain silk and cotton stocking-frames have been destroyed: the value of the former, when new, is upon the average about 60*l.* each; and that of the latter from 18 to 20*l.* each. The most alarming apprehensions have been entertained for the safety of the county gaol; a strong guard has been placed both inside and out of it, ever since Monday last. Every person seems anxious to know whether the military will, as is usual, leave the town at the approaching assizes. The Mayor has received a letter, stating, that if any of the persons now confined for rioting, should be found guilty and punished, the town of Nottingham must answer for it, as they will set it on fire. The Luddites have raised betwixt 3 and 400*l.* for the purpose of having the first Counsel.
+
+```
+
+```{admonition} Alarm prevails, March 1812
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004
+Nottingham Journal - Saturday 14 March 1812
+
+No further depredations were committed in the neighbourhood of Leeds last week; but so much alarm prevails amongst the proprietors of gig-mills, that a military guard is stationed for their protection. The Scots Greys, which have been in Leeds some time, have received an order to march to Manchester, in which neighbourhood there is collected a large military force, not less than 6000 men.
+
+```
+
+
+
+
+Threatening letter to Vickerman 1812 https://ludditebicentenary.blogspot.com/2012/03/before-15th-march-1812-threatening.html
+
+
+```{admonition} Alarming accounts from Huddersfield, March 1812
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120321/009/0003
+Leeds Mercury - Saturday 21 March 1812
+
+The accounts from the neighbourhood of Huddersfield, are this week very alarming:— About 8 o'clock on Sunday evening, a number of armed men with their faces disfigured, assembled upon the premises of Mr Francis Vickerman, of Taylor Hill, and announced their arrival by the discharge of a gun, two of the party rushed into the house and inquired for Mr. Vickerman, and as soon as he presented himself one of the men said, "Ned Ludd of Nottingham has ordered me to break this clock," and without further ceremony, forced the muzzle of his blunderbus into the clock face. Alarmed by the outrageous conduct and language of the depredators, Mr. Vickerman withdrew into a room above stairs, and a party of the *snappers*, as they are called, was placed as guard over the family, while a number of others proceeded to the work of destruction in the work-shops, and broke from 20 to 30 pairs of shears. Having effected their purpose, a volley from the fire arms was discharged into the parlour window, and a cupboard in the room, near which Mr. Vickerman was accustomed to sit, was perforated in several places by the balls, which on examination, were found to consist of the leaden seals or stamps usually placed at the ends of woollen pieces, made into a kind of slugs. Providentially, Mrs. Vickerman was placed with her afrighted children in such a situation in the room as to escape unhurt, and the men from within the house calling to them without, for God's sake to desist, the firing ceased. As soon as the shears were broken, the cry of "Out," "Out," proceeded from several voices; they then retired into a field, had their numbers to which they answered, called over, and they dispersed about half an hour before the arrival of the Military Guard, which it was known would be placed at nine o'clock. On entering the work-shops after the rioters had retired, it was found that not content with breaking the shears, they had wantonly laid a sheet of wool and two pieces of fine cloth upon the stove, which were nearly consumed, and in a few minutes, the premises, it is apprehended, would have been in a flame.
+
+...
+
+On Thursday week at Mansfield, a person was apprehended for stealing a club-box. He proved to be one of the *Luddites*, and confessed to acknowledge of the person who broke Shiply's frames, whose name is *Bull*; this man has since absconded. The prisoner has impeached near thirty of his comrades, nine of whom have been taken into custody, and many others have made their escape.
+```
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18120324/008/0004
+Manchester Mercury - Tuesday 24 March 1812
+
+The Gazette of Tuesday contains a Proclamation offering a reward of two hundred guineas for the discovery and conviction of the persons concerned in the late outrages committed in the neighbourhood of Huddersfield, in Yorkshire.
+
+More outrages were committed in the neighbourhood of Huddersfield, on Sunday week, in the evening.—The premises of Mr. F. Vickerman. of Taylor-Hill, were beset by the *Luddites* or *Snappers*, as they call themselves,—the cropping shears destroyed—several pistols fired into the house; however, without injury to any one,—and some wool set on fire.—The depredators retired before the arrival of a military guard, which they knew was expected about nine o'clock.
+
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120327/040/0004
+Nottingham Review - Friday 27 March 1812
+
+We have received a letter from our Correspondent at Leeds, this morning. He says, "Contrary to my expectations, I have to inform you of further depredations committed by the populace. On Tuesday night, the warehouse of Messrs. Dickenson and Shann, in the Meadow_lane, of this town, was entered by the roof, and cloth to the value of £500 was cut and damaged. Messrs. Thompson and Co. thought it necessary to guard their gig-mill at Rawden, but on Monday evening, the watchmen were all surprised and secured, and the obnoxious part of the machinery was destroyed. Various reports are in circulation of damage done in other places, one report states that cloth to the amount of £4000 has been destroyed at Elland, near Halifax; most probably this is an exaggeration, but I believe there is some truth in it."
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120404/009/0003
+Leeds Mercury - Saturday 04 April 1812
+
+A person of the name of Beswick, from Saddleworth, representing himself to be General Ludd, was on Wednesday se'nnight apprehended at a public-house in Huddersfield, with four of "his men," as he was pleased to call them, and placed in duress. The following morning the party underwent an examination before J. Radcliffe, Esq. and the men were discharged on entering into recognizances for their good behaviour for twelve months; but the General was re-committed, to undergo a second examination.
 
 ## Attack on Foster's Mill
 
@@ -197,7 +242,6 @@ Littletown, *(near Leeds), April 13.* — "I thought, after the recent trials an
 
 ```
 
-
 The edition of the Manchester Mercury which had reported the attack on Foster's Mill also included a report of the Rawfolds mill attack from what looks to be the same letter, although with some differences in the extracted content.
 
 ```{admonition} Extract of another letter, April 1812
@@ -225,7 +269,7 @@ Another letter from a gentleman at Halifax, to his friend in this neighbourhood,
 
 A spirit of riot and disorder has been manifested at Sheffield, in consequence of the high price of provisions and want of employment. On Tuesday last a large mob of men, women, and children, assembled in the principal streets, and as if conformity to some previously concerted plan, the whole body rushed with violent exclamations to the Town Magazine, which they forced open, and carried off, or destroyed, in a few seconds, the whole of the arms and ammunition, &c. on which they could lay their hands, belonging to the Local Militia. The Magistrates, however, exerted themselves so successfully in quelling the tumult, that no further mischief has been done. A strong military force is kept on duty.
 
-Some acts of violence, from the same causes, lave also this week been offered by the weavers - at Stockport.
+Some acts of violence, from the same causes, have also this week been offered by the weavers - at Stockport.
 ```
 
 
@@ -290,9 +334,9 @@ TO DO
 [ALso see elsewhere for more on Horsfall; the following is duplicated in that but included here to give a sense of the timeline of the reports.]
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120502/011/0003
-## Leeds Mercury - Saturday 02 May 1812
+Leeds Mercury - Saturday 02 May 1812
 
-ATROCIUS MURDER. On Tuesday evening last,  at about half past six o'clock, as Mr. WILLIAM HORSFALL a very extensive Wollen Manufacturer at Marsden, about seven miles from Huddersfield, was returning from the market at that place, he was assassinated on the public road, on Crossland Moor.
+ATROCIUS MURDER. On Tuesday evening last, at about half past six o'clock, as Mr. WILLIAM HORSFALL a very extensive Woollen Manufacturer at Marsden, about seven miles from Huddersfield, was returning from the market at that place, he was assassinated on the public road, on Crossland Moor.
 
 The circumstances, as stated to us by an eye-witness of this most barbarous Murder are these:— Mr. Horsfall and a Manufacturer, of the name of EASTWOOD, had left Huddersfield together, and at a short distant before they came to the fatal spot, Mr. Eastwood stopped to water his horse, while Mr. Horsfall rode leisurely along the road; when he had came within about 500 yards of the Warren Inn, a distance of about a mile and a half from Huddersfield, on the Manchester road, four men, each armed with a horse pistol, who had just before stepped out of a small plantation, placed the barrels of their pistols in appertures in the wall, apparently prepared for that purpose; the muzzel of two of these pieces Mr. Horsfall distinctly saw, but before he had time to extricate himself from his perilous situation, they all four fired, and inflicted four wounds in the left side of their victim, who instantly fell from his horse, and the blood flowed from the wounds in torrents. A number of passengers both horse and foot rushed almost instantly to the spot, and, after disentangling his foot from the stirrup, he was some difficulty got to the Inn.
 
@@ -351,29 +395,29 @@ Mr. Cartwright, who so bravely defended his property in Yorkshire, has been fire
 
 Mr. Trentham, notwithstanding his alarming wound, is likely to recover. The *Luddites* have had the audacity to placard the streets of Nottingham in the night, offering a reward for Mr. Wilson, the mayor, dead or alive. He had committed no other offence than signing the offer of a reward of £600 from the Corporation of Nottingham, for the discovery of the assassin who shot Mr. Trentham. These infatuated men are said actually to meet in the streets of Nottingham, in small parties, in the day time, and triumphantly talk over their nightly depredations.
 
-HUDDERSFIELD, *April* 30, 1812.—A most melancholy circumstance took place in this neighbourhood yesterday evening. As Mr. W. Horsfall (a partner in the house of Horsfalls and Co. of this town) was returning to his house at Marsden, about seven miles off, he was shot at by some desperate villains, concealed in a plantation by the turnpike road side, on Crosland Moon, about two miles from Huddersfield,. Mr, H, cried out, "I am shot, I am murdered!" and turned his horse round, as if intending to go to a public-house about two or three hundred yards below the plantation; four-men made their appearance on the wall, but Mr. H, immediately fell from his horse, and they then went into the wood and were seen no more! It is supposed that no less than four slugs were discharged at him, one of which only has been extracted. The shots took place near the groin and on the lower part of the abdomen. Mr. H, was concerned in a mill where shear frames are used for dressing cloth, and it is his undaunted resolution in resisting the daring association of frame-breakers, called '*Luddites*,’ that has marked him out for the vengeance of those lawless ruffians.
+HUDDERSFIELD, *April* 30, 1812.—A most melancholy circumstance took place in this neighbourhood yesterday evening. As Mr. W. Horsfall (a partner in the house of Horsfalls and Co. of this town) was returning to his house at Marsden, about seven miles off, he was shot at by some desperate villains, concealed in a plantation by the turnpike road side, on Crosland Moon, about two miles from Huddersfield,. Mr, H, cried out, "I am shot, I am murdered!" and turned his horse round, as if intending to go to a public-house about two or three hundred yards below the plantation; four-men made their appearance on the wall, but Mr. H, immediately fell from his horse, and they then went into the wood and were seen no more! It is supposed that no less than four slugs were discharged at him, one of which only has been extracted. The shots took place near the groin and on the lower part of the abdomen. Mr. H, was concerned in a mill where shear frames are used for dressing cloth, and it is his undaunted resolution in resisting the daring association of frame-breakers, called '*Luddites*,' that has marked him out for the vengeance of those lawless ruffians.
 
 It is said to have been ascertained by the magistracy, that a regular organization has commenced in several places, and even oaths of fidelity and secrecy have been administered.
 
 On Tuesday night a body of ten or twelve men, with their faces blackened, attacked the watchman belonging to the premises of Messrs. Home, manufacturers, in Denton-holm, in consequence of some information he is said to have given respecting the rioters. The poor man was most dreadfully beaten, the assailants then compelled his wife to deliver up his fire-arms, with which they decamped.
 
-MANCHESTER, *April* 26.—On Friday afternoon, about four o’clock, "a large body of rioters suddenly attacked the weaving factory belonging to Messrs. Wroe and Duncroft, at Westhougton, about 13 miles from this town; of which, being unprotected, they soon got possession. They instantly set it on fire, and the whole building, with its valuable machinery, cambrics, &c. were entirely destroyed. The building being extensive, the conflagration was tremendous. The damage sustained is immense, the factory alone having cost £5000. The reason assigned for this horrid act is, as at Middleton, "weaving by steam." By this dreadful event, two worthy families have sustained a heavy and irreparahle injury, and a very considerable number of poor are thrown out of employment.
+MANCHESTER, *April* 26.—On Friday afternoon, about four o'clock, "a large body of rioters suddenly attacked the weaving factory belonging to Messrs. Wroe and Duncroft, at Westhougton, about 13 miles from this town; of which, being unprotected, they soon got possession. They instantly set it on fire, and the whole building, with its valuable machinery, cambrics, &c. were entirely destroyed. The building being extensive, the conflagration was tremendous. The damage sustained is immense, the factory alone having cost £5000. The reason assigned for this horrid act is, as at Middleton, "weaving by steam." By this dreadful event, two worthy families have sustained a heavy and irreparable injury, and a very considerable number of poor are thrown out of employment.
 
-MANCHESTER, *May* 2.—This town is completely tranquil. We have heen, in the course of a few. days, furnished with two regiments of Militia aud a few field pieces.
+MANCHESTER, *May* 2.—This town is completely tranquil. We have been, in the course of a few. days, furnished with two regiments of Militia and a few field pieces.
 
-LEEDS, *May* 2.—A person of the name of James: Haigh, a cloth-dresser, of Dalton, near Huddersfield, was apprehended at Methley last Saturday night, on suspicion of having been concerned in the late attack upon Mr. Cartwright’s mill. This man, who appears to have received a wound from a musket-ball in his shoulder without being able to give any satisfactory account of the cause of that wound, has undergone several examinations before Mr. Radcliffe, of Milnsbridge, and was on Thursday committed to York Castle. On Thursday evening he passed through Leeds, in a chaise and four on his way to York.
+LEEDS, *May* 2.—A person of the name of James: Haigh, a cloth-dresser, of Dalton, near Huddersfield, was apprehended at Methley last Saturday night, on suspicion of having been concerned in the late attack upon Mr. Cartwright's mill. This man, who appears to have received a wound from a musket-ball in his shoulder without being able to give any satisfactory account of the cause of that wound, has undergone several examinations before Mr. Radcliffe, of Milnsbridge, and was on Thursday committed to York Castle. On Thursday evening he passed through Leeds, in a chaise and four on his way to York.
 
 A Manchester paper, after mentioning the burning of the factory at West-Houghton, on the 24th ult. adds— "It was known that many other factories and mills were to meet the same fate, and also the lives of many respectable persons were threatened. However, by a well conceived project, most judiciously executed, their secret meetings were dashed into, their private signals obtained, and by a patient and persevering duty of detachments of the Bolton Local Militia, their nocturnal assemblies were put to confusion, their papers seized, and a very large number of their ringleaders, (together with a person they called General Ludd, who administered impious and rebellious oaths) have been accused, and sent to Lancaster Castle."
 
-The famous General Ludd is among the prisoners last committed to Chester Gaol, for rioting and seizing flour and other articles, at Gee Cross, and being partirularly active in making seizures.—This man (William Walker), a collier from Werneth, was considered as an active leader, marched before the deluded mob in a large cocked hat, and was distinguished by the appellation of Genesal Ludd.
+The famous General Ludd is among the prisoners last committed to Chester Gaol, for rioting and seizing flour and other articles, at Gee Cross, and being particularly active in making seizures.—This man (William Walker), a collier from Werneth, was considered as an active leader, marched before the deluded mob in a large cocked hat, and was distinguished by the appellation of General Ludd.
 
-The soldier, who -failed in his duty when the populace attacked Mr. Cartwright’s at Rawfolds, has been tried by a Court-martial, and sentenced to receive 300 lashes. On Monday se'nnight, he was marched to Rawfolds to receive his sentence; but owing te Mr. C.'s interference, the punishment was mitigajed to 25 lashes.
+The soldier, who -failed in his duty when the populace attacked Mr. Cartwright's at Rawfolds, has been tried by a Court-martial, and sentenced to receive 300 lashes. On Monday se'nnight, he was marched to Rawfolds to receive his sentence; but owing te Mr. C.'s interference, the punishment was mitigated to 25 lashes.
 
-The Spirit of Riot seems to have extended itself at length to Liverpool. A mob of about 500 people suddenly assebled with a view to the destruction of some manufactory in that neighbourhood; but intelligence. being gained of the intention of the same, timely precautions were adopted, and property to the amount af £10,000, was saved.
+The Spirit of Riot seems to have extended itself at length to Liverpool. A mob of about 500 people suddenly assembled with a view to the destruction of some manufactory in that neighbourhood; but intelligence. being gained of the intention of the same, timely precautions were adopted, and property to the amount af £10,000, was saved.
 
-One thousand sacks af flour have been sent from Piymouth dock to the relief of the miners in Cornwall.
+One thousand sacks af flour have been sent from Plymouth dock to the relief of the miners in Cornwall.
 
-A meeting of the Magistrates and neighbouring Gentry was held last week at Carlisle, which was numerously attended by the townspeople and workmen. Some of the weavers stated, that in consequence of the low price of labour, they were compelled to perform twice the former quantity of work, and thus nearly double the quantity of goods was manufactured, by the same number of hands, as otherwise would have been; that they had previously presented a petition to the Magistrates for advance of wages; and that, though promises of an advance had, on a recent occurrence, been held out, these promises were no longer regarded. The meeting broke up without doing any thing, A deputation of weavers waited on Mr. Christian, with a Petition, in which were abstracts from two Acts of Parliament, asserting the power of the Magistrates to reguiate the price of manual labour. Mr, C. promised them, that as soon as possible his father, Mr, Curwen, would hold a meeting of the Magistrates, when their Petition should be duly considered.
+A meeting of the Magistrates and neighbouring Gentry was held last week at Carlisle, which was numerously attended by the townspeople and workmen. Some of the weavers stated, that in consequence of the low price of labour, they were compelled to perform twice the former quantity of work, and thus nearly double the quantity of goods was manufactured, by the same number of hands, as otherwise would have been; that they had previously presented a petition to the Magistrates for advance of wages; and that, though promises of an advance had, on a recent occurrence, been held out, these promises were no longer regarded. The meeting broke up without doing any thing, A deputation of weavers waited on Mr. Christian, with a Petition, in which were abstracts from two Acts of Parliament, asserting the power of the Magistrates to regulate the price of manual labour. Mr, C. promised them, that as soon as possible his father, Mr, Curwen, would hold a meeting of the Magistrates, when their Petition should be duly considered.
 
 
 ```{admonition} TO DO
@@ -397,7 +441,7 @@ On Wednesday last, about 500 of the Berkshire Militia arrived at Preston, and we
 
 "This town, we have the peculiar satisfaction of observing, continues to enjoy a state of uninterrupted tranquillity , and there is no reason to apprehend any return of insubordination. We have had a very considerable influx of soldiers. The Buckinghamshire militia, 800 strong, with two field-pieces attached, commanded by Col. Young, marched from Mansfield on Wednesday, and arrived here on Thursday evening. On Friday, the Berkshire, (Col. Vansittart) consisting of upwards of 600, reached here from Nottingham, under the command of Lieutenant-Col. Ravenshaw. The greatest part of the Manchester and Salford Local Militia, commanded by Col. Silvester, and the Newton and Failsworth, by Lieut Col. Keymer, have been called out, and it is gratifying to state that they assembled with commendable alacrity. 132 persons have already been sworn in under the Watch and Ward Act, for Salford, and upwards of 2000 for Manchester and the several other townships."- *Manchester Mercury*, May 5.
 
-We are deeply concerned in stating, that in the neighbourhood of Bolton, Chowbent, Leigh, and Tyldesley, a secret system of organized riot, approaching to rebellion, has been carried on for some time. Many factories and mills were to be destroyed, and the lives of many respectable persons were threatened — By a well-conceived project, however, most judiciously executed, these secret meetings have been laid open, the private signals of the conspirators obtained, and by a patient aud persevering duty of detachments of the Bolton Local Militia, their diabolical nocturnal assemblies are routed, their papers seized, aud a great number of their ringleaders, (together with a person they call General Ludd, the grand administrator of impious rebellious oaths) have been secured, and sent to our Castle—Amongst the papers seized, is a roll containing a list of names of great numbers implicated, all of whom await the punishment of their country. The Magistrates are indefatigable —Much praise is due to Capt. Buller, of the Greys, and to his troop; and to Major Pilkington, and to his troop, whose services have been eminent; and we feel particular pleasure in mentioning the steady, loyal, and soldier-like conduct of the Bolton regiment of Local Militia, who, upon every occasion, act like veterans.
+We are deeply concerned in stating, that in the neighbourhood of Bolton, Chowbent, Leigh, and Tyldesley, a secret system of organized riot, approaching to rebellion, has been carried on for some time. Many factories and mills were to be destroyed, and the lives of many respectable persons were threatened — By a well-conceived project, however, most judiciously executed, these secret meetings have been laid open, the private signals of the conspirators obtained, and by a patient and persevering duty of detachments of the Bolton Local Militia, their diabolical nocturnal assemblies are routed, their papers seized, and a great number of their ringleaders, (together with a person they call General Ludd, the grand administrator of impious rebellious oaths) have been secured, and sent to our Castle—Amongst the papers seized, is a roll containing a list of names of great numbers implicated, all of whom await the punishment of their country. The Magistrates are indefatigable —Much praise is due to Capt. Buller, of the Greys, and to his troop; and to Major Pilkington, and to his troop, whose services have been eminent; and we feel particular pleasure in mentioning the steady, loyal, and soldier-like conduct of the Bolton regiment of Local Militia, who, upon every occasion, act like veterans.
 
 We cannot but deprecate the mode of exaggerating the proceedIngs of the rioters in different parts, and spreading unfounded reports of their numbers, &c.—The Chester Courant of Tuesday last contains the following paragraph:— "We understand there are upwards ol 100 persons now confined in Lancaster Castle, charged with rioting." We can assure the public, that in addition to the twenty-nine persons mentioned in our last, as being committed for that and other offences, four more only arrived, under an escort, on Sunday last, charged with setting fire to the factory at West Houghton, near Bolton.
 
@@ -407,7 +451,7 @@ We cannot but deprecate the mode of exaggerating the proceedIngs of the rioters 
 
 John Bird has been committed, but not yet sent off.
 
-Jos. Thompson has been committed to Chester, charged with being concerned in the tumulis at Mr. Goodair's house, at Stockport.
+Jos. Thompson has been committed to Chester, charged with being concerned in the tumults at Mr. Goodair's house, at Stockport.
 
 *Committed to York Castle* —James Haigh, of Dalton, in the West Riding, cloth-dresser, charged upon the oath of Joseph Ardon, and other persons, as strongly suspected of having been one of the persons who, in the night of the 11th of April, riotously assembled and attacked the mill of Mr. W Cartwright, at Rawfolds— This man was apprehended at Methley, on Saturday week. It appears that since the attack above-mentioned, he had been at the house of a sister-in-law, at Pennistone, from whence he went to another sister at Methley. He was taken before John Radcliffe, Esq. of Milnsbridge, and after undergoing several examinations was fully committed on Thursday. He was conveyed to the Castle in a chaise and four, escorted by a party of dragoons. Two other men were apprehended as accomplices, at Hill-house, near Huddersfield, on Monday evening; after several examinations, one of them, named Stocks, was liberated, but the other, Cockroft, was remanded—On Monday night, it is strongly suspected, with a view to the rescue of the above men, the stable of Major Gordon, at Huddersfield, was set on fire, and nearly destroyed. The stratagem, however, failed; for instead of drawing away the guard which was placed over the prisoners, the officer, with great promptitude, doubled its force. Happily the fire did not communicate to any other building.
 
@@ -415,7 +459,7 @@ One of the most cold-blooded and atrocious murders ever known, was perpetrated i
 
 In the confusion and alarm consequent on such a lamentable occasion, no one had presence of mind to pursue the murderers: they escaped into Dungeon Wood, undiscovered. Nor was any pursuit or search made after them till the arrival ot a party of the Bays from Huddersfield. Mr. Horsfall, at first, seemed much exhausted by the great loss of blood. — The best medical aid was obtained, and three shots out of the four were pronounced slight; but the fourth, from a musket-ball, had inflicted a mortal wound. On Wednesday some faint hopes of recovery were entertained, but in the course of the night, a fresh bleeding took place, the thigh became considerably swollen and had the appearance of mortification, and on Thursday morning, between 8 and 9 o'clock, death ensued. During the agonies of such a state, there was some consolation that this public-spirited and humane man retained the perfect possession ot his faculties.
 
-This is one of the most lamentable events that has ever been recorded in our columns. The perpetration of it has evinced a spirit, with which we had hoped no Englishman could have been actuated.— Mr. Horsfall had a most extensive manufactory at Marsden, and employed near 400 work-people; for the last seven years he had worked shearing-frames in a part of the premises and had brought them to great perfection. — He had been most active too, in endeavouring to bring to justice the nocturnal assailants at Rawfolds. — His property was too well defended for them to risk an attack; and therefore the villains sacrificed a valuable life by means well worthy of an Italian Bravo, but which must embitter the remainder of their days with sufferings ten thousand times more acute than they were able to inflict, even if they should escape that ignominous end which the injured laws of their country demand.
+This is one of the most lamentable events that has ever been recorded in our columns. The perpetration of it has evinced a spirit, with which we had hoped no Englishman could have been actuated.— Mr. Horsfall had a most extensive manufactory at Marsden, and employed near 400 work-people; for the last seven years he had worked shearing-frames in a part of the premises and had brought them to great perfection. — He had been most active too, in endeavouring to bring to justice the nocturnal assailants at Rawfolds. — His property was too well defended for them to risk an attack; and therefore the villains sacrificed a valuable life by means well worthy of an Italian Bravo, but which must embitter the remainder of their days with sufferings ten thousand times more acute than they were able to inflict, even if they should escape that ignominious end which the injured laws of their country demand.
 
 The Luddites at Nottingham, we hear, have relinquished their system of frame-breaking to commit acts of much greater atrocity:— Letters from thence communicate an outrage perpetrated by these men hardly to be equalled for wantonness and cruelty. On Monday night the 27th ult about 11 o'clock, Mr. Trentham, of the house of Trentham, Tierney, and Morton, in the weaving trade, was waylaid on his return home by two ruffians, and just as he was about to step up to his door, one of them placed himself before him, and presenting a pistol, shot him through the left breast, and then made his escape. The report of fire-arms having brought the neighbours to the spot, surgical assistance was immediately procured, and the ball was extracted from the back, a little below the left shoulder. Mr. Trentham, (though not entirely out of danger) is in a fair way of recovery; he is 63 years of age.
 
@@ -427,10 +471,40 @@ Government, we understand, mean to send down a Special Commission, to Chester an
 
 In the House of Commons, em Tuesday last, Mr. Perceval said, that a Special Commission was, as soon as possible, to be sent to investigate the late atrocities in the country.
 
-The Gazette of Saturday contains an advertisement from the Secretary of State for the Home Department, offering his Majesty's free pardon to any person except the individual or individuals that actually fired, who shall discover the murderers of Mr. Horsfall, and a reward of TWO THOUSAND POUNDS to be paid by Mr. Peace, of Huddersfield. And the like pardon, and a reward of £100 for the discovery of the person who fired at Mr. Isaac Raynor, of Linthwaite, as he was returning from Milnsbride, on the 23d ult. the latter reward to be paid by Joseph Radcliffe, Esq. — Also, pardon and 100 guineas, for the discovery of the person who fired at George Whitehead, one of the constables of Huddersfield, as he was going to bed on the 15th ult. to be paid by Mr. Peace. — There is likewise a reward of 100 guineas offered for the apprehension of the villains who shot Mr. Wm. Trentham, of Nottingham, and a further reward of 500 guineas to any person who shall convict his accomplice. The same pardon is offered, except as before excepted.
+The Gazette of Saturday contains an advertisement from the Secretary of State for the Home Department, offering his Majesty's free pardon to any person except the individual or individuals that actually fired, who shall discover the murderers of Mr. Horsfall, and a reward of TWO THOUSAND POUNDS to be paid by Mr. Peace, of Huddersfield. And the like pardon, and a reward of £100 for the discovery of the person who fired at Mr. Isaac Raynor, of Linthwaite, as he was returning from Milnsbridge, on the 23d ult. the latter reward to be paid by Joseph Radcliffe, Esq. — Also, pardon and 100 guineas, for the discovery of the person who fired at George Whitehead, one of the constables of Huddersfield, as he was going to bed on the 15th ult. to be paid by Mr. Peace. — There is likewise a reward of 100 guineas offered for the apprehension of the villains who shot Mr. Wm. Trentham, of Nottingham, and a further reward of 500 guineas to any person who shall convict his accomplice. The same pardon is offered, except as before excepted.
 
 The Lord Lieutenant of Cumberland has communicated to the High Sheriff, the approbation of his Majesty's Secretary of State for the Home Department, of the zeal and alacrity manifested by the Penrith and Whitehaven Local Militia, in their march to Carlisle.
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000268/18120720/023/0003
+Leeds Intelligencer - Monday 20 July 1812
+
+*To the Editor of the Leeds Intelligencer.*
+
+SIR—Notwithstanding the very gentle manner in which the Editor of a certain provincial publication treats of the conduct of the Luddites, in his last number, we will venture to assure the Public, that there has not been an instance, during the whole of their infamous proceedings, in which they have acted with greater *regularity* and *precision*, or with more *determined violence*, and *terrifying threats*, and in their outrage upon the Inhabitants of Clifton, four miles North of Huddersfield, in the night between last Monday, the 13th, on Tuesday the 14th inst.
+
+When we consider the number of the Assailants, their mode of attacking the dwellings of the Inhabitants; the time of night at which the assault was made; the *persons*, *character* and *number* of those who were terrified to yield to their felonious demands; the *style* of their triumphant return—we hesitate not to say, that the transactions of these *arms stealers* at Clifton, at the time above mentioned, afford the most unqualified contradiction to all those declarations and assertions, which go to represent the outrages committed against the public peace and security, as the mere ebullitions of a mob, arising from want of employment, the pressure of distress, or any mere temporary inconvenience.
+
+We put it to the *incredulous* Member for Bedford, to the inaccurate Mr. B______m, to Ned Ludd himself, or that other Ned, his advocate and apologist, whether there be any thing in the features of this *felonious nocturnal outrage*, which bears any resemblance to the accidental assemblage of thoughtless riotous men.—Whether it does not exhibit the strongest marks of being a part of an *organized digested system* of wide-extending, serious mischief. View it in connection with other acts of violence in the West Riding:—with the conflagration at the mill of Messrs. Oates and Co.—the attack upon Mr. Vickerman's property—upon the mill Rawfolds—with the murder of Mr. Horsfall—and you observe the same *precision*, the same *address*, the same *skill*, the same *deliberate, cool-blooded, persevering, determined villainy*.
+
+In the silent hour of midnight darkness, a band of armed villains steal into the populous village of Clifton. They watch the dwellings of the inhabitants, and mark them as they retire to rest.—The moment when they are first sunk down to sleep, the villains commence their operations: having lost the hammer they had previously provided, they furnish themselves with another, which they had burst open a smith's shop to procure. They assault the door of Mr. Ab. Fairburn, near one end of the village—demand his gun—Mr. F. denies the possession of such an article (it belonged to his son)—they persist in their demand, repeatedly assuring him, that they *certainly* know he has a gun. Mr. F. continues steady—they call for *enoch* (the great hammer.) The door is assaulted by two violent strokes, (the marks of which are visible enough) Mr. F. opens the door; a number of men present themselves before him, apparently armed with guns, in the military attitude of "making ready." Mr. F. still declines to deliver up his son's piece; invites the robbers to search his house for a gun themselves.
+
+They become impatient, one of them presents a piece to his head protesting that if he, Mr F. did not instantly produce his gun, his brains would be blown out.—Mr F retires, they charge him to bring no *light*. He resigns the gun. They load it, bidding good night, and, having fired a piece as in triumph, or for a signal, retire.
+
+It was about one o'clock. A light was seen in one of the windows of the Black Bull, an inn in the same village. They imperiously commanded that the light be put out, and because the order was not instantly obeyed, they fire three or four bullets into the window.—They demand and receive the landlords gun—A similar demand was made at EVERY house in Clifton where there was a gun. Their number might be 30: they got nine or ten guns.
+
+On their attacking the house of Mr. Joshua Goldthorpe, Mr. G. looked out at his window, demanded their business; they ordered him to withdraw his head, and on his delaying to do so, they threatened to blow his brains out, and murder every soul in the house, and fired.
+
+Mr. G. called up his young men, one or two of whom despising their threats, boldly went out, and bid them *blow away*. They presented their guns and threatened instant death to young Goldthorpe if he did not directly proceed with them to the workshop, at about a quarter of a mile distance, and get them the guns which they knew were in the shop. They guarded him to the shop, received two guns, returned with him to the house, ordered him to bolt the door and keep within, and wished him good night.
+
+The whole of their movements were conducted with the strictest military address and precision—They receive directions from a *leader*. *Such a division* was ordered to guard such a pass—*Such a number of such a division* was commanded to *fire*. An *Enoch* (great hammer) of such a division was named, and the great hammer was instantly applied to force the door. Their intelligence also was surprisingly correct. Not a house was assaulted where there *was not* a gun—not a house passed by where there was a gun. Some of the houses were not of ready access, yet no blunder was made. The proper doors, and the several rooms were accurately known, or distinctly pointed out to the leader. The body of the assailants might be strangers, but they had well-informed guides.
+
+The Editor of the Leeds Mercury tells his readers that he has seen an official account of these transactions (see Leeds Mercury, 18th July, page 3.) In the same page he professes that to him it is most clear that the views of the deluded violators of the public peace "to the present moment," have been "confined simply to the destruction of machinery:" at the same time, he has the unblushing impudence to condemn Mr. Wilberforce for attributing the outrageous conduct of the mob, to political causes, to disaffection to Government; and, in what may be called the same breath, he directs his deluded friends to attribute all their distresses—not to machinery, or to the employers of machinery; but, to GOVERNMENT. Mr. Wilberforce, it should seem, is altogether mistaken in attributing the ebullitions of discontent to any disapprobation of Government, excited and promoted by mischievous publications.—*Ipse dixit*—and Ludd and Co. must gape and gulp it down.
+
+However bro' Ned may fret and fume at the assertion, Mr. W. is not singular in his opinion of the lamentable effect produced upon the minds of the ignorant and unwary by *certain mischievous publications*. Many of his constituents, once humble admirers of a certain popular provincial print, now, at length, begin to think for themselves, and are so thoroughly convinced of its mischievous tendency, that in spite of the *spies* and *informers* which the Editor of that print has dispersed here and there to catch any chance word that may fall at a public table, in a public company, in a moment of convivial conversation, or in the confidence of friendship; in spite of the threats of prosecution, which he may denounce for the expressing an opinion of the mischievous tendency of such publications the Freeholders of the most disturbed parts of Yorkshire will not cease to declare, to repeat, and to maintain it, that there are certain "*mischievous publications*" circulated, read, and admired by the mob, which have *done more to produce, foment, spread, countenance, and encourage the outrageous conduct of the deluded disturbers of the public peace* than either the *want of employment*, or the *dearness of provision*, or the *distresses of the poor*, or the *Orders in Council*, or *than all of these put together*.
+
+18th July, 1812.
+
+OBSERVER.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000268/18120727/037/0003
 Leeds Intelligencer - Monday 27 July 1812
@@ -491,7 +565,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120808/020/0004
 Lancaster Gazette - Saturday 08 August 1812
 
 
-YORKSHIRE ASSIZES. Before the Hon. BARON WOOD, and the Hon. JUSTICE BAYLEY, Sir THOMAS SLINGSBY, Bart., High Serriff.
+YORKSHIRE ASSIZES. Before the Hon. BARON WOOD, and the Hon. JUSTICE BAYLEY, Sir THOMAS SLINGSBY, Bart., High Sherriff.
 
 ... James Oldroyd, for attacking Rawfolds Mill.—*Not Guilty.* ... James Haigh, for rioting— *No Bills*. ...
 
@@ -510,18 +584,18 @@ Joseph Culpin, the husband of the last witness, stated, that on the day of their
 
 The Prisoner had no Counsel, nor did he call any witnesses. He addressed the Jury in his defence; stated that he had attended Martha Culpin's as a medical man three weeks, during which time he had furnished her medicines, and made a cure of her; but when he carried in his bill, she had not money to pay it, and gave him only a small part of it. He had several times requested payment of the remainder, but could not obtain it; one time in particular he pressed her for the payment, on which she said if he asked her for the money again she would swear his life away. Witness, upon this threat, went to Mr. Allison, attorney at law, Huddersfield, and desired him to write a letter to demand payment. Prisoner proceeded to state, that as soon as he had taken this step, they preferred this charge against him, which, he said, was entirely without foundation, as he never had any conversation with her on the subject, nor did he even so much as know James Haigh; and that he delivered himself as soon he knew that a warrant was issued against him. The prisoner concluded his defence by saying, that there was no man or subject more disposed than himself to stand true to his King and Country.
 
-The witnesses on the part of the prosecution were examined in support ot the prisoner’s defence. The note was proved to have been delivered to Martha Culpin, and the demand made by Mr. Allison, before the Culpins preferred any charge against the prisoner.
+The witnesses on the part of the prosecution were examined in support ot the prisoner's defence. The note was proved to have been delivered to Martha Culpin, and the demand made by Mr. Allison, before the Culpins preferred any charge against the prisoner.
 
 After his Lordship had recapitulated the evidence, the Jury, without retiring, found the prisoner— *Guilty*.
 
 Mr. Justice *Bayley*, in passing sentence, addressed the prisoner in nearly the following terms:
 
-"You have been found guilty, on evidence which satisfies the Jury and the Court, of endeavouring, by threats, to obstrcut the regular course of justice; an offence of a very serious nature, and which, in this case, is much increased by the consideration of the aggravated nature of the crime you were endeavouring to screen and protect. The attack on Mr. Cartwright’s mill was of so atrocious and savage a nature, and struck so directly at the root of civil society, that it might have been expected that every man would have been anxious to bring the persons concerned in so daring an outrage, to justice; but instead of being disposed to contribute, by the information of which you might be possessed, to this end you did all in your power to prevent those who were disposed to perform their duty, from giving their evidence. This attack was of so savage and cowardly a nature, that I should have thought there were few persons in this country of minds, of so depraved a character, as to be capable of joining a transaction of so dark a complexion. It is evident from your conduct, that you are either in some respects connected with persons concerned this transaction, or at least that you are a wellwisher to their cause. But it is quite certain that it is a cause which cannot succeed; the persons concerned in it will probably, in this world, be brought to justice; but there will a time come, when this attack, made in the darkness of the night, will be brought to light, and when all those concerned in it will stand unveiled, and when they must answer for their conduct at a tribunal from which nothing can be concealed."
+"You have been found guilty, on evidence which satisfies the Jury and the Court, of endeavouring, by threats, to obstruct the regular course of justice; an offence of a very serious nature, and which, in this case, is much increased by the consideration of the aggravated nature of the crime you were endeavouring to screen and protect. The attack on Mr. Cartwright's mill was of so atrocious and savage a nature, and struck so directly at the root of civil society, that it might have been expected that every man would have been anxious to bring the persons concerned in so daring an outrage, to justice; but instead of being disposed to contribute, by the information of which you might be possessed, to this end you did all in your power to prevent those who were disposed to perform their duty, from giving their evidence. This attack was of so savage and cowardly a nature, that I should have thought there were few persons in this country of minds, of so depraved a character, as to be capable of joining a transaction of so dark a complexion. It is evident from your conduct, that you are either in some respects connected with persons concerned this transaction, or at least that you are a wellwisher to their cause. But it is quite certain that it is a cause which cannot succeed; the persons concerned in it will probably, in this world, be brought to justice; but there will a time come, when this attack, made in the darkness of the night, will be brought to light, and when all those concerned in it will stand unveiled, and when they must answer for their conduct at a tribunal from which nothing can be concealed."
 
 
 ---
 
-The following is same as Hull Advertiser - Saturday 01 August 1812 but also mentions Dorling alias, cartwirght proving the attack on his mill, and the sentence.
+The following is same as Hull Advertiser - Saturday 01 August 1812 but also mentions Dorling alias, Cartwright proving the attack on his mill, and the sentence.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001659/18120814/047/0004
 Drakard's Stamford News - Friday 14 August 1812
@@ -530,9 +604,27 @@ TRIALS, ACCIDENTS, OFFENCES, &c. ASSIZES. York.
 
 ...
 
-*Patrick Doring*, otherwise *Bell*, was charged with endeavouring to prevent Martha Culpin from appearing to give evidence against James Haigh, charged with being concerned in the attack on Rawfolds Mill, by threatening, that if she appeared against him, she would be shot. *Mr. Cartwright* proved the attack upon his mill on April 11th last. *Martha Culpin* stated, that she lived at Peniston-Green; has known the prisoner two or three years. Witness has heard of the attack on Rawfolds Mill, and had been examined before Mr, Radcliffe, at Milnes Bridge, respecting James Haigh, About sun-set of the same day she saw the prisoner; he came to her house, and said,—"Why, you have been at Milnes Bridge; you must know what you went for; if you go again you will be obliged to go to York to give evidence; and if you do, take notice what I tell you—I know that the bullet is made with which you will be shot." Prisoner said he had risked his life in telling her this. He further said, if she and her husband would go away, he would find a place where they would be safe. In consequence of what the prisoner had said to her, she and her husband went into Derbyshire, where they remained about a week; on their return home, which was on Tuesday, they received a summons to attend Mr. Radcliffe, at Milnes Bridge, where they went and were examined. On the evening of their return, the prisoner came to their house, and said,—"What! you have been again, but you will catch it." Prisoner, on one occasion, told her, that he had come near her house, with an intention of dressing James Haigh's wound, but there were so many persons about the house that he durst not come in. *Joseph Culpin*, the husband of the last witness, corroborated the evidence given by his wife. —The prisoner had no counsel, nor did be call any witnesses. He addressed the jury in his defence; he stated that he had attended Martha Culpin as a medical-man three weeks, during which time he had furnished her with medicines, and made a cure of her; but when he carried in his bill, she had not money to pay it, and gave him only a small part of it. He had several times requested payment of the remainder, but could not obtain it; one time in particular he pressed her closely for the payment, on which she said if he asked her for the money again she would swear his life away. Witness, upon this threat, went to Mr. Allison, attorney at law, Huddersfield, and desired him to write a letter to Culpin to demand payment; and as soon as he had taken this step, they preferred this charge against him, The witnesses on the part of the prosecution were examined in support of the prisoner’s defence. The note was proved to have been delivered to Martha Culpin, and the demand made by Mr. Allison, before the Culpins preferred any charge against the prisoner. After his lordship bad recapitulated the evidence, the jury, without retiring, found the prisoner—Guilty. Mr. Justice Bayley, in passing sentence, addressed the Prisonec in the following terins:—"You have been found guilty, on evidence which satisfies the jury and the court, of endeavouring, by threats, to obstruct the regular course of justice; an offence of a very serious nature, and which, in this case, is much increased by the consideration of the aggravated nature of the crime you were endeavouring to screen and protect. The attack on Mr. Cartwright's mill was of so atrocious and savage a nature, and struck so directly at the root of civil society, that it might have been expected that every man would have been anxious to bring the persons concerned in so daring an outrage to Justice; but instead of being disposed to contribute, by the information of which you might be possessed, to this end, you did all in your power to prevent evidence. This attack was of so savage and cowardly a nature, that I should have thought there were few persons in this country of minds of so  depraved a character as to be capable of joining in a transaction of so dark a complexion. It is evident from your conduct, that you are either in some respects connected with the persons concerned in this transaction, or at least that you are a well-wisher to their cause. But it is quite certain that it is a cause which cannot succeed; the persons concerned in it will probably in this world be brought to justice; but there will a time come when this attack, made in the darkness of the night, will be brought to light, and when all those concerned in it will stand unveiled, and when they must answer for their conduct at a tribunal from which nothing can be concealed. The prisoner was sentenced to be confined two years in York Castle.
+*Patrick Doring*, otherwise *Bell*, was charged with endeavouring to prevent Martha Culpin from appearing to give evidence against James Haigh, charged with being concerned in the attack on Rawfolds Mill, by threatening, that if she appeared against him, she would be shot. *Mr. Cartwright* proved the attack upon his mill on April 11th last. *Martha Culpin* stated, that she lived at Peniston-Green; has known the prisoner two or three years. Witness has heard of the attack on Rawfolds Mill, and had been examined before Mr, Radcliffe, at Milnes Bridge, respecting James Haigh, About sun-set of the same day she saw the prisoner; he came to her house, and said,—"Why, you have been at Milnes Bridge; you must know what you went for; if you go again you will be obliged to go to York to give evidence; and if you do, take notice what I tell you—I know that the bullet is made with which you will be shot." Prisoner said he had risked his life in telling her this. He further said, if she and her husband would go away, he would find a place where they would be safe. In consequence of what the prisoner had said to her, she and her husband went into Derbyshire, where they remained about a week; on their return home, which was on Tuesday, they received a summons to attend Mr. Radcliffe, at Milnes Bridge, where they went and were examined. On the evening of their return, the prisoner came to their house, and said,—"What! you have been again, but you will catch it." Prisoner, on one occasion, told her, that he had come near her house, with an intention of dressing James Haigh's wound, but there were so many persons about the house that he durst not come in. *Joseph Culpin*, the husband of the last witness, corroborated the evidence given by his wife. —The prisoner had no counsel, nor did be call any witnesses. He addressed the jury in his defence; he stated that he had attended Martha Culpin as a medical-man three weeks, during which time he had furnished her with medicines, and made a cure of her; but when he carried in his bill, she had not money to pay it, and gave him only a small part of it. He had several times requested payment of the remainder, but could not obtain it; one time in particular he pressed her closely for the payment, on which she said if he asked her for the money again she would swear his life away. Witness, upon this threat, went to Mr. Allison, attorney at law, Huddersfield, and desired him to write a letter to Culpin to demand payment; and as soon as he had taken this step, they preferred this charge against him, The witnesses on the part of the prosecution were examined in support of the prisoner's defence. The note was proved to have been delivered to Martha Culpin, and the demand made by Mr. Allison, before the Culpins preferred any charge against the prisoner. After his lordship bad recapitulated the evidence, the jury, without retiring, found the prisoner—Guilty. Mr. Justice Bayley, in passing sentence, addressed the Prisoner in the following terms:—"You have been found guilty, on evidence which satisfies the jury and the court, of endeavouring, by threats, to obstruct the regular course of justice; an offence of a very serious nature, and which, in this case, is much increased by the consideration of the aggravated nature of the crime you were endeavouring to screen and protect. The attack on Mr. Cartwright's mill was of so atrocious and savage a nature, and struck so directly at the root of civil society, that it might have been expected that every man would have been anxious to bring the persons concerned in so daring an outrage to Justice; but instead of being disposed to contribute, by the information of which you might be possessed, to this end, you did all in your power to prevent evidence. This attack was of so savage and cowardly a nature, that I should have thought there were few persons in this country of minds of so  depraved a character as to be capable of joining in a transaction of so dark a complexion. It is evident from your conduct, that you are either in some respects connected with the persons concerned in this transaction, or at least that you are a well-wisher to their cause. But it is quite certain that it is a cause which cannot succeed; the persons concerned in it will probably in this world be brought to justice; but there will a time come when this attack, made in the darkness of the night, will be brought to light, and when all those concerned in it will stand unveiled, and when they must answer for their conduct at a tribunal from which nothing can be concealed. The prisoner was sentenced to be confined two years in York Castle.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000990/18120801/029/0004
+Oxford University and City Herald - Saturday 01 August 1812
+
+Wednesday se'nnight, about o'clock, John Hinchliffe, of Holmfirth, near Huddersfield, was roused from his sleep by a loud knocking at the door. On inquiring what was the cause this, a person without, asked if Hinchliffe lived there? He dressed himself, and opened the door, when he was desired by two men to lead them to certain place; they then escorted him down neighbouring lane. He desired to know their motives for conveying him that road; one of the men told him, he heard he had been giving information respecting the Luddites; this he positively denied.—The conversation was interrupted by a horse (which was loose in the lane) galloping near them, which alarmed the ruffians, and gave Hinchliffe an opportunity of escaping:—one of the men fired at him, and lodged piece of lead in his eye; the eye is entirely lost, and his head much bruised: he, however, had the good fortune to reach a friend's house. About ten weeks ago, Hinchliffe had a conversation with person of the name of Scholefield, who endeavoured to persuade him to be *twisted in* as one of General Ludd's men, threatening, that if he made any discovery of the matter, he would be put to death. Suspicion of course fell on Scholefield as one of the persons, and on inquiry it was found he had absconded.—*(Leeds Mercury.)*
 
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18120804/024/0003
+Sun (London) - Tuesday 04 August 1812
+
+Last Tuesday the following persons were conducted by a strong military escort from Huddersfield, and lodged in the Castle of York:—Samuel Haigh, late of Totties, in Holmfirth, charged upon oath with having been guilty of divers misdemeanours; and also with having-feloniously administered an unlaWful oath to one Joseph Barraclough; and also with having been guilty of divers burglaries, in breaking the houses of divers persons, and stealing from thence arms; and also on strong suspicion of his having murdered Mr. Wm. Horsfall, late of Marsden, merchant.—Likewise George Brookes, of Gully, in Holmfirth, labourer, charged upon oath with having been guilty of divers felonies and misdemeanours, particularly with having feloniously and burglariously stolen arms in the night time, from divers peaceable inhabitants, and threatened to shoot Thomas Blyth, a constable, of Holmfirth, and Thomas Reynolds, the Officer of Excise there.— Likewise Benjamin Hinchcliffe, John Taylor, Robert Fritten, Abraham Armitage, George Beaumont, and John Shore, all late of Holmfirth, labourers, charged upon oath with having, in the night time, within the space of three months last past, feloniously stolen, taken, and carried away from the dwelling house of Wm. Newton, Esq. of Foolstone, in the West Riding, Cookson Stephenson, Esq. of Holmfirth, and divers other persons, certain guns, pistols, and fire arms.
+
+Two hundred guineas reward is offered for such information as may lead to the conviction of the persons who shot at Mr. John Hinchliffe, of Upperthrong `[sic]`, and twenty guineas reward to any person who will apprehend John Scholefield, jun. of Netherthong, who absconded the night or morning after this atrocious act.
+
+The business of the Assizes at York finished on Friday: there has not for many years been so few capital convictions; only one prisoner has received sentence of death, and that will be commuted to imprisonment. The proceedings against the rioters have been extremely lenient, and this clemency will, we hope, have its proper effect. The Assizes have been adjourned to the 6th of January, 1813, unless the Judges return to York on the 14th of September, the 19th of October, or the 7th of December. This arrangement will give the Judges an opportunity of coming down, if circumstances should require it under the present commission; but if, as they expect and hope, the, peace of the county should remain undisturbed, no further proceedings will take place under the present commission. It is scarcely necessary to add, that the prisoners' sent from Huddersfield have not taken their trials.—*(Leeds Mercury)*
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120904/002/0002
+Stamford Mercury - Friday 04 September 1812
+
+At the Whitechapel Police Office, on Wednesday, J. Schofield, of Holmfirth, Yorkshire, underwent an examination, charged with going to the house of Mr. Hinchliff, the parish clerk of Holmfirth, and telling him he wished to speak with him, and having drawn him to some distance down a lane, exclaimed, "Damn you, you never more shall say any thing against the Luddites," and immediately fired a blunderbuss, a ball from which entered one of his eyes, and penetrated two inches into his head, but was afterwards extracted, and Mr. H. is likely to recover. The prisoner was apprehended on board an American vessel, in the London Dock, and was ordered to be sent to Holmfirth, strongly guarded, to take his trial.
 
 ```{admonition} TO DO
 :class: dropdown
@@ -607,6 +699,18 @@ Since our last were committed to York Castle, James Oldroyd, of Dewsbury, clothi
 ```
 
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120912/009/0003
+Leeds Mercury - Saturday 12 September 1812
+
+LEEDS, SATURDAY, Sept. 12.
+
+...
+
+On Monday morning, about one o'clock, the Woollen Manufactory of Messrs. Richd. Lindsey and Sons, of Gildersome, in the West-Riding of this county, was attacked by a number of men, who, after breaking open the doors, destroyed 17 pairs of shears, of the best kind, arid greatly injured the machinery used in raising and dressing the cloth. This depredation was completed without lights, and the time occupied in its perpetration did not exceed twenty minutes.— The depredation at Southowram, on Thursday the 3d inst was committed on the Mill of Messrs. Waterhouse. On this occasion no shears were broken, but two Gig Mills were destroyed with some furniture, aud the windows of Mr. Broadbent, the Superintendent of the works, were much shattered.
+
+If there be, as we fear there are, persons amongst us that would have no objections to see the Act of Habeas Corpus suspended, and martial law proclaimed in the manufacturing counties, we do not know how the wishes of such vigorous politicians could be more effectually promoted than by the countenance they acquire from the lawless destruction of private property. There extremes meet—and if these outrageous proceedings be continued, the friends to the liberty and tranquility of their country, can oppose but a feeble barrier to so monstrous an union.
+
+Our Correspondent at Huddersfield, under date of the 10th inst. says:—"Several persons have been apprehended on various charges of Luddism, and are now in custody here. A number of others have this week abjured their illegal oath and taken the oath of allegiance; they see the calamities they have brought upon themselves and neighbours by the atrocious depredations they have committed, and the delusions they have laboured under; and it is to be hoped they will all follow the laudable example of these their associates, in discharging themselves from that unlawful and ruinous system in which they have unfortunately been engaged, and return to their duty and allegiance before it is too late.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001279/18121031/010/0003 Hull Advertiser - Saturday 31 October 1812
 

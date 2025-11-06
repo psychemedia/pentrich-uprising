@@ -184,7 +184,7 @@ TRIAL OF JAMES HAIGH, JONATHAN DEAN, JOHN OGDEN, JAMES BROOK, JOHN BROOK, THOMAS
 pp.519-20
 Acquitted cases
 
-Tlie King against James Starhey.
+The King against James Starkey.
 
 This was an indictment for a misdemeanour in having incited two persons to blow up the mill of William Cartwright.
 
@@ -202,7 +202,7 @@ Liberated on bail to appear at next sessions.
 
 The King against James Varley, Charles Thornton, James John, and George Brook.
 
-Indictment for burglary — (dwelling of Joshua Brook.) Liberated on bail and recognizances, to appear at next sessions — Mr. Park observing, ^' That if the prisoners conducted themselves as honest and industrious subjects, they never should be called upon to appear.
+Indictment for burglary — (dwelling of Joshua Brook.) Liberated on bail and recognizances, to appear at next sessions — Mr. Park observing, That if the prisoners conducted themselves as honest and industrious subjects, they never should be called upon to appear.
 
 
 https://archive.org/details/cobbettscomplet14jardgoog/page/n490/mode/2up
@@ -295,7 +295,16 @@ On Saturday, the following malefactors convicted before mentioned were also brou
 At half-past one o'clock, John Swallow, John Batley, Joseph Fisher, William Hartley, James Haigh, James Hey, and Job Hay, were also executed. The conduct of the prisoners was becoming their awful situation.
 
 
-Spcial Commission at York  / Trial 1813 reports
+## Fallout
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000263/18130201/013/0004
+Sussex Advertiser - Monday 01 February 1813
+
+Our Huddersfield Correspondent under yesterday's date, says—"That this week the tenters of Mr. Joseph Mellor, Dungeon, near Huddersfield, one of the witnesses against the murderers of Mr. Horsfall, have been cut, and a piece of cloth in the shape of a heart, which had been cut from them, pricked full of holes, and hung on the latch of his door, with an inscription upon it, "Blood for blood, says General Ludd," and an intimation that his heart should soon be in the same situation. These infatuated men seem bent on their own destruction. (Leeds Mercury)
+
+---
+
+Special Commission at York  / Trial 1813 reports
 
 
 
