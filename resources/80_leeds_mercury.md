@@ -230,10 +230,27 @@ Mr. Leicester brought up the Report of the Secret Committee appointed to examine
 On the motion that the Report do lie on the table, Mr. Ponsonby wished to know if the Right. Hon. Gent. opposite intended to move that the Report be printed and taken into consideration? ...
 
 
+
+---
+
+no politics involved also in Hampshire Chronicle - Monday 17 February 1812
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120718/007/0003
+## Leeds Mercury - Saturday 18 July 1812
+
+ON Monday, in the House of Commons, LORD CASTLEREAGH introduced a Bill into Parliament founded on the Report of the Secret Committee appointed to examine and report on the Documents sent to the House by the PRINCE REGENT, on the disturbed state of this and the neighbouring Counties. The main object of this Bill is to increase, for a limited period, the poower of the Magistrates, by enabling them to search for stolen and secreted Arms, without any information upon oath;—to disperse tumultuous Assemblages without waiting an hour, as they are at present obliged to do, and to apprehend and hold to bail the persons so assembled. The Bill also provides, that the Magistrates in one of the disturbed Counties shall have a concurrent jurisdiction in the adjoining Counties. It also gives them a power, under certain limitations and conditions, of demanding the Arms of any individual, on receipts being given for the same. Though this Bill certainly vests large powers in the Magistracy—powers which, if abused, might lead to the most calamitous effects; yet, as the evil to be avoided is of great magnitude, and cannot be coped with without some legislative enactment, it is perhaps, upon the whole, a necessary evil. If, indeed, Lord Castlereagh's suggested Amendment, of introducing men unqualified, in point of property, into the Magistracy, should form a part of this Bill, it would completely alter its whole complexion, and place the liberty and safety of every man at the disposal of any minion, Administration might think proper to introduce into the commission. Such a proposal, we should suppose, would be indignantly scouted by the independent and truly respectable Magistrates of this County. We hope Lord Castlereagh will recollect that he is not legislating for Ireland.
+
+THIS Bill was opposed by Mr. Whitbread and some other Members, on the grounds that the existing laws, if executed with vigour, were sufficient to restore the public peace; that a cessation of the disturbances might be expected as the result of the rescinding of the Orders in Council, and that there was no evidence to lead to the suspicion that they arose from any other cause than commercial distress.
+
+Mr WILBERFORCE, in combating these objections, insisted that these disturbances ought not to be considered as the mere ebulitions of discontent arising from the pressure of distress, but as originating in political causes—in disaffection to Government, produced by mischievous publications industriously disseminated among the lower classes of society, by which they became alienated from the Government under which they lived. This charge of disaffection preferred by the Member of Yorkshire against his Constituents, is as groundless as the cause to which he attributes it—the dissemination of mischievous publications among the people. A more unfounded assertion was never made within the walls of Parliament. And we are persuaded that every one will be convinced of this who will examine the proceedings of these violators of the public peace, from the first frame-breaking in Nottingham, to the present moment. From such a review, it seems to us most clear, that the views of these deluded men were confined simply to the destruction of Machinery, without any reference to any form of Government, or any like or dislike to any public men. It is not impossible, indeed, that since the intermixture of the large body of Spies into the Meetings of these mislead people, some suggestions of that kind may have been made; but it is perfectly clear, that with the origin and organization of the plan, political considerations had no influence.
+
+WE have said, and we are convinced, neither MR. WILBERFORCE nor any other man can disprove the assertions, that politics had little or no influence in originating these unhappy disturbances; but though political *considerations* had no influence on the minds of the rioters, the riots themselves may, we believe, be traced to political *causes*, and we beg Mr. Wilberforce to make the inquiry whether his votes in Parliament are not amongst the number of those causes. He has, we know, been crying for the last twenty years, with more than ordinary zeal, in, the Church of Clapham, "Give us peace in our time;" but has he not for the same period, and with equal fervour, been saying in the Chapel of St. Stephen, "Give us war in our time?" and is it not to this heart-sickening war that most of our distresses, and agitations are to be attributed? In forming his judgment upon the causes of the disturbances in the manufacturing counties, he should inquire too, how far these anti-commercial decrees which have deprived the poor of labour and bread, influenced in their effects, the conduct of the disorders, and whether mechanics loitering about the streets for days and weeks together in idleness and want, were not likely to be devising and practising mischief. On the subject of the Orders in Council, we must however, do our worthy Representative the justice to say, that he did not persist in error to the *last*, for on the memorable debate when his relative, Mr Stephen, the champion of retaliatory edicts *fell sick*, and when these celebrated Orders in Council were struggling under their dying throes, Mr. Wilberforce, their former advocate, gave them a home thurst by recommending their *total* abrogation,  
+"This was the unkindest cut of all,"  
+they fell; and though the agitAtion to which they had given rise, have like the agitations of the sea outlived the blast that put them in motion, yet we do not doubt but the tranquilizing effects of the revocation will soon be felt in the disturbed counties—and that it will appear that it was not the licentiousness of the press but the distress of a famishing people, produced by the causes we have mentioned, that instigated, cherished, and extended the spirit of riot and outrage.
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001255/18120714/011/0003
-
 ## Public Ledger and Daily Advertiser - Tuesday 14 July 1812
 
 [Previous story above syndicated with a different closing and reference to Barrowclough being taken to Manchester.]
@@ -243,7 +260,7 @@ A person of the name Barrowclough, of Holmfirth, a corporal in the Upper Agbrig 
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003
-Leeds Mercury - Saturday 25 July 1812
+## Leeds Mercury - Saturday 25 July 1812
 
 YORKSHIRE SUMMER ASSIZES
 
@@ -332,8 +349,7 @@ James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Arden and
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002
-
-## Leeds Mercury - Saturday 25 July 1812
+## Leeds Mercury - Saturday 25 July 1812
 
 The persons called Luddites it is said, may be divided into three classes— *Robbers*, men who wish to live by plunder, and avail themselves of the disturbed state of the country to carry on their villainous purposes. *Anti-Machinists*, persons who impute a difficiency of labour to the use of Machinery in shearing cloth, weaving cotton, and weaving hosiery; and *Spies*, men that have introduced themselves amongst the depredators to worm out information, and whose employment must cease with the disturbances. We should be glad to know to which of these classes the persons at present engaged in stealing arms belong; we have our suspicions; and cannot forget, that a man of the name of Watt, a spy, was executed at Edinburgh, about the year 1794, for an act of High Treason in which he had engaged while labouring in his vocation, in order to draw others into his snares. The history of this man is curious, and we will take an early opportunity of recalling it to public recollection.
 
@@ -346,7 +362,7 @@ On Wednesday morning in the plantation, adjoining the house of Mr. Tootal, of Wa
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000062/18120804/009/0001
-## Hull Packet - Tuesday 04 August 1812
+## Hull Packet - Tuesday 04 August 1812
 
 Yorkshire Summer Assizes
 
@@ -363,7 +379,7 @@ MANY of you have so repeatedly served this office, and are so well acquainted wi
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18121110/026/0004
-Star (London) - Tuesday 10 November 1812
+## Star (London) - Tuesday 10 November 1812
 
 LEEDS, November 7.
 
@@ -374,14 +390,14 @@ Since our last were committed to York Castle, M[ark] Hill, John Ogden, (No.52) C
 --
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121017/009/0003
-## Leeds Mercury - Saturday 17 October 1812
+## Leeds Mercury - Saturday 17 October 1812
 
 Since the last assizes, no less than 43 felons have been committed to the Castle of York, for various crimes, out of which number 33 are charged with committing divers offences against the public peace, in the West-Riding, and who denominate themselves Luddites; 6 for forgery, 3 for a rape, and 1 for the murder of a child.
 
 Since our last, were committed to York Castle, George Mellor, of Longwood Bridge, in Quarmby, in the West-Riding, cloth-dresser, charged upon the oath of Joseph Mellor, and others, with being strongly suspected of having, on the 28th day of April last, fired at, and shot Mr. Wm. Horsfall, of Marsden, in the said Riding, merchant, deceased, upon the King's highway. Also, James Varley, of Lockwood, in the West Riding, cloth-dresser, charged upon the oath of John Bates, with having on the night of Whitsun-Monday last, with divers other persons, unlawfully assembled at Gib-lane end, and feloniously stole and carried away divers guns, the property of Wm. Newton, of Hagswood Hill, in the said Riding.— Also, Joseph Brook, of Rastrick, tailor, charged upon the oath of Benjamin Strickland, and Ann Armitage, with having, in company with divers others unknown, at three o'clock in the morning of the 5th inst. burglariously broke, and entered the dwelling-house of the said Benjamin Strickland, and feloniously stolen thereout one silver watch, one pocket-book, and other articles, the property of the said Benjamin Strickland.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002
-Leeds Mercury - Saturday 07 November 1812
+## Leeds Mercury - Saturday 07 November 1812
 
 Also appeared in [Lancaster Gazette - Saturday 07 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/010/0003).
 
@@ -402,7 +418,7 @@ It appears ——— and ———— have been Chiefs in all the disgraceful tr
 ---
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18121024/011/0003
-Leeds Mercury - Saturday 24 October 1812
+## Leeds Mercury - Saturday 24 October 1812
 
 Our Huddersfield correspondent, under the date of the 22d inst. says:—
 
@@ -420,13 +436,55 @@ LEEDS, SATURDAY, Nov. 28. ... It has been determined to appoint a Special Commis
 
 TRIALS OF 1813?
 
+https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130116/006/0002?browse=true
+## Leeds Mercury - Saturday 16 January 1813
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18130313/009/0003
-Leeds Mercury - Saturday 13 March 1813
+   in https://ludditebicentenary.blogspot.com/2013/01/16th-january-1813-14-convicted-luddites.html
 
-THE POINT AT ISSUE
 
----
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130419/021/0003
+Leeds Intelligencer - Monday 19 April 1813
+
+TO DO - check from luddite bicentenary
+
+SIR,—I beg the favour of you to permit your paper to the medium of a few observations on a subject in which, if I mistake not, the credit and the justice of this neighbourhood is considerably interested.
+
+We cannot, I presume, have forgotten the state of the public mind, and the transactions which occurred during the spring months of the last year. We recollect the serious apprehensions which filled the minds of one part of the inhabitants; the disgraceful panic which seized others; the suspense in which a third sort were held, unable to form a judgment whether the disturbers of the public peace, or their opposers would prove to have taken the stronger side, and therefore afraid to commit themselves by venturing to express an opinion concerning transactions, which, by their novelty, their boldness, their ferocity, and general mischievous tendency, were becoming truly serious and alarming;—while, a lamentable proportion of the population of a great many of our towns and villages were in high and ardent expectation of some great change which they (foolishly enough, no doubt, but, which they) actually did imagine was about to take place in the persons should hold the power and property of the country.
+
+At this time the idea of removing by violence such individuals as might seem likely to oppose any effectual obstacle to the system of destruction then in practice, was become perfectly familiar; the most atrocious acts were openly committed; murderous conversation was openly and undisguisedly held in workshops, at the market, in the public streets, and in public houses; while, whatever was offered in disapprobation of the then popular sentiments, and of the destructive practices, was generally spoken in retirement, under all the apparent emotions of apprehension, suspicion, and terror. There was an evident fear left what was said should be overheard and resented by the mischievous destruction of property of the speaker, or by his immediate assassination. Those who are first affected to scorn the expressions of alarm were themselves brought to dismay. Those who ignorantly imagined the business concerned such persons only as were connected with gig-mills and shearing-frames, were made to tremble for the safety of their own property and persons. The merchant, the farmer, the miller, the cottager, were alike assailed, terrified, plundered. The very atmosphere which surrounds us seemed contaminated, and the English character assumed for a season, the dark and baleful aspect of the malicious, relentless assassin.
+
+A favourable change has taken place. The good sense of many of those who were incautiously led off to indulge unjustifiable wishes and expectations, is apparently returned; the momentary warmth of a perverted imagination has subsided, and given place to reflection, and a more just way of thinking. The silent and flow, but efficacious operation of our incomparable system of Laws, executed in that firm, manly, DISCRIMINATING CHRISTIAN spirit, so highly characteristic of our courts of justice, has had a powerful effect upon the public mind. The nature, the tendency, the absurdity, the madness of disorderly practices is more clearly discerned; the well-disposed are confirmed; the thoughtless are brought to some reflection; the guilty, we ardently hope, feel remorse; the vicious and abandoned have taken lessons of caution, and, it is reasonably to be expected, that the salutary pause that has been imposed upon them by the well grounded terror of the magistrate's awful arm, will be succeeded by some general repentance and reformation of conduct, and of principle.
+
+The extent to which the mischievous combination might have been carried is not to be ascertained. The nature and tendency of it, is pretty well known.
+
+A full year has now passed over us. We have had time for reflection. And it remains for us to determine whether we will suffer the intelligent faithful historian of the times to enter the following record for the information of posterity:
+
+That one of the most villainous, of the MOST DESPERATE; and, for its extent, one of the MOST ALARMING CONSPIRACIES AGAINST the Security of the persons and property of civil society, that ever disgraced a country professing Christianity, was checked and disconcerted by the manly firmness of ONE MAN, at great labour, and at great personal hazard to himself, as well as at great expence:—and, the detection and conviction of the parties to this nefarious scene, was, in a great measure, "owing to the unremitting zeal and persevering courage of ONE MAGISTRATE residing near the town of Huddersfield:" but, such was the cool indifference betrayed by the inhabitants of the neighbourhood more immediately benefited by the judicious intrepidity of these two men, that, finding themselves delivered from their present apprehensions, they were content to refer the remuneration of the expences incurred by the meritorious defence of Rawfolds Mill, to the bounty of Government; to the PRIVATE liberality of individuals; to an "HUMBLE PETITION" to the Quarter Sessions; to chance:—and the worthy Magistrate of Mills-Bridge House was allowed to enjoy the satisfaction arising to an independent mind like his, from his private reflections on his own conduct; or,—whether we will do ourselves the credit, and our country the service, to offer our united public thanks to Mr. Radcliffe for the benefit he has conferred upon society, by his prompt, decisive, and judicious conduct; and testify our approbation of William Cartwright's behaviour, in defence of his person and property, and our sense of the advantages derived to society thereby by an instant public subscription expressly designed as a kind of vote of thanks, and to be offered to him independent of any notice or reward which the wisdom of Government may judge proper to confer upon him.
+
+A Thousand Guineas subscribed by that number of persons, and their names published, would be of greater importance to the public; and of more credit to the subscribers than any additional honour or advantage to the person for whom that sum ought to be so raised.
+
+HAMMOND ROBERSON.
+Healds Hall, April 15, 1813.
+
+
+--
+response to above from hammond roberson, followed by editorial comment
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130424/007/0003
+Leeds Mercury - Saturday 24 April 1813
+
+TO DO INSERT ABOVE
+
+The above letter, from a very intelligent correspondent, we have thought it our duty to insert; but ew must in candour say, that very serious objections seem to exist against that part of the plan which recommends any thing like display or parade in this affair:— every thing of that nature would be like exulting over the fallen, and would have a tendency to revive those turbulent feelings that are now gradually subsiding, we trust, for ever. Let the Country and the West Riding uphold their own character, by dispensing those rewards of honour or emolument on the persons whose courage and constancy tended in an eminent degree to restore public tranquility; but while we are performing these acts of justice, let us cautiously abstain from every measure calculated to reanimate the dying embers of discord.—EDITOR.
+
+
+
+
+And a letter from roberson in:
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130426/027/0003
+Leeds Intelligencer - Monday 26 April 1813
 
 ---
 
@@ -466,7 +524,7 @@ Insurrection in Yorkshire - and Oliver the spy; trial of Yorkshire rioters
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170614/005/0002
-## Leeds Mercury - Saturday 14 June 1817
+## Leeds Mercury - Saturday 14 June 1817
 
 TRIALS FOR TREASON.
 
@@ -758,7 +816,7 @@ On Thursday se'nnight, the shed, adjoining the barn of Mr. Robert Waltshaw. of H
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
 ## Leeds Mercury - Saturday 14 June 1817
 
-### PROJECTED INSURRECTION IN YORKSHIRE
+PROJECTED INSURRECTION IN YORKSHIRE
 
 In the second edition of our last publication, we stated some particulars, which had just reached us, of a rumoured insurrection in this district, and also the arrest of ten persons near Dewsbury, on a charge of treasonable practices. We shall now proceed to lay before our readers all the information which we have been able to collect upon the subject, and our researches have been conducted with great diligence, with perfect impartiality, and with the most anxious wish to come at the truth. We shall first shortly state what appears to have been the object and extent of the plot, and then detail those circumstances which either attended its development, or which have subsequently occurred. It appears, that almost immediately after the suppression of the Union Societies, established in different towns in this district for effecting a reform in Parliament, some of the most violent members associated together, in a private and clandestine manner. At these meetings it is supposed to have become a question for deliberation, whether a change in the representation might not be effected without the intervention of Parliament, and a project to effect this purpose appears to have been communicated to them by Mr. Oliver, who had been introduced to these Ultra Reformers by Mitchell, (a Delegate, now in custody,) as a person deserving their confidence, and not only disposed to communicate to them interesting information as to the state of the country; but able to afford them the most affectual assistance; thus recommended, he soon possessed himself of their unbound confidence. This person is said to have represented to these credulous men, that all the people in the metropolis were favourable to a complete change of Government, that every thing was organised, and that it was absolutely settled, that on the night preceding the trial of the state prisoners, (the night of the 8th June,) a general rising, would take place; that as a consequence of this movement, all the public offices were to be taken possession of, all the constituted authorities seized, and the state prisoners released; and that a plan had also been arranged for securing all the military, by which means a change in the government would be effected, without any effusion blood. It was further represented to them, that in order to carry out this bloodless revolution, it was absolutely necessary that the same plan should be simultaneously acted upon in all parts of the country;- that it was therefore necessary, that on the night agreed upon, namely on Sunday the 8th inst. all the military in every district of the kingdom should be secured in their quarters, their arms seized, and that the magistrates and other civil officers should be arrested and placed in a state of restraint, not merely that no opposition might be made to the designs of the insurgents, but that they might serve as hostages for the safety of such of their own party as might fall into the hands of government. This absurd and wicked project is said to have been entertained, and in some degree acted upon, by a number of individuals in different parts of this district; and a participation in this plot is alleged against the persons who were apprehended yesterday se'nnight, at Thornill Lees, charged with having assembled there, for the purpose of carrying into immediate effect this daring and traitorous project. Our readers will probably infer, from this statement, that the person introduced by Mitchell to the Ultra Reformers, was, in truth, a spy, and that every step taken towards the execution of the project, had been communicated to persons in authority, as the plot appears to have been known by some of the Magistrates for several weeks past. On Friday morning last, several of the Delegates, together with the informer, met at a public house, in this town, and proceeded in the direction of Dewsbury, and from thence to Thornhill Lees, where they had no sooner arrived at the house of rendezvous than they were surrounded by a detachment of Yeomanry Cavalry, and taken into custody. The following is a correct list of the names and places of residence of the persons apprehended:
 
@@ -792,7 +850,8 @@ We feel great satisfaction in having to state that the most perfect tranquillity
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
 ## Leeds Mercury - Saturday 14 June 1817
 p3
-### SECOND EDITION
+
+SECOND EDITION
 
 Since the first edition of our paper was prepared for the press, the highly important fact has been communicated to us, from a respectable quarter, that the plot referred to in the above statement has been got up under the instigation of an agent from London, and that the principal offender has been suffered to escape with impunity. In confirmation of this fact, which was communicated to us at a late hour yesterday afternoon, we were referred to Mr. Willans, a bookseller, in Dewsbury. To develop a transaction so important, not only to the Government and the people of this country in general, but so intimately connected with the liberty and lives of the accused, we felt it to be our imperious duty to repair to Dewsbury, without a moment's delay, and there to ascertain, on the spot, the truth of the allegation.
 
@@ -956,7 +1015,8 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170621/010/0004#
 ## Leeds Mercury - Saturday 21 June 1817
 
 p4
-### REPORT of the COMMITTEE of SECRECY.
+
+REPORT of the COMMITTEE of SECRECY.
 
 *Further Suspensions of the Habeas Corpus Act.*
 
