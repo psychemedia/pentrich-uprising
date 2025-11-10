@@ -26,7 +26,7 @@ mkdir -p data
 # Loop through and curl each URL
 for url in "${urls[@]}"; do
     # Extract filename from URL (domain + path)
-    filename="data/$(echo "$url" | sed 's|https\?://||' | sed 's|/|_|g').html"
+    filename="data/$(echo "$url" | sed 's|https\?://||' | sed 's|/|_|g')"
     echo "Curling: $url -> $filename"
     curl -s "$url" -o "$filename"
 done
