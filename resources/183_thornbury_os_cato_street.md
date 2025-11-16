@@ -65,9 +65,7 @@ These bills were to be pasted up near the houses that were to be set on fire, an
 
 "I have not got my steel— I am not complete ; but never mind."
 
-He then drew a large, heavy, broad butcher's knife from his pocket, and showed the new-ground edge, and the handle bound round with dark waxed thread, to prevent his hand slipping, as he said, "when he should be at work." With
-
-that knife he swore he would cut off the heads " of Castlereagh and the rest as he came at them/^
+He then drew a large, heavy, broad butcher's knife from his pocket, and showed the new-ground edge, and the handle bound round with dark waxed thread, to prevent his hand slipping, as he said, "when he should be at work." With that knife he swore he would cut off the heads  of Castlereagh and the rest as he came at them."
 
 In the momentary absence of the dreaded Thistlewood and lirunt, a man named Palin said he hoped all present knew what they had met there for, and had considered whether the assassination would be approved by the country, and would really draw the people to their help. J ust then Brunt returned. Observing an alteration in the men's countenances, and being told the reason, he said —
 
@@ -87,7 +85,7 @@ Brunt said there was no occasion for uneasiness; he would forfeit his existence 
 
 Fourteen men were to execute the murders, and six to be left to guard the servants. As the fourteen men were volunteering and being called out, Tidd entered, and Thistlewood, probably suspecting him to be a waverer, fixed his eyes sternly upon him ; but, seeing Adams watching him, he turned away directly. Adams going up to Tidd, said to him, tentatively—
 
-" Don't you think this is a pretty set out ? Do you think they will be able to do this thing ? "
+"Don't you think this is a pretty set out? Do you think they will be able to do this thing?"
 
 Edd replied, in an ominous whisper, "Never."
 
@@ -95,9 +93,9 @@ Brunt had just produced a gin^bottle from his pocket to prime the assassins, whe
 
 Yes, the toils had long slowly been gathering round these desperate wretches. Into that loft, as into a full rat-pit, the sharp-toothed terriers of the law were ready to dash. In other rooms besides that of Cato Street cutlasses had been that morning ground, and pistol-flints fitted. The Bow Street officers had already been lurking about the Horse and Groom public-house, and had secured a pike-stave left by one of the conspirators. About half-past eight, twelve of thora\ had met by appointment near John Street, and moved on together towards the well-marked stable. In t^e mean time. Lieutenant Fitzclareiice, with a picquet of the Coldstream Guards, had been sent by Mr. Birnio, the police magistrate, to wait in John Street till they were called. Buthven (a tall, sandy Scotchman), Smithers, Ellice, and others of the patrol found the stable-door watched by two or throe men. The man of colour, Davidson, and Ings were guarding the stairs, with blunderbusses on their shoulders and swords by their sides. Bnthven instantly ordered these men to be? secured, and mounted the ladder, followed by Ellice, Smithers, and three or four others.
 
-There were about five and twenty men iu the room, eating bread and cheese and drinking porter, or selecting arms from a long carijen tor's bench which stood close by the wall. Just at that juncture, Thistle wood, hearing a noise, and some one calling, " Hallo ! Show a light ! " took a candle, and looked down the stairs to see who was coming, and on seeing that there was a surprise he put the candle back on the bench, seized a sword, and, with three or four others, retreated stealthily to the further of the inner rooms — the one that bad a window looking out into Cato Street. At that moment, ono of the men seized Mow called up to warn his comrades — Look out there, above!"
+There were about five and twenty men iu the room, eating bread and cheese and drinking porter, or selecting arms from a long carijen tor's bench which stood close by the wall. Just at that juncture, Thistle wood, hearing a noise, and some one calling, "Hallo! Show a light!" took a candle, and looked down the stairs to see who was coming, and on seeing that there was a surprise he put the candle back on the bench, seized a sword, and, with three or four others, retreated stealthily to the further of the inner rooms — the one that bad a window looking out into Cato Street. At that moment, ono of the men seized Mow called up to warn his comrades — Look out there, above!"
 
-At the same time two of the constables, at first almost unnoticed, appeared at the top of the ladder, and presenting their pistols, said ; —
+At the same time two of the constables, at first almost unnoticed, appeared at the top of the ladder, and presenting their pistols, said:—
 
 "Hallo! is anybody in the room? Here is a pretty nest of you?"
 
@@ -111,7 +109,7 @@ And a third —
 
 JuBt then Smithars, distrusting further parley, and believing, in his stanch way, in promptitude before the conspirators could discover the scantiness of the assailing numbers, or could muster courage to use their arms, cried —
 
-" Lot me come forward."
+"Let me come forward."
 
 He then pushed towards the door of the inner room, where Thistlewood stood thrusting with a very long sword. This leader of the conspirators instantly rushed forward, and struck Smithers through his right side. The constable threw up his hands, his head fell back, he staggered against Ruthven, cried,
 
@@ -119,7 +117,7 @@ He then pushed towards the door of the inner room, where Thistlewood stood thrus
 
 "Kill the at once! Throw them downstairs! Kill them!"
 
-Then there were twenty or thirty pistol-shots fired, and a tremendous headlong rush was made at the stairs, driving the Bow Street men backwards; the conspirators leaping down into the manger through the holes in the floor, or by the window, others firing at the officers on the stairs, or up through the manger, all making for the archway in Jolm Street. Tidd was caiiglit in the doorway, thrown on a dungheap by h nth veil, and disarmed. Davidson was pursued and taken in John Street. Wr*iglit, a patrol, was knocked down and stabbed by lugs, who was caught by a watchman in Edgware Road, after having tired at Brooks, one of the officers, who had attacked him with his cutlass.
+Then there were twenty or thirty pistol-shots fired, and a tremendous headlong rush was made at the stairs, driving the Bow Street men backwards; the conspirators leaping down into the manger through the holes in the floor, or by the window, others firing at the officers on the stairs, or up through the manger, all making for the archway in Jolm Street. Tidd was caught in the doorway, thrown on a dungheap by h nth veil, and disarmed. Davidson was pursued and taken in John Street. Wr*iglit, a patrol, was knocked down and stabbed by lugs, who was caught by a watchman in Edgware Road, after having tired at Brooks, one of the officers, who had attacked him with his cutlass.
 
 In the mean time the picquet of Foot Guards, hearing pistol-shots in the stable, had dashed up at the double, being mot by a police officer, who shouted to them —
 
