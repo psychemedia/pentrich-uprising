@@ -178,7 +178,7 @@ The Gazette of Tuesday contains a Proclamation offering a reward of two hundred 
 More outrages were committed in the neighbourhood of Huddersfield, on Sunday week, in the evening.—The premises of Mr. F. Vickerman. of Taylor-Hill, were beset by the *Luddites* or *Snappers*, as they call themselves,—the cropping shears destroyed—several pistols fired into the house; however, without injury to any one,—and some wool set on fire.—The depredators retired before the arrival of a military guard, which they knew was expected about nine o'clock.
 
 
-
+![In Peel, Risings of the Luddites, 2d edn, https://archive.org/details/risingsluddites00peelgoog/page/n8/mode/1up](images/risingsluddites00peelgoog_0009_rot.jpg)
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120327/040/0004
 Nottingham Review - Friday 27 March 1812
