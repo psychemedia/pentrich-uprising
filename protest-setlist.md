@@ -22,7 +22,7 @@ header-includes:
 \end{center}
 
 \begin{tabbing}
-00.00 \= WELCOME - \itshape ... see you on the other side
+00.00 \= WELCOME - \itshape no phones / see you on the other side
 \\
 00.45 \> [ WEAVING SONG ]
 \\
@@ -50,13 +50,15 @@ header-includes:
 \\
 18.15 \> ATTACK ON CARTWRIGHT'S MILL — BRONTE
 \\
-\> JOHN BOOTH AND SAMUAL HARTLEY
+\> JOHN BOOTH AND SAMUEL HARTLEY
 \\
 \> \itshape ... and so can I.
 \\
 25.00 \> [ CROPPER SONG V + C REPRISE (quiet) ]
 \\
-26.15 \> FUNERAL — COURT MARTIAL — WHIPPING
+26.15 \> FUNERAL — COURT MARTIAL — 
+\\
+\> WHIPPING — MURDER PLAN — 
 \\
 \> HORSFALL MAN HABIT — CLOTH HALL
 \\ \> \itshape ... Business done, on horse, started to make way home
@@ -73,7 +75,7 @@ header-includes:
 
 30.00 \= [ JOHN THE WEAVER MUSIC INTRO ]
 \\
-\> PUB — DRINK
+\> PUB — DRINK — \itshape starts to have a drink...
 \\
 30.30 \> [ JOHN THE WEAVER 3 x VERSES (MUTTON CHOP) ]
 \\
