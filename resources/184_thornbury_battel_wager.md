@@ -57,7 +57,7 @@ It also appears that a certain rash and hasty county magistrate went to Birmingh
 
 You'll be hanged, and your body will be given to the surgeons to be dissected; you've long deserved it, for you've cost your father many a hundred pounds before for getting you out of scrapes like this."
 
-It was also clear that the deceased could have thrown her- self from the bank six feet high into the water. There was no sign of a struggle near the pit, and although there were two labourers' houses within a hundred and fifty yards of the pit, and men wore Ixiginiiing to stir for milking, bird-minding, and stable-cleaning, there were no cries for help heard, notwithstanding Mary Ashford was a vigorous and robust girl in the prime of life.
+It was also clear that the deceased could have thrown herself from the bank six feet high into the water. There was no sign of a struggle near the pit, and although there were two labourers' houses within a hundred and fifty yards of the pit, and men wore Ixiginiiing to stir for milking, bird-minding, and stable-cleaning, there were no cries for help heard, notwithstanding Mary Ashford was a vigorous and robust girl in the prime of life.
 
 The prisoner's conduct after leaving Mary Ashford was quiet and straightforward. He got home about five. He then changed his black coat for a damson-coloured one, but did not change his shoes or stockings, though the former were wet. When arrested at Ion o'clock, he at once confessed he had spent the night with Mary Ashford, but said lie had left her near Butler's, and gone home after having waited five minutes for her on Erdington Green. There was nothing to impugn this statement, and Thornton was acquitted by the jury.
 

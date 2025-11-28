@@ -10,7 +10,7 @@ OLD STORIES RE-TOLD. MUTINIES IN THE NAVY.
 
 The year after Lord Bridport's victory over the French, great and just discontent prevailed among the sailors of our fleet. Lord-Chathan? seems to have been a blundering First Lord, and his successor, Lord Spencer, a mischievous one.
 
-As early as 1794, the seamen had had many grievous causes of complaint. They were treated rather as oxen pe ‘up for the butcher than as human beings, Wi ts to feel, and brains to resent, injustice.- That terrible old Tartar, Lord St. Vincent, had once kept our fleet at sea, blockading Brest, for one hundred and three days. Long after this, Nelson watched off Toulon tor thirty months, only going on shore, in that period, three times—an hour each time. These tedious blockades, so ruinous to ships and so exhausting to sailors, who, perhaps, half the time, had scanty provisions and insufficient sleep, were strongly disapproved of by Lord Howe, and afterwards by Lord Nelson.
+As early as 1794, the seamen had had many grievous causes of complaint. They were treated rather as oxen pe ‘up for the butcher than as human beings, Wi ts to feel, and brains to resent, injustice.- That terrible old Tartar, Lord St. Vincent, had once kept our fleet at sea, blockading Brest, for one hundred and three days. Long after this, Nelson watched off Toulon for thirty months, only going on shore, in that period, three times—an hour each time. These tedious blockades, so ruinous to ships and so exhausting to sailors, who, perhaps, half the time, had scanty provisions and insufficient sleep, were strongly disapproved of by Lord Howe, and afterwards by Lord Nelson.
 
 Another cause of complaint in the navy was the capricious and purposeless transfer of crews from one vessel to another. Lord Nel-
 

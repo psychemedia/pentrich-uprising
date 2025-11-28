@@ -70,7 +70,7 @@ The Defendant in this case was convicted at the Assizes for Nottingham, before M
 
 The Jury, without hesitation, found the defendant—*Guilty.*
 
-Mr, Denmnan, on the part of the defendant, had since applied for and obtained a rule for a new trial, on the two first grounds, and the additional one of mis-direction on the part of the Learned Judge, who, he contended, had directed the Jury that they were at liberty to impart their own knowledge into the case, as operating against the defendant.
+Mr. Denman, on the part of the defendant, had since applied for and obtained a rule for a new trial, on the two first grounds, and the additional one of mis-direction on the part of the Learned Judge, who, he contended, had directed the Jury that they were at liberty to impart their own knowledge into the case, as operating against the defendant.
 
 The Attorney General, Mr. Sergeant Vaughan, and Mr. Reader, this day argued against the rule being made absolute.
 
