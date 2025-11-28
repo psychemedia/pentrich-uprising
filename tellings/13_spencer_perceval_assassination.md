@@ -13,6 +13,71 @@ LONDON, MONDAY, MAY 11.
 MR PERCEVAL was SHOT DEAD at half past five this evening in the House of Commons. It is said the Assassin was a Liverpool Merchant. The place is all confusion. The doors were instantly secured, and no person suffered to leave the house. The Assassin was taken with the pistol in his hand. He confessed the deed. His name, he said, was John Jas. Bellingham. Mr. Perceval was shot through the heart, and expired instantly. The Assassination took place in the Lobby. The House of Commons adjourned immediately. They are now examining Witnesses in the Strong Room. Mr. Dowling, who took the pistol from the Assassin, is under examination. The Assassin said his case was well known—it was a denial of justice. The Lords also closed their doors, and proceeded to deliberate on the subject. Mr. Perceval only lived long enough to cry out—Murder! Murder!!" The Assassin did not attempt to escape.—*Globe Office, Six o'clock.*
 
 
+https://britishnewspaperarchive.co.uk/viewer/BL/0000488/18120530/009/0003?browse=true
+Lancaster Gazette - Saturday 30 May 1812
+
+*Curious Coincidence.* — *Dumfries, May 19*. One dark and mysterious circumstance, connected with the assassination of the Prime Minister, we cannot omit to mention, as, however strange and unaccountable it may appear, we can safely *pledge our own credit*, and we are authorised to pledge the credit of *a much respected and highly judicious clerical friend*, in vouching for its truth. On the night of Sunday the 10th inst. 24 hours *before the fatal deed was perpetrated*, a report was brought, it is not yet known from what quarter, to Bridekirk, a village about two miles from Annan, *that Mr. Perceval was shot, in his way to the House of Commons, at the door or in the Lobby of that House*.
+
+This most remarkable fact the whole of the inhabitants of that village are ready to attest, as the report quickly spread, and became on Monday the universal topic of conversation. The Clergyman to whom we have alluded, and who allows us to make use of his name, is Mr. Yorstoun, Minister of Hoddom. This gentleman, with a laudable zeal, went to the spot, and carefully investigated the rumour, with a view of tracing it to its source, but has not hitherto been successful, although he has obtained the most satisfactory proof of its having existed at the time we have mentioned—*Dumfries and Galloway Courier.*
+
+*Extraordinary Coincidence*—In Ihe Law List for 1812, page 209, is the following statement (ver-batim) under the head of  
+"COURT OF EXCHEQUER."
+
+"Chancellor — Right Hon. Spencer Perceval."  
+"Sec. to the Chancellor, Sir wW. Bellingham, Kt."
+
+The name of "Bellingham" occurs in the print exactly as it does above, immediately under that of Perceval.
+
+There is a singular passage in Moore's Almanack for the present year, which may gratify the curiosity of our readers. After stating the unfavourable position of the Planets at the end of the Spring quarter, it says, "that their opposition may tend to frustrate the ablest designs for the public service, if not hasten the death of some great man. We are indeed, fallen in evil days."
+
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000488/18120530/002/0004
+Lancaster Gazette - Saturday 30 May 1812
+
+FOR THE LANCASTER GAZETTE. ON THE ASSASSINATION OF THE Right Honourable SPENCER PERCEVAL.
+
+To heave the sigh when Friendship's cheering ray  
+For ever sets In Death's impervious gloom,  
+To mourn when Beauty leaves the cheerful day  
+To moulder in the confines of the tomb;
+
+May rouse the feelings of the gen'rous heart,  
+And teach the soul on Fancy's wings to fly  
+To realms of bliss, where friends no more may part,  
+Wheie Beauty's roseate charms may never die:
+
+What anguish, then, must wring the feeling breast,  
+When falls the good, the generous, and humane,  
+The hope, the refuge of the poor, distrest,  
+Whom Want and Misery sued, nor sued in vain.
+
+Such was the man in private life belov'd,  
+Whom base Assassination made its prey:  
+Such was the man whose life, by all approv'd,  
+Vile Belingham, infuriate, took away.
+
+In thee, O Perctal, the nation view'd  
+The Statesman's ardour aud the Patriot's fire,  
+Thy honest heart with steady aim pursued  
+Whate'er the Country's weal seem'd to require.
+
+Within those sacred walls, where oft thy tongue  
+Was heard with manly eloquence replete,  
+Where crowds attentive on thy accents hung,  
+The stern Assassin urg'd the stroke of fate.
+
+Ah! who may tell the sorrow that ensued—  
+The Widow's wail, the Orphan's piteous cry—  
+Griev'd, tho' the Husband, Father, now pursued  
+His trackless path to realms beyond the sky.
+
+This be the final wish:— May Britain ne'er  
+Produce a monster, Bellingham, like thee!  
+May Ministers like Percival appear,  
+From Pride, Ambition,and Corruption free!
+
+May 25, 1812. PHILOTAS.
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18120512/006/0003
 Morning Chronicle - Tuesday 12 May 1812
 
