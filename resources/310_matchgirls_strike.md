@@ -9,8 +9,9 @@ In 1845, Hans Christian Anderson, creator of literary fairy tales, published "Th
 
 Just over 40 years later, the tale was recalled in a *tableaux vivant*...
 
-At the same time, in the Bryant & May factory, matchgirls on the the production side...
+At the same time, in the Bryant & May factory, matchgirls on the production side... lives no easier.. phossy jaw...
 
+Ads for rival matches, eg in religious papers [search: /"phossy jaw" matchgirls/] https://britishnewspaperarchive.co.uk/viewer/bl/0004803/18920729/129/0009
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000098/18880515/022/0010
 Pall Mall Gazette - Tuesday 15 May 1888
@@ -31,6 +32,49 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000321/18880707/006/0002
 Nottingham Evening Post - Saturday 07 July 1888
 
  The Bryant and May strike may attract good deal of attention before the matter is ended. The millionare Bryants of this firm are Gladstonians, philanthropists, and social reformers. As a rule, Mr. Stead, of the *Pall Mall Gazette*, may be taken as a prophet of their particular section of the community. The *Pall Mall*, however, seems to have raised a hornet's nest about the heads of Messrs. Bryant and May which has ended in a strike. Conflicting stories are in circulation as the cause. The *Pall Mall* asseverates that the strike in question is to be attributed to the discharge of some girls who were alleged to have made revelations to some of the Social Reform people who in other matters act with the heads of the firm. At the present moment feeling is running very high the subject in the East End.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18880707/073/0004
+Echo (London) - Saturday 07 July 1888
+
+THE MATCHGIRLS' STRIKE. WORK NOT RESUMED.
+
+ Several of the girls mow out en strike at Bryant and May’s applied this morning to be allowed to resume work, but were told that the factory would not resume work to-day. So vast are the resources of the establishment, so large is the stock already manufactured, that it is stated not a single order would be delayed if the hands did not enter the factory for another month to come. The agitation has not only affected the girls, but a larger number of boys and sowe of the men have necessarily been thrown out of employment by the stoppage of one department. Fairfield-road, where the works are situate, is a turning out of the Mile-end-road, and faces a police-station. At the corner of Fairfield-road there assembled shortly before mine o’clock a little knot of girls and boys, the former bearing an unmistakable factory appearance. They discussed among themselves the probabilities of the future, whether they should er should not "go in" on Monday, and the very necessary query was also put one to the other, "Who's going to keep us while we're out." No decision, was, however, come to.
+
+HARANGUED BY SOCIALISTS.
+
+ Then the girls—about fifty in all—sallied off to a rendezvous outside the Great Assembly Hall, Mile-end-road, where it was said a meeting was to be held. Here a miscellaneous group gathered round three Socialists, woo, in consequence of the noise of the traffic continually passing the stone thoroughfare, were unable to make themselves heard save to & small group of admiring boys crowding round the only platform—a chair. The harangues were of the most violent character, while certain specially choice epithets were reserved for the firm whose "delinquencies" were being discussed. In order to get an impartial history of the strike, our representative made an exhaustive inquiry, not only of the girls and boys who were employed at the factory, but also of one of the directors—comfortably ensconced in the office of Bryant and May. 
+
+THE GRIEVANCES OF THE GIRLS.
+
+ The girls had many grievances to relate. The stories told by one were not always confirmed by a sister worker, an inclination to exaggeration being manifest. On one theme they were more unanimous?that had reference to the assertion that a system of fines exists to the prejudice of the workers. ??So much is deducted for the use of the machines?that is, those who are on piece ?? remarked one girl, with an enormous feather in her hat and an untidy Piccadilly fringe nearly covering a naturally low forehead. ??Then we are fined 1d. for broken match boxes, which we can?t help sometimes ? ; *? And if they catches alight,? interposed another worker, with an intelligent Jewish-typed face,'?we're fined 6d.? Then she added, * Two of us girls got the * sack? because we left some matches on the bernch.? THE ?? PHOSSY JAW '? EXPLAINED, ~ ?Tell him, Liz, about them as has the ? phossy jaw,? "? interpesed a dark little chap, presumably a brotker. Though by no means diffident, the little Jewish beauty showed an evident reluctance {o explain what & ? phossy jaw?? meant. *?lt?s just this, Sir,? remarked a lad with an abnormally pale face?no East-end boy could have - exhibited & countenance more deathlike. **Once you has a phossy jaw ?on never gets over it. The jaw arter a bit drops right out, and???(the sentence was completed by a match-making wit standing by)?'? the chap as has it goes to Mile-end Cemetery.? **Well, you see what this phossy jaw is.?? Onr reporter nodded. ** It comes from a smellin? the phosphorus as it biles. Supposing you has the toothache, and the tooth is a bit holler. Well, the phosphorus gets in, and by-and-bye, you has a place about the size of this,? and the lad roughly indicated, by his hands, making gyrations around his head, a swelling about the dimensions of a half-pint measure; *? That's what we calls a phossy jaw. As soon as a chap or & gal gets that they has to go home.? 
+
+BOY-DIPPER EARNING 11s. 6d. A WEEK.
+
+One lad, when cross-examined, admitted that his wages were 11s. 6d. a week—the boy was about 14 years of age. "But them I'm a dipper, and dippers get more'n the ether hands. The men dippers get 21s. a week." The girls declared they were fined for various reasons—for breaking match-boxes when putting them in the machine; fer burnt matches (this mishap, some of the workpeople declared, could not be avoided, as they would light spontaneously before being finally dipped); for going into parts of the factory where they were not employed (especially where male members of the stall were engaged), and for other reasons.
+
+THE OTHER SIDE.
+
+Thinking it only fair to "hear the other side," our representative called at Messrs. Bryant and May’s factory, where he was courteously received by one of the directors of that limited company. That gentleman, who said he did not desire the publicity of his name, gave his assurance that nearly all the statements hitherto publicly made were grossly exaggerated, and many of them utterly devoid of truth. When the first sign of disaffection was manifested, some of the girls had an interview with the manager, and when questioned as to what their grievance was they
+
+COULD NOT SAY
+
+of what they had to complain. The alteration in the scale of wages commenced two years ago. Special machinery was then introduced, and what was then done by one person is new done by two, owing to the sub-division of labour necessary to carry out the detailed work necessitated by the adoption of mechanical means. Before the altered scale, the average rate for filling the boxes was 3d. a "duck"—a tecnmical term well known in the factory—but when the machines came in operation the price was reduced to 2 3/4 d. a ““duck.” (A duck is a tray for containing the boxes after they are filled.)
+
+THE PAY—11s. A WEEK.
+
+“But this reduction," explained the director, "was really for the benefit of the workpeople. They got less per 'duck,' but the increased facilities enabled them to do mere work in a given time. Our wages' book will show that our people are paid far more than is the case elsewhere. The average pay per head—taking the girls and the boys—is 11s. a week. The 'frames' now are filled automatically. The girls have merely to watch the machines."
+
+THE STATUE—~THE DIRECTOR’S DENIAL.
+
+Explaining the "bronze statue affair," the directer said there was not a word of truth in the assertion that it was paid out of the fines of the workpeople. He added, "Mr. Theodore Bryant, who instituted that statue, has net been connected with this company for six years at least." As to the fines, our representative was assured that they were only such as were of necessity imposed in large establishments where discipline was essential.
+
+"DISPUTE BY NO MEANS GENERAL."
+
+The dispute, he concluded, was by no means of a general character, and had evidently—so he remarked—"Been got up outside by one or two insignificant agitators whose time might be better employed." He added that the whole agitation was a cruel business for the workpeople, as a large number had been thrown out of employment by the action of a few.
+
+By the way, it is worth noting that the directors declared that instances of "phossy jaw" were now very rare, amd were nearly always attributable to want of cleanliness on the part of the workpeople.
+
+A meeting to protest against Bryant and May's treatment of their match-girls will be held on Mile-end Waste on Sunday morning, at 11.30, to be addressed by Annie Besant, Rev. Stewart Headlam, and Herbert Burrows.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001631/18880709/076/0003
 Belfast Telegraph - Monday 09 July 1888
