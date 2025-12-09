@@ -2,13 +2,23 @@
 
 https://www.matchgirls1888.org/
 
+
+In 1845, Hans Christian Anderson, creator of literary fairy tales, published "The Little Match Girl".
+
+>.tale
+
+Just over 40 years later, the tale was recalled in a *tableaux vivant*...
+
+At the same time, in the Bryant & May factory, matchgirls on the the production side...
+
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0000098/18880515/022/0010
 Pall Mall Gazette - Tuesday 15 May 1888
 TABLEAUX VIVANTS AT SOUTH KENSINGTON.
 
- The Anglo-Danish Exhibition and Fete was formally opened yesterday. In a wooden theatre erected in the grounds it has been arranged to give daily a series of tabieazuxr viatnis, suggested by the fairy tales of Hans Christian Andersen; and Mr. Savile Clarke has undertaken to direct the performances. Of these the firs. was given last night befoie a specially invited company that included the Duke of Cambridge and the Prince Karl ofDenmark. The structure accommodates a thousand people, and although its holding capacity is not likely to be put to the test, there is no doubt but that this novel feature of the Exhibition will be popular, especially with children. Last night illustrations were given of five of Andersen's tales-"The Little Match-girl,;' "The Emperor's New Clothes," "Tommelise," "The Swineherd," and "The Marsh-King's Daughter,"' in which characters were represented by Misses Winning, Bowman, Thornton, and Messrs. Ettinson, Norton, and Little, supported by groups of courtiers, citizens, peasants, or fairies. Occasionally choruses were introduced to add to the poetical effect of the pictures. If these did not in all cases tell much of a story, they were unexceptionable on the score of beauty, and would have borne a longer inspection than the few seconds during which they remained visible.
+ The Anglo-Danish Exhibition and Fete was formally opened yesterday. In a wooden theatre erected in the grounds it has been arranged to give daily a series of *tableaux vivants*, suggested by the fairy tales of Hans Christian Andersen; and Mr. Savile Clarke has undertaken to direct the performances. Of these the firs. was given last night before a specially invited company that included the Duke of Cambridge and the Prince Karl ofDenmark. The structure accommodates a thousand people, and although its holding capacity is not likely to be put to the test, there is no doubt but that this novel feature of the Exhibition will be popular, especially with children. Last night illustrations were given of five of Andersen's tales-"The Little Match-girl,;' "The Emperor's New Clothes," "Tommelise," "The Swineherd," and "The Marsh-King's Daughter,"' in which characters were represented by Misses Winning, Bowman, Thornton, and Messrs. Ettinson, Norton, and Little, supported by groups of courtiers, citizens, peasants, or fairies. Occasionally choruses were introduced to add to the poetical effect of the pictures. If these did not in all cases tell much of a story, they were unexceptionable on the score of beauty, and would have borne a longer inspection than the few seconds during which they remained visible.
 
-Little Match girl 1845
+
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001485/18880706/068/0011
 St James's Gazette - Friday 06 July 1888
