@@ -3,6 +3,8 @@
 https://www.matchgirls1888.org/
 
 
+## Matchgirls — match sellers
+
 In 1845, Hans Christian Anderson, creator of literary fairy tales, published "The Little Match Girl".
 
 >.tale
@@ -19,6 +21,30 @@ TABLEAUX VIVANTS AT SOUTH KENSINGTON.
 
  The Anglo-Danish Exhibition and Fete was formally opened yesterday. In a wooden theatre erected in the grounds it has been arranged to give daily a series of *tableaux vivants*, suggested by the fairy tales of Hans Christian Andersen; and Mr. Savile Clarke has undertaken to direct the performances. Of these the firs. was given last night before a specially invited company that included the Duke of Cambridge and the Prince Karl ofDenmark. The structure accommodates a thousand people, and although its holding capacity is not likely to be put to the test, there is no doubt but that this novel feature of the Exhibition will be popular, especially with children. Last night illustrations were given of five of Andersen's tales-"The Little Match-girl,;' "The Emperor's New Clothes," "Tommelise," "The Swineherd," and "The Marsh-King's Daughter,"' in which characters were represented by Misses Winning, Bowman, Thornton, and Messrs. Ettinson, Norton, and Little, supported by groups of courtiers, citizens, peasants, or fairies. Occasionally choruses were introduced to add to the poetical effect of the pictures. If these did not in all cases tell much of a story, they were unexceptionable on the score of beauty, and would have borne a longer inspection than the few seconds during which they remained visible.
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0000629/18860403/065/0003
+Bradford Daily Telegraph - Saturday 03 April 1886
+
+ONLY LITTLE MATCH-GIRL, NOT TEN YEARS OLD.
+
+At Worship Street on Thursday Stephen Morton Lowry, a private in the 1st West Yorkshire Regiment, was charged with feloniously taking one Susan Quinn out of the possession and against the will of her mother, and, further, with unlawfully attempting to commit an offence upon her, at Thrawl Street, Spitalflelds; Emma Sunderland, twenty-one, domestic servant, of Thrawl Street, was charged wirh suffering Susan Quinn to be and to remain on the premises, 16, Thrawl Street, for the purposes above-mentioned, contrary to the Criminal Law Amendment Act. Mrs Eunice Quinn, the mother of the girl, said that her daughter was nine and a half years of age. Mr Hannay remanded both prisoners for fuller evidence, and said be thought the Treasury would take up the prosecution.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0003880/18891218/075/0004
+Leeds Daily News - Wednesday 18 December 1889
+
+Another Match-girl's home
+
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0005593/18831226/034/0010?browse=true
+People's Friend - Wednesday 26 December 1883
+
+Nelly, the Match-girl
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000287/18870827/004/0002
+Shields Daily Gazette - Saturday 27 August 1887
+
+Destitute Children In Newcastle
+
+## Matchgirls — Factory workers
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001485/18880706/068/0011
@@ -183,6 +209,13 @@ The Commonweal v.4 1888
 
  EAST-END MATCH MAKERS.-In the Link of June 23rd there was an article by Annie Besant, entitled "White Slavery in London," containing statements as to the amount of wages which Bryant and May, the match makers, pay to their workgirls. The statements were given by some of the girls, and three, on whom suspicion has fallen, have been discharged. Annie Besant and Herbert Burrows pledged their word to the girls that if any of them were discharged in consequence of the statements made by them, their wages should be paid till they could find other work. The amount required is about eighteen shillings per week for the three, and we appeal to those of our readers who can afford to help to pay this sum to send any subscription, however small, to Annie Besant, 34, Bouverie Street, Fleet Street, E.C. She has till now received £1 from Mr. Conybeare, M.P., 10s. from another M.P., 10s. from a member of the Merchant Taylors' Company, and 5s. from Miss Mussell. A meeting of protest against Messrs. Bryant and May's action with regard to these poor girls will shortly be called in the East-end.
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0000098/18880809/017/0011
+Pall Mall Gazette - Thursday 09 August 1888
+
+A Matchgirls' Drawing Room
+
+
+
 https://archive.org/details/legalisationoffe443besa
 The legalisation of female slavery in England
 by Besant, Annie, 1847-1933
@@ -217,15 +250,31 @@ pp334-6
 
 [photo]
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0002533/18881013/015/0003
+Justice - Saturday 13 October 1888
 
-
+Matchmakers
 
 ----
 
 later....
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0004634/18920827/034/0007
-National Observer - Saturday 27 August 1892
+https://britishnewspaperarchive.co.uk/viewer/bl/0004175/18910130/032/0002
+Evening Gazette (Aberdeen) - Friday 30 January 1891
+
+The Match-Girls. In a sketch of the London match-girls, contributed to the Star, Mrs Besant writes:— Those who see half a dozen girls tramping arm-in-arm along Bow Road, and who may perhaps receive a greeting more forcible than polite as the group passes, singing loudly, if not tunefully, are apt to form very false conclusions about the girls as a class. That there are some black sheep none can deny; such are found in every flock. But the majority are good, honest, clean-living girls— bright and noisy withal, with sheer high spirits, and apt after the long confinement of the factory to stretch their limbs and shout, as young things will, but generous, straightforward, easily led by kindness though rebellious under injustice. There is among them, as everywhere among all classes, too much drinking. Where "the young lady" takes her champagne th match-girl takes her "drop": and morally, where is the distinction? A girl takes too much and is noisy in the street, and everyone says, “You see what these matchgirls are!" generalising on a whole class from a few weak members of it. Such drinking as there is, is chiefly the fault of "the lads," who treat their "girls" in the public-house. Drink is our curse down east, as elsewhere, but how merry and content matchgirls can be on nothing more exciting than tea, coffee, and cocoa may be seen at the club at Bow, founded for the use of working women by the Theosophical Society—a club much frequented by girls from neighbouring match factories.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0003406/18920129/085/0006
+Nantwich, Sandbach & Crewe Star - Friday 29 January 1892
+
+Matchmakers' disease
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004833/18930817/026/0002
+Morning Leader - Thursday 17 August 1893
+
+A Bromley Match Girl
+
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0005049/18930421/100/0007
@@ -235,12 +284,34 @@ MATCHMAKERS' UNION.
 
 A large meeting of the members of the Matchmakers’ Union was held at the Women's Club, Bow-road. The meeting bad been summoned for the special purpose of hearing an address on "Phossy Jaw" from Mr. J. Murray Macdonald, M.P. for Bow, who has lately been moving very actively in the way of attempted prevention of this peculiar form of disease. The chair was taken by Mr. Herbert Burrows, treasurer of the union. Mr. Macdonald, who was heartily received, gave a very interesting and practical address on the efforts which have lately been made to minimise the evils of "phossy jaw" among the workers in the match girls, and went carefully through the Home Secretary’s recent rules with the match-girls in order to see whether they were adequate or whether they needed amendment, He elicited the information that the issue of the rules has resulted in the conditions being considerably improved by the employers, and he stated that Mr. Asquith was, he believed, thoroughly in earnest in his wish to stop the evils arising from the use of poisonous phosphorus. A large number of people were prepared to press for the taking over of match factories by the Government if the disease could not be stopped in any other way, as had been done abroad. That, however, was a long way off, and both Mr. Macdonald and Mr. Burrows pressed upon those present the duty of doing all they could to help to carry ont the existing roles, as they could not expect the Home Secretary to make more stringent rules till he was thoroughly satisfied that the present regulations were defective through no one’s fault. Mr. Burrows, as treasurer, reported to the union a substantial balance of £500, which is mostly invested in consols.
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18931110/004/0001
+Echo (London) - Friday 10 November 1893
+
+A Box of Matches.
+
+I. The Match-box
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18931117/004/0001
 Echo (London) - Friday 17 November 1893
 
+A Box of Matches.
+
+II. Matches and their Makers
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18940410/046/0003
+Echo (London) - Tuesday 10 April 1894
+
+THIS DAY’S POLICE.
+
+THE MATCH-GIRLS' STRIKE.
+
+At the Thawmes Police-court to-day Annie Sheeban, 23, of Barchester-strcet, Poplar, and Margaret M‘Carthy, 28, of the same address, matchmakers, lately in the employ of Messrs. Bell and Co., match manufacturers, surrendered to their bail to answer a charge of intimidating Emily Cakebread. The main facts have been already reported. In reply to questions, the prosecutrix now said it was the first occasion on which prisoners had annoyed her.—Mr, Mead considered there was a case for a jury, and said that both the prisoners would, be committed for trial.
+
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18941029/051/0003
 Echo (London) - Monday 29 October 1894
+
+Sermons / Canon Wilberforce
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002289/18941103/026/0004
 Millom Gazette - Saturday 03 November 1894
@@ -250,17 +321,34 @@ ONE more quotation and we have done with sermons. The last clerical utterance we
 https://britishnewspaperarchive.co.uk/viewer/bl/0004833/18950712/063/0005
 Morning Leader - Friday 12 July 1895
 
+Points against the candidature...
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18951207/084/0004
+Echo (London) - Saturday 07 December 1895
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0006032/18980507/059/0021
+Street hawkers
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0006032/18980507/059/0020
 African Critic - Saturday 07 May 1898
+
+Industrial murder
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001975/18980629/099/0007
+Northwich Guardian - Wednesday 29 June 1898
+
+Princess Christian and the Match-girls
+
+
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000540/18980715/155/0009
 The Scotsman - Friday 15 July 1898
 
+Messrs Bryant and May and their work-people
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001962/18980716/118/0005
 Tower Hamlets Independent and East End Local Advertiser - Saturday 16 July 1898
+
+The Bow Match Girls
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000183/18980715/022/0003
@@ -280,6 +368,8 @@ July 14. M.8., M.R.C.P.
 https://britishnewspaperarchive.co.uk/viewer/bl/0000329/18980722/119/0004
 Western Morning News - Friday 22 July 1898
 
+Although the tendency of public life ...
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18980722/163/0004
 Leeds Mercury - Friday 22 July 1898
 
@@ -288,24 +378,32 @@ The Home Secretary does not think is a case for prohibiting the use of yellow ph
 https://britishnewspaperarchive.co.uk/viewer/bl/0000051/18980722/018/0004
 Daily News (London) - Friday 22 July 1898
 
+Phosphorous in matches
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0001578/18980730/093/0025
 Illustrated London News - Saturday 30 July 1898
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002232/18980804/032/0009
+A whole series of meetings...
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002232/18980804/032/0008
 Woman's Signal - Thursday 04 August 1898
 
+Factory inspectors (esp p9)
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000336/18980820/022/0004
 Leeds Times - Saturday 20 August 1898
 
+Phossy Jaw
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18980929/016/0003
 Morning Post - Thursday 29 September 1898
 
+Employers' Responsibilities
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002242/18990901/023/0013
 Young Woman - Friday 01 September 1899
 
+In Danger of Death
 
 
 
