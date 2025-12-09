@@ -220,6 +220,91 @@ pp334-6
 
 
 
+----
+
+later....
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004634/18920827/034/0007
+National Observer - Saturday 27 August 1892
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0005049/18930421/100/0007
+London Daily Chronicle - Friday 21 April 1893
+
+MATCHMAKERS' UNION.
+
+A large meeting of the members of the Matchmakers’ Union was held at the Women's Club, Bow-road. The meeting bad been summoned for the special purpose of hearing an address on "Phossy Jaw" from Mr. J. Murray Macdonald, M.P. for Bow, who has lately been moving very actively in the way of attempted prevention of this peculiar form of disease. The chair was taken by Mr. Herbert Burrows, treasurer of the union. Mr. Macdonald, who was heartily received, gave a very interesting and practical address on the efforts which have lately been made to minimise the evils of "phossy jaw" among the workers in the match girls, and went carefully through the Home Secretary’s recent rules with the match-girls in order to see whether they were adequate or whether they needed amendment, He elicited the information that the issue of the rules has resulted in the conditions being considerably improved by the employers, and he stated that Mr. Asquith was, he believed, thoroughly in earnest in his wish to stop the evils arising from the use of poisonous phosphorus. A large number of people were prepared to press for the taking over of match factories by the Government if the disease could not be stopped in any other way, as had been done abroad. That, however, was a long way off, and both Mr. Macdonald and Mr. Burrows pressed upon those present the duty of doing all they could to help to carry ont the existing roles, as they could not expect the Home Secretary to make more stringent rules till he was thoroughly satisfied that the present regulations were defective through no one’s fault. Mr. Burrows, as treasurer, reported to the union a substantial balance of £500, which is mostly invested in consols.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18931117/004/0001
+Echo (London) - Friday 17 November 1893
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18941029/051/0003
+Echo (London) - Monday 29 October 1894
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002289/18941103/026/0004
+Millom Gazette - Saturday 03 November 1894
+
+ONE more quotation and we have done with sermons. The last clerical utterance we wish to direct attention to is that by Canon Wilberforce at St. John's, Westminster. In a remarkable address he said "He who led his own selfish life, who cared not for the brother who was sweated to death or poisoned by the noxious air in which he worked; he who was content that the match-girl should be half-starved and die of the agonies of 'phossy jaw'  whilst the company cynically distributed 28 per cent.; he who in his lifetime amassed several millions, whilst his employees could scarcely make both ends meet, and could make no provision for old age; he who had no thought for the thousands who lived wretched, joyless lives, was guiltily acquiescing in the causes that made for the misery of the many. An answer would be demanded here or at the Day of Judgment, 'Where is thy brother?'"
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004833/18950712/063/0005
+Morning Leader - Friday 12 July 1895
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0006032/18980507/059/0021
+African Critic - Saturday 07 May 1898
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000540/18980715/155/0009
+The Scotsman - Friday 15 July 1898
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001962/18980716/118/0005
+Tower Hamlets Independent and East End Local Advertiser - Saturday 16 July 1898
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000183/18980715/022/0003
+London Evening Standard - Friday 15 July 1898
+
+EAST LONDON MATCH-GIRLS.
+
+TO THE EDITOR OF THE STANDARD
+
+ Sir, — Allow me to corroborate Mr. Hare's account of the workpeople, and especially the girls and women, employed by Messrs. Bryant and May. A few years ago the question of "phossy jaw" was agitated in the papers, and I made some investigations into the subject. visiting Messrs. Bryant and May's among other places. I found the condition of the workwomen exactly what Mr. Hare describes. The match-girls are the very pick of the East-end workers, envied by others on account of the good wages they earn, and much in request by the young men. I saw them at work, and entered into conversation with some of them. I can only say that I never saw workpeople so happy and contented, or — for East-enders— so healthy. They deprecated the interference of agitators, and said they were very well if people would only let them alone. At the same time, their standard of comfort and health is not very high, and I sympathise with any efforts to raise it. I came to the conclusion, as the result of my inquiries, that phosphorus poisoning is very rare, and, when it occurs, it is almost always due to the slovenly and careless conduct of the sufferer.
+ 
+ I need hardly say I have no connection with Messrs, Bryant and May, or with any other employer.
+ 
+ I am, Sir, your obedient servant,  
+July 14. M.8., M.R.C.P.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000329/18980722/119/0004
+Western Morning News - Friday 22 July 1898
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18980722/163/0004
+Leeds Mercury - Friday 22 July 1898
+
+The Home Secretary does not think is a case for prohibiting the use of yellow phosphorous in making matches has been made out. Such, in effect, is his reply to an influential deputation, chiefly composed of ladies, introduced to him yesterday at the Home Office by Mr. Burdett-Coutts, MP. Why the ladies were so numerous was because the health of a body of their of their working sisters was at stake. The necessity for intervention in their defence is pressing, and is hardly open to contention. The fact, mentioned by Mr. Burdett-Coutts, that in one large and well known manufactory alone there had, since 1893, been seventeen cases of phosphorus poisoning, six of which had resulted in a horrible death, needs no comment to give it force. How many of the poor sufferers endure the disease in silence can only be conjectured, for leading manufacturers have hushed up cases of what is known as "phossy-jaw" whenever it was possible to do so. Hence the inspectors have often been baffled in their efforts to save the match-girl from a horrible death. The ascertained facts of the deadly dangers which attend ordinary match-making justified the deputation in asking that some conditions or regulations of the manufacture should be devised which should make impossible this fearful disease among the women and girls employed. The investigations which had been held made three things clear, said Mr. Burdett-Coutts—"First, that there was used in the manufacture of non-safety, or 'strike-anywhere' matches, the white or yellow phosphorous, the fumes of which were poisonous, as contrasted with the red phosphorus, which is non-poisonous. Secondly, that the regulations for inspection, or the conditions under which inspection was made, had been proved to be such that they could be readily evaded and defied. Thirdly, that if the offenders were discovered in such violation of the rules and convicted, the penalty of £20 was utterly insufficient, and probably no penalty that legislation could inflict would be sufficient to deter a great and rich firm from pursuing their trade in a manner which would make the largest dividends." These considerations fortified the deputation in asking for the the total abolition of the use of yellow phosphorous in the making of matches and the forbidding of the importation of phosphorus matches into this country. The suggestion made by Baroness Burdett-Coutts and Lady Portsmouth that women inspectors should be appointed to watchover the welfare of the match-girl is an excellent one, which found favour with Sir Matthew White Ridley— almost the only one that did. At present he is awaiting reports on the conditions of match-making at home and abroad, before forming a final opinion on the subject. So far as the inquiry has gone, the Home Secretary’s remarks support the inference that he regards the evil caused by the use of yellow phosphorus as due in large measure to defective structural conditions of the factory, instancing America, where in the case of many factories "phossy-jaw" is unknown. Sir Matthew White Ridley shrank from entertaining the idea of a total prohibition of yellow phosphorous, for he conjured up Parliamentary difficulties, the ruin of match-making firms, and the throwing of many workpeople out of employment, as a result of what he regarded as a very strong measure. As preventive measures, the Home Secretary laid stress upon better ventilation of factories and periodical examination of the teeth of the work-people. He attempted to soften his refusal of the request for total prohibition by informing the deputation that he hoped to be in a position soon to frame a special rule which would make the use of yellow phosphorous innocuous. With this somewhat vague statement the deputation must be content for the present.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000051/18980722/018/0004
+Daily News (London) - Friday 22 July 1898
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001578/18980730/093/0025
+Illustrated London News - Saturday 30 July 1898
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002232/18980804/032/0009
+Woman's Signal - Thursday 04 August 1898
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000336/18980820/022/0004
+Leeds Times - Saturday 20 August 1898
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18980929/016/0003
+Morning Post - Thursday 29 September 1898
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002242/18990901/023/0013
+Young Woman - Friday 01 September 1899
 
 
 
