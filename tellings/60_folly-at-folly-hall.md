@@ -103,7 +103,7 @@ Ahier cites one of his sources for the tale of the "Folly Hall Fight" as an arti
 A longer excerpt from the article provides some further colour about the affair, as well as an insight into the early water supply to the town in the 1850s.
 
 ```{admonition} Huddersfield Seventy Years ago, 1878
-:class: seealso
+:class: seealso dropdown
 *Huddersfield Examiner (31/May/1878) - Huddersfield Seventy Years Ago: No. II*
 https://huddersfield.exposed/wiki/Huddersfield_Examiner_(31/May/1878)
 
