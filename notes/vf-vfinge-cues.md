@@ -30,7 +30,7 @@ __MONTY SITS DOWN__
 
 1  
 COME, CROPPER LADS OF GREAT RENOWN,  
-WHO LOVE TO DRINK GOOD ALE THAT’S BROWN,  
+WHO LOVE TO DRINK GOOD ALE THAT'S BROWN,  
 AND STRIKE EACH HAUGHTY TYRANT DOWN,  
 WITH HATCHET, PIKE AND GUN.
 
@@ -60,7 +60,7 @@ WITH HATCHET, PIKE AND GUN.
 
 For the second attack, a toss up between William Cartwright's mill at Rawfolds, and Horsfall's mill in Marsden.
 
-They chose Cartwright's. This time, the Huddersfield men would meet at Dumb Steeple, not far from Hartshaead Moor services on the M62 today, then march on William Cartwright's water-powered Mill at Rawfolds.
+They chose Cartwright's. This time, the Huddersfield men would meet at Dumb Steeple, not far from Hartshead Moor services on the M62 today, then march on William Cartwright's water-powered Mill at Rawfolds.
 
 4  
 GREAT ENOCH HE SHALL LEAD THE VAN,  
