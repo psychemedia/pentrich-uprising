@@ -57,7 +57,7 @@ Such was the man whose life, by all approv'd,
 Vile Belingham, infuriate, took away.
 
 In thee, O Perctal, the nation view'd  
-The Statesman's ardour aud the Patriot's fire,  
+The Statesman's ardour and the Patriot's fire,  
 Thy honest heart with steady aim pursued  
 Whate'er the Country's weal seem'd to require.
 
