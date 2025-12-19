@@ -4,7 +4,7 @@ March, 1812. The discontent that had been manifest in and around Nottinghamshire
 
 Hon. Baron Thompson and Sir Simon Le Blanc, Knt., Justice of His Majesty's Court of King's Bench
 
-```{admonition} TO DO
+```{admonition} The Influence of Bad Example, March 1812
 :class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120314/008/0003
@@ -27,10 +27,8 @@ The Bill against James Shaw, of Leeds, clothdresser, charging him with having di
 
 ```
 
-
-
-
----
+```{admonition} The Roots of a Dangerous Conspiracy, January 1812
+:class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18120120/023/0003
 Leeds Intelligencer - Monday 20 January 1812
@@ -48,8 +46,11 @@ On the alarm the Scots Greys hastened to guard the property, and thousands thron
 The day—the time of the day—the spirit which is afloat, stamp this as the act of incendiaries. It may not be so; we hope it is not so: but the general opinion goes against our probability and our hope.
 
 Under such misfortunes, there is a satisfaction, which every provident man ought to secure himself; we are happy to say that the proprietors have in this instance secured it, *the property is fully insured*.
+```
 
----
+```{admonition} Liberated Without Trial, March 1812
+:class: dropdown
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002634/18120320/016/0005
 London Chronicle - Friday 20 March 1812
 
@@ -57,3 +58,4 @@ Also in: https://www.britishnewspaperarchive.co.uk/viewer/bl/0002131/18120321/01
 
 JAMES SHAW, the man apprehended at Leeds on the night of Wednesday the 15th of January with his face disfigured, was last week liberated from York Castle without trial, the Grand Jury having thrown out the bill. His offence did not come under the provisions of the black act; which requires not only that the face of the offender should be blacked, but that he should also be armed with "swords, fire-arms, or other offensive weapons." It must not be supposed, from this acquittal, that the laws are unequal to the punishment of those who assemble for the destruction of the property of their neighbours. This would be a dangerous supposition, and might lead to most fatal consequences. The laws are fully equal to the punishment of the guilty—but this particular statute did not apply to SHAW'S case; and in a country where law is not made to bend to expediency, a prisoner will always enjoy the advantage of any such variation, between the charge and the offence, as the humane discrimination of the Judge enabled him on the present occasion to point out.
 
+```
