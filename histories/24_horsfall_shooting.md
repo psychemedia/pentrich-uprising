@@ -2,6 +2,8 @@
 
 In the aftermath of an unsuccessful Luddite attack on the mill of William Cartwright, at Rawfolds near Cleckheaton, during which at least two of the Luddites suffered mortal injuries, George Mellor came to the conclusion that the man, rather than the mill, should be the focus of their attention.
 
+## Several Shootings
+
 Just over a week later, shots were fired at Cartwright, albeit without injury to him or his horse, as he made his way home from Huddersfield.
 
 ```{admonition} Cartwright Assassination Attempt, April 1812
@@ -159,9 +161,15 @@ On Tuesday, in the House of Commons, Lord Stanley moved that the Petitions from 
 It is said, that Special Commissions will be issued for trying the rioters, and others engaged in the late tumults in Cheshire and Lancashire.
 ```
 
+Although unconnected with the Luddite troubles, another shooting, again with fatal consequence, would also shock the country — the assassination of the Prime Minister, Spencer Percival, in the palace of Westminster, on May 11th, 1812 — *but that is another story altogether...*
+
+## Chinese Whispers
+
+TO DO - secret committee report brief mention?
+
 The news of a woman being assaulted to prevent her from providing information to the Magistrates about some unstated Luddite activities also appears to have taken on the nature of Chinese whispers, even finding its way into the report of the Secret Committee convened to investigate the disturbances...
 
-```{admonition}
+```{admonition} TO DO
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120721/005/0002
 London Courier and Evening Gazette - Tuesday 21 July 1812
@@ -176,6 +184,7 @@ from the Secret Committee appointed to enquire into the late disturbances.
 ...
 
 ```
+
 ```{admonition} Errors in the Secret Committee Report, August 1812
 :class: dropdown
 
