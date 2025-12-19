@@ -440,6 +440,70 @@ On Tuesday 5th May 1812, the Government announced that it was bringing in new le
 
 
 https://archive.org/details/parliamentarypa146commgoog/page/n199/mode/1up?q=%22Framework+Knitters%22
-Report from Committee on FrameWork Knitters
+Report from Committee on FrameWork Knitters Petitions, 27 May 1812.
 
-Notts folk had submitted petitions and were trying to gwt a bill to regulate their trade, deny truck payments etc. That as much as the capital sentence bill possibly had as much to do with quelling violence?
+Notts folk had submitted petitions and were trying to get a bill to regulate their trade, deny truck payments etc. That as much as the capital sentence bill possibly had as much to do with quelling violence?
+
+
+REPORT.
+
+The select COMMITTEE appointed to take into Consideration the several Petitions, which have been presented to this House, in this Session of Parliment, by the Persons employed in the Framework-Knitting Trade; to examine the Matters thereof, and report the same, with their Observations thereupon, to The House; — and who were empowered to report the Minutes of the Evidence taken before them; — Have considered the Matters to them referred; and have agreed upon the following REPORT:
+
+YOUR Committee proceeded immediately to examine the Witnesses produced by the Petitioners, and to enquire into the causes of the Abuses complained of by them.
+
+Your Committee have heard evidence from many Workmen, and from one Hosier; and, as far as they can judge from this evidence, many fraudulent practices and abuses do exist: to remedy which, nothing less than the interference of the Legislature will be competent.
+
+Your Committee observe, that a Royal Charter was given to the Framework-Knitters Company, by King Charles the Second, in the year 1664, incorporating them into a Body Politic and Corporate, by the name and title of "Master, Wardens, Assistants, and Society of the Company of Framework-Knitters of our said cities of London and Westminster, and our Kingdom of England and Dominion of Wales;'" giving to them very large and extensive powers to remedy all abuses in the Trade, (a copy of which Charter is inserted in the Appendix to this Report:) But they observe at the same time, that this Charter, from length of time and various other circumstances, has fallen into disuse, they are therefore afraid that it will be necessary to apply to the Legislature for a more effectual remedy.
+
+A power is given by that Charter to the Master, Wardens, &c. to compel every person exercising the trade of a Framework-Knitter, to become a Member of that Corporation, upon pain of paying a fine of five Pounds a week for such neglect; but it does not appear to your Committee, that of late years any such fine has been imposed, they are therefore afraid that they must consider this Charter as a dead letter. By that Charter also, power is given to certain persons in the daytime, with the assistance and in the presence of a Constable or other lawful Officer, to go into all manner of places, privileged or not privileged, where there shall be any suspicion of deceitful Frames or manufactures; and if upon search, they shall find any stocking-tops, waistcoats, trowsers, or any other thing whatsoever, made and wrought by the said Frame or Engine, to be unworkmanly wrought, or unartificially made, or to be made of bad and deceitful stuff, they may cause the same to be cut in pieces and defaced, besides the power of imposing fines and penalties.
+
+It is singular that the grievance most complained of, one hundred and fifty years ago, should in the present improved state of the Trade, be the same grievance which is now most complained of; for it appears by the evidence given before your Committee, that all the Witnesses attribute the decay of the trade, more to the making of fraudulent and bad articles, than to the war, or to any other cause: it is also singular, that your Committee do not find any Parliamentary Regulations made in this important Trade, to prevent frauds being committed in it, except one Act, which is called the Tewkesbury Act, which passed in the sixth year of His present Majesty, and which is called, "An Act to prevent the fraudulent marking of Framework-knitted Pieces and Stockings." This perhaps may be and probably is owing to the Charter being still in existence.
+
+It cannot be necessary for your Committee to state, that the making of, bad articles and deceitful work, in any manufacture, tends to bring the Trade into disgrace, and ultimately, to the ruin of the Trade: of this, the Lace Trade at Nottingham, which has been for many years a most lucrative flourishing trade, is a striking instance. And it appears to your Committee, that in this particular branch, most gross frauds are constantly practised, which must destroy it, unless some check can be put to these practices by the Legislature.
+
+It is not the wish of your Committee to add to the length of this Report, by going into a detail of all the different frauds carried on in this part of the Manufacture, because they will be better explained by the Evidence, which was given by very intelligent Witnesses; your Committee therefore beg leave to refer to this Evidence, and proceed to enumerate those particular articles which the Petitioners pray to be entirely prohibited; making only one observation, that the Evidence applicable to these points, had great weight with your Committee.
+
+The first article complained of by the Witnesses, and wished to be prohibited, is single press Cotton Lace.
+
+The next article wished to be prohibited is what is called two course hole warp Net:
+
+Also, single Cotton, whether single or double spun:
+
+Also, single Worsted from one roving.
+
+To these may be added Stockings, which are called cut-up Stockings, because they are made in one large piece and afterwards cut out to the shape of the leg, the seams by which they are joined together being generally so ill done, that it appeared by the Evidence that they would wear for a very short time; and it appeared to your Committee by the Evidence, that some regulations should take place with respect to such Stockings.
+
+Your Committee feel themselves restrained from giving any opinion beyond what may be called matter of observation, therefore they only observe, that the reasons given by the Witnesses proved all these articles to be bad and deceitful; and if so, the necessary consequence must be, that the continuance of them would be injurious to the trade.
+
+The next point to which the attention of your Committee was directed, was the mode of measuring Lace by the Rack. Here again your Committee refer to the Evidence for an explanation of the term, observing only, that in the common mode of measuring Lace, there may be mistakes without any intention to defraud; but it appears by the Evidence, that the Rack is infallible, and to this mode of measuring, your Committee do not apprehend that any objection will come from any quarter. A similar Machine appeared, by the Evidence, to be an improvement in measuring the number of courses in Stockings, as a criterion with respect to the quantity of work done in this article of Hosiery.
+
+The next article to which the attention of your Committee was called was, to prevent Workmen in this Manufacture being paid in Goods instead of Money. This is not matter of opinion, because there can be but one opinion upon the subject. This mode of payment was prohibited so long ago as in the reign of King Edward the Fourth, and there are Acts of Parliament upon this subject in the reigns of George the First, and George the Second which expressly say, that men shall be paid in Money and not in Goods, or by way of truck; and in the 13th of George the First, casp. 34, it is expressly said, that this Act shall extend to Framework-knitting, and making of Stockings. It was in evidence before your Committee, that this practice prevailed in some villages; but no evidence was given to your Committee that any of the respectable Hosiers in Nottingham had adopted it; indeed it seemed to have been principally adopted by what they call Bag Hosiers, or persons not bred to the Trade.
+
+Another matter was much pressed by the Witnesses; that every Hosier should hang up in his warehouse a Schedule of the wages which he was willing to give to his Workmen, in all the different branches of the Trade; he (the Master) being at liberty at all times to alter the wages, upon giving seven days notice to the Workmen. To this it appeared to your Committee not probable that the Hosiers would make any objection, as it was admitted that the Master was always to determine what wages he would give to his Workmen.
+
+And here it is but justice to the Petitioners to observe, that they never expressed a wish or expectation that Parliament would meddle with wages paid to workmen in any branch of trade; on the contrary, they admitted that it could not be done, and that trade must always be left to find its own level.
+
+Another very important point remains to be observed upon by your Committee; which is, that part of the Evidence which relates to Frame-rent; but they will observe upon it very shortly, because if Parliament should at any time regulate the Rent of Frames, it would be, indirectly, a regulation of Wages. However, so far it appears reasonable, that if the Hosier should at any time be called upon by Parliament to hang up a Schedule of the prices to be paid by him to his Workmen, it would be fair that he should put down in that Schedule what Rent the Workman was to pay him for his Frame; it would then be known, and would take off one of the great objections made by the Workmen on this head, that Frame-rent is not governed by any known rule, but is constantly fluctuating and depending upon the will and caprice of each particular Master, and therefore that it is arbitrary and oppressive.
+
+Your Committee having now finished their Observations upon the Case of the Petitioners as it stands upon their Evidence, have great satisfaction in stating to the House, before they conclude, that they have had before them one Master Manufacturer in the Lace trade, who, with very little variation, confirms all the Evidence given by the Petitioners: It was of course the wish of your Committee to have had several eminent Hosiers before them, that they might have heard every thing upon this important subject which could be urged on both sides; but as they were unwilling to come to be examined, although the Committee bad the power given to them by the House to send for Persons, Papers and Records, they were not inclined to send for unwilling Witnesses, and to compel them to give their evidence; they rather chose to observe upon the Case, as it stands upon the Evidence now before them; they have, however, directed an application to be made to the Hosiers in the country, to collect their sentiments and opinions upon those matters of regulation which have been proposed by the Petitioners, as reasonable and proper, upon a supposition, that some Bill may be offered to Parliament during the present Session, which will give an opportunity to the Hosiers to oppose the Bill, or to signify that they have no objection to it.
+
+And it appears to your Committee to be desirable that some Regulations may take place without any unnecessary delay; because it is a great object to promote the prosperity of a Trade, in which such numbers of Workmen are concerned.
+
+27 May 1812.
+
+
+APPENDIX.
+
+No. :. — Minutes of Evidence ---.--... page 9,
+
+No. 2. — Ciiarter of the Framework-Knitters Company (15 Charles II.) - - p« 49-
+
+No. 3. -Statement of several Hosiers of Nottingham, to the Framework-Knitters of that Town; respecting the reduction of their Wages, &c. - - - p* 57,
+
+No. 4, — Interesting Statements, respecting the Manufacture of Nottingham and its neighbourhood -- ----•••-'p. gg.
+
+No. 5. — Statement, by the Framework-Knitters, of the Grounds of their petitioning Parliament -.-.------p. 6%*
+
+No. 6. — Schedule of Plain Silk Stockings - - - - - - "P-%-
+
+TO DO - lots of pages of evidence
