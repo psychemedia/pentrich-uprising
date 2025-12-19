@@ -8,6 +8,8 @@ by Thornbury, Walter
 Publication date 1879
 pp.228-241
 
+TO DO
+
 WAGER OF BATTLE. THE TRIAL OF ABRAHAM THORNTON FOR THE MURDER OF MARY ASHFORD.
 
 Also in https://archive.org/details/sim_all-the-year-round_1867-05-18_17_421/mode/2up All the Year Round  1867-05-18: Vol 17 Iss 421
@@ -119,7 +121,7 @@ Mr. Clarke: I did not expect, my lord, at this time of day, that this sort of de
 
 Lord Ellenborough: It is the law of England, Mr. Clarke; we must not call it murder.
 
-Mr. Clarke: I may have used too strong an expression, my lord, in saying murdering the brother; but, at all events, it is no less than killing. 1 apprehend, however, that the course' lo be taken is in a great measure discretionary; and it will be for the court to determine, under all the circumstances, whether they will permit a battle to be waged in this case or not.
+Mr. Clarke: I may have used too strong an expression, my lord, in saying murdering the brother; but, at all events, it is no less than killing. I apprehend, however, that the course' lo be taken is in a great measure discretionary; and it will be for the court to determine, under all the circumstances, whether they will permit a battle to be waged in this case or not.
 
 Mr. Clarke then put in a counter-plea that the applicant
 
