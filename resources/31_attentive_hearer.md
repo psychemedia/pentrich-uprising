@@ -4,11 +4,11 @@
 
 done with help of Luddite Bicentenary
 
-
+"Last words of the Luddites"
 
 process - how folk come to a popular understanding ans tell tales, and remember things, as a result.
 
-So eg the Nottingham Gazette report, which was based on a combination of material from Leeds Intelligencer. Debate rolled on in the Leeds press, but for folk in Notingham, they would have had a different popular (mis)understanding.
+So eg the Nottingham Gazette report, which was based on a combination of material from Leeds Intelligencer. Debate rolled on in the Leeds press, but for folk in Nottingham, they would have had a different popular (mis)understanding.
 
 --
 
@@ -21,8 +21,14 @@ Also the correspondence debate involving Roberson
 https://ludditebicentenary.blogspot.com/search?q=%22attentive+hearer%22
 
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130111/030/0003
-Leeds Intelligencer - Monday 11 January 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 11 January 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130111/030/0003).
 
 TO DO luddite bicentenary
 
@@ -47,15 +53,19 @@ Leeds, January 9th, 1813.
 
 On Friday, the three murderers were executed on the New Drop behind the Castle; after the usual prayers with the Ordinary, they each of them prayed a considerable time, and confessed the heinousness of their crime; Mellor, addressing the populace, said—"there is some people there that has brought me to this, but I freely forgive them, as I hope to be forgiven"— After hanging the usual time, their bodies were taken to the York County Hospital to be dissected and anatomised, agreeable to their sentence. Since their condemnation, they have behaved in a penitent and contrite manner, regretting sincerely the crime for which they suffered.
 
-
+```
 
 
 --
 
 then woven into the report in the Nottingham Gazette
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18130115/048/0004
-Nottingham Gazette - Friday 15 January 1813
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Nottingham Gazette*, [Friday 15 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0001099/18130115/048/0004).
 
 TO DO includes reference to reading things in newspaper (in trial transcript?)
 
@@ -77,10 +87,14 @@ The views of these deluded men are pretty clearly developed by the testimony of 
 
 Meetings were regularly held, and there were delegates from Manchester, Leeds, and other places.— Scholefield, to induce Hinchliffe to be LUD, told him, "that all the officers and men, except one serjeant, in a whole regiment, were *twisted in*; besides four of the Queen's bays!" Such were the schemes of these misguided men.
 
+```
 
+TO DO
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130116/006/0002?browse=true
-Leeds Mercury - Saturday 16 January 1813
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 16 January 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130116/006/0002?browse=true).
 
 TO DO luddite bicentenary
 
@@ -90,9 +104,14 @@ In our last publication, we inserted an account of the execution of the murderer
 
 And the obstinate silence of the prisoners on this subject furnishes an additional doubt, if one were wanting, of the direful effects produced on the minds of ignorant men by the horrible plan of which we have unhappily heard so much, and by which numbers of deluded men have been induced to remain in a confederacy of which they disapprove, and to conceal crimes the most horrible. The prisoners at the place of execution, certainly made no protestations of their innocence.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130118/044/0003
-Leeds Intelligencer - Monday 18 January 1813
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 18 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0000268/18130118/044/0003).
 
 CONFESSION OF THE MURDERERS.
 
@@ -101,8 +120,14 @@ Mr. PRINTER.—The Editor of the *Mercury* has taken great paths to controvert t
 AN ATTENTIVE HEARER.  
 *Leeds, Jan. 16,* 1813.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130123/007/0003
-Leeds Mercury - Saturday 23 January 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 23 January 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130123/007/0003).
 
 TO DO claude check
 
@@ -136,8 +161,14 @@ Mr. EDITOR,—"An Attentive Hearer" seems to be a very pertinacious one. He set 
 But as he may still, from "*prudent* motives," reiterate his assertion, I will place the matter in a way that may make the dispute not quite so uninteresting to the public as it might otherwise appear; and for this purpose I have lodged ten guineas in the hands of my printer to be applied to the use of the General Infirmary at Leeds, if an "Attentive Hearer" can, out of the vast concourse of spectators that attended the execution, produce six persons of character who will assert, on their word of honour, that Mellor used the words which he has put into his mouth, and I challenge this "Attentive Hearer" to offer the same sum to be applied to the same purpose, on my producing twice that number of persons of veracity, from amongst the spectators, who will assert, that neither Mellor nor his fellow-sufferers, used either of those expressions. As to their guilt there cannot be a particle of doubt, the point at issue is the confession. I was, Sir, not "An Attentive Hearer," but I have been. 
 A DILIGENT ENQUIRER.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130125/032/0003
-Leeds Intelligencer - Monday 25 January 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 25 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0000268/18130125/032/0003).
 
 TO DO luddite bicentenary
 
@@ -149,9 +180,16 @@ Wagers are in my opinion no argument, and I am astonished that "A Diligent Enqui
 
 AN ATTENTIVE HEARER.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130125/032/0003
-Leeds Intelligencer - Monday 25 January 1813
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 25 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0000268/18130125/032/0003).
+
+`Also reprinted in the *Lancaster Gazette* of [Saturday 30 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18130130/007/0003).`
 
 *To the Editor of the Leeds Intelligencer.*
 
@@ -164,8 +202,14 @@ I am, Sir, your humble servant,
 G.BROWN, Chaplain, York Castle.  
 *York, 20th January,* 1813.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130130/007/0003
-Leeds Mercury - Saturday 30 January 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 30 January 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130130/007/0003).
 
 TO DO luddite bicentenary
 
@@ -173,15 +217,14 @@ The following Letter, addressed to the *Editor of the Leeds Intelligencer*, by t
 
 [The Letter reprinted]
 
+```
 
+TO DO
 
+```{admonition} TO DO
+:class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18130130/007/0003
-Lancaster Gazette - Saturday 30 January 1813
-
-
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130208/021/0003
-Leeds Intelligencer - Monday 08 February 1813
+In *Leeds Intelligencer*, [Monday 08 February 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130208/021/0003).
 
 TO DO luddite bicentenary
 
@@ -197,8 +240,14 @@ AN ATTENTIVE HEARER.
 
 Leeds, Jan. [illegible], 1813.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130213/005/0003
-Leeds Mercury - Saturday 13 February 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 13 February 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130213/005/0003).
 
 TO DO luddite bicentenary
 
@@ -213,8 +262,14 @@ What could be his motive for so committing himself, in the first instance, it is
 I am yours truly,
 A DILIGENT ENQUIRER
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130215/025/0003
-Leeds Intelligencer - Monday 15 February 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 15 February 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130215/025/0003).
 
 TO DO luddite bicentenary
 
@@ -230,8 +285,14 @@ I am, Your's, &c.
 AN ATTENTIVE HEARER
 Leeds, Feb 13th, 1813.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130227/006/0003
-Leeds Mercury - Saturday 27 February 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 27 February 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130227/006/0003).
 
 TO DO luddite bicentenary
 
@@ -241,8 +302,14 @@ Should he decline this challenge, as he did the wager of charity, he will be tru
 
 A DILIGENT ENQUIRER.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130301/020/0003
-Leeds Intelligencer - Monday 01 March 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 01 March 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130301/020/0003).
 
 TO DO luddite bicentenary
 
@@ -254,8 +321,14 @@ I am not at liberty to publish names, but if he will be at the trouble of enquir
 
 AN ATTENTIVE HEARER.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18130313/009/0003
-Leeds Mercury - Saturday 13 March 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 13 March 1813](britishnewspaperarchive.co.uk/viewer/bl/0000076/18130313/009/0003).
 
 THE POINT AT ISSUE
 
@@ -272,8 +345,14 @@ Such are the authorities by which the assertions of the contending parties are s
 On the other terms are remarkable and so improbable—we mean the expression "not die game," an Attentive Hearer is in effect contradicted by all his own authorities, excepting only that which was not present. Here at least he must admit that he is in error, for not to make that admission would be to impeach the testimony of his own evidence; and this circumstance will, we hope, be useful to him in future life, by inculcating the necessity of being less confident in his own opinions, and more disposed to defer to the opinions of others.
 
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130322/014/0003
-Leeds Intelligencer - Monday 22 March 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 22 March 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130322/014/0003).
 
 TO DO luddite bicentenary
 
@@ -293,15 +372,25 @@ AN ATTENTIVE HEARER.
 
 Leeds, March 13th, 1813.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18130327/008/0003
-Leeds Mercury - Saturday 27 March 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 27 March 1813](britishnewspaperarchive.co.uk/viewer/bl/0000076/18130327/008/0003).
 
 It must be admitted on all hands that an Attentive Hearer "*dies game,*" or after the figure he has already cut, he would never have written another letter of half a column, turning upon a mere verbal quibble—a distinction without a difference.— If he be not extremely ignorant of the nature of evidence, he must know that the testimony of witnesses speaking "according to the best of their knowledge and belief" is regularly received in our courts of justice. Indeed knowledge and belief are the only grounds on which a man can with certainty aver any thing. Will his authorities say that his assertions are true according to the best of their knowledge and belief? He knows they will not. But it is vain to reason with a man who has lost both his cause and his temper, and who is now evidently contending not for truth, but for the last word. The public have long been convinced that he is in error, and if any thing would have fixed upon his own mind the same conviction, it would have been the fact of his having produced, with no small difficulty, *five* witnesses to support his dogmatical assertions, three of whom contradicts one half of what he says! a fourth could not distinctly hear!! and the fifth was not present!!!
 
----
+```
 
-http://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130329/010/0003
-Leeds Intelligencer - Monday 29 March 1813
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [ Monday 29 March 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130329/010/0003).
 
 TO DO luddite bicentenary
 
@@ -318,14 +407,26 @@ AN ATTENTIVE HEARER.
 
 Leeds, March 27th, 1813.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130403/006/0003
-Leeds Mercury - Saturday 03 April 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 03 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130403/006/0003).
 
 An "Attentive Hearer" is more invincible than Dr. Goldsmith's Village Schoolmaster. *His* witnesses, he says, in his last letter, speak *positively*. Do they, indeed!—Is it not, then, positively to deny one half of what he produced them to prove, and thereby to cast discredit upon the other half? And has he not, by referring to these witnesses, fixed upon himself, incontestably, the imputation of having put words, and very remarkable words too, into the mouth of a dying man that he never used? Let him answer these questions, and let the answers he is obliged to give, prove to him that he is not quite infallible, and teach him to be less dogmatical and more circumspect in future. Of the seven witnesses produced by [???], he says, speaks of his knowledge and belief and [???] the other six declare that they "cannot positively say how it was." This we know to be an incorrect report of the result of his enquiries; it is, in fact, a falsification of the evidence; and to proof of this, we challenge him to publish the verbal and written testimony of those seven witnesses, and thus to give the public an opportunity of judging how much his assertions are to be relied upon, whether they regard the expressions of the dead or of the living.
 
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130412/043/0003
-Leeds Intelligencer - Monday 12 April 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 12 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130412/043/0003).
 
 TO DO - from luddite bicentenary
 
@@ -343,8 +444,14 @@ AN ATTENTIVE HEARER.
 
 Leeds, April 2d, 1813.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130417/008/0003
-Leeds Mercury - Saturday 17 April 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 17 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130417/008/0003).
 
 TO DO - from luddite bicentenary
 
@@ -354,8 +461,14 @@ The mode of affecting so desirable a purpose is this:—He shall give up his aut
 
 On this subject, we last week received a Letter from a Gentleman at York, who was present at the execution, and who heard, distinctly, every word that was uttered, in which the writer says:—"Pray, Sir, who is the Attentive Hearer that has so long insulted the ears of the West-riding with his notorious falsehoods? He is ashamed to sign his name, and well he may; I am astonished at his impudence."
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130419/021/0003
-Leeds Intelligencer - Monday 19 April 1813
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 19 April 1813](britishnewspaperarchive.co.uk/viewer/bl/0000268/18130419/021/0003).
 
     TO DO - from luddite bicentenary
 
@@ -370,14 +483,25 @@ Until he proves his assertion; or acknowledges that he has falsely charged me wi
 AN ATTENTIVE HEARER.
 Leeds, April 17, 1813.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130424/007/0003
-Leeds Mercury - Saturday 24 April 1813
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 24 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130424/007/0003).
 
 An *Attentive Hearer* has declined the challenge we last week gave him to close the dispute, by submitting the evidence on both sides, fairly and candidly collected by impartial persons, without note or comment, to the tribunal of public opinion. The inference is irresistible. He was conscious that such an appeal would admit of no sophistry or false colouring, and that the preponderance of evidence against him would have been overwhelming. But we shall indulge in no exultation, much less repeat the coarse and virulent language that disgraces his last letter; it is the language of an irritated mind writhing under the pangs of defeat. We have no such feeling to gratify; Truth alone was *our* object, and having secured its triumph, to the satisfaction of every impartial mind, we quit the ungracious subject for ever.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130426/041/0003
-Leeds Intelligencer - Monday 26 April 1813
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 26 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130426/041/0003).
 
 If the "Printer" will be at the trouble to read the "Attentive Hearer's" last letter, he will perceive that his last week's challenge, is by no means declined. The Attentive Hearer is most willing to go into the proposed investigation when it is rendered necessary;  i.e. so soon as the Printer shall prove what he has twice asserted: "that the "Attentive Hearer" has published a false report of evidence."—If the report he has published be correct, there can be no doubt of the confession of Mellor. If false, let it be proved so; and the "Attentive Hearer" will, with the greatest readiness, immediately accept the Challenge of his Opponent.
+```
