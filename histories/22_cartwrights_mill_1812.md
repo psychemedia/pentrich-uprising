@@ -31,7 +31,7 @@ N. B. Gig-mills in some parts of England have been in constant use for time imme
 Through every combination amongst workmen, none is so desperate, secret, or systematic as that of the Sheermen.
 ```
 
-The Yorkshire croppers would surely have been aware of the actions being taking in Nottinghamshire. But even as a period of relative calm returned fifty miles to the south, direct action in the form of machine breaking started to appear in the villages and valleys around Huddersfield.
+The Yorkshire croppers would surely have been aware of the disruptive activities in Nottinghamshire. But even as a period of relative calm returned fifty miles to the south, direct action in the form of machine breaking started to appear in the villages and valleys around Huddersfield.
 
 ```{admonition} *"We learn with extreme concern..."*, February 1812
 :class: dropdown
@@ -58,7 +58,7 @@ On Wednesday night, notwithstanding the presence of the Military, a party broke 
 
 ```
 
-A leader column in the *Leeds Mercury* repeated the call it had made previously in the context of the attacks in Nottingham and Derbyshire, recommending instead that those responsible eschew violence and machine breaking, and instead lobby against see the Order in Council as a major cause of their concerns.
+A leader column in the *Leeds Mercury* in February, 1812, repeated the call it had made previously in the context of the attacks in Nottingham and Derbyshire, recommending instead that those responsible eschew violence and machine breaking, and instead lobby against see the Order in Council as a major cause of their concerns.
 
 ```{admonition} Advice to those mistaken persons, February 1812
 :class: dropdown
@@ -72,9 +72,9 @@ We have more than once adverted to the unhappy disturbances at Nottingham, and a
 
 ```
 
-In Huddersfield the magistrates and mill-owners formed a committee against the outrages, and offered a reward for the arrest of those who were responsible.
+In Huddersfield the magistrates and mill-owners formed a committee against the outrages, offering a reward for the arrest of those who were responsible.
 
-TO DO originally published as a hand-bill or poster, although it would not appear in the *Leeds Mercury* until almost a month later
+The reward was publicised using hand-bills, or posters, and was also reprinted in the *Leeds Mercury* a few weeks later
 
 ```{admonition} Resolutions of a Committee against the outrages, February 1812
 :class: dropdown
@@ -104,6 +104,7 @@ ONE HUNDRED GUINEAS
 To any Person or Persons who will give such Information, so as to lead to the Conviction of any of the Parties recently concerned in Destroying the Dressing Frames of Mr. Joseph Hirst, of Marsh; Mr. James Balderson, of Crosland Moor; and Mr. William Hinchliffe, of Ley Moor, all near Huddersfield; and also the same Reward will be given to any Person or Persons, who will give private Information of the Intention of the Depredators to commit any further Mischief, so as such Information shall lead to the Apprehension and Conviction of any of the Offenders, and inviolable Secrecy will be observed.
 ```
 
+In the London papers, the relative calming of tensions in Nottinghamshire was contrasted with the outbreaks of violence in Huddersfield.
 
 ```{admonition} A disposition to riot, March 1812
 :class: dropdown
@@ -117,7 +118,7 @@ We trust that the disturbances in Nottingham and to Vicinity are at an end: the 
 We have not heard that any disposition to disturbance has manifested itself in any other part of Yorkshire.
 ```
 
-As the Nottinghamshire attacks received attention in the West Yorkshire press, so too did events in the West Riding merit mentions in the Nottinghamshire press, albeit, very briefly.
+Just as the Nottinghamshire attacks had received attention in the West Yorkshire press, so too did events in the West Riding merit mentions in the Nottinghamshire press, albeit, very briefly.
 
 ```{admonition} A Temporary Peace, March 1812
 :class: dropdown
@@ -143,6 +144,8 @@ It appears that since the commencement of the *Luddite* system in the neighbourh
 
 ```
 
+Although it appears to have been largely ineffective, a large military presence was deployed in an attempt to preserve the peace.
+
 ```{admonition} Alarm prevails, March 1812
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004
@@ -152,11 +155,9 @@ No further depredations were committed in the neighbourhood of Leeds last week; 
 
 ```
 
+*(By way of context, approximately 5,000 police were deployed against a similar number of striking miners at Orgreave in 1984.)*
 
-
-
-Threatening letter to Vickerman 1812 https://ludditebicentenary.blogspot.com/2012/03/before-15th-march-1812-threatening.html
-
+Already, it seems battle lines were being drawn between the established mill-owners and the depredators, with Francis Vickerman's mill at Taylor Hill providing an early target.
 
 ```{admonition} Alarming accounts from Huddersfield, March 1812
 :class: dropdown
@@ -170,40 +171,39 @@ The accounts from the neighbourhood of Huddersfield, are this week very alarming
 On Thursday week at Mansfield, a person was apprehended for stealing a club-box. He proved to be one of the *Luddites*, and confessed to acknowledge of the person who broke Shiply's frames, whose name is *Bull*; this man has since absconded. The prisoner has impeached near thirty of his comrades, nine of whom have been taken into custody, and many others have made their escape.
 ```
 
+```{admonition} The military guard avoided, March 1812
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18120324/008/0004
 Manchester Mercury - Tuesday 24 March 1812
 
 The Gazette of Tuesday contains a Proclamation offering a reward of two hundred guineas for the discovery and conviction of the persons concerned in the late outrages committed in the neighbourhood of Huddersfield, in Yorkshire.
 
 More outrages were committed in the neighbourhood of Huddersfield, on Sunday week, in the evening.—The premises of Mr. F. Vickerman. of Taylor-Hill, were beset by the *Luddites* or *Snappers*, as they call themselves,—the cropping shears destroyed—several pistols fired into the house; however, without injury to any one,—and some wool set on fire.—The depredators retired before the arrival of a military guard, which they knew was expected about nine o'clock.
-
+```
 
 ![In Peel, Risings of the Luddites, 2d edn, https://archive.org/details/risingsluddites00peelgoog/page/n8/mode/1up](images/risingsluddites00peelgoog_0009_rot.jpg)
 
-!['The Old Cropping Shop', lithograph, G. Falkner, c.1860, formerly titled 'John Wood’s Old Cloth Cropping Shop' https://theyorkshirejournal.wordpress.com/wp-content/uploads/2019/12/2019-1-pages-4-11-john-woode28099s-cropping-shop-at-longroyd.pdf](images/john_wood_cropping_shop.jpg)
 
+As well as machinery, the cloth that was being produced on the machines also appears to have been treated as fair game to the Luddites in some of the attacks.
 
-https://collection.sciencemuseumgroup.org.uk/objects/co508553/the-preemer-boy-print
-Science Museum Group. The Preemer Boy. 1989-753/3 Science Museum Group Collection Online. Accessed 28 November 2025. https://collection.sciencemuseumgroup.org.uk/objects/co508553/the-preemer-boy.
-Print. [The Preemer Boy] / Geo. Walker Del.; Engraved by R. & D. Havell. - Publish'd by Robinson & Son, Leeds, Jany 1, 1814. Aquatint, handcol.; image 20.1x29.7cm on sheet 25.5x36cm. Plate 21 from: The Costume of Yorkshire / George Walker, 1814. After carding or 'rooing' the cloth, the preemer removed flocks from the used teasels. The preemer was an apprentice, the runner or drudge of the cloth dressing shops, employed generally to fetch and carry.
- CC BY-NC-SA 4.0 Licence
- ![](images/preemer_boy_sci_museum.jpg)
-
-Images - https://discoveringleeds.wordpress.com/briggate-the-cloth-market/
-
-
-https://collection.sciencemuseumgroup.org.uk/objects/co67425/cloth-dresser
-Print. [Cloth Dresser] / G. Walker Del.; Engraved by R. and D. Havell. - Published by Robinson & Son, Leeds, Sept. 1. 1813. - [Reissue?]. - Aquatint, handcol.; image 19.7x30.2cm, platemark 28.7x37.7cm on sheet 32x42cm. Plate from George Walker's 'The Costumes of England', published 1814. - The worker is cropping or trimming woollen cloth with shears after combing it with teasels to raise the nap. Damp cloth is laid on a shear board, and pressure increased by placing heart-shaped weights on the flat surface.
+```{admonition} Cloth destroyed, March 1812
+:class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120327/040/0004
 Nottingham Review - Friday 27 March 1812
 
 We have received a letter from our Correspondent at Leeds, this morning. He says, "Contrary to my expectations, I have to inform you of further depredations committed by the populace. On Tuesday night, the warehouse of Messrs. Dickenson and Shann, in the Meadow_lane, of this town, was entered by the roof, and cloth to the value of £500 was cut and damaged. Messrs. Thompson and Co. thought it necessary to guard their gig-mill at Rawden, but on Monday evening, the watchmen were all surprised and secured, and the obnoxious part of the machinery was destroyed. Various reports are in circulation of damage done in other places, one report states that cloth to the amount of £4000 has been destroyed at Elland, near Halifax; most probably this is an exaggeration, but I believe there is some truth in it."
+```
 
+Although attempts were being made to identify and arrest those involved in the attacks, there is perhaps a suggestion that what evidence was available was largely circumstantial.
+
+```{admonition} A Luddite leader apprehended? April 1812
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120404/009/0003
 Leeds Mercury - Saturday 04 April 1812
 
 A person of the name of Beswick, from Saddleworth, representing himself to be General Ludd, was on Wednesday se'nnight apprehended at a public-house in Huddersfield, with four of "his men," as he was pleased to call them, and placed in duress. The following morning the party underwent an examination before J. Radcliffe, Esq. and the men were discharged on entering into recognizances for their good behaviour for twelve months; but the General was re-committed, to undergo a second examination.
+```
 
 ## Attack on Foster's Mill
 
@@ -395,6 +395,9 @@ TO DO
 
 [ALso see elsewhere for more on Horsfall; the following is duplicated in that but included here to give a sense of the timeline of the reports.]
 
+```{admonition} TO DO
+:class: dropdown
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120502/011/0003
 Leeds Mercury - Saturday 02 May 1812
 
@@ -409,18 +412,21 @@ From a professional Gentleman, who was called in to visit Mr. Horsfall, we learn
 Mr. Horsfall had a very large Woollen Manufactory at Marsden, wherein about 400 work people were employed; and in a part of his premises there are Shearing Machines, which have been erected about seven years, and have attained considerable perfection; this circumstance, with the additional one of his unremitting activity in detecting, and bringing to justice the persons engaged in the attack at Rawfolds, and other Mills, had rendered him obnoxious in a high degree to the machine destroyers, who knowing his premises were too well defended to justify an attack on his property, committed a crime against his person, that will embitter every future day of their existence, and, that will, in all probability through the retributive justice of that Being, from whom no secrets are hid, bring the blood-stained perpetrators of this worst of crimes, to an ignominious end.
 
 A reward of £2000 will, we understand, be offered immediately to any person who will give such information as will lead to the conviction of any one or more of the four men concerned in the murder of Mr. Horsfall.
+```
 
-
-
+```{admonition} TO DO
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000045/18120504/005/0003
 Caledonian Mercury - Monday 04 May 1812
 
 On Saturday se'ennight a regimental court-martial was held at Huddersfield, on a private who misconducted himself at the attack on Rawfold-mill, in refusing or neglecting to defend it in the manner he might have done. He was found guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning he was marched, escorted by a detachment of dragoons, to Rawfold, the scene of action, where he was tied up, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr Cartwright.
 
 On Saturday se'ennight an attempt was made to assassinate Mr Cartwright, the intrepid defender of Rawfold's Mill, by two villains who fired at him from behind a hedge, as he was returning from Huddersfield. The shots were discharged at nearly the same moment from opposite sides of the road, but happily without effect.
+```
 
 
-
+```{admonition} TO DO
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001659/18120508/006/0001
 Drakard's Stamford News - Friday 08 May 1812
 
@@ -455,7 +461,7 @@ The Spirit of Riot seems to have extended itself at length to Liverpool. A mob o
 One thousand sacks af flour have been sent from Plymouth dock to the relief of the miners in Cornwall.
 
 A meeting of the Magistrates and neighbouring Gentry was held last week at Carlisle, which was numerously attended by the townspeople and workmen. Some of the weavers stated, that in consequence of the low price of labour, they were compelled to perform twice the former quantity of work, and thus nearly double the quantity of goods was manufactured, by the same number of hands, as otherwise would have been; that they had previously presented a petition to the Magistrates for advance of wages; and that, though promises of an advance had, on a recent occurrence, been held out, these promises were no longer regarded. The meeting broke up without doing any thing. A deputation of weavers waited on Mr. Christian, with a Petition, in which were abstracts from two Acts of Parliament, asserting the power of the Magistrates to regulate the price of manual labour. Mr. C. promised them, that as soon as possible his father, Mr. Curwen, would hold a meeting of the Magistrates, when their Petition should be duly considered.
-
+```
 
 ```{admonition} TO DO
 :class: dropdown
@@ -528,6 +534,97 @@ However bro' Ned may fret and fume at the assertion, Mr. W. is not singular in h
 18th July, 1812.
 
 OBSERVER.
+
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003
+## Leeds Mercury - Saturday 25 July 1812
+
+YORKSHIRE SUMMER ASSIZES
+
+The Assizes were opened at York, on Saturday last, by Baron Wood and Mr. Justice Bayley, the latter of who presides at the Crown End.
+
+[Mr. Justice Bayley, addressing the Jury]
+
+[Cases included one of infanticide/murdering a deformed child]
+
+...
+
+Not having received the depositions connected with the rioters at Sheffield, I cannot give you any minute instructions with respect to them; but I will make this observation, that if there were a riotous association of persons, and those persons were proved to be amongst them, that would be sufficient evidence for you to proceed upon. It is not necessary to prove that they committed any specific act of violence, or that they displayed any particular activity in the riot. The law presumes, that every person present at a riot, and not opposing it, is aiding or abetting it; and it is certain that every person present gives to the rioters countenance and an appearance of strength. And so far does the law carry this, that if death to any one should arise from the violence of the rioters, every person present at the riot might be indicted for murder. It is right that this should be known, because many persons, from inadvertency, or from motives of curiosity, are apt to join riotous assemblages, without being aware of the consequences to which they expose themselves. No. 13, in the calendar, (James Haigh) is the case of a person committed on strong suspicion of being concerned in an attack upon a mill. On this I would remark, that if the evidence amounts only to what may be called a conjecture, or slight presumption, it would be advisable to throw out the bill; but it often happens that more evidence is laid before you than is contained in the depositions handed to me. You will consider the amount of the evidence, and if it be but slight, it would be better to reject the bill, unless you have reason to believe that you have all the evidence before you that can be collected on the case, because if you find the bill, and the party is tried and acquitted upon it, he can never be tried for that offence again, whatever evidence may come out; but if the bill is thrown out, he would be still amenable to the law, if subsequent evidence should render it expedient to apprehend him. I make these observations because it appears, from the depositions, that some persons refused to enter into recognizance to appear and give their evidence. It gives me concern to observe a disposition in any persons to obstruct the course of Justice; and the Magistrates would have been justified, and I wish they had so acted, in committing the persons, thus refusing, to prison.
+
+...
+
+With respect to the disturbances of which we have heard so much in this and the neighbouring counties, I do not observe that there are any cases in the Calendar of persons charged with being concerned in any recent outrage; and I am happy to find that the vigilance exercised by the Magistracy of this county, has already so materially checked and repressed this disposition to outrage, and I trust the exertion of the same vigilance will be effectual in totally suppressing those disorders. I feel, as an individual, no alarm on this subject. The machinations of those deluded and misled persons cannot ultimately succeed; they may produce for a time uneasiness and alarm, but must at length be put down; yet though on the ground of the public safety there is no ground of apprehension, it is highly desirable that the most prompt measures should be adopted to suppress these outrages, as their further continuance must bring down upon the persons concerned in them the most heavy and serious punishments.
+
+If the labouring classes suffer from the high price of provisions, or have any other just ground of complaint, I am sure there will be found, in you and in the country, a disposition to afford them relief and redress. In no country (and I am proud to think I live in such a country) are the comforts of the poor more attended to, or more instant attention paid to their distresses than in this; and I am sure every practicable mode will be resorted to, to diminish the pressure they must feel from the high price of the necessaries of life. Gentlemen, if, by submitting to little privations ourselves, we can contribute to this, we shall have the satisfaction of reflecting, that we have done nothing to increase these troubles, nay more, that we have done all in our power to remove them; and if those people should be so unwise and so ungrateful as to persevere in their measures of hostility, we shall have the consolation of having done our duty.
+
+... Trial of Sheffield Rioters ....
+
+
+...
+
+Wednesday July 22.-JAMES OLDROYD was charged with assembling, with divers other persons on the night of the 11th April, and there making an attack on the Mill of Mr. Cartwright, of Rawfolds, and with beginning to demolish the same.
+
+This Prosecution was founded on an Act passed in the 9th of Geo. III. which makes it a capital felony for any person riotously to assemble and demolish any Mill, or to begin to demolish any Mill.
+
+Mr. Park, Mr.Topping, and Mr. Richardson, were Counsel for the Prosecutor, and Mr. Raine for the Defendant.
+
+Mr. Park stated the case to the Jury, in which he laid it down as the law of the case, that the violent breaking of windows, when evidently done with such instruments, and under such circumstances as shows the intent to be to demolish the building, is such a beginning to demolish as comes within the meaning of the Act. And that every person so present with the rioters giving them his countenance and aid, is as guilty in law though no individual act of violence can be personally proved against him.
+
+[We shall, conformable to our usual custom, state the case from the evidence of the Witnesses.]
+
+Mr Cartwright, the proprietor of the Mill, was called for the purpose of proving the riot and the nature of the attack upon the Mill. A circumstantial narrative of this having already appeared before the public, it may be sufficient merely here to add, that the attack was made about 20 minutes after 12 o'clock at night on the 11th April, by a considerable number of persons, but how many the darkness of the night did not give him the means of forming an opinion, the attack was made by fire-arms, hammers, mauls, and hatchets; all the windows on the side of the attack were broken almost instantaneously, the lower windows by the instruments mentioned, and the upper stories by discharges of ball and slugs. The firing continued incessantly for about 20 minutes, it was accompanied by cries of "*bang up— damn you are you in*—*in with you*—*kill them every one*." The party in the inside, of which the witness was one, repelled the charge by keeping up a constant fire on the assailants, but the darkness of the night was such that the only guide they had in directing their fire was the flash from the  discharge of the fire-arms of the assailants. Witness supposes about 120 shots were discharged from the building, and about the same number from without. The attack continued about 20 minutes, when the assailants retired. As soon as the Witness thought it prudent to open the door, he found that two wounded men had been left behind, (who afterwards died) and near the premises, in the direction in which the party had returned, a number of mauls, hatchets, picklocks, masks, and bullet moulds, were found, and which were produced in court. The wood work of the door, which was partially lined with iron, was entirely destroyed. The Witness said, he had no means of forming judgement whether the Prisoner was there or not, but he had no reasons to believe he was there. The Prisoner was a person of good character, and had no grounds for animosity against him.
+
+Mr. Cartledge, of Brow-bridge, near Elland, said, he was returning from Wakefield, on the 22d June, accompanied by Mr. Ashworth and Mr. Woodhead, they called at the Black Bull, at Mirfield, for refreshment, and sat in the Bar, it was about eight o'clock in the evening, the room was separated from another room by a thin wood partition, in which there was a small window, the glass of which was partly broken, heard a person say in a loud tone of voice, "I was at Rawfolds on the night of the attack, I was engaged there, I was close by the two men that fell," the same voice said, that he never was in any association but one, and that was Ned or General Ludd's, (believes he used both expressions) had been in his service three years, that he had been faithful to him and would ever remain so. Witness said he spoke in a loud and boisterous tone of voice. Mr. Ashworth, one of the party, went for a Constable, and the Witness went into the Room and enquired which of the party had used that language. There were eight or ten persons in the room, he was pointed out to him by William Clarkson, and on the return of Mr. Ashworth, they prevailed on him to go with them into another room, where he denied having used the words imputed to him.— On his cross-examination he said the man appeared to have had liquor, but was not drunk and appeared to understand what he said and what was said to him; he said Mr. Cartwright knew him, and if they disputed his character he would get a letter of recommendation from him. Witness first heard of Gen. Ludd about a year ago. Witness said the Prisoner spoke so loud that he might have been heard by every person in the low part of the house.
+
+Mr. Ashworth stated the conversation at the Black Bull in these terms:-I heard a voice say, as if in answer to some person who had been contradicting him "but I was at Rawfolds Mill that night, and I *was* engaged in the attack, and I saw the man fell," or the men. Witness believes both expressions were used at different times. The same voice further said, "I was never engaged in any association or society in my life but that of General or Ned Ludd, I have ever been true to it and I have been in it three years." Witness said these words were not used uninterruptedly as he had stated them, it was an interrupted conversation, and many of the expressions were repeated several times. After a consultation as to the course which it became their characters to pursue, it was determined to send for a Constable, and Witness went for one, but did not succeed; on his return, the Prisoner was pointed out to him, and when he spoke he recognised the same voice, but lower and softened. Witness proceeded to state what he heard of the conversation in the room to which they retired, which was the same in substance as stated by Mr. Cartledge; the Prisoner denied having used the expressions imputed to him; the Witness said he had no reason to believe that the Prisoner did not understand what he did or said; his spirits appeared to be elevated by the liquor he had taken. Nothing material occurred in has cross-examination, except that the Witness judging from the boisterous tone and manner in which the words were used, should have thought them the words of a crazy person.
+
+Wm. Clarkson (the person referred to by Mr. Cartledge) stated that he was in the Black Bull public house on the night in question, and heard the conversation, heard the prisoner say he was at Rawfolds Mill the night it was attacked, that he was engaged in the attack, and that he was near to his fellow creatures when they fell; he never had entered into any society, but he would abide by it as long as he lived, Witness said he considered the Prisoner as drunk from first to last.
+
+Joseph Senior was also present, heard part of the conversation, but did not much attend to it. Remembers the Prisoner saying he was at Rawfolds Mill the night it was attacked, and was engaged in the attack; did not hear him say any thing more; was not in the room when the conversation was begun, but the Prisoner and another person appeared to be talking one against the other. The Prisoner appeared to have two partners, (that is persons who were drinking with him) and one of them said to him, "hold thy peace, *if there be a good trade and meal come down, Ned Ludd will die*."-(A laugh.)
+
+This finished the case on the part of the Prosecution.
+
+Mr. Joseph Savage stated that he was a surgeon at Dewsbury, and attended the Prisoner, who was very subject to attacks of fever; he attended him up to the time of Pontefract Sessions, but was then under the necessity of being absent from the 6th to the 11th of April; left him medicines; he was in a debilitated state, and not able to endure much fatigue. Judging from what he saw of the Prisoner, it would have been dangerous for him to have been out on the night of the 11th of April. Witness saw him on the morning of the 12th, and, from his appearance, he should have supposed he had had his usual rest the preceding night.
+
+Mary Ward sleeps in the house of the Prisoner, who is married, and has two children. She went to bed at ten o'clock on the 11th of April, at which time the prisoner was in bed. He sleeps in the room they usually live in. Her child being unwell and restless, she got up again about eleven o'clock, and came down stairs to the fire; the Prisoner was still in bed, and spoke to her, and complained that he could get no rest.—Witness soon after went to bed again, but her child continuing restless, she was under the necessity of getting up again. The clock then struck one. She remained up until near three o'clock, during which time the Prisoner frequently spoke to her, and, at the request of his wife, she gave him his medicine. The child being quiet, Prisoner advised her to go to bed, asking her what o'clock it was; she looked at the clock, and said it wanted a few minutes to three.— Witness got up at six o'clock in the morning, and went to her father's house; Prisoner was still in bed.
+
+The Counsel for the Prosecution cross-examined her at considerable lengths, but she did not vary her testimony. She accounted for sleeping at the Prisoner's, by stating that her father had six children, and only two beds, and had not room for her and her child to sleep.
+
+His Lordship summoned up the evidence with great particularity, and observed that the riot and the beginning to demolish the mill had been clearly proved, but the material question remained, which was, whether the Prisoner was present at the attack. If he was present he was guilty. That he was present there was the evidence of his own declaration. The Jury would consider, whether under all the circumstances of the case they could be fully convinced that these declarations were founded in truth; they would examine the manner and the circumstances under which they were made; and from a careful consideration of them, determine the degree of credit to which they were intitled. But it was right to state that these declarations, though fully proved, were not confirmed by any corroborating circumstances. On the part of the defence, there was the evidence of Mr. Savage, who appeared to be a respectable man, and the amount of whose testimony might fairly be stated as rendering it improbable that the Prisoner should be there. If the evidence of Mary Ward had full credit given to it, and there was nothing improbable or inconsistent in the account she gave, and her evidence had not been shaken by the cross-examination. If her testimony was believed, they must of necessity acquit the prisoner, as it was impossible he could have been there. The Jury would weigh all the circumstances of the case, and if upon the whole, they were convinced that the Prisoner's declaration at the public-house was true, they would find him guilty; but if they believed it was not true, or had a reasonable doubt upon the subject, they would acquit him.
+
+The Jury, without leaving the box, found the prisoner-NOT GUILTY.
+
+The verdict was received in perfect silence.
+
+It may be proper here to add, that the most perfect order and decorum prevailed in the Court during the whole of the trials for rioting; and there is in the city no military parade, nor anything to indicate that the County is not in a state of the most profound tranquility and security.
+
+ARMS STEALING
+
+Thursday, July 23.—WILLIAM SYKES was charged with stealing a gun, in the dwelling-house of John Marsh, of Meltham, on the night of the 9th of May.
+
+The Counsel for the Crown called William Wady, a private in the West Kent Militia, to prove a conversation in which the prisoner admitted that he was free, able and willing to serve General Ludd. But the Learned Judge said, he could not admit such irrelevant matter to be given in evidence.
+
+James Kershaw knows the prisoner; saw him on the night of Saturday, the 9th of May, about eleven o'clock—he had a gun in his hand, and his face blacked. Prisoner said to him, "Well my lad, will you go with me a little journey?" Witness said, "No" But he followed him at a short distance, to see what he was about. He went to the house of John Marsh, of Meltham, about a quarter of a mile, and having roused them by knocking at the door, said, "I am informed you have a gun here; General Ludd has sent me for it, and if you do not deliver it up I will blow the door open." Witness heard the gun fired. The Prisoner was much intoxicated, and staggered in his walk.
+
+Thomas Whiteley stated, that the Prisoner made the same proposal to him as to the last Witness, and said he was going to get John Marsh and Jonas Beardesley's guns. Witness went about forty yards with him, and turned back on the Prisoner, saying, "Ludders never speak." Witness in a short time heard the report of a gun, which appeared to be in the direction of Mr. Marsh's house. Witness did not observe that the Prisoner was intoxicated; did not think he was.
+
+John Creaser, apprentice to Mr. Marsh, stated, that he was awaked by the report of a gun; he got up, and having received the gun which his master had given to him from the lodger, he delivered it to the person at the door. Being asked the reason of his readily giving it up, he said, there were so many reports about the Luddites, and he had been informed that they would not be denied. The firing of the gun had also made him afraid. When he delivered the gun, he said, "It has so lock;" on which the person at the door said, "It is well; it shall be well repaired, and, brought back in open day." Witness said the gun was brought back on the Monday following, but it was not repaired.
+
+Mr. John Marsh, the master of the house, stated more precisely the terms in which the gun was demanded. After he had answered to the knocking at the doer, a person from without said, "We are informed you have a gun, and we are come for it."— Witness told them (for he supposed there were a number, though he only heard one voice) he had not a gun, and called to his apprentice not to give it up; but he supposes the boy did not hear him, as he gave them the gun. The gun was brought back on Monday night, by Joseph Whiteley. During the time the person was at the door, he heard him call out two numbers, as if calling to somebody, but the witness only heard the voice of one person.
+
+Philip Earnshaw lent the prisoner a gun belonging to his master, on the night in question; he told him it was for a bit of fun, and wished the Witness to go with him. Witness went a short distance with him, but he left him, because he had some mischief in his head, he laughed so. Witness then went to the Prisoner's house, who returned in about half an hour, and brought back another gun with him. Witness did not examine the gun of his master, to see whether it had been recently discharged.
+
+Joseph Whiteley stated, that he carried the gun back to Mr. Marsh, on Monday, the 11th of May.
+
+This finished the case on the part of the Prosecution.
+
+His Lordship said, he thought it unnecessary to call upon the Prisoner for his defence. There did not appear to have been any design to steal the gun — no bad use had been made of it— and it was returned to its owner before any search had been made for arms in the house of the Prisoner. It appeared to have been an idle, but most dangerous frolic, and for which he had been deservedly imprisoned. The Jury concurring in this opinion, found the Prisoner— *Not Guilty*.
+
+...
+
+James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Arden and others, with being strongly suspected of having been one of the persons who riotously assembled and attacked the mill of Mr. William Cartwright, of Liversedge.-No Bill.
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000268/18120727/037/0003
 Leeds Intelligencer - Monday 27 July 1812
