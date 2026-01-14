@@ -83,7 +83,7 @@ At the request of the prisoner Despard, Mr. Serjeant Best and Mr. Gurney were as
 
 All the prisoners pleaded Not Guilty. Mr. Jekyll and Mr. Hovell were om am counsel to all the prisoners except Despard.
 
-The counsel for the crown were Mr. AttorneyGeneral, Mr. Solicitor-General, Mr. Serjeant Shepherd, Mr. Plumer, Mr. Garrow, Mr. Common Serjeant, Messrs. Wood, Fielding, and Abbott ; solicitor, Joseph White, Esq.
+The counsel for the crown were Mr. Attorney General, Mr. Solicitor-General, Mr. Serjeant Shepherd, Mr. Plumer, Mr. Garrow, Mr. Common Serjeant, Messrs. Wood, Fielding, and Abbott ; solicitor, Joseph White, Esq.
 
 Macnamara was an Irish carpenter; Graham, a slater; Wratten, a shoemaker; Broughton, a carpenter; Wood and Francis were soldiers. It was the old cruel story of those unhappy times. A reckless conspiracy, fomented by spies until it was ripe, and then crushed by a stupid but firm minister. It was spies who had urged on all the treasonable conversation.
 

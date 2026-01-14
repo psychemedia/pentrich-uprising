@@ -107,7 +107,7 @@ And a third —
 
 "Gentlemen, we have got a warrant to apprehend you all, and as such we hope you will go peaceably."
 
-JuBt then Smithars, distrusting further parley, and believing, in his stanch way, in promptitude before the conspirators could discover the scantiness of the assailing numbers, or could muster courage to use their arms, cried —
+Just then Smithars, distrusting further parley, and believing, in his stanch way, in promptitude before the conspirators could discover the scantiness of the assailing numbers, or could muster courage to use their arms, cried —
 
 "Let me come forward."
 
