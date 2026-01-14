@@ -127,7 +127,7 @@ TO DO Lord Murray's evidence resumed. " When we got het Wlv Marlborough-gardens 
 
 Mr. ADOLPHUS then applied for permission for the Prisoner to be attended by his Solicitor. This was conceded.
 
-A patrole now produced some large stones which had taKen from the trees in St. James's-park, near the spot where the attack had been made.
+A patrole now produced some large stones which had taken from the trees in St. James's-park, near the spot where the attack had been made.
 
 This man was desired to attend the next examination, and the Prisoner was removed from the bar.
 
