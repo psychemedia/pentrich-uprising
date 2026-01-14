@@ -472,6 +472,38 @@ https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130116/006/0002?browse
 
    in https://ludditebicentenary.blogspot.com/2013/01/16th-january-1813-14-convicted-luddites.html
 
+SPECIAL COMMISSION
+
+Trial of Persons charged with being concerned in the Attack on Mr. Cartwright's Mill, at Rawfolds.
+
+YORK, SATURDAY, JANUARY 9.
+
+*James Haigh*, of Dalton, aged 28; *Jonathan Dean*, of Huddersfield, aged 30; *John Ogden*, of Huddersfield, aged 28; *James Broo*k, of Lockwood, aged 26; *John Brook*, of the same place, aged 22; *Thomas Brook*, of the same place, aged 32; *John Walker*, of Longroyd-Bridge, aged 31, and *John Hirst*, of Liversedge, aged 28, were indicted for having, in the company with *George Mellor*, *William Thorpe*, and *Thomas Smith*, and one hundred persons and upwards, to the Jurors unknown, riotously assembled on the night of the 11th of April, and having begun to demolish a certain water mill occupied by Mr. William Cartwright, situate at Rawfolds, in the parish of Liversedge.
+
+The three last persons mentioned in the indictment were executed for the murder of Mr. Horsfall, the preceding day. The prisoners pleaded not guilty. the following Gentlemen, composing the Jury, were then sworn:—
+
+Isaac Newton | Chistopher Smith,  
+John Micklethwaite | Robert Stubbing,  
+Godfrey Park | Richard Tottie,  
+William Parker | Thomas Tootal,  
+Henrey Popplewell | Richard Waddington,  
+Gervas Seaton | Henry WIlkinson.  
+
+Counsel for the Crown, Mr. Park, Mr. Topping, Mr. Holroyd and Mr. Richardson.
+
+Counsel for the Prisoners, Mr. Brougham, Mr. Hullock, Mr. Williams.
+
+The Jury desired to have a list of the prisoners, which was delivered to them.
+
+All the witnesses both on the part of the Crown and of the Prisoners, were directed to withdraw.
+
+Mr. Park said he should be under the necessity of frequently mentioning the names of the unfortunate men now no more, which he did not from a wish to say any thing harsh of them, but because it was unavoidable.
+
+Mr. Richardson opened the indictment, and Mr. Park stated the case on the part of the prosecution, and called the following witnesses:—
+
+
+
+TO DO MORE
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130419/021/0003
@@ -505,9 +537,17 @@ response to above from hammond roberson, followed by editorial comment
 https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130424/007/0003
 Leeds Mercury - Saturday 24 April 1813
 
-TO DO INSERT ABOVE
+THE RECENT DISTURBANCES
 
-The above letter, from a very intelligent correspondent, we have thought it our duty to insert; but ew must in candour say, that very serious objections seem to exist against that part of the plan which recommends any thing like display or parade in this affair:— every thing of that nature would be like exulting over the fallen, and would have a tendency to revive those turbulent feelings that are now gradually subsiding, we trust, for ever. Let the Country and the West Riding uphold their own character, by dispensing those rewards of honour or emolument on the persons whose courage and constancy tended in an eminent degree to restore public tranquility; but while we are performing these acts of justice, let us cautiously abstain from every measure calculated to reanimate the dying embers of discord.—EDITOR.
+Mr. Editor,— In the Leeds Intelligencer of Monday last there is a letter from the Rev. H. Roberson, of Heald's Hall, on the subject of the recent disturbances in the West-Riding, and the great services rendered the public by two individuals.To the greater part of Mr. Roberson's letter, and to all his remarks on the conduct of Mr. Radcliffe and of Mr. William Cartwright, I cordially subscribe: except that I conceive, if Mr. Roberson's proposal were adopted, the services of those two would still be incorrectly appreciated and inadequately rewarded. Mr. Roberson's proposal does not go far enough, and falls short of the just claims of the individuals, and of the debt due to them from the public.
+
+TO DO  MORE ABOVE
+
+But independently of this local notice, never were there two stronger cases for the notice and approbation of the Prince Regent's Government. Both have nearly equal claims; the one for remuneration and reward, the other for distinction and honours; and Government cannot much longer pass over these claims, it is to be considered as *"a terror to evil doers, a praise and protection to those who do well."* In the mean time, the West-Riding has an indispensible duty to perform. Many thanks are due to Mr. Roberson, for bringing the subject fairly and directly before the public. The West Riding must meet the subject fairly and directly, and shew a just sense of the services of two distinguished individuals, or be disgraced forever.
+
+Halifax, April 22, 1813. J. T.
+
+The above letter, from a very intelligent correspondent, we have thought it our duty to insert; but we must in candour say, that very serious objections seem to exist against that part of the plan which recommends any thing like display or parade in this affair:— every thing of that nature would be like exulting over the fallen, and would have a tendency to revive those turbulent feelings that are now gradually subsiding, we trust, for ever. Let the Country and the West Riding uphold their own character, by dispensing those rewards of honour or emolument on the persons whose courage and constancy tended in an eminent degree to restore public tranquility; but while we are performing these acts of justice, let us cautiously abstain from every measure calculated to reanimate the dying embers of discord.—EDITOR.
 
 
 
@@ -516,6 +556,15 @@ And a letter from roberson in:
 
 https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130426/027/0003
 Leeds Intelligencer - Monday 26 April 1813
+
+*To the Printer of the Leeds Intelligencer*
+
+A letter in the Leeds Mercury of this day's date, signed J. T. and dated from Halifax leads me to suspect that I have not well expressed my own meaning in my letter which is inserted in your last Monday's paper.
+
+I previous set to think myself equal to the talk of "appreciating the 
+
+TO DO MORE
+
 
 ---
 
@@ -1392,15 +1441,28 @@ THE "RESPECTABLE" MR. OLIVER. Relative to this wretch, we copy the subjoined par
 https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18180214/005/0002
 Leeds Mercury - Saturday 14 February 1818
 
-TO DO
-
 HOUSE OF COMMONS, Wednesday.
 
 INSTRUCTIONS TO THE SECRET COMMITTEE.
 
-to, 2,fr. Fazct-esly trose )ursbiant to the notice- 8 he had given, to move-" Thursaru.tn ?? given to in the Secret Committee to ?? and. report. whether *n anv. and. What, measures had been taken to detect and to bring to justice, all or any of those pCtsoSs, who had been described in the Report of the Secret Committee, td on the 20th of .hucE, 1817; as having, by language e, or conduct, been in any manner the cause of the disturbances which took place last year.'- le An animated debate ensued in which it was contended on the nre -hani;' that- if, as had been stated, e- a connection, had been opened between the disaffected in London, and in the midland and northern districts, the person who established, and kept up that connexion, was sent down by the Secretary of State. and that 'a the Country magistrates in the neighbourhoods where a] any secret meetings were held, diligently employed themselves to secure Mr. Oliver, ?? delegate, from whom they supposed all the mischief proceeded. ar Oliver it was known had been in Yorkshire, Derby, and Birmingham, and tnless the -house 0 tered into an inquiry into the mission and conduct of this man, they would not do their duty to the public. There were indeed strong reasons against the report being referred to the Committee.. when it was recollected by whom that Committee .s appointed and of whom it was composed, and that it was a Committee n of ?inisc~rs sitting in judgment upon their own actions. It was urged by Ministers that Spies, in *lonler to conciliate the confidence of the disaffected must appear to be themselves disaffected and what it was this but to allow that the natural consequences of their mission was to foment disturbance ? (Hear! hear! Oliver was represented as a man of good morals, but Mr. Bennett said he was prepared to prove that he had two wives living, and that this moral it gentleman owed to the mercy of others the worthless life which he enjoyed. Since his connection with Government as aLSpy he had travelled round the country representing himself as a London delegate, and in this character he had visited Liverpool, Manchester, Derby, Nottingham, Birmingham, and Leeds, endeavouring to seduce persons in some of these places to send delegates to London, and stimulating them to endeavour to prevail upon respectable persons to call Meetings. At one of these meetings Mr. Oliver took the Chair and informed his auditors that their was no a.e in petitioning, that the people in London- were waiting for the movements of those in the country, and that nothing would do but physical force. He had appeared in Nottingham in the character of a London delegate, and urged the people in the strongest terms to riot and insurrection. Notwithstanding the assertions to the contrary, Brandreth and Oliver had been together.- 1. The plot he had laid was to insnare the people into overt acts of treason and insurrection: That this was the object and tendency of his measures could not be doubted; and it must not be fotg that from the day on which Oliver was discovered and in consequence n ceased to be a missionary ad a turistthe public !s, tranquillity had been completely restored.- Hear!  hear. NQ N eq ber in that House ever knew in his own case what it was to have a wife and children cam- during for brad !Suds cases had however occurred, r and advantage-had been taken of ietn to excite the head of the family to acts of desptriniri. Could it then have been supposed that Government would have n ent delegates and ilendaridsamang such is population? Y3 No grounds existed, Ior aarm til Oliver d h pearance, ard he attempted. to raise onean of t .country against another to secure his blood money. on the Other side of the House, it was contended generally, that the -riartive- of Uif proceedings of Oliver; as; given by the Members i liriesd of --dre House, was derived frnm a -pollued source and that a very bad and dangerous spies, existed in the cosnntryioh-g setbroto ?? t lefavssi 0 Ct rils ation of *bh1 3Mr; Canning read to 'de House ass i extract of is-letter received by His Majesty's Ministers from Earl Fitzwilliam -the -Ia:rd;Littcnane of the West-Riding of Yorkshire, in DeeL. -NI6. The letter ini question A as expressed in these tefmn" I cannot conclude this bhsty reliort to your Lordships without calling your attention to the present alarming t" state of the county, which is at 'ttiasrmoment in a "most disaffected and seditious state' I must oh. Is serve, that this is not ow;ng to any wadt of eaopboy- d' ment, or scarcity of provisions, but seems to be caused by that revolutionary spirit which was dis played at Spa-fields, and which, if riot timely put a if " stop to, will be likely to overturn the Constitution." e Lord Milton said, Mr. Canning had made use of the ar-gyn lestn ad /fliimin, but he had not acted fairly if in the line he had adopted with respect to the letters of his father. He had written two letters, one of which the honourable gentleman had quoted, but the other he had passed over in silence because it did not answer his purpose. The second letter, which was founded on more into inquiry, expressed a change of opinion, and declared that there was no necessity for the Suspension of the Habeas Corpus Act. This letter was studiously suppressed uidt only by Mr. Canning in debate, but by the Ministers in the documents which they had laid before the Secret Committee, of which he (Lord liltois) was a member. He would beg leave to inform the House hvi owiuepeopleht ad been dealt it with in this Committee. There were, laid before it several communications from the Lords' Lieutenants of Counties on the state of the country, but no communication was sent from din e Lord Lieutenant of the West Riding of Yorkshire (Earl Fitzwilliam.)- (Hear, Hear! ) How fiur tis was acting fairly, he would leave the House to decide _(Hear, hear) After some observations from Lord Castlereagh, in  which he upbraided Lord Milton with disclosing the secrets of the Secret Committee; the House divided, when there appeared, for ?? motion of .1r. Fazsaker- n lemIy,. 5.3.-alplisst it, 1 i1 -majority against inquiry, 5s.
+Mr. *Fazakerly* rose pursant to the notice he had given, to move "That instructions be given to the Secret Committee to examine and report, whether *n any, and hat, measures had been taken to detect and to bring to justice, all or any of those persons, who had been described in the Report of a Secret Committee, on the 20th of June, 1817, as having, by language or conduct, been in any manner the cause of the disturbance, which took place last year."
+
+An animated debate ensued in which it was contended on the one hand, that if, as had been stated, a connection had been opened between the disaffected in London, and in the midland and northern districts, the person who established, and kept up that connexion, was sent down by the Secretary of State. and that the Country magistrates in the neighbourhoods where any secret meetings were held, diligently employed themselves to secure Mr. Oliver, the London delegate, from whom they supposed all the mischief proceeded. Oliver it was known had been in Yorkshire, Derby, and Birmingham, and unless the house entered into an inquiry into the mission and conduct of this man, they would not do their duty to the public.
+
+There were indeed strong reasons against the report being referred to the Committee, when it was recollected by whom that Committee was appointed and of whom it was composed, and that it was a Committee of Ministers sitting in judgment upon their own actions. It was urged by Ministers that Spies, in order to conciliate the confidence of the disaffected must appear to be themselves disaffected; and what was this but to allow that the natural consequences of their mission was to foment disturbance? *(Hear! hear!)* Oliver was represented as a man of good morals, but Mr. Bennett said he was prepared to prove that he had two wives living, and that this moral gentleman owed to the mercy of others the worthless life which he enjoyed. Since his connection with Government as a Spy, he had travelled round the country representing himself as a London delegate, and in this character he had visited Liverpool, Manchester, Derby, Nottingham, Birmingham, and Leeds, endeavouring to seduce persons in some of these places to send delegates to London, and stimulating them to endeavour to prevail upon respectable persons to call Meetings.
+
+At one of these meetings Mr. Oliver took the Chair and informed his auditors that their was no use in petitioning, that the people in London were waiting for the movements of those in the country, and that nothing would do but physical force. He had appeared in Nottingham in the character of a London delegate, and urged the people in the strongest terms to riot and insurrection. Notwithstanding the assertions to the contrary, Brandreth and Oliver had been together.— The plot he had laid was to insnare the people into overt acts of treason and insurrection. That this was the object and tendency of his measures could not be doubted; and it must not be forgot, that from the day on which Oliver was discovered, and in consequence n ceased to be a missionary and a tourist — the public tranquillity had been completely restored.— *(Hear! hear!)* No member in that House ever knew in his own case what it was to have a wife and children clamouring for bread! Such cases had however occurred, and advantage had been taken of them to excite the head of the family to acts of desperation. Could it then have been supposed that Government would have sent delegates and incendiaries among such a population? No grounds existed for alarm till Oliver made his appearance, and he attempted to raise one part of the country against another to secure his blood money.
+
+On the Other side of the House it was contended generally, that the narrative of the proceedings of Oliver, as given by the Members on the opposite side of the House, was derived frnm a polluted source, and that a very bad and dangerous spirit existed in the country long before Oliver left London, in confirmation of which Mr. Canning read to the House an extract of a letter received by His Majesty's Ministers from Earl Fitzwilliam, the Lord Liuetenant of the West-Riding of Yorkshire, in Dec. 1816. The letter ini question was expressed in these terms—"I cannot conclude this hasty report to your Lordships without calling your attention to the present alarming state of the county, which is at the moment in a most disaffected and seditious state. I must observe, that this is not owing to any want of employment, or scarcity of provisions, but seems to be caused by that revolutionary spirit which was displayed at Spa-fields, and which, if not timely put a stop to, will be likely to overturn the Constitution."
+
+*Lord Milton* said, Mr. Canning had made use of the *argumentum ad filium*, but he had not acted fairly in the line he had adopted with respect to the letters of his father. He had written two letters, one of which the honourable gentleman had quoted, but the other he had passed over in silence because it did not answer his purpose. The second letter, which was founded on more minute inquiry, expressed a change of opinion, and declared that there was no necessity for the Suspension of the Habeas Corpus Act. This letter was studiously suppressed not only by Mr. Canning in debate, but by the Ministers in the documents which they had laid before the Secret Committee, of which he (Lord Milton) was a member. He would beg leave to inform the House how the people had been dealt with in this Committee. There were, laid before it several communications from the Lords' Lieutenants of Counties on the state of the country, but no communication was sent from the Lord Lieutenant of the West Riding of Yorkshire (Earl Fitzwilliam.)- *(Hear, Hear!)* How far this was acting fairly, he would leave the House to decide.—*(Hear, hear!)*
+
+After some observations from Lord Castlereagh, in which he upbraided Lord Milton with disclosing the secrets of the Secret Committee; the House divided, when there appeared, for the motion of Mr. Fazakerly, 53—against it, 111— majority against inquiry, 58.
 
 A bill of indictment has been found against Mr. Arthur Thistlewood, the person who was apprehended with Dr. Watson, in London, after the Spa-Fields Meeting, on a charge of high treason, and he has in consequence been committed to prison, for sending a challenge to Lord Sidmouth.
+
+The further proceedings in the Appeal of William Ashford against Abraham Thornton, charged with the murder of the Appellant's sister, are postponed till the 16th of April.
+
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003
 
