@@ -15,9 +15,11 @@ At the March Assizes in Nottingham, two defendants were charged with the burglar
 
 Notwithstanding the nature of the many attacks that had taken place over the preceding three months, at the Nottingham Assizes of March 1812, those charged with framebreaking offences appear to have got off relatively lightly:
 
-```{admonition} Seven of the Framebreakers tired, March 1812
+```{admonition} Seven of the Framebreakers tried, March 1812
 :class: dropdown
-*Stamford Mercury* of [Friday 20 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120320/006/0003) reported, and he state of the country, andnumber of men charged with frame-breaking, the number
+https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120320/006/0003
+
+Stamford Mercury - Friday 20 March 1812
 
 NOTTINGHAM ASSIZES.— Seven of the Framebreakers had been tried yesterday (Wednesday) afternoon—of whom three were sentenced to 14 years' transportation, two to 7 years' transportation, and two were acquitted. Judge Bayley informed the Jury that he could not remain at Nottingham past Friday, he should return after the conclusion of his circuit, and finish the trials of the prisoners.
 ```
