@@ -9,8 +9,7 @@ Just over a week later, shots were fired at Cartwright, albeit without injury to
 ```{admonition} Cartwright Assassination Attempt, April 1812
 :class: dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003
-Leeds Mercury - Saturday 25 April 1812
+*Leeds Mercury*, [Saturday 25 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003).
 
 On Saturday, a regimental Court martial was held at Huddersfield, on the private, who mis-conducted himself at the attack on Rawfolds mill, in refusing or neglecting to defend it in the manner he ought to have done, he was guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning, he was marched, escorted by a detachment of dragoons, to Rawfold the scene of action, where he was tied sip, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr. Cartwright.
 
@@ -290,8 +289,7 @@ Across the Pennines, in Lancashire, dissent was more evident in the form of popu
 ```{admonition} Militia movements, York Commmittals, and Murder, May 1812
 :class: dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120509/004/0003
-Lancaster Gazette - Saturday 09 May 1812
+*Lancaster Gazette*, [Saturday 09 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120509/004/0003).
 
 *Local Militia.*—The present perturbed state of the country has induced Government to call forth the aid of the Local Militia regiments in those districts which have been the scene of unlawful outrages.—Six companies of the Chester Local Militia regiment, and a part of the artillery, marched to Stockport on Wednesday.
 
@@ -402,8 +400,7 @@ TO DO
 
 
 ```{admonition} TO DO
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002
-Leeds Mercury - Saturday 07 November 1812
+*Leeds Mercury*, [Saturday 07 November 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002).
 
 Also appeared in [Lancaster Gazette - Saturday 07 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/010/0003).
 
@@ -427,8 +424,7 @@ It appears ——— and ———— have been Chiefs in all the disgraceful tr
 ```{admonition} TO DO
 :class: dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003
-Leeds Mercury - Saturday 28 November 1812
+*Leeds Mercury*, [Saturday 28 November 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003).
 
 LEEDS, SATURDAY, Nov. 28. ... It has been determined to appoint a Special Commission for the trial of the persons accused of the murder of Mr. Horsfall, and of the Luddites now confined in York Castle, to the number of between 40 and 50. The trials will take place, we believe, in about three weeks.- -Courier.
 
