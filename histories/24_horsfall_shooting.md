@@ -56,7 +56,7 @@ A reward of £2000 will, we understand, be offered immediately to any person who
 https://britishnewspaperarchive.co.uk/viewer/bl/0000348/18120507/025/0007
 Taunton Courier and Western Advertiser - Thursday 07 May 1812
 
-A reward of 2000l. is offered in this Gazette, for the discovery of the four villains by one or more of whom Mr, Willliam Horsfall, cloth-merchant, of Marsden, near Huddersfield, was shot at, returning from Huddersfield market, on the 28th April who, were seen lurking behind a wall in the plantation of Joseph Radcliffe, esq. on Crosland. Moor, and four slugs entered his body, since which the said Mr. Horsfall has died of the wounds he received; and also a reward of 600 guineas for the apprehension of both or either of those two men, who on Monday evening the 27th of April last, shot Mr. William Trentham through the breast, with a horse pistol, at his own door in Nottingham.
+A reward of 2000l. is offered in this Gazette, for the discovery of the four villains by one or more of whom Mr, William Horsfall, cloth-merchant, of Marsden, near Huddersfield, was shot at, returning from Huddersfield market, on the 28th April who, were seen lurking behind a wall in the plantation of Joseph Radcliffe, esq. on Crosland. Moor, and four slugs entered his body, since which the said Mr. Horsfall has died of the wounds he received; and also a reward of 600 guineas for the apprehension of both or either of those two men, who on Monday evening the 27th of April last, shot Mr. William Trentham through the breast, with a horse pistol, at his own door in Nottingham.
 
 ```
 
@@ -285,8 +285,7 @@ The Coroner's Inquest sat on the body of Mr. Horsfall last Thursday, and returne
 You was misinformed with respect to Major Gordon's stable set on fire; the stable belonged to Mr. Allen Edwards, King-street, who wishes this mistake to be rectified; Mr. Edwards is a special constable, and had rendered himself obnoxious to the incendiaries by the vigilant discharge of his duty.
 ```
 
-Across the Pennines, in Lancashire, dissent was more evident in the form of popular gatherings and "riot". Meanwhile, committals were being made to York Castle of men
-claimed to have been involved in the attack on Rawfold's mill. To the south, in Nottinghamshire, the attack on Mr. Trentham was also interpreted as representing a sea change in Luddite tactics there. And with witnesses hard to come by, an increasing number of significant rewards were being offered.
+Across the Pennines, in Lancashire, dissent was more evident in the form of popular gatherings and "riot". Meanwhile, committals were being made to York Castle of men claimed to have been involved in the attack on Rawfold's mill. To the south, in Nottinghamshire, the attack on Mr. Trentham was also interpreted as representing a sea change in Luddite tactics there. And with witnesses hard to come by, an increasing number of significant rewards were being offered.
 
 ```{admonition} Militia movements, York Commmittals, and Murder, May 1812
 :class: dropdown
