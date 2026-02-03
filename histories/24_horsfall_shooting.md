@@ -50,7 +50,7 @@ Mr. Horsfall had a very large Woollen Manufactory at Marsden, wherein about 400 
 A reward of £2000 will, we understand, be offered immediately to any person who will give such information as will lead to the conviction of any one or more of the four men concerned in the murder of Mr. Horsfall. 
 ```
 
-```{admonition} TO DO
+```{admonition} Rewards Offered, May 1812
 :class: dropdown
 
 In *Taunton Courier and Western Advertiser*, [Thursday 07 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000348/18120507/025/0007).
@@ -61,7 +61,7 @@ A reward of 2000l. is offered in this Gazette, for the discovery of the four vil
 
 A report in the *Sussex Advertiser* gives a sense of the state of uncertainty in the country at the time, as well as summarising other shooting attacks.
 
-```{admonition} Military manoeuvres and attempted shotings, May 1812
+```{admonition} Military manoeuvres and attempted shootings, May 1812
 :class: dropdown
 
 In *Sussex Advertiser*, [Monday 04 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000263/18120504/003/0003).
@@ -155,7 +155,7 @@ A poor woman in the neighbourhood of Huddersfield, on her way to a justice of th
 
 The Bolton Rioters’ Committee, or rather the Delegates, had planned a secret meeting, at which some important matters were to be discussed.— The fact became known to the Officers of Police, and it was deemed prudent not to prevent its taking place. The consequence was, that at the time the whole assemblage, consisting of 25 men, were taken by surprise, together with all correspondence. A man has also been apprehended at Eccles, in attempting to seduce the Local Militia, by offering five guineas bounty, and fifteen shillings per week, to all that would be *twisted in* (the term for swearing.) Many of the delegates are going round the country on the same service.—*Liverpool Courier.*
 
-On Tuesday, in the House of Commons, Lord Stanley moved that the Petitions from Liverpool, Birmingham, Sheffield, &c. against the Orders in Council, be referred to the consideration of a Committee of the whole House.— The motion of Lord Stanley was agreed to without opposition. We congratulate the country that the voice of the people, which has been long raised against these ruinous edicts, has at length been heard by the House of Commons, and that Ministers have judged it inexpedient any longer to oppose an inquiry into the effects of this their favourite measure; and we trust that the mass of evidence which will be produced on this subject, will be such as to render it also inexpedirnt for them to oppose their being rescinded. There is, at least, ground for hope. The will of the people, when perseveringly expressed by the constitutional mode of petitioning, must sooner or later prevail over every opposition that can be opposed by the mistaken policy of any administration. This is the only method by which grievances can be redressed. Tumults and insubordination will but aggravate their pressure, and lengthen their duration.— *Sheffield Iris.*
+On Tuesday, in the House of Commons, Lord Stanley moved that the Petitions from Liverpool, Birmingham, Sheffield, &c. against the Orders in Council, be referred to the consideration of a Committee of the whole House.— The motion of Lord Stanley was agreed to without opposition. We congratulate the country that the voice of the people, which has been long raised against these ruinous edicts, has at length been heard by the House of Commons, and that Ministers have judged it inexpedient any longer to oppose an inquiry into the effects of this their favourite measure; and we trust that the mass of evidence which will be produced on this subject, will be such as to render it also inexpedient for them to oppose their being rescinded. There is, at least, ground for hope. The will of the people, when perseveringly expressed by the constitutional mode of petitioning, must sooner or later prevail over every opposition that can be opposed by the mistaken policy of any administration. This is the only method by which grievances can be redressed. Tumults and insubordination will but aggravate their pressure, and lengthen their duration.— *Sheffield Iris.*
 
 It is said, that Special Commissions will be issued for trying the rioters, and others engaged in the late tumults in Cheshire and Lancashire.
 ```
@@ -168,7 +168,7 @@ TO DO - secret committee report brief mention?
 
 The news of a woman being assaulted to prevent her from providing information to the Magistrates about some unstated Luddite activities also appears to have taken on the nature of Chinese whispers, even finding its way into the report of the Secret Committee convened to investigate the disturbances...
 
-```{admonition} TO DO
+```{admonition} An Unfounded Report? July 1812
 :class: dropdown
 
 In *London Courier and Evening Gazette*, [Tuesday 21 July 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120721/005/0002).
@@ -195,13 +195,13 @@ TO THE PRINTER OF THE MERCURY.
 
 Sir,—The public are indebted to you for a satisfactory refutation of a calumnious assertion made by Mr Wilberforce, one of our County Members, against the Press and the People of this country, at the time the Reports of the Secret Committee of the Houses of Parliament were under consideration; but, as far as I recollect, you have not made any observations on the Reports themselves; and I beg leave through the medium of a paper always open to truth and fair argument, to call the attention of the public to the Report published by the Secret Committee of the Lords, for the purpose of shewing how unfit such Reports are to be made the grounds of Legislative enactments: I shall first quote certain passages from the Report, numbering each paragraph, for the purpose of reference, and then offer such remarks as present themselves:
 
-(1.) "Some time after," (the murder of Mr. Horsfall) siys the Report, "a young woman was attacked in the streets of *Leeds*, and nearly murdered, her skull being fractured!"
+(1.) "Some time after," (the murder of Mr. Horsfall) says the Report, "a young woman was attacked in the streets of *Leeds*, and nearly murdered, her skull being fractured!"
 
 (2) "The buildings belonging to *Messrs. Dickinsons*, in Leeds; were forcibly entered, and the *whole* of the goods there, consisting principally of cloths, cut to pieces."
 
 (3) "*Leversedge*, rear *Hockmondwike*, is in the neighbourhood of the moors dividing Lancashire and Yorkshire."
 
-(4) "About the same time," (when, as the Report states, the life of Mr. Cartwright was twice attempted on his way from Huddersfield) "a shot was fired at a Special Constable on duty at *Leeds*; and a ball was fired, at night, into the house of Mr. Armitage, a Magistrate in the neighbourhood, and lodged in the cieling of his bed-room."
+(4) "About the same time," (when, as the Report states, the life of Mr. Cartwright was twice attempted on his way from Huddersfield) "a shot was fired at a Special Constable on duty at *Leeds*; and a ball was fired, at night, into the house of Mr. Armitage, a Magistrate in the neighbourhood, and lodged in the ceiling of his bed-room."
 
 (5,) "Colonel Campbell also, who commanded the troops at Leeds, was shot at, in the night of May the 8th, upon returning to his own house, by two men, who discharged their pieces at him within a distance of 20 yards."
 
@@ -248,7 +248,7 @@ A Special Commission will shortly be sent down to Chester and Lancaster to try t
 
 ```
 
-The difficulty in obtaining incriminating testimony against the Luddites seems, in part at least, to have been put down to the oaths that were believed to being adminstered to anyone who might have
+The difficulty in obtaining incriminating testimony against the Luddites seems, in part at least, to have been put down to the oaths that were believed to being administered to anyone who might have knowledge likely to be of use to the magistrates.
 
 ```{admonition} Unlawful oaths, May 1812
 :class: dropdown
@@ -284,7 +284,7 @@ You was misinformed with respect to Major Gordon's stable set on fire; the stabl
 
 Across the Pennines, in Lancashire, dissent was more evident in the form of popular gatherings and "riot". Meanwhile, committals were being made to York Castle of men claimed to have been involved in the attack on Rawfold's mill. To the south, in Nottinghamshire, the attack on Mr. Trentham was also interpreted as representing a sea change in Luddite tactics there. And with witnesses hard to come by, an increasing number of significant rewards were being offered.
 
-```{admonition} Militia movements, York Commmittals, and Murder, May 1812
+```{admonition} Militia movements, York Committals, and Murder, May 1812
 :class: dropdown
 
 In *Lancaster Gazette*, [Saturday 09 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120509/004/0003).
@@ -370,10 +370,9 @@ A person of the name Barrowclough, of Holmfirth, a corporal in the Upper Agbrig 
 
 ```
 
+By September, 1812, it appears that cracks had started to appear in the otherwise stonewalled silence that had previously met the inquiries of the magistrates.
 
-TO DO
-
-```{admonition} TO DO
+```{admonition} Accepting the Oath of Allegiance, September 1812
 :class: dropdown
 
 In *Leeds Intelligencer*, [Monday 07 September 1812](britishnewspaperarchive.co.uk/viewer/bl/0000268/18120907/036/0003).
@@ -382,22 +381,19 @@ Leeds, September 7. We feel sincere pleasure in being enabled to state, that for
 
 ```
 
-TO DO
+And by mid-October, 1812, the authorities had had the breakthrough they needed, and George Mellor arrested for the the murder of William Horsfall.
 
-```{admonition} TO DO
+```{admonition} Strongly Suspected, October 1812
 :class: dropdown
 
 In *Westmorland Advertiser and Kendal Chronicle*, [Saturday 24 October 1812](britishnewspaperarchive.co.uk/viewer/bl/0002309/18121024/012/0003).
 
-George Mellor, of Longwood Bridge, clothdresser, charged with being strongly suspected of having, on the 29th day of April last, fired at, and shot Mr. William Horsfall, of Marsden, deceased, upon the King's highway; James Varley, of Lockwood, cloth-dresser, charged with having feloniously stolen and carried away divers guns, the property of William Newton, of Hagswood Hill. Joseph Brook. of Rastrick. tailor, charged with having burglariously broke and entered the dwelling-house of Benjamin Strickland, and feloniously stoles thereout out silver watch, one pocket-book, &c. have been committed to York Gaol.
+George Mellor, of Longwood Bridge, clothdresser, charged with being strongly suspected of having, on the 29th day of April last, fired at, and shot Mr. William Horsfall, of Marsden, deceased, upon the King's highway; James Varley, of Lockwood, cloth-dresser, charged with having feloniously stolen and carried away divers guns, the property of William Newton, of Hagswood Hill. Joseph Brook, of Rastrick, tailor, charged with having burglariously broke and entered the dwelling-house of Benjamin Strickland, and feloniously stolen thereout out silver watch, one pocket-book, &c. have been committed to York Gaol.
 ```
 
+The arrests, it seems, were the result of someone, at the time un-named, who had been involved in the shooting, having turned King's evidence. With the news apparently slow to appear in the local papers, a correspondent from Huddersfield sought to bring attention to it though the (London) *Courier*.
 
-
-TO DO
-
-
-```{admonition} TO DO
+```{admonition} A Very Important Event, November (October), 1812
 :class: dropdown
 In *Leeds Mercury*, [Saturday 07 November 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002).
 
@@ -419,8 +415,9 @@ It appears ——— and ———— have been Chiefs in all the disgraceful tr
 
 ```
 
+Along with the three men accused of the murder of William Horsfall, based in part on the testimony of a fourth who had also taken part in the affair, but turned King's evidence, charges would be laid against many others for the attack on Rawfolds mill, for the stealing of guns, and for the administering of illegal oaths. In order to try all those now in custody who had been involved in the various Luddite related offences, a special commission was thus announced.
 
-```{admonition} TO DO
+```{admonition} Special Commission To Be Appointed, November 1812
 :class: dropdown
 
 In *Leeds Mercury*, [Saturday 28 November 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003).
@@ -429,9 +426,11 @@ LEEDS, SATURDAY, Nov. 28. ... It has been determined to appoint a Special Commis
 
 ```
 
-TO DO
+The Special Commission would take place in York, in the following January (1813). As well 
 
-```{admonition} TO DO
+For those accused of causing Horsfall's death, the verdict would be a guilty one, and the sentence a capital one.
+
+```{admonition} A Melancholy Occasion, January 1813
 :class: dropdown
 
 In *Leicester Chronicle*, [Saturday 16 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0000172/18130116/029/0006).
@@ -459,7 +458,9 @@ https://books.googleusercontent.com/books/content?req=AKW5Qad_jgKES8wcJHVxM4W7Kk
 
 --
 
-```{admonition} TO DO
+A report in the *Nottingham Gazette* summarised the trial and the execution.
+
+```{admonition} Tried at the York Special Commission, January 1813
 :class: dropdown
 
 In *Nottingham Gazette*, [Friday 15 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0001099/18130115/048/0004).
