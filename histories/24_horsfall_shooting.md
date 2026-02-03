@@ -9,7 +9,7 @@ Just over a week later, shots were fired at Cartwright, albeit without injury to
 ```{admonition} Cartwright Assassination Attempt, April 1812
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 25 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003).
+In *Leeds Mercury*, [Saturday 25 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003).
 
 On Saturday, a regimental Court martial was held at Huddersfield, on the private, who mis-conducted himself at the attack on Rawfolds mill, in refusing or neglecting to defend it in the manner he ought to have done, he was guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning, he was marched, escorted by a detachment of dragoons, to Rawfold the scene of action, where he was tied sip, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr. Cartwright.
 
@@ -23,8 +23,8 @@ But it wasn't just the mill-owners who were threatened with violence.
 
 ```{admonition} Attack on a constable, May 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120502/026/0003
-Nottingham Journal - Saturday 02 May 1812
+
+In *Nottingham Journal*, [Saturday 02 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120502/026/0003).
 
 Leeds, April 27.—Colonel Campbell, the Inspecting Officer of the district, has been threatened with destruction, for the official discharge of the arduous duty imposed upon him by the present unhappy disturbances. On Saturday last an attempt was made to assassinate Mr. Cartwright, the intrepid defender of Rawfold Mills, by two villains, who fired at him front behind a hedge, as he was returning from Huddersfield. The shots were discharged at nearly the same time from opposite sides of the road, but happily without effect. The diabolical attempt upon the life of this gentleman took place in open day, between the hours of four and five in the afternoon, about a mile from Huddersfield. Last Friday night, between ten and eleven o'clock, at Mr. G.Whitehead, a constable at the Paddock, near Huddersfield, was retiring to rest, a musket or blunderbuss was discharged through his stair-case window, and two slugs, two pistol-balls, and a piece of bone, were lodged in the ceiling. Mr. Whitehead fortunately received no injury.
 
@@ -52,8 +52,8 @@ A reward of £2000 will, we understand, be offered immediately to any person who
 
 ```{admonition} TO DO
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000348/18120507/025/0007
-Taunton Courier and Western Advertiser - Thursday 07 May 1812
+
+In *Taunton Courier and Western Advertiser*, [Thursday 07 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000348/18120507/025/0007).
 
 A reward of 2000l. is offered in this Gazette, for the discovery of the four villains by one or more of whom Mr, William Horsfall, cloth-merchant, of Marsden, near Huddersfield, was shot at, returning from Huddersfield market, on the 28th April who, were seen lurking behind a wall in the plantation of Joseph Radcliffe, esq. on Crosland. Moor, and four slugs entered his body, since which the said Mr. Horsfall has died of the wounds he received; and also a reward of 600 guineas for the apprehension of both or either of those two men, who on Monday evening the 27th of April last, shot Mr. William Trentham through the breast, with a horse pistol, at his own door in Nottingham.
 
@@ -62,8 +62,9 @@ A reward of 2000l. is offered in this Gazette, for the discovery of the four vil
 A report in the *Sussex Advertiser* gives a sense of the state of uncertainty in the country at the time, as well as summarising other shooting attacks.
 
 ```{admonition} Military manoeuvres and attempted shotings, May 1812
-https://britishnewspaperarchive.co.uk/viewer/bl/0000263/18120504/003/0003
-Sussex Advertiser - Monday 04 May 1812
+:class: dropdown
+
+In *Sussex Advertiser*, [Monday 04 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000263/18120504/003/0003).
 
 Lewes, May 4th.
 
@@ -87,8 +88,8 @@ And a report in the *Hereford Journal* also described the various attacks to rea
 
 ```{admonition} A melancholy circumstance, May 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18120506/002/0002
-Hereford Journal - Wednesday 06 May 1812
+
+In *Hereford Journal*, [Wednesday 06 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18120506/002/0002).
 
 Mr. Cartwright, who bravely defended his property in Yorkshire, has been fired at three distinct occasions; but without doing him the slightest injury.
 
@@ -122,8 +123,7 @@ Meanwhile, in the *Nottingham Journal*, further details of the attack on William
 ```{admonition} A horrible murder attempt, May 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120502/026/0003
-Nottingham Journal - Saturday 02 May 1812
+In *Nottingham Journal*, [Saturday 02 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120502/026/0003).
 
 A most horrid attempt was made on Monday night last, to take away the life of Mr. W. Trentham, senr. hosier, of this town. Mr. Trentham had been spending a convivial hour with a few friends, at Mr. Timms's, and returned home about a quarter past ten o'clock. On reaching his own house, in St. Mary's church yard, he knocked for admittance, and while waiting for the door to be opened, two men, whom he had observed to be standing very near, stepped up to him, when one of them instantly, and without uttering a word, discharged a large horse pistol at him, the ball from which entered his right breast, and passing in an oblique direction, lodged near the shoulder. This sudden and unexpected attack occasioned, as might naturally be supposed, the utmost consternation in the family. Mr. Trentham was assisted into the house, and Mr. Wright, surgeon, sent for immediately, who examined the wound, and fortunately succeeded in extracting the ball.—The assassins, who are described by Mr. Trentham, as very small men, instantly fled in different directions. We understand that Mr. Trentham (though not entirely out of danger) is now in a very fair way of recovery.—The Magistrates with the most laudable zeal have used every possible exertion to trace out the perpetrators of this diabolical deed, and have offered a reward of six hundred guineas for their apprehension and conviction; but we have not heard that any certain clue has yet been discovered that will lead to a detection of the wretches.
 
@@ -134,8 +134,8 @@ Around the country, round-ups of the news in the areas associated with the Luddi
 
 ```{admonition} A provincial news round-up, May 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000215/18120509/021/0003
-Staffordshire Advertiser - Saturday 09 May 1812
+
+in *Staffordshire Advertiser*, [Saturday 09 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000215/18120509/021/0003).
 
 *Owing to the alarming state of the Country, the provincial news is now looked to with great interest and anxiety. We have therefore made the following selections from the Chester, Sheffield, Manchester, and other papers.*
 
@@ -170,8 +170,8 @@ The news of a woman being assaulted to prevent her from providing information to
 
 ```{admonition} TO DO
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120721/005/0002
-London Courier and Evening Gazette - Tuesday 21 July 1812
+
+In *London Courier and Evening Gazette*, [Tuesday 21 July 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120721/005/0002).
 
 REPORT TO THE HOUSE OF LORDS. 
 from the Secret Committee appointed to enquire into the late disturbances.
@@ -187,8 +187,7 @@ from the Secret Committee appointed to enquire into the late disturbances.
 ```{admonition} Errors in the Secret Committee Report, August 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120822/012/0003
-Leeds Mercury - Saturday 22 August 1812
+In *Leeds Mercury*, [Saturday 22 August 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120822/012/0003).
 
 THE SEALED BAG.
 
@@ -225,8 +224,7 @@ Faced with a lack of witnesses willing to come forward incriminate any of the me
 ```{admonition} A pardon, and several rewards, May 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18120507/005/0003
-Caledonian Mercury - Thursday 07 May 1812
+In *Caledonian Mercury*, [Thursday 07 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18120507/005/0003).
 
 [ATROCIOUS MURDER article from Leeds Mercury, prefaced with:]
 
@@ -254,8 +252,8 @@ The difficulty in obtaining incriminating testimony against the Luddites seems, 
 
 ```{admonition} Unlawful oaths, May 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001659/18120508/008/0002
-Drakard's Stamford News - Friday 08 May 1812
+
+In *Drakard's Stamford News*, [Friday 08 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001659/18120508/008/0002).
 
 Unlawful Oaths.
 
@@ -289,7 +287,7 @@ Across the Pennines, in Lancashire, dissent was more evident in the form of popu
 ```{admonition} Militia movements, York Commmittals, and Murder, May 1812
 :class: dropdown
 
-*Lancaster Gazette*, [Saturday 09 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120509/004/0003).
+In *Lancaster Gazette*, [Saturday 09 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120509/004/0003).
 
 *Local Militia.*—The present perturbed state of the country has induced Government to call forth the aid of the Local Militia regiments in those districts which have been the scene of unlawful outrages.—Six companies of the Chester Local Militia regiment, and a part of the artillery, marched to Stockport on Wednesday.
 
@@ -400,7 +398,8 @@ TO DO
 
 
 ```{admonition} TO DO
-*Leeds Mercury*, [Saturday 07 November 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002).
+:class: dropdown
+In *Leeds Mercury*, [Saturday 07 November 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121107/006/0002).
 
 Also appeared in [Lancaster Gazette - Saturday 07 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/010/0003).
 
@@ -424,7 +423,7 @@ It appears ——— and ———— have been Chiefs in all the disgraceful tr
 ```{admonition} TO DO
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 28 November 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003).
+In *Leeds Mercury*, [Saturday 28 November 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18121128/011/0003).
 
 LEEDS, SATURDAY, Nov. 28. ... It has been determined to appoint a Special Commission for the trial of the persons accused of the murder of Mr. Horsfall, and of the Luddites now confined in York Castle, to the number of between 40 and 50. The trials will take place, we believe, in about three weeks.- -Courier.
 
