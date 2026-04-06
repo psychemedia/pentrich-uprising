@@ -305,7 +305,7 @@ THIS DAY’S POLICE.
 
 THE MATCH-GIRLS' STRIKE.
 
-At the Thawmes Police-court to-day Annie Sheeban, 23, of Barchester-strcet, Poplar, and Margaret M‘Carthy, 28, of the same address, matchmakers, lately in the employ of Messrs. Bell and Co., match manufacturers, surrendered to their bail to answer a charge of intimidating Emily Cakebread. The main facts have been already reported. In reply to questions, the prosecutrix now said it was the first occasion on which prisoners had annoyed her.—Mr, Mead considered there was a case for a jury, and said that both the prisoners would, be committed for trial.
+At the Thames Police-court to-day Annie Sheeban, 23, of Barchester-strcet, Poplar, and Margaret M‘Carthy, 28, of the same address, matchmakers, lately in the employ of Messrs. Bell and Co., match manufacturers, surrendered to their bail to answer a charge of intimidating Emily Cakebread. The main facts have been already reported. In reply to questions, the prosecutrix now said it was the first occasion on which prisoners had annoyed her.—Mr, Mead considered there was a case for a jury, and said that both the prisoners would, be committed for trial.
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18941029/051/0003

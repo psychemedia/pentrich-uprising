@@ -444,10 +444,9 @@ Report from Committee on FrameWork Knitters Petitions, 27 May 1812.
 
 Notts folk had submitted petitions and were trying to get a bill to regulate their trade, deny truck payments etc. That as much as the capital sentence bill possibly had as much to do with quelling violence?
 
-
 REPORT.
 
-The select COMMITTEE appointed to take into Consideration the several Petitions, which have been presented to this House, in this Session of Parliment, by the Persons employed in the Framework-Knitting Trade; to examine the Matters thereof, and report the same, with their Observations thereupon, to The House; — and who were empowered to report the Minutes of the Evidence taken before them; — Have considered the Matters to them referred; and have agreed upon the following REPORT:
+The select COMMITTEE appointed to take into Consideration the several Petitions, which have been presented to this House, in this Session of Parliament, by the Persons employed in the Framework-Knitting Trade; to examine the Matters thereof, and report the same, with their Observations thereupon, to The House; — and who were empowered to report the Minutes of the Evidence taken before them; — Have considered the Matters to them referred; and have agreed upon the following REPORT:
 
 YOUR Committee proceeded immediately to examine the Witnesses produced by the Petitioners, and to enquire into the causes of the Abuses complained of by them.
 

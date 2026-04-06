@@ -9,8 +9,7 @@ But mechanisation was changing the game, first in the form of gig mills, smaller
 ```{admonition} The Woollen Trade, 1803
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002429/18030226/015/0002
-Oracle and the Daily Advertiser - Saturday 26 February 1803
+In *Oracle and the Daily Advertiser*, [Saturday 26 February 1803](https://britishnewspaperarchive.co.uk/viewer/bl/0002429/18030226/015/0002).
 
 THE WOOLLEN TRADE.
 
@@ -36,8 +35,7 @@ The Yorkshire croppers would surely have been aware of the disruptive activities
 ```{admonition} *"We learn with extreme concern..."*, February 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120227/018/0003
-Star (London) - Thursday 27 February 1812
+In *Star (London)*, [Thursday 27 February 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120227/018/0003).
 
 We learn with extreme concern, that in the neighbourhood of Huddersfield, within a short distance of that town, no fewer than twenty frames or machines have been broken, employed exclusively in the operation of cropping cloth. Serious apprehensions are entertained that further mischief will be committed, and the principal manufacturers who have availed themselves of this species of mechanism, are provided with arms and watchmen, to prevent such depredation.
 ```
@@ -45,8 +43,7 @@ We learn with extreme concern, that in the neighbourhood of Huddersfield, within
 ```{admonition} Outrages in the neighbourhood of Huddersfield, February 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120229/011/0003
-Leeds Mercury - Saturday 29 February 1812
+In *Leeds Mercury*, [Saturday 29 February 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120229/011/0003).
 
 MACHINERY DESTROYED
 
@@ -63,8 +60,7 @@ A leader column in the *Leeds Mercury* in February, 1812, repeated the call it h
 ```{admonition} Advice to those mistaken persons, February 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18120229/008/0003
-Leeds Mercury - Saturday 29 February 1812
+In *Leeds Mercury*, [Saturday 29 February 1812](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18120229/008/0003).
 
 The Mercury
 
@@ -78,8 +74,7 @@ The reward was publicised using hand-bills, or posters, and was also reprinted i
 
 ```{admonition} Resolutions of a Committee against the outrages, February 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120328/013/0004
-Leeds Mercury - Saturday 28 March 1812
+In *Leeds Mercury*, [Saturday 28 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120328/013/0004).
 
 100 GUINEAS REWARD
 
@@ -108,8 +103,7 @@ In the London papers, the relative calming of tensions in Nottinghamshire was co
 
 ```{admonition} A disposition to riot, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120302/017/0003
-London Courier and Evening Gazette - Monday 02 March 1812
+In *London Courier and Evening Gazette*, [Monday 02 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120302/017/0003).
 
 *The first part of the report also appears in e.g. [Star (London) - Tuesday 03 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120303/010/0004).*
 
@@ -123,8 +117,7 @@ Just as the Nottinghamshire attacks had received attention in the West Yorkshire
 ```{admonition} A Temporary Peace, March 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120306/047/0004
-Nottingham Review - Friday 06 March 1812
+In *Nottingham Review*, [Friday 06 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120306/047/0004).
 
 We understand that the disturbances have ceased, at least for the present, at Huddersfield. Small parties of the military guard all the gig mills near Leeds every night as a precautionary measure.
 ```
@@ -133,8 +126,7 @@ Despite an apparent respite from attack, owners of the gig mills, which were oft
 
 ```{admonition} The Gig Mill Proprietors, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120307/009/0003
-Leeds Mercury - Saturday 07 March 1812
+In *Leeds Mercury*, [Saturday 07 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120307/009/0003).
 
 Leeds, March 7.
 
@@ -148,8 +140,7 @@ Although it appears to have been largely ineffective, a large military presence 
 
 ```{admonition} Alarm prevails, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004
-Nottingham Journal - Saturday 14 March 1812
+In *Nottingham Journal*, [Saturday 14 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004).
 
 No further depredations were committed in the neighbourhood of Leeds last week; but so much alarm prevails amongst the proprietors of gig-mills, that a military guard is stationed for their protection. The Scots Greys, which have been in Leeds some time, have received an order to march to Manchester, in which neighbourhood there is collected a large military force, not less than 6000 men.
 
@@ -161,8 +152,7 @@ Already, it seems battle lines were being drawn between the established mill-own
 
 ```{admonition} Alarming accounts from Huddersfield, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120321/009/0003
-Leeds Mercury - Saturday 21 March 1812
+In *Leeds Mercury*, [Saturday 21 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120321/009/0003).
 
 The accounts from the neighbourhood of Huddersfield, are this week very alarming:— About 8 o'clock on Sunday evening, a number of armed men with their faces disfigured, assembled upon the premises of Mr Francis Vickerman, of Taylor Hill, and announced their arrival by the discharge of a gun, two of the party rushed into the house and inquired for Mr. Vickerman, and as soon as he presented himself one of the men said, "Ned Ludd of Nottingham has ordered me to break this clock," and without further ceremony, forced the muzzle of his blunderbus into the clock face. Alarmed by the outrageous conduct and language of the depredators, Mr. Vickerman withdrew into a room above stairs, and a party of the *snappers*, as they are called, was placed as guard over the family, while a number of others proceeded to the work of destruction in the work-shops, and broke from 20 to 30 pairs of shears. Having effected their purpose, a volley from the fire arms was discharged into the parlour window, and a cupboard in the room, near which Mr. Vickerman was accustomed to sit, was perforated in several places by the balls, which on examination, were found to consist of the leaden seals or stamps usually placed at the ends of woollen pieces, made into a kind of slugs. Providentially, Mrs. Vickerman was placed with her afrighted children in such a situation in the room as to escape unhurt, and the men from within the house calling to them without, for God's sake to desist, the firing ceased. As soon as the shears were broken, the cry of "Out," "Out," proceeded from several voices; they then retired into a field, had their numbers to which they answered, called over, and they dispersed about half an hour before the arrival of the Military Guard, which it was known would be placed at nine o'clock. On entering the work-shops after the rioters had retired, it was found that not content with breaking the shears, they had wantonly laid a sheet of wool and two pieces of fine cloth upon the stove, which were nearly consumed, and in a few minutes, the premises, it is apprehended, would have been in a flame.
 
@@ -173,8 +163,7 @@ On Thursday week at Mansfield, a person was apprehended for stealing a club-box.
 
 ```{admonition} The military guard avoided, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18120324/008/0004
-Manchester Mercury - Tuesday 24 March 1812
+In *Manchester Mercury*, [Tuesday 24 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18120324/008/0004).
 
 The Gazette of Tuesday contains a Proclamation offering a reward of two hundred guineas for the discovery and conviction of the persons concerned in the late outrages committed in the neighbourhood of Huddersfield, in Yorkshire.
 
@@ -189,8 +178,7 @@ As well as machinery, the cloth that was being produced on the machines also app
 ```{admonition} Cloth destroyed, March 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120327/040/0004
-Nottingham Review - Friday 27 March 1812
+In *Nottingham Review*, [Friday 27 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18120327/040/0004).
 
 We have received a letter from our Correspondent at Leeds, this morning. He says, "Contrary to my expectations, I have to inform you of further depredations committed by the populace. On Tuesday night, the warehouse of Messrs. Dickenson and Shann, in the Meadow_lane, of this town, was entered by the roof, and cloth to the value of £500 was cut and damaged. Messrs. Thompson and Co. thought it necessary to guard their gig-mill at Rawden, but on Monday evening, the watchmen were all surprised and secured, and the obnoxious part of the machinery was destroyed. Various reports are in circulation of damage done in other places, one report states that cloth to the amount of £4000 has been destroyed at Elland, near Halifax; most probably this is an exaggeration, but I believe there is some truth in it."
 ```
@@ -199,8 +187,7 @@ Although attempts were being made to identify and arrest those involved in the a
 
 ```{admonition} A Luddite leader apprehended? April 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120404/009/0003
-Leeds Mercury - Saturday 04 April 1812
+In *Leeds Mercury*, [Saturday 04 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120404/009/0003).
 
 A person of the name of Beswick, from Saddleworth, representing himself to be General Ludd, was on Wednesday se'nnight apprehended at a public-house in Huddersfield, with four of "his men," as he was pleased to call them, and placed in duress. The following morning the party underwent an examination before J. Radcliffe, Esq. and the men were discharged on entering into recognizances for their good behaviour for twelve months; but the General was re-committed, to undergo a second examination.
 ```
@@ -212,8 +199,7 @@ At the start of April, the operations mounted by the machine breakers became inc
 ```{admonition} Riots in Yorkshire, April 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120417/009/0003
-Stamford Mercury - Friday 17 April 1812
+In *Stamford Mercury*, [Friday 17 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120417/009/0003).
 
 RIOTS IN YORKSHIRE.— We are sorry to have to notice some fresh outrages in the West riding of the county. In the early part of last week, the work of destruction re-commenced in the neighbourhood of Huddersfield. The first sufferer was Mr. Smith, of Snowgate-Head, near Holmfirth: the rioters broke all his shears and dressing-frames. Horn Coat, about mile distant, was the next place of action: there they destroyed the frames and shears of Mr. Joseph Brook, broke his windows and demolished his furniture. Mr. James Brook, of Reins, near Honley, three miles from the last place, had also one frame broken, the only one he had, and which had been taken down several weeks.—But the most desperate riot was on Thursday night last, when upwards 300 depredators, armed with fire-arms, hatchets, and clubs, entered the cloth manufactory of Mr. J. Foster, of Horbury, near Wakefield; destroyed and injured every thing they could lay their hands on, whether belonging to the manufactory or not; ill-used the persons found on the premises; and lastly set fire to the building, but which was fortunately afterwards extinguished.—The damage is estimated 700*l.* 
 
@@ -222,8 +208,7 @@ RIOTS IN YORKSHIRE.— We are sorry to have to notice some fresh outrages in the
 ```{admonition} Riots and Other Outrages, April 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18120421/006/0003
-Manchester Mercury - Tuesday 21 April 1812
+In *Manchester Mercury*, [Tuesday 21 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18120421/006/0003).
 
 Riots and other Outrages.
 
@@ -242,8 +227,7 @@ A round up of news in the *Hampshire Chronicle* summarised not just the attack o
 ```{admonition} Riots in the Country, April 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18120420/008/0002
-Hampshire Chronicle - Monday 20 April 1812
+In *Hampshire Chronicle*, [Monday 20 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18120420/008/0002).
 
 RIOTS IN THE COUNTRY.
 
@@ -261,13 +245,11 @@ The edition of the *Manchester Mercury* which had reported the attack on Foster'
 
 ```{admonition} Extract of another letter, April 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18120421/006/0003
-Manchester Mercury - Tuesday 21 April 1812
-
+In *Manchester Mercury*, [Tuesday 21 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18120421/006/0003).
 
 EXTRACT OF ANOTHER LETTER.
 
-*Littletown, April 13.*—We had some warm work in this neighbourhood on Saturday night last. The Croppers alias Luddites assembled to the number of about 150 or 200 men, with an intent to destroy Cartwright's Cropping machines at Rawfold, not far from this town, and proceeded to break open the doors, but without effect, as they as well as the windows were extremely well secured with iron bars, and every precaution taken to frustrate their attempts. Cartwright is a resolute man, and having reason to believe his property would be attacked some night when he least expected it, took the resolution of sleeping in the mill every night, with a little garrison consisting of 6 men. At the time the attack was made, two of his chosen band (one of whom was a *soldier*) refused to fight. The contest began with an unequal force of five men against 150—but *"Thrice is he armed who hath his quarrel just."*— Firing was kept up on both sides for a considerable time, and it will appear, not without effect: Cartwright and his party fired 140 times from his windows; some of the Luddites were killed, and several wounded, I have seen two of these poor deluded men dead, who have fallen a sacrifice to their temerity; another is reported to have since died of his wounds, and how many more are languishing remains to be ascertained. Cartwright and his men were so well protected behind the walls, that they escaped unhurt, but they frequently exposed themselves and fought like heros, particularly the GOVERNOR.— Cartwright and his guard kept watch every night in the event of a renewal of the attack.
+*Littletown, April 13.*—We had some warm work in this neighbourhood on Saturday night last. The Croppers alias Luddites assembled to the number of about 150 or 200 men, with an intent to destroy Cartwright's Cropping machines at Rawfold, not far from this town, and proceeded to break open the doors, but without effect, as they as well as the windows were extremely well secured with iron bars, and every precaution taken to frustrate their attempts. Cartwright is a resolute man, and having reason to believe his property would be attacked some night when he least expected it, took the resolution of sleeping in the mill every night, with a little garrison consisting of 6 men. At the time the attack was made, two of his chosen band (one of whom was a *soldier*) refused to fight. The contest began with an unequal force of five men against 150—but *"Thrice is he armed who hath his quarrel just."*— Firing was kept up on both sides for a considerable time, and it will appear, not without effect: Cartwright and his party fired 140 times from his windows; some of the Luddites were killed, and several wounded, I have seen two of these poor deluded men dead, who have fallen a sacrifice to their temerity; another is reported to have since died of his wounds, and how many more are languishing remains to be ascertained. Cartwright and his men were so well protected behind the walls, that they escaped unhurt, but they frequently exposed themselves and fought like heroes, particularly the GOVERNOR.— Cartwright and his guard kept watch every night in the event of a renewal of the attack.
 ```
 
 The *Nottingham Journal* likewise reported on the West Riding attacks:
@@ -275,8 +257,7 @@ The *Nottingham Journal* likewise reported on the West Riding attacks:
 ```{admonition} New disorders in the neighbourhood of Leeds, April 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120418/031/0003
-Nottingham Journal - Saturday 18 April 1812
+In *Nottingham Journal*, [Saturday 18 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120418/031/0003).
 
 We lament to state new disorders in the neighbourhood of Leeds. The following are the particulars, given in a letter:
 
@@ -294,9 +275,7 @@ Not surprisingly, more detailed accounts of the attack Cartwright's mill appeare
 ```{admonition} A Faithful Narrative, April 1812
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 18 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120418/010/0003).
-
-*Also appears in Chester Courant - Tuesday 28 April 1812 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/18120428/007/0004*
+In *Leeds Mercury*, [Saturday 18 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120418/010/0003), also appearing in *Chester Courant*, [Tuesday 28 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/18120428/007/0004*).
 
 RIOTS
 
@@ -323,8 +302,7 @@ HUDDERSFIELD- This place has been all hurry and confusion during the present wee
 ```{admonition} An Account That May be Depended Upon To Be Correct, April 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18120413/026/0003
-Leeds Intelligencer - Monday 13 April 1812
+In *Leeds Intelligencer*, [Monday 13 April 1812](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18120413/026/0003).
 
 ATTACK ON RAWFOLDS MILL — REPULSE OF THE ASSAILANTS
 
@@ -346,16 +324,14 @@ On Thursday at midnight, about 300 of this desperate men, some undisguised, some
 
 ```
 
-A week after the attack, the soldier who had refused to fire on the Luddites was called to attend a court martial, at which he "was sentenced to receive 300 lashes". Aghast at the brutality inflicted against the young soldier, Cartwight himself interceded to prevent the full force of the sentence being inflicted upon to the poor man.
+A week after the attack, the soldier who had refused to fire on the Luddites was called to attend a court martial, at which he "was sentenced to receive 300 lashes". Aghast at the brutality inflicted against the young soldier, Cartwright himself interceded to prevent the full force of the sentence being inflicted upon to the poor man.
 
 But for the Luddites too, a corporal form of revenge was also on the agenda.
 
 ```{admonition} A Regimental Court Martial, April 1812
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 25 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003).
-
-*Also republished, in part in Caledonian Mercury, Monday 04 May 1812 https://britishnewspaperarchive.co.uk/viewer/BL/0000045/18120504/005/0003*
+In *Leeds Mercury*, [Saturday 25 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003), also appearing in part in *Caledonian Mercury*, [Monday 04 May 1812](https://britishnewspaperarchive.co.uk/viewer/BL/0000045/18120504/005/0003).
 
 On Saturday, a regimental Court martial was held at Huddersfield, on the private, who mis-conducted himself at the attack on Rawfolds mill, in refusing or neglecting to defend it in the manner he ought to have done, he was guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning, he was marched, escorted by a detachment of dragoons, to Rawfold the scene of action, where he was tied up, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr. Cartwright.
 
@@ -382,7 +358,7 @@ When another man came to their attention for apparently having recently been wou
 ```{admonition} A Wound From A Musket Ball, May 1812
 :class: dropdown
 
-*Hull Packet*, [Tuesday 05 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000062/18120505/015/0003).
+In *Hull Packet*, [Tuesday 05 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000062/18120505/015/0003).
 
 A person of the name of Haigh was apprehended at Methley on Saturday se'nnight, on suspicion of having been concerned in the late attack upon Mr. Cartwright's mill. This man, who appears to have received a wound from a musket-ball in his shoulder without being able to give any satisfactory account of the cause of that wound, has undergone several examinations before Mr. Radcliffe, of Milnsbridge, and was on Thursday committed to York Castle. On Thursday he passed through Leeds, in a chaise and four, on his way to York, escorted by twelve dragoons. Two other wounded men `[elsewhere (e.g. Pilot (London) - Tuesday 05 May 1812) named as "Charles Cockroft and one Stocks"; Stock (sic) was liberated, but Cockroft remanded.]` have been in custody all the week on a similar charge, but we have not heard the result of their examination.
 ```
@@ -392,7 +368,7 @@ But even as the investigations continued, albeit rather fruitlessly, the Luddite
 ```{admonition} Atrocious Murder, May 1812
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 02 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120502/011/0003).
+In *Leeds Mercury*, [Saturday 02 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120502/011/0003).
 
 ATROCIUS MURDER. On Tuesday evening last, at about half past six o'clock, as Mr. WILLIAM HORSFALL a very extensive Woollen Manufacturer at Marsden, about seven miles from Huddersfield, was returning from the market at that place, he was assassinated on the public road, on Crossland Moor.
 
@@ -411,7 +387,7 @@ But it wasn't just in Nottingham that the masters were being threatened.
 
 ```{admonition} Reports of Attacks on Three Separate Individuals, May 1812
 :class: dropdown
-*Drakard's Stamford News*, [Friday 08 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001659/18120508/006/0001).
+In *Drakard's Stamford News*, [Friday 08 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001659/18120508/006/0001).
 
 ALARMING RIOTS
 
@@ -451,7 +427,7 @@ More details about James Haigh, the wounded man arrested on suspicion of having 
 ```{admonition} Charged Upon Oath, May 1812
 :class: dropdown
 
-*Manchester Mercury*, [Tuesday 12 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000239/18120512/002/0002).
+In *Manchester Mercury*, [Tuesday 12 May 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000239/18120512/002/0002).
 
 Committed to York Castle.— James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Ardron, and other persons, as strongly suspected of having been one of the persons who, on the night of the 11th of April, riotously assembled and attacked the mill of Mr. W. Cartwright, at Rawfolds. —This man was apprehended at Methley, on Saturday week. It appears that since the attack above mentioned, he had been first at the house of a sister in-law, at Penistone, from whence he went to another sister at Methley. He was taken before Joseph Esq. of Milnsbridge, and after undergoing several examinations was fully committed on Thursday. He was conveyed to the Cattle in a chaise and four, escorted by a party of dragoons. —Two other men were apprehended as accomplices at Hill-House, near Huddersfield, on Monday evening, after several examinations, one of them named Stocks was liberated, but the other, Cockroft, was remanded.—On Monday night, it is strongly suspected, with a view to the rescue of the above men, the stable of Major Gordon, at Huddersfield, was set on fire, and nearly destroyed. The stratagem, however, failed; for instead of drawing away the guard which was placed over the prisoners, the officer, with great promptitude, doubled its force. Happily the fire did not communicate to any other building.
 ```
@@ -461,7 +437,7 @@ Six weeks later, and there would be another arrest.
 ```{admonition} Apprehended on Suspicion, June 1812
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 27 June 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120627/008/0003).
+In *Leeds Mercury*, [Saturday 27 June 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120627/008/0003).
 
 Our Huddersfield Correspondent under the date of the 25th instant says:—
 
@@ -475,7 +451,7 @@ A man of the name of James Oldroyd, was apprehended at Dewsbury, on Tuesday even
 ```{admonition} Confessed To Being At Rawfold's Mill, July 1812
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 04 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120704/009/0003).
+In *Leeds Mercury*, [Saturday 04 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120704/009/0003).
 
 Since our last were committed to York Castle, James Oldroyd, of Dewsbury, clothier, charged upon oath with having on the night of Monday the 22d of June inst. at the Sign of the Black-Bull, in Mirfield, confessed that he was at Rawfold's Mill on the night it was attacked, that he was engaged in that attack, and that he was near to his Fellow Creature when he fell. ...
 
@@ -493,7 +469,7 @@ The editorial line taken by *Leeds Mercury* was too much for a correspondent to 
 ```{admonition} In the silent hour of midnight darkness, July 1812
 :class: dropdown
 
-*Leeds Intelligencer*, [Monday 20 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000268/18120720/023/0003).
+In *Leeds Intelligencer*, [Monday 20 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000268/18120720/023/0003).
 
 *To the Editor of the Leeds Intelligencer.*
 
@@ -529,7 +505,7 @@ Meanwhile, it was time for the Yorkshire Summer Assizes to sit.
 
 ```{admonition} The following prisoners, July 1812
 :class: dropdown
-*Lancaster Gazette*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120725/022/0004).
+In *Lancaster Gazette*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120725/022/0004).
 
 YORKSHIRE ASSIZES.
 
@@ -558,7 +534,7 @@ The judge's opening address cautioned the Jury to be wary of trying James Haigh 
 
 ```{admonition} Committed on suspicion, July 1812
 :class: dropdown
-*Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003).
+In *Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003).
 
 YORKSHIRE SUMMER ASSIZES
 
@@ -584,11 +560,11 @@ If the labouring classes suffer from the high price of provisions, or have any o
 
 ```
 
-After the trial of the Sheffiled rioters, the court went on to hear the case against James Oldroyd, and his supposed participation in the attack on Rawfolds mill.
+After the trial of the Sheffield rioters, the court went on to hear the case against James Oldroyd, and his supposed participation in the attack on Rawfolds mill.
 
 ```{admonition} I heard a person say, July 1812
 :class: dropdown
-*Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003).
+In *Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003).
 
 YORKSHIRE SUMMER ASSIZES
 
@@ -636,7 +612,7 @@ In the matter of James Haigh, the Jury appeared to take the opening remarks of J
 ```{admonition} James Haigh — No Bill, July 1812
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003).
+In *Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003).
 
 YORKSHIRE SUMMER ASSIZES
 
@@ -645,12 +621,12 @@ YORKSHIRE SUMMER ASSIZES
 James Haigh, of Dalton, cloth-dresser, charged upon the oath of Joseph Arden and others, with being strongly suspected of having been one of the persons who riotously assembled and attacked the mill of Mr. William Cartwright, of Liversedge.-No Bill.
 ```
 
-In an alleged case of arms stealing, that too resulted in the accused party walking away from tje court as a free man.
+In an alleged case of arms stealing, that too resulted in the accused party walking away from the court as a free man.
 
 ```{admonition} An Idle, But Most Dangerous Frolic, July 1812
 :class: dropdown
 
-*Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003).
+In *Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120725/009/0003).
 
 YORKSHIRE SUMMER ASSIZES
 
@@ -686,7 +662,7 @@ A couple of days later, in the *Leeds Intelligencer*, Justice Bayley's remarks t
 
 ```{admonition} The Grand Jury having been sworn, July 1812
 :class: dropdown
-*Leeds Intelligencer*, [Monday 27 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000268/18120727/037/0003).
+In *Leeds Intelligencer*, [Monday 27 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000268/18120727/037/0003).
 
 YORKSHIRE ASSIZES.
 
@@ -721,7 +697,7 @@ Summary reports elsewhere were even briefer.
 
 ```{admonition} Yorkshire Assizes, August 1812
 :class: dropdown
-*Lancaster Gazette*, [Saturday 08 August 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120808/020/0004).
+In *Lancaster Gazette*, [Saturday 08 August 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000488/18120808/020/0004).
 
 YORKSHIRE ASSIZES. Before the Hon. BARON WOOD, and the Hon. JUSTICE BAYLEY, Sir THOMAS SLINGSBY, Bart., High Sherriff.
 
@@ -732,8 +708,7 @@ Notwithstanding the comments of Justice Bayley in his opening remarks at the sta
 
 ```{admonition} The Outrages Continue, July 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120725/026/0004
-Nottingham Journal - Saturday 25 July 1812
+In *Nottingham Journal*, [Saturday 25 July 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120725/026/0004).
 
 The outrages of the Luddites, in the West Riding of Yorkshire, still continue:—On Friday se'nnight, some of them entered the extensive warehouses of Messrs. Fretwell and Cockshott, near the Market Place, by taking off several slates, and descending through a false roof, when they proceeded to a small barrel, containing about 14 lbs. of gunpowder, wrapped up in pound papers, which they took and got clear away with. They had also taken several papers of starch, some papers of which were found near the premises the following morning. The thieves must have known where the gunpowder was deposited, and it seems to have been their principal aim to obtain it, as the valuable articles of groceries, &c. with which the warehouses are stocked, were left untouched.—After making an ineffectual attempt to break open one of the doors, and afterwards a window (the more easily to escape), they were obliged to return through the entrance they had made in the roof.—On Tuesday night, a party visited the house of Mr. Dyson, of Stainland, near Halifax, and took from him a gun and a sword, and another gun and a sword from Mr. Mellor, in that neighbourhood. The same night, mess pretending to be Luddites, entered the house of Mr. Megson, farmer, of Whitley, and took away four guinea notes, with some beef and bread. Fortunately, Mr. Megson had paid away 100 more the day before, which probably were the booty the villains hoped to grasp.
 
@@ -747,7 +722,7 @@ James Oldroyd and and James Haigh had both walked free from the Summer Assizes, 
 ```{admonition} Witness Intimidation, August 1812
 :class: dropdown
 
-*Hull Advertiser*, [Saturday 01 August 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001279/18120801/023/0004).
+In *Hull Advertiser*, [Saturday 01 August 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001279/18120801/023/0004).
 
 RAWFOLD MILL.
 
@@ -775,7 +750,7 @@ TO DO The following is same as *Hull Advertiser* - Saturday 01 August 1812 but a
 ```{admonition} Striking at the Root of Civil Society 
 :class: dropdown
 
-*Drakard's Stamford News*, [Friday 14 August 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001659/18120814/047/0004).
+In *Drakard's Stamford News*, [Friday 14 August 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001659/18120814/047/0004).
 
 TRIALS, ACCIDENTS, OFFENCES, &c. ASSIZES. York.
 
@@ -793,8 +768,7 @@ Following the assizes, remark was passed in the *Leeds Mercury* about how so few
 ```{admonition} So Few Capital Convictions
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18120804/024/0003
-Sun (London) - Tuesday 04 August 1812
+In *Sun (London)*, [Tuesday 04 August 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18120804/024/0003).
 
 Last Tuesday the following persons were conducted by a strong military escort from Huddersfield, and lodged in the Castle of York:—Samuel Haigh, late of Totties, in Holmfirth, charged upon oath with having been guilty of divers misdemeanours; and also with having-feloniously administered an unlawful oath to one Joseph Barraclough; and also with having been guilty of divers burglaries, in breaking the houses of divers persons, and stealing from thence arms; and also on strong suspicion of his having murdered Mr. Wm. Horsfall, late of Marsden, merchant.—Likewise George Brookes, of Gully, in Holmfirth, labourer, charged upon oath with having been guilty of divers felonies and misdemeanours, particularly with having feloniously and burglariously stolen arms in the night time, from divers peaceable inhabitants, and threatened to shoot Thomas Blyth, a constable, of Holmfirth, and Thomas Reynolds, the Officer of Excise there.— Likewise Benjamin Hinchcliffe, John Taylor, Robert Fritten, Abraham Armitage, George Beaumont, and John Shore, all late of Holmfirth, labourers, charged upon oath with having, in the night time, within the space of three months last past, feloniously stolen, taken, and carried away from the dwelling house of Wm. Newton, Esq. of Foolstone, in the West Riding, Cookson Stephenson, Esq. of Holmfirth, and divers other persons, certain guns, pistols, and fire arms.
 
@@ -807,7 +781,7 @@ Although the opinion of the *Leeds Intelligencer* and its correspondents might h
 
 ```{admonition} Three Classes of Luddite, July 1812
 :class: dropdown
-*Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002).
+In *Leeds Mercury*, [Saturday 25 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120725/009/0002).
 
 The persons called Luddites it is said, may be divided into three classes— *Robbers*, men who wish to live by plunder, and avail themselves of the disturbed state of the country to carry on their villainous purposes. *Anti-Machinists*, persons who impute a difficiency of labour to the use of Machinery in shearing cloth, weaving cotton, and weaving hosiery; and *Spies*, men that have introduced themselves amongst the depredators to worm out information, and whose employment must cease with the disturbances. We should be glad to know to which of these classes the persons at present engaged in stealing arms belong; we have our suspicions; and cannot forget, that a man of the name of Watt, a spy, was executed at Edinburgh, about the year 1794, for an act of High Treason in which he had engaged while labouring in his vocation, in order to draw others into his snares. The history of this man is curious, and we will take an early opportunity of recalling it to public recollection.
 
@@ -818,8 +792,7 @@ As the magistracy continued in their efforts to identify and prosecute the murde
 
 ```{admonition} Giving Information Respecting the Luddites, August 1812
 :class: dropdown
-
-*Oxford University and City Herald*, [Saturday 01 August 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000990/18120801/029/0004).
+In *Oxford University and City Herald*, [Saturday 01 August 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000990/18120801/029/0004).
 
 Wednesday se'nnight, about o'clock, John Hinchliffe, of Holmfirth, near Huddersfield, was roused from his sleep by a loud knocking at the door. On inquiring what was the cause this, a person without, asked if Hinchliffe lived there? He dressed himself, and opened the door, when he was desired by two men to lead them to certain place; they then escorted him down neighbouring lane. He desired to know their motives for conveying him that road; one of the men told him, he heard he had been giving information respecting the Luddites; this he positively denied.—The conversation was interrupted by a horse (which was loose in the lane) galloping near them, which alarmed the ruffians, and gave Hinchliffe an opportunity of escaping:—one of the men fired at him, and lodged piece of lead in his eye; the eye is entirely lost, and his head much bruised: he, however, had the good fortune to reach a friend's house. About ten weeks ago, Hinchliffe had a conversation with person of the name of Scholefield, who endeavoured to persuade him to be *twisted in* as one of General Ludd's men, threatening, that if he made any discovery of the matter, he would be put to death. Suspicion of course fell on Scholefield as one of the persons, and on inquiry it was found he had absconded.—*(Leeds Mercury.)*
 ```
@@ -829,18 +802,16 @@ A month later, Scho(le)field had been apprehended in London, whilst trying to ma
 ```{admonition} Threatening Use Of A Blunderbuss, September 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120904/002/0002
-Stamford Mercury - Friday 04 September 1812
+In *Stamford Mercury*, [Friday 04 September 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120904/002/0002).
 
 At the Whitechapel Police Office, on Wednesday, J. Schofield, of Holmfirth, Yorkshire, underwent an examination, charged with going to the house of Mr. Hinchliff, the parish clerk of Holmfirth, and telling him he wished to speak with him, and having drawn him to some distance down a lane, exclaimed, "Damn you, you never more shall say any thing against the Luddites," and immediately fired a blunderbuss, a ball from which entered one of his eyes, and penetrated two inches into his head, but was afterwards extracted, and Mr. H. is likely to recover. The prisoner was apprehended on board an American vessel, in the London Dock, and was ordered to be sent to Holmfirth, strongly guarded, to take his trial.
 ```
 
-TO DO
+As sporadic attacks continued on gig mills in the West Riding during Septemeber, 1812, reports came in from Huddersfield of arrests for "Luddism" in Huddersfield.
 
 ```{admonition} Charged With Being an Attack Commander and Assassin
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120912/009/0003
-Leeds Mercury - Saturday 12 September 1812
+In *Leeds Mercury*, [Saturday 12 September 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120912/009/0003).
 
 LEEDS, SATURDAY, Sept. 12.
 
@@ -853,7 +824,7 @@ If there be, as we fear there are, persons amongst us that would have no objecti
 Our Correspondent at Huddersfield, under date of the 10th inst. says:—"Several persons have been apprehended on various charges of Luddism, and are now in custody here. A number of others have this week abjured their illegal oath and taken the oath of allegiance; they see the calamities they have brought upon themselves and neighbours by the atrocious depredations they have committed, and the delusions they have laboured under; and it is to be hoped they will all follow the laudable example of these their associates, in discharging themselves from that unlawful and ruinous system in which they have unfortunately been engaged, and return to their duty and allegiance before it is too late.
 ```
 
-With their committal to York Castle, it became clear that Benjamin Walker, and others, had turned King's evidence, with the result that William Thorpe and Thomas Smith were being charged on multiple accounts, for their roles in leading, or at least, assisting in, the attack on Rawfolds Mill, and for their role in the killing of William Horsfall. Several other men had also been identified and charged for their alleged roles in the attacks on Vickerman's and Cartwright's mills.
+With their committal to York Castle, it became clear that Benjamin Walker, and others, had turned King's evidence, with the result that William Thorpe and Thomas Smith were being charged, on multiple counts, for their roles in leading, or at least, assisting in, the attack on Rawfolds Mill, and for their role in the killing of William Horsfall. Several other men had also been identified and charged for their alleged roles in the attacks on Vickerman's and Cartwright's mills.
 
 ```{admonition} Committed to York Castle, October 1812
 :class: dropdown
@@ -862,16 +833,13 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0001279/18121031/010/0003 Hull A
 Committed to York Castle, W. Thorpe and Thomas Smith, both of Huddersfield, cloth-dressers, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the attack on Mr. Cartwright's mill; and also with being two of the persons concerned in the murder of William Horsfall.—James Haigh of Dalton; Jonathan Dean of Huddersfield; Mark Hill, George Rigg, and Joseph Thornton, cloth-dressers, charged with attacking the mill of Mr. Cartwright; and the three latter with also having assembled at the workshop of Francis Vickerman, at Tailor Hill, Almondbury, and feloniously broke and destroyed divers shears and articles of machinery, the property of the said Francis Vickerman.— Also, Lazarus Naylor, of Pudsey, charged upon oath with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth.
 ```
 
-TO DO
+The report of committals in the *Leeds Intelligencer* (and elsewhere) give an idea of how extensive the resulting trial would be.
 
 ```{admonition} On Multiple Charges, November 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18121102/032/0003
-Leeds Intelligencer - Monday 02 November 1812
-Also in 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/021/0004
-Lancaster Gazette - Saturday 07 November 1812
+In *Leeds Intelligencer*, [Monday 02 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18121102/032/0003),
+also appearing in *Lancaster Gazette*, [Saturday 07 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/021/0004).
 
 Committed to York Castle, W. Thorpe (No. 44) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with being a commander at, and aiding and assisting in an unlawful attack lately made upon Mr. Cartwright's mill, at Rawfolds; and also charged with being one of the men who shot and murdered Mr. William Horsfall, late of Marsden, merchant, in the month of April last. — Thomas Smith (No. 45) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the above attack on Mr. Cartwright's mill; and also with being one of the persons concerned in the murder of William Horsfall. James Haigh (No. 46) of Dalton, and Jonathan Dean (No. 47) of Huddersfield, cloth dressers, charged upon the oath of William Hall and others, with having, together with divers others, unlawfully and riotously assembled at Hartshead-cum-Clifton, in April last, and then proceeded to attack the mill, at Rawfolds. — Mark Hill (No 49) and Joseph Thornton (No. 50) cloth-dressers, charged upon the oath of William Hall, with having, together with divers others, unlawfully and feloniously assembled at the mill, at Rawfolds, and attempted to break into the same; and also with having assembled at the work-shop of Francis Vickerman, at Taylor Hill, in Almondbury, breaking and destroying divers shears and articles of machinery, the property of the said Francis Vickerman. — Also, Lazarus Naylor (No. 51) of Pudsey, charged with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth. — Eight *Luddites* passed through Leeds on Saturday, on their way to York Castle. Three more passed through on Sunday.
 ```
@@ -881,8 +849,33 @@ By the end of month, the decision to appoint a special commission was in place, 
 ```{admonition} It Has Been Determined, November 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18121128/006/0003
-Caledonian Mercury - Saturday 28 November 1812
+In *Caledonian Mercury*, [Saturday 28 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18121128/006/0003).
 
 It has been determined to appoint a special commission for the trial of the persons accused of the murder of Mr Horsfall, and of the Luddites now confined in York Castle, to the number of between 40 and 50. The trials will take place, we believe, in about three weeks.
 ```
+
+
+---
+
+TO DO 
+
+https://ludditebicentenary.blogspot.com/2012/09/4th-september-1812-gig-mills-destroyed.html
+4th September 1812: Gig Mills destroyed at Southowram, near Halifax
+After a hiatus in machine-breaking of several months, destruction broke out in the early hours of Friday 4th September 1812 at Southowram, near Halifax.
+
+A local mill belonging to a Mr Waterhouse was on the route of the military, who were stationed nearby. Indeed, the local detachment passed by at 1.30 a.m., with all being well.
+
+But the Luddites knew their movements, and were waiting. When the coast was clear, up to 100 Luddites arrived at the mill, quickly securing the watchman before any alarm could be raised. They obtained the key for the premises from a woman at the mill (possibly Waterhouse's wefe), and once inside, the Luddites destroyed 2 gig mills. In addition, several windows of a building occupied by a Mr Broadbent, the superintendent of the mill, were smashed, and his life was threatened should he be found working the mill again.
+
+When the military patrol returned at 2.00 a.m., the action had taken place and the Luddites had dispersed into the night.
+As reported in the Leeds Intelligencer of 7th September 1812 & the Leeds Mercury of 12th September 1812. A letter from General Acland to General Maitland of 5th September 1812 also mentions the raid, and this can be found at HO 40/2/7. The newspaper reports state that furniture inside the mill was destroyed, but General Acland's report to General Maitland clearly states that, other than the gig mills, other machinery and even pieces of cloth lying around at the mill were untouched, and no furniture is mentioned.
+
+
+https://ludditebicentenary.blogspot.com/2012/09/7th-september-1812-shearing-frames.html
+7th September 1812: Shearing frames destroyed at Gildersome, near Morley
+In the second attack in the West Riding within three days, Luddites were at work at a mill in Gildersome, near Morley in the early hours of Monday 7th September 1812.
+
+At 1.00 a.m., a group of Luddites arrived at the woollen mill belonging to Richard Lindsey & Sons. The doors were broken open, and 17 pairs of shears, along with shearing frames they were mounted on, were destroyed. No lights were lit and the whole action was concluded within 20 minutes.
+
+The premises had been regularly guarded by the military until the lifting of the Orders in Council by government some weeks ago, when the available work increased and it was assumed they would be safe.
+As reported in the Leeds Mercury of 12th September 1812 & the Leeds Intelligencer of 14th September 1812.

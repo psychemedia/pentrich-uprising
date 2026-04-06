@@ -1,13 +1,9 @@
 # History of the Woollen Trade
 
+```{admonition} A brief history
+:class: dropdown
 
-https://archive.org/details/acomprehensiveh01biscgoog/page/400/mode/2up
-Comprehensive history of the woolen and worsted manufactures and the natural and commercial history of sheep ..
-by Bischoff, James, Volume I
-
-Publication date 1842
-
-pp.490-
+In James Bischoff, *Comprehensive history of the woolen and worsted manufactures and the natural and commercial history of sheep*, Volume I, 1842, [pp.490](https://archive.org/details/acomprehensiveh01biscgoog/page/400/mode/2up).
 
 Chapter X
 
@@ -15,18 +11,17 @@ Notwithstanding the extensive improvement introduced in manufactures, it was ext
 
 Riots commenced in the West Riding of Yorkshire in the year 1812, the chief object being the destruction of gig mills used for raising the wool on blankets, coatings, baize, and on cloth in the process of finishing. The men were regularly organised and trained. After demolishing the works of Mr. Foster, of Horbury, in Yorkshire, their leader ordered them into a field, and their numbers (each man having a number to conceal his name) being called over, he dismissed them by the word of command, — "the work is done, disperse!" The time occupied in the business of mustering, destruction, and dispersing did not exceed twenty minutes. They had the appellation of Luddites. Detachments were sent round the country, who searched the houses for arms, and their depredations were not checked, till a most respectable manufacturer at Huddersfield, Mr. Horsfall, was shot near his own house. A reward of £2,000 was offered for the detection of the murderers, one of whom turned king's evidence, and three were tried and convicted by a special commission, in January, 1813, and were executed at York; and fourteen, who were severally convicted of participating in an attack on Mr. Cartwright'a mill, and other mills, were all executed on one day; and however revolting the destruction of so many lives is to the feelings, it was considered absolutely necessary in order to stop the ravages which were daily committed. It put an end to those disorders, and at the assizes which took place at York, in the April following, Mr. Parke, king's counsel, publicly declared, that however sanguinary it had appeared, in the execution of so many deluded wretches, leaving twelve widows and fifty-seven orphan children, Luddism was then extinct, and government declined to prosecute the other prisoners, having been only determined to restore tranquillity and good order.
 
-Though the exertions made by public men, and by the leading agriculturists of the kingdom, to introduce the spanish merino sheep had been so great, they found it impossible to produce that quality of wool which was required by the manufacturers of superfine cloth; and when they brought their wool to market, meeting the competition of spanish wool, and of saxony wool, the fineness of which now became known, they were greatly disappointed at the prices they were able to obtain, attributing them to what they considered the prejudices of the manufacturers, and they pressed upon Government their grand specific for all distresses, taxation on foreign wool, as their only protection against the evils of which they complained. The agriculturists of England were, however, divided into two parties, — those whose possessions were on the light soils, the downs and the heaths, with fine herbage, and those whose property consisted of rich, loamy, clay, and fen lands. The former were disappointed in the improvement they anticipated in their fleeces from the introduction of the merino sheep; and at their head were Lord somerville, the Earl of sheffield, sir John sinclair, Mr. Western, Mr. Burrell, Mr. Holme sumner, &c. &c.; while those who encouraged the
+Though the exertions made by public men, and by the leading agriculturists of the kingdom, to introduce the Spanish merino sheep had been so great, they found it impossible to produce that quality of wool which was required by the manufacturers of superfine cloth; and when they brought their wool to market, meeting the competition of Spanish wool, and of Saxony wool, the fineness of which now became known, they were greatly disappointed at the prices they were able to obtain, attributing them to what they considered the prejudices of the manufacturers, and they pressed upon Government their grand specific for all distresses, *taxation on foreign wool*, as their only protection against the evils of which they complained. The agriculturists of England were, however, divided into two parties, — those whose possessions were on the light soils, the downs and the heaths, with fine herbage, and those whose property consisted of rich, loamy, clay, and fen lands. The former were disappointed in the improvement they anticipated in their fleeces from the introduction of the merino sheep; and at their head were Lord Somerville, the Earl of Sheffield, Sir John Sinclair, Mr. Western, Mr. Burrell, Mr. Holme Sumner, &c. &c.; while those who encouraged the
 
+[TO DO - describes enclosure, appeals re: import/export of wool 1816]
+```
 
+The "state of the art" in woollen manufacture at the time is described in Abraham Rees' *The cyclopaedia; or, Universal dictionary of arts, sciences, and literature*, published in 1819.
 
+```{admonition} The Process of Woollen Manufacture, 1819
+:class: dropdown
 
-https://archive.org/details/cyclopaediaorun38rees/page/658/mode/1up?q=%22prepared+for+the+weaver%22
-The cyclopaedia; or, Universal dictionary of arts, sciences, and literature
-by Rees, Abraham, 1743-1825
-
-Publication date 1819
-
-page/658-
+In Abraham Rees, *The cyclopaedia; or, Universal dictionary of arts, sciences, and literature*, 1819, [pp.658-](https://archive.org/details/cyclopaediaorun38rees/page/658/mode/1up).
 
 *Woollen Manufacture, Process of.* In an early part of this work, under the article CLOTH, we have given a general view of the process of cloth-making, furnished by a principal manufacturer in the west of England. In the present article, we shall confine our account chiefly to those improvements in the processes which have since been introduced, and shall add a description of the machines which were only slightly noticed in the article *Cloth*, and give references to the plates. The processes of the woollen manufacture may be classed under two heads; those by which wool is prepared for the weaver, and those by which the cloth is finished after it is taken out of the loom. The sorting of wool has already been referred to under the article *Wool*. English wool is supposed to be sufficiently cleaned from pitch marks or other extraneous substances by the wool-sorter, and left by him in a proper state to commence the process of cloth-making. spanish wool in the bale has generally some part of the pitch employed to mark the sheep still adhering to it, which must be carefully cut off. It was till recently the practice to beat the wool with rods, in order to shake out the dust and open the staples; but this is now principally done by an opening machine with long coarse teeth, called a devil, or wool-mill. spanish wool is frequently so hardly pressed together in the bag, that it requires to be opened out by beating, to prepare it for the further processes.
 
@@ -131,7 +126,7 @@ They next observe, that if the principles on which the use of these particular m
 The committee declare it to be their opinion, that by these means alone, and above all by the effect of machinery in improving the quality and cheapening the fabrication of our various articles of export, notwithstanding a continually accumulating weight of taxes, and with all the necessaries and comforts of life gradually increasing in price, (the effects of which on the wages of labour could not but be very considerable,) our commerce and manufactures have also been increasing in such a degree as to surpass the most sanguine calculations of the ablest political writers who have speculated on the improvements of a future age. The exports of woollen goods at the time of this report, (1807,) amounted to six millions of pounds official, or nine millions of real value.
 
 It appeared also to be an important consideration, of which we should never lose sight, that we are at this day surrounded by powerful and civilized nations, who are intent on cultivating their manufactures and pushing their commerce; and who are more eager to become our competitors in trade, from having witnessed the astonishing effect of our commercial prosperity. The attempts which have been made to carry our machines and implements over to foreign countries, and to tempt our artisans to settle in those countries, evince the importance of machinery, under the directions of men of approved skill, in constructing and using them. It is needless to remark how much these attempts would be favoured by our throwing any obstructions in the way of enterprize and ingenuity. and the free application of capital in this country; for any machines which should be prohibited here would infallibly find their way into foreign nations in a very short time.
-
+```
 
 https://archive.org/details/in.ernet.dli.2015.461619/page/n487/mode/thumb?q=%22Plate+III.+Woollen+Manufacture%22
 A selection From The Cyclopaedia Or Universal Dictionary Of Arts, sciences And Literature

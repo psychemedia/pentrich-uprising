@@ -388,7 +388,7 @@ Sir,—The public are indebted to you for a satisfactory refutation of a calumni
 
 (2) "The buildings belonging to *Messrs. Dickinsons*, in Leeds; were forcibly entered, and the *whole* of the goods there, consisting principally of cloths, cut to pieces."
 
-(3) "*Leversedge*, rear *Hockmondwike*, is in the neighbourhood of the moors dividing Lancashire and Yorkshire."
+(3) "*Leversedge*, rear *Heckmondwike*, is in the neighbourhood of the moors dividing Lancashire and Yorkshire."
 
 (4) "About the same time," (when, as the Report states, the life of Mr. Cartwright was twice attempted on his way from Huddersfield) "a shot was fired at a Special Constable on duty at *Leeds*; and a ball was fired, at night, into the house of Mr. Armitage, a Magistrate in the neighbourhood, and lodged in the cieling of his bed-room."
 
@@ -398,7 +398,7 @@ On the first of these assertions I have to state, (and I appeal to the civil and
 
 (2) A quantity of goods were cut in the warehouse Val of Messrs. Dickinson, Carr and Shann; but to assert, that all the goods were cut to pieces, is to exaggerate the mischief.
 
-(3.) "*Hockmondwike*," says the Report, "is in the neighbourhood of the moors dividing Lancashire  and Yorkshire!"—A marvellous piece of topographical information this!—It is is as much in the neighbourhood of those moors, as Leeds is in the neighbourhood of Halifax.
+(3.) "*Heckmondwike*," says the Report, "is in the neighbourhood of the moors dividing Lancashire  and Yorkshire!"—A marvellous piece of topographical information this!—It is is as much in the neighbourhood of those moors, as Leeds is in the neighbourhood of Halifax.
 
 (4.) Here is a mass of blunders. No shot has been fired at any Special ConstabLe in Leeds; nor is there any Magistrate of the name of Armitage in the neighbourhood; and I will take upon me to assert, without fear of contradiction, that no Magistrate whatever, either of that or any other name has bren shot at, in the the county of York, during the disturbances.
 
