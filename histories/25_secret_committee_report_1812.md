@@ -1,7 +1,6 @@
 # Secret Committee Report
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120721/005/0002
-London Courier and Evening Gazette - Tuesday 21 July 1812
+In *London Courier and Evening Gazette*, [Tuesday 21 July 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120721/005/0002).
 
 TO DO - from Cluade
 

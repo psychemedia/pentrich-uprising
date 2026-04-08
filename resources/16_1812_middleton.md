@@ -2,8 +2,7 @@
 
 five killed and 16 or 18 wounded
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000990/18120425/011/0002
-Oxford University and City Herald - Saturday 25 April 1812
+In *Oxford University and City Herald*, [Saturday 25 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000990/18120425/011/0002).
 
 TO DO
 

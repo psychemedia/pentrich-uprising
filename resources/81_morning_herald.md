@@ -32,9 +32,7 @@ To these observations we are led simply by a desire of the future regulation, fo
 
 ---
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0002408/18170724/013/0003
-
-Morning Herald (London) - Thursday 24 July 1817
+In *Morning Herald (London)*, [Thursday 24 July 1817](https://britishnewspaperarchive.co.uk/viewer/BL/0002408/18170724/013/0003).
 
 HIGH COURT OF JUSTICIARY, JULY 19
 

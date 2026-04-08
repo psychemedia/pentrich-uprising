@@ -28,7 +28,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 11 January 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130111/030/0003).
+In *Leeds Intelligencer*, [Monday 11 January 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130111/030/0003).
 
 TO DO luddite bicentenary
 
@@ -65,7 +65,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Nottingham Gazette*, [Friday 15 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0001099/18130115/048/0004).
+In *Nottingham Gazette*, [Friday 15 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18130115/048/0004).
 
 TO DO includes reference to reading things in newspaper (in trial transcript?)
 
@@ -94,7 +94,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 16 January 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130116/006/0002?browse=true).
+In *Leeds Mercury*, [Saturday 16 January 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130116/006/0002?browse=true).
 
 TO DO luddite bicentenary
 
@@ -111,7 +111,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 18 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0000268/18130118/044/0003).
+In *Leeds Intelligencer*, [Monday 18 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130118/044/0003).
 
 CONFESSION OF THE MURDERERS.
 
@@ -124,35 +124,12 @@ AN ATTENTIVE HEARER.
 
 TO DO
 
-```{admonition} TO DO
+
+
+```{admonition} The Supposed Confession, January, 1813
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 23 January 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130123/007/0003).
-
-TO DO claude check
-
-EXECUTION.
-
-After sentence of death had been passed upon the persons convicted of making the attack on Mr. Cartwright's Mill, at Rawfolds, and of the Burglaries, fifteen in number, all of them except John Lamb, who was reprieved, were removed to the condemned-ward, and their behaviour in that place was very suitable to their unhappy situation. They confessed that they had offended against the laws of God and their Country, but on the subject of the offence, for which the sentence of death was passed upon them, they were very reserved; yet all of them except one, tacitly confessed that they were guilty of the crimes for which they stood convicted, for when they were asked if any of them could say they were not guilty, they all remained silent except James Haigh and Nathan Hoyle, the former of whom said, "I am guilty," and the latter, "I am innocent;" this was the day before the execution; but Hoyle did not make any declaration to that effect when brought to the platform. Their minds for the most part had attained an extraordinary degree of composure; except the mind of John Ogden—he appeared for some time to be much disturbed, but on the question being put to him whether his agitation arose from any discovery that he had to make, and with the weight of which his conscience was oppressed? he answered, no; his agitation arose from the terrors of his situation.
-
-And here it seems proper to observe, that if any of these unfortunate men possessed any secret that it might have been important to the public to know, they suffered it to die with them. Their discoveries were meagre in the extreme. Not one of them impeached any of their accomplices, nor did they state, as might reasonably have been expected, where the depot of arms, in the collection of which some of them had been personally engaged, was to be found. When interrogated on this point, some of them disclaimed all knowledge of the place, and others said, Benjamin Walker, the informer against Mellor, Thorpe, and Smith, could give the best information about the arms, as he had been present at most of the depredations. On the question being put to them whether they knew who was concerned in the robbery of a mill (not Rawfolds) near Cleckheaton; James Hey said, "I and Carter the informer were present at the robbery." It was observed to James Hey, that it was very extraordinary, that he who had had the advantage of a religious education, his Father being of the Methodist Society, should have come to such a disgraceful situation; to which he replied, in a manner that shewed that his vices, however flagrant, had not extinguished in his bosom the feelings of filial affection, "Father, say it—"the son's crimes will never be imputed to his father." The principal part of these ill-fated men were married and have left families. William Hartley, has left seven children, their mother, happily for herself, died about half a year ago. John Ogden, wife and two children; Nathan Hoyle, wife and seven children; Joseph Crowther, wife pregnant, and four children; John Hill, wife and two children; John Walker, wife and two children; Jonathan Dean, wife and seven children; Thomas Brook, wife and three children; John Swallow, wife and six children; John Batley, wife and one child; John Fisher, wife and three children; Job Hey, wife and seven children; James Hey, wife and two children; James Haigh, wife, but no children. On the morning before the execution, the eldest daughter of Hartley obtained permission to visit her wretched parent, when a scene took place which we will not attempt to describe. The heart-broken father wished to have been spared the anguish of this parting interview, but the importunate intreaties of his child at last prevailed, and they met to take a long farewell, never again to be repeated in this world. What must be the feelings of an affectionate father, (for such in this trying moment he appears to have shewn himself,) when, though standing on the brink of eternity, he declines to see a darling child; how great an aggravation of his punishment must those parting pangs have inflicted, and how loud an admonition does this melancholy incident suggest to the Fathers of families, against entering into combinations that may place them in the same inexpressibly afflictive situations. It was Hartley's particular request that the public should be informed of the number and unprovided situation of his orphan family.
-
-At eleven o'clock on Saturday morning, the Under Sheriff went to demand the bodies of John Ogden, Nathan Hoyle, Joseph Crowther, John Hill, John Walker, Jonathan Dean, and Thomas Brook. They were all engaged in singing a hymn:
-
-Behold the Saviour of Mankind,  
-Nail'd to the shameful tree;  
-How vast the love that him inclin'd. 
-To bleed and die for me, &c.
-
-Which one of them dictated in a firm tone of voice: and in this religious service they continued on their way to the platform, and some time after they had arrived at the fatal spot. They then joined the ordinary with great fervency in the prayers appointed to be read on such occasions, and after that gentleman had taken his final leave of them, ejaculations to the throne of mercy rose from every part of the crowded platform.
-
-Joseph Crowther addressing himself to the spectators said, "Farewell Lads;" another whose name we could not collect, said, "I am prepared for the Lord," and John Hill, advancing a step or two on the platform, said, "Friends! all take warning by my fate; for three years I followed the Lord, but about half a year since, I began to fall away; and fell by little and little, and at last I am come to this; persevere in the ways of godliness, and O! take warning by my fate!" The executioner then proceeded to the discharge of his duty, and the falling of the platform soon after, forced an involuntary shriek from the vast concourse of spectators assembled to witness this tremendous sacrifice to the injured laws of the country.
-
-The bodies having remained suspended for the usual time, they were removed, and while the place of execution was yet warm with the blood of the former victims—the remaining seven, namely, John Swallow, John Batley, Joseph Fisher, William Hartley, James Haigh, James Hey, and Job Hey, were led at half-past one o'clock from their cell to the fatal stage, their behaviour, like that of their deceased confederates, was contrite and becoming; James Haigh expressed deep contrition for his offences. John Swallow said he had been led away by wicked and unprincipled men, and hoped his fate would be a warning to all, and teach them to live a life of sobriety and uprightness. They all united in prayer with an earnestness that is seldom witnessed in the services of devotion, except in the immediate prospect of death. A few moments closed their mortal existence, and placed them at the bar differing from all earthly tribunals in this infinitely important particular—here, owing to the imperfections of all human institutions, repentance though sincere, cannot procure forgiveness—there, we have the authority of God himself for saying, that the cries of the contrite and broken hearted shall not be despised. Charity hopeth all things.
-
-The criminal records of Yorkshire do not perhaps afford an instance of so many victims having been offered in one day to the injured laws of the country. The scene was inexpressibly awful, and the large body of soldiers, both horse and foot, who guarded the approach to the castle, and were planted in front of the fatal tree, gave to the scene a peculiar degree of terror, and exhibited the appearance of a military execution. The spectators, particularly in the morning, were unusually numerous, and their behaviour on both occasions, were strictly decorous and becoming.
-
-TO DO check above
+In *Leeds Mercury*, [Saturday 23 January 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130123/007/0003).
 
 *THE SUPPOSED CONFESSION.*
 
@@ -168,7 +145,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 25 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0000268/18130125/032/0003).
+In *Leeds Intelligencer*, [Monday 25 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130125/032/0003).
 
 TO DO luddite bicentenary
 
@@ -187,7 +164,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 25 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0000268/18130125/032/0003).
+In *Leeds Intelligencer*, [Monday 25 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130125/032/0003).
 
 `Also reprinted in the *Lancaster Gazette* of [Saturday 30 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18130130/007/0003).`
 
@@ -209,7 +186,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 30 January 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130130/007/0003).
+In *Leeds Mercury*, [Saturday 30 January 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130130/007/0003).
 
 TO DO luddite bicentenary
 
@@ -224,7 +201,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 08 February 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130208/021/0003).
+In *Leeds Intelligencer*, [Monday 08 February 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130208/021/0003).
 
 TO DO luddite bicentenary
 
@@ -247,7 +224,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 13 February 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130213/005/0003).
+In *Leeds Mercury*, [Saturday 13 February 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130213/005/0003).
 
 TO DO luddite bicentenary
 
@@ -269,7 +246,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 15 February 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130215/025/0003).
+In *Leeds Intelligencer*, [Monday 15 February 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130215/025/0003).
 
 TO DO luddite bicentenary
 
@@ -292,7 +269,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 27 February 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130227/006/0003).
+In *Leeds Mercury*, [Saturday 27 February 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130227/006/0003).
 
 TO DO luddite bicentenary
 
@@ -309,7 +286,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 01 March 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130301/020/0003).
+In *Leeds Intelligencer*, [Monday 01 March 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130301/020/0003).
 
 TO DO luddite bicentenary
 
@@ -328,7 +305,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 13 March 1813](britishnewspaperarchive.co.uk/viewer/bl/0000076/18130313/009/0003).
+In *Leeds Mercury*, [Saturday 13 March 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18130313/009/0003).
 
 THE POINT AT ISSUE
 
@@ -352,7 +329,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 22 March 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130322/014/0003).
+In *Leeds Intelligencer*, [Monday 22 March 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130322/014/0003).
 
 TO DO luddite bicentenary
 
@@ -379,7 +356,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 27 March 1813](britishnewspaperarchive.co.uk/viewer/bl/0000076/18130327/008/0003).
+In *Leeds Mercury*, [Saturday 27 March 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18130327/008/0003).
 
 It must be admitted on all hands that an Attentive Hearer "*dies game,*" or after the figure he has already cut, he would never have written another letter of half a column, turning upon a mere verbal quibble—a distinction without a difference.— If he be not extremely ignorant of the nature of evidence, he must know that the testimony of witnesses speaking "according to the best of their knowledge and belief" is regularly received in our courts of justice. Indeed knowledge and belief are the only grounds on which a man can with certainty aver any thing. Will his authorities say that his assertions are true according to the best of their knowledge and belief? He knows they will not. But it is vain to reason with a man who has lost both his cause and his temper, and who is now evidently contending not for truth, but for the last word. The public have long been convinced that he is in error, and if any thing would have fixed upon his own mind the same conviction, it would have been the fact of his having produced, with no small difficulty, *five* witnesses to support his dogmatical assertions, three of whom contradicts one half of what he says! a fourth could not distinctly hear!! and the fifth was not present!!!
 
@@ -414,7 +391,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 03 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130403/006/0003).
+In *Leeds Mercury*, [Saturday 03 April 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130403/006/0003).
 
 An "Attentive Hearer" is more invincible than Dr. Goldsmith's Village Schoolmaster. *His* witnesses, he says, in his last letter, speak *positively*. Do they, indeed!—Is it not, then, positively to deny one half of what he produced them to prove, and thereby to cast discredit upon the other half? And has he not, by referring to these witnesses, fixed upon himself, incontestably, the imputation of having put words, and very remarkable words too, into the mouth of a dying man that he never used? Let him answer these questions, and let the answers he is obliged to give, prove to him that he is not quite infallible, and teach him to be less dogmatical and more circumspect in future. Of the seven witnesses produced by [???], he says, speaks of his knowledge and belief and [???] the other six declare that they "cannot positively say how it was." This we know to be an incorrect report of the result of his enquiries; it is, in fact, a falsification of the evidence; and to proof of this, we challenge him to publish the verbal and written testimony of those seven witnesses, and thus to give the public an opportunity of judging how much his assertions are to be relied upon, whether they regard the expressions of the dead or of the living.
 
@@ -426,9 +403,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 12 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130412/043/0003).
-
-TO DO - from luddite bicentenary
+In *Leeds Intelligencer*, [Monday 12 April 1813](In *TO DO*, [from luddite bicentenary](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130412/043/0003).).
 
 Mr. PRINTER,—In reply to the "Printer's" Paragraph this week, I inform him, that my Witnesses do speak positively, they state positively that they distinctly heard Mellor's Confession. The "Diligent Enquirer" knows this, and he also knows he is the author of a wilful untruth, when he says they contradict one half of what I say: they do not contradict one word of what I have advanced! he is not ashamed, in order to make his defeat appear less complete, to shelter himself behind a battery of falsehood.
 
@@ -451,7 +426,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 17 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130417/008/0003).
+In *Leeds Mercury*, [Saturday 17 April 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130417/008/0003).
 
 TO DO - from luddite bicentenary
 
@@ -468,7 +443,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 19 April 1813](britishnewspaperarchive.co.uk/viewer/bl/0000268/18130419/021/0003).
+In *Leeds Intelligencer*, [Monday 19 April 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18130419/021/0003).
 
     TO DO - from luddite bicentenary
 
@@ -490,7 +465,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Mercury*, [Saturday 24 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000076/18130424/007/0003).
+In *Leeds Mercury*, [Saturday 24 April 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18130424/007/0003).
 
 An *Attentive Hearer* has declined the challenge we last week gave him to close the dispute, by submitting the evidence on both sides, fairly and candidly collected by impartial persons, without note or comment, to the tribunal of public opinion. The inference is irresistible. He was conscious that such an appeal would admit of no sophistry or false colouring, and that the preponderance of evidence against him would have been overwhelming. But we shall indulge in no exultation, much less repeat the coarse and virulent language that disgraces his last letter; it is the language of an irritated mind writhing under the pangs of defeat. We have no such feeling to gratify; Truth alone was *our* object, and having secured its triumph, to the satisfaction of every impartial mind, we quit the ungracious subject for ever.
 
@@ -501,7 +476,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 26 April 1813](britishnewspaperarchive.co.uk/viewer/BL/0000268/18130426/041/0003).
+In *Leeds Intelligencer*, [Monday 26 April 1813](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18130426/041/0003).
 
 If the "Printer" will be at the trouble to read the "Attentive Hearer's" last letter, he will perceive that his last week's challenge, is by no means declined. The Attentive Hearer is most willing to go into the proposed investigation when it is rendered necessary;  i.e. so soon as the Printer shall prove what he has twice asserted: "that the "Attentive Hearer" has published a false report of evidence."—If the report he has published be correct, there can be no doubt of the confession of Mellor. If false, let it be proved so; and the "Attentive Hearer" will, with the greatest readiness, immediately accept the Challenge of his Opponent.
 ```

@@ -1,12 +1,10 @@
 # Lancashire Uprisings
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000401/18120403/017/0002
-Shrewsbury Chronicle - Friday 03 April 1812
+In *Shrewsbury Chronicle*, [Friday 03 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000401/18120403/017/0002).
 
 The Gazette offers a reward of 200 guineas, and a free pardon, for the discovery of the villains who attempted to set fire to the warehouse of Mr. Wm. Radcliff, cotton manufacturer, of Stockport, in the county of Chester; also a reward of 100*l.* and his Majesty's pardon, for the discovery of the writer of a threatening letter, addressed to Sir W. Smith, Bart., Commissioner of the Assessed Tax and Property Tax Duty, in the Hundred of Doddingtree, Worcester.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120425/039/0004
-Nottingham Journal - Saturday 25 April 1812
+In *Nottingham Journal*, [Saturday 25 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120425/039/0004).
 
 We have forborne, as mochas possible, to notice the reports of riotous proceedings in various parts of the country, wishing rather to expose ourselves to the charge of tardiness, than with uncertified promptness to give currency to reports calculated to give pain to every thinking mind, and to extend the calamity by holding out example.—This forbearance we by no means regret, as in many instances reports of disturbances have been circulated, which really had no existence but in the wicket minds of their propagators, and others have been grossly exaggerated, with what view it is not difficult to determine. We think it our duty, however, to lay before our readers the following extracts, quoting their authorities:—
 
@@ -22,8 +20,7 @@ Stockport, April 16.— On Tuesday morning last, about eight o'clock, a mob bega
 
 "Nine of rioters are committed to prison. I do not hear of any lives being lost; but several were severely cut and much injured by the mob." *Ibid.*
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18120420/004/0003
-Caledonian Mercury - Monday 20 April 1812
+In *Caledonian Mercury*, [Monday 20 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18120420/004/0003).
 
 RIOTS
 
@@ -62,8 +59,7 @@ Macclesfield is still in a worse state. The rioters have pulled down the gaol, a
 
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120619/003/0002
-Stamford Mercury - Friday 19 June 1812
+In *Stamford Mercury*, [Friday 19 June 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120619/003/0002).
 
 MANCHESTER. Between eleven and twelve o'clock on Thursday night, Mr. Nadin, assisted a Picquet of Military, took into custody (and seized the papers of) *thirty-seven persons*, unlawfully assembled at a public-house in Ancoat's-lane, Manchester, and lodged them in the New Bayley prison. They were examined on Friday before the Magistrates, when it appeared, by their own confession, that they came from different townships, comprising a circuit of at least eight or ten miles.— The Magistrates remanded them for a further examination on Saturday, when they were all fully committed for trial for having administered an unlawful and infamous oath, called "twisting in."
 

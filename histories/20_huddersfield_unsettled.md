@@ -30,8 +30,7 @@ The Bill against James Shaw, of Leeds, clothdresser, charging him with having di
 ```{admonition} The Roots of a Dangerous Conspiracy, January 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18120120/023/0003
-Leeds Intelligencer - Monday 20 January 1812
+In *Leeds Intelligencer*, [Monday 20 January 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18120120/023/0003).
 
 *Also reprinted in Manchester Mercury of Tuesday 21 January 1812, etc.*
 

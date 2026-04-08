@@ -257,9 +257,7 @@ At our Assizes, which began on Thursday last, ... David Tyrie, for carrying on a
 ```{admonition} Old Derby Stories Retold, No. III — The Luddites' Rising in 1817 (continued)
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000052/18750331/028/0006
-
-Derby Mercury - Wednesday 31 March 1875
+In *Derby Mercury*, [Wednesday 31 March 1875](https://britishnewspaperarchive.co.uk/viewer/bl/0000052/18750331/028/0006).
 
 OLD DERBY STORIES RE-TOLD. [No. III] THE LUDDITES' RISING IN 1817. (Continued.)
 

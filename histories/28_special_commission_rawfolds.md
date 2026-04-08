@@ -1,4 +1,4 @@
-# Special Commission — Attack on Rawfold Mill
+# Special Commission — Attack on Rawfolds Mill
 
 
 https://books.google.co.uk/books/about/Report_of_proceedings_under_commissions.html?id=iNxbAAAAQAAJ&redir_esc=y
@@ -173,10 +173,7 @@ The jury retired at six o'clock, and returned at seven, finding James Haigh, Jon
 James Brook, John Brook, and John Hirst—NOT GUILTY.
 
 
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000263/18130125/012/0004
-
-Sussex Advertiser - Monday 25 January 1813
+In *Sussex Advertiser*, [Monday 25 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000263/18130125/012/0004).
 
 THE EXECUTION AT YORK.
 
@@ -190,14 +187,13 @@ All the prisoners conducted themselves in a manner becoming their awful situatio
 
 The Special Commission at York, has, for the present, terminated in sittings, and we sincerely hope and pray that there may never be occasion to resume them: neither the Grand nor Petit Jury have been discharged, and the Court adjourned till Tuesday morning during pleasure. The Commission continues in force till the 1st of February—the dreadful result of these unhappy disturbances, which have so much afflicted, and so greatly disgraced certain manufacturing districts in the West Riding of the County of York. The result is indeed infinitely distressing; the numbers of persons executed is without parallel in the annals of this country, except in the rebellion of 1745. The shock produced by so unexampled an exercise of criminal justice, is not be described. We wish, and devoutly pray, that the blood of these unhappy men may not be shed in vain; but that it will induce all to avoid those illegal associations, which must sooner or later conduct them to an untimely death.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18130126/008/0003
-Manchester Mercury - Tuesday 26 January 1813
+In *Manchester Mercury*, [Tuesday 26 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18130126/008/0003).
 
 `[Gives a report along the lines of the Leeds Mercury report.]`
 
 The following are the number of families left these unfortunate men, viz.—
 
-John Ogden, wife and 2 children; Nathan Hoyle, wife and 7 children; Joseph Crowther, wife pregnant, and 4 children; John Hill, wife and 2 children; John Walker, wife and 5 children; Jonathan Dean, wife and 7 children; Thomas Brook, wife and 3 children; John Swallow, wife and 6 children; John Batley, wife and 1 child; John Fisher, wife and 3 children; Job Hay, wife and 7 children; William Hartley, (wife died half a year ago) 8 children; James Hay, wife and 2 chiidren; James Haigh, wife, but no children.
+John Ogden, wife and 2 children; Nathan Hoyle, wife and 7 children; Joseph Crowther, wife pregnant, and 4 children; John Hill, wife and 2 children; John Walker, wife and 5 children; Jonathan Dean, wife and 7 children; Thomas Brook, wife and 3 children; John Swallow, wife and 6 children; John Batley, wife and 1 child; John Fisher, wife and 3 children; Job Hay, wife and 7 children; William Hartley, (wife died half a year ago) 8 children; James Hay, wife and 2 children; James Haigh, wife, but no children.
 
 ---
 
@@ -213,7 +209,7 @@ John Ogden, wife and 2 children; Nathan Hoyle, wife and 7 children; Joseph Crowt
 [B]John Fisher, wife and 3 children;
 [R]Job Hay, wife and 7 children;
 [R]William Hartley, (wife died half a year ago) 8 children;
-[R]James Hay, wife and 2 chiidren;
+[R]James Hay, wife and 2 children;
 [L-C]James Haigh, wife, but no children.
 
 14+3 hanged
@@ -233,7 +229,7 @@ Job Hey, John Hill, and William Hartley
 The prisoners were indicted for a Burglary, at the house of George Haigh, at Skircoat, on the 29th of August last, and severally pleaded. Not Guilty.
 
 James Hey, Joseph Crowther, and Nathan Hoyle.
-For robbery of James Brook, in his Dwelling-house at Huddersfield, and for stealing in, the said dwelling-hoosey Brook beins therein, and being put in fear, on the 29th of November.
+For robbery of James Brook, in his Dwelling-house at Huddersfield, and for stealing in, the said dwelling-hoosey Brook being therein, and being put in fear, on the 29th of November.
 
 
 NG John Schofield. for shooting John Hinchliffe
@@ -245,7 +241,7 @@ NG John Eadon and Craven Cookson  administering oath to THomas Broughton
 
 John Baines the elder, Charles Milnes, John Baines the younger, William Blakeborough, George Duckworth, and Zachariah Baines. administering oath to John Macdonald.
 
-Joseph Brook - burglary against Bemjamin Strickland, October 4th.
+Joseph Brook - burglary against Benjamin Strickland, October 4th.
 
 [others for burglary]
 

@@ -32,7 +32,7 @@ Through every combination amongst workmen, none is so desperate, secret, or syst
 
 The Yorkshire croppers would surely have been aware of the disruptive activities in Nottinghamshire. But even as a period of relative calm returned fifty miles to the south, direct action in the form of machine breaking started to appear in the villages and valleys around Huddersfield.
 
-```{admonition} *"We learn with extreme concern..."*, February 1812
+```{admonition} *'We learn with extreme concern...'*, February 1812
 :class: dropdown
 
 In *Star (London)*, [Thursday 27 February 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120227/018/0003).
@@ -103,9 +103,7 @@ In the London papers, the relative calming of tensions in Nottinghamshire was co
 
 ```{admonition} A disposition to riot, March 1812
 :class: dropdown
-In *London Courier and Evening Gazette*, [Monday 02 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120302/017/0003).
-
-*The first part of the report also appears in e.g. [Star (London) - Tuesday 03 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120303/010/0004).*
+In *London Courier and Evening Gazette*, [Monday 02 March 1812](In **The first part of the report also appears in e.g. [Star (London)*, [Tuesday 03 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120303/010/0004).*](https://britishnewspaperarchive.co.uk/viewer/bl/0001476/18120302/017/0003).).
 
 We trust that the disturbances in Nottingham and to Vicinity are at an end: the Nottingham Paper of Saturday, which we received this morning, does not make any mention of disturbances during the last week. But a disposition to riot, we regret to state, has manifested itself near Huddersfield, in Yorkshire. Last Saturday week a number of persons assembled near the premises of Mr. Joseph Hirst, of Marsh, with their faces blacked, and their persons in other respects disguised, and having forcibly obtained admittance into the dressing-shops, proceeded to destroy all the machinery used in the dressing of cloth, such as dressing frames, shears, and other implements used in what is commonly called Gig Mills, the whole of which they completely demolished. The same, or a similar party then proceeded to the workshops of Mr. James Balderson, of Crossland Moor, where machinery of a similar description is employed, upon which they committed similar depredations, completely destroying or rendering useless the whole of the machinery. The depredations appeared to Magistrates to be of that alarming nature, to induce them to apply to Gen. Vyse, of Beverley, for military aid, who dispatched an express to Leeds, with an order for the troop of Scotch Greys stationed there, to proceed immediately to Huddersfield, and which marched at eleven o'clock Monday night, for that place. It not being thought expedient to leave Leeds without military, a squadron of cavalry was marched from Sheffield, and arrived about nine o'clock on Tuesday morning, and in the afternoon of the same day a squadron of the 2d Dragoon Guards stationed at the Barracks near York, were dispatched to Huddersfield, to relieve the Scotch Greys who returned to Leeds on Thursday.
 
@@ -807,7 +805,7 @@ In *Stamford Mercury*, [Friday 04 September 1812](https://britishnewspaperarchiv
 At the Whitechapel Police Office, on Wednesday, J. Schofield, of Holmfirth, Yorkshire, underwent an examination, charged with going to the house of Mr. Hinchliff, the parish clerk of Holmfirth, and telling him he wished to speak with him, and having drawn him to some distance down a lane, exclaimed, "Damn you, you never more shall say any thing against the Luddites," and immediately fired a blunderbuss, a ball from which entered one of his eyes, and penetrated two inches into his head, but was afterwards extracted, and Mr. H. is likely to recover. The prisoner was apprehended on board an American vessel, in the London Dock, and was ordered to be sent to Holmfirth, strongly guarded, to take his trial.
 ```
 
-As sporadic attacks continued on gig mills in the West Riding during Septemeber, 1812, reports came in from Huddersfield of arrests for "Luddism" in Huddersfield.
+As sporadic attacks continued on gig mills in the West Riding during September, 1812, reports came in from Huddersfield of arrests for "Luddism" in Huddersfield.
 
 ```{admonition} Charged With Being an Attack Commander and Assassin
 :class: dropdown

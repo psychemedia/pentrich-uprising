@@ -96,8 +96,7 @@ Following the murder of Kilby, a reward was offered in the name of the King for 
 
 ```{admonition} Offers of a pardon, and a reward, October 1814
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18141028/002/0001
-Nottingham Gazette - Friday 28 October 1814
+In *Nottingham Gazette*, [Friday 28 October 1814](https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18141028/002/0001).
 
 TOWN OF NOTTINGHAM.
 
@@ -262,8 +261,7 @@ The judge addressed the prisoner before he left the bar. He said he could not de
 
 ```{admonition} After the verdict, March 1815
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18150324/018/0003
-Nottingham Gazette - Friday 24 March 1815
+In *Nottingham Gazette*, [Friday 24 March 1815](https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18150324/018/0003).
 
 We have given an accurate and very long account the trial of James Towle for framebreaking, who was acquitted; and the verdict was no sooner communicated immense to an immense crowd of framework-knitters and others, who were outside the Court, than they rent the air with the loudest acclamations. The Judge, too, was enthusiastically cheered from the Court to his lodgings. Towle is a little man, and of decent appearance.
 
@@ -277,8 +275,7 @@ The trial of Mr. Sutton, proprietor of the Review, is postponed, we understand t
 
 ```{admonition} Further reports from the trial, March 1815
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0001100/18150324/023/0003?browse=true
-Nottingham Review - Friday 24 March 1815
+In *Nottingham Review*, [Friday 24 March 1815](https://britishnewspaperarchive.co.uk/viewer/BL/0001100/18150324/023/0003?browse=true).
 
 Full transcript available as: https://ludditebicentenary.blogspot.com/2015/03/21st-march-1815-trial-of-james-towle.html
 

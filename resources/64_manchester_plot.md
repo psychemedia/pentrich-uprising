@@ -6,8 +6,7 @@ Following widely syndicated eg under title "The Manchester Plot"
 TO DO
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18170401/024/0004
-Manchester Mercury - Tuesday 01 April 1817
+In *Manchester Mercury*, [Tuesday 01 April 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18170401/024/0004).
 
 Tuesday, April 1, 1817.
 
@@ -71,8 +70,7 @@ Eight persons have been arrested within the last three days, under Lord Sidmouth
 
 ```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000342/18170404/004/0003
-Chester Chronicle - Friday 04 April 1817
+In *Chester Chronicle*, [Friday 04 April 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000342/18170404/004/0003).
 
 Projected Insurrection at Manchester.
 
@@ -94,8 +92,7 @@ The demoniacal infection engendered ...
 
 Saturday morning last, about nine o'clock, in consequence of an order received from Sir John Byng, commander of this district, a strong body of the 85th regiment, marched from this garrison, on their way to Warrington, there wait for further orders.— They subsequently proceeded on to Manchester.— In the afternoon of the same day, an order addressed the indefatigable Store-keeper of our Castle, W. M. Henderson, Esq. was. received, requesting him to dispatch, by the quickest mode of conveyance, ten thousand rounds of ball cartridge. — That gentleman instantly procured a coach, in which the ammunition was placed, and before 5 o'clock, escorted by four privates and a Serjeant of the 85th regiment, the vehicle left the Castle Yard for its destination.— These instances of Military activity prove that Ministers are determined to put down by force of arms, all future attempts of the malcontents to sow sedition and reap rebellion.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000389/18170408/011/0003
-Chester Courant - Tuesday 08 April 1817
+In *Chester Courant*, [Tuesday 08 April 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000389/18170408/011/0003).
 
 DARING AND TRAITOROUS CONSPIRACY!
 
@@ -112,8 +109,7 @@ The providential discovery of the horrid plot, prevented its execution. The wret
 A newly formed troop of Yeomanry Cavalry, at Huddersfield, volunteered to take charge of that town and neighbourhood, to afford opportunity for the regular troops to proceed to Manchester, the point which the infatuated meant to attack.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000540/18170405/008/0004
-The Scotsman - Saturday 05 April 1817
+In *The Scotsman*, [Saturday 05 April 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000540/18170405/008/0004).
 
 TO DO
 

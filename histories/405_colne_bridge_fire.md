@@ -1,8 +1,7 @@
 # Colne Bridge Fire
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002309/18180228/018/0004
-Westmorland Advertiser and Kendal Chronicle - Saturday 28 February 1818
+In *Westmorland Advertiser and Kendal Chronicle*, [Saturday 28 February 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0002309/18180228/018/0004).
 
 FIRE AT COLN-BRIDGE.
 
@@ -47,15 +46,13 @@ The three Moodys, one of whom escaped, and the other two who perished, were sist
 
 TH - the ages differ from those on the memorial
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180216/031/0003
-Leeds Intelligencer - Monday 16 February 1818
+In *Leeds Intelligencer*, [Monday 16 February 1818](https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180216/031/0003).
 
 MOST CALAMITOUS FIRE.
 
 We are very much concerned to state, that the Cotton Factory at Coln Bridge, near Huddersfield, occupied by Mr. T. Atkinson, caught fire about five o'clock on Saturday morning, the 14th instant, and raged with such rapidity and violence. that it destroyed the whole, with the machinery and stock in the same, in half an hour. But what is most tragical to relate, there were about 26 persons at work, only nine escaped. Seventeen (all girls, the eldest about 19 ran of age) fell victims to the devouring flames.— The manner in which this awful and melancholy disaster took place, is related as follows, by a boy, about 10 years of age, who was the unfortunate instrument of so calamitous an event. He says, that about five o'clock, he was sent into the card-room, (which is on the ground floor, but not worked in the night.) with a lighted candle to fetch some rovings, and in taking them, some loose cotton, lying near, caught fire. He says, he ran up stairs to inform those at work, that the factory was on fire, and then ran to the top of the mill, under the idea of greater safety; but finding such intense heat and smoke, he again descended, and when he came to the stairs, under which the fire was, he laid himself down, and rolled to the bottom, and appears to be the last person who escaped. The two Overlookers succeeded in getting all the children to the top of the stairs (which were only a few yards from the door) and some of them were dragged down when the stairs were on fire: the remainder, it is supposed, were so terrified, that they ran back into the mill, and were instantly suffocated; for as soon as it was known they had retuned, a ladder was immediately placed to a window at the opposite end of the mill, to which it was thought they would flee for safety, (and near which place 14 were afterwards found) which was forced open; but the smoke and flames leaping[?] out, with such violence, totally precluded all possibility of any assistance being given, nor could any thing be heard of them, although every exertion was made to stimulate them to approach the window. After this attempt to save them, no idea could be formed what point the poor children had fled to, and immediately a scene ensued amongst those without, which is beyond description, as the floors gave way, and all, in an instant, was one volume of fire. Fifteen bodies are found, and a number of persons are employed searching for the rest. Insurance on the property had been effected in the Sun and Phoenix Fire Offices.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000901/19330216/007/0007
-Huddersfield Daily Examiner - Thursday 16 February 1933
+In *Huddersfield Daily Examiner*, [Thursday 16 February 1933](https://britishnewspaperarchive.co.uk/viewer/bl/0000901/19330216/007/0007).
 
 [call for the names to be re-engraved]

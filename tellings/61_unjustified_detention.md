@@ -351,9 +351,7 @@ Sir F. BURDETT said, that the sort of testimony which the Noble Lord (Lascelles)
 
 ```{admonition} On Lee's claims being investigated, March 1818
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003
-
-Public Ledger and Daily Advertiser - Wednesday 25 March 1818
+In *Public Ledger and Daily Advertiser*, [Wednesday 25 March 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003).
 
 RICHARD LEE.— The following account is given in the *Leeds Intelligencer* of an investigation, at the recent Quarter Sessions, at York, respecting the contents of Richard Lee's Petition to the House of Commons:—
 
@@ -497,9 +495,7 @@ Following the presentation of his petition, William Staveley, the gaoler at York
 
 ```{admonition} In refutation of a character attack, April 1818
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180418/007/0003
-
-York Herald - Saturday 18 April 1818
+In *York Herald*, [Saturday 18 April 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180418/007/0003).
 
 To the Editor of the York Herald,
 
@@ -584,9 +580,7 @@ It seems, however, that Lee's testimony did not necessarily have the support of 
 
 ```{admonition} The vilest ingratitude, April 1818
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180427/026/0003
-
-Leeds Intelligencer - Monday 27 April 1818
+In *Leeds Intelligencer*, [Monday 27 April 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180427/026/0003).
 
 Also in: https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180502/016/0004 York Herald - Saturday 02 May 1818
 

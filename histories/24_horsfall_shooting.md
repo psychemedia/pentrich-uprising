@@ -1,10 +1,10 @@
 # The Shooting of William Horsfall
 
-In the aftermath of an unsuccessful Luddite attack on the mill of William Cartwright, at Rawfolds near Cleckheaton, during which at least two of the Luddites suffered mortal injuries, George Mellor came to the conclusion that the man, rather than the mill, should be the focus of their attention.
+In the aftermath of an unsuccessful Luddite attack on the mill of William Cartwright, at Rawfolds near Cleckheaton, on Saturday, April 11th, 1812, during which at least two of the Luddites suffered mortal injuries and at least one other a wound that required medical attention, George Mellor came to the conclusion that the man, rather than the mill, should be the focus of their attention.
 
 ## Several Shootings
 
-Just over a week later, shots were fired at Cartwright, albeit without injury to him or his horse, as he made his way home from Huddersfield.
+A week after the attack on William Cartwright's Mill, at Rawfolds, shots were fired at Cartwright, albeit without injury to him or his horse, as he made his way home from Huddersfield. Meanwhile, the "Committee of the association of Merchants and Manufacturers at Huddersfield" were honouring him, and rewarding the men who helped defend his mill, even as the man who refused to fire on the Luddite attackers and was sentenced at a court-martial to a severe physical punishment.
 
 ```{admonition} Cartwright Assassination Attempt, April 1812
 :class: dropdown
@@ -15,7 +15,7 @@ On Saturday, a regimental Court martial was held at Huddersfield, on the private
 
 On Saturday last, an attempt was made to assassinate Mr. Cartwright, the intrepid defender of Rawfolds Mill, by two villains who fired at him from behind an hedge, as he was returning from Huddersfield. The shots were discharged at nearly the same moment from opposite sides of the road, but happily without effect. This diabolical attempt upon the life of this gentleman, took place in open day, between the hours of four and five in the afternoon, about a mile on this side of Huddersfield. We have no words which can sufficiently describe our abhorrence of this dark and wicked attempt to murder. Surely, even the deluded followers of Gen. Ludd, cannot approve of private deliberate murder; are his troops already degenerated into a band of assassins? But wickedness is progressive, it is a downward road, the first step prepares the mind for a second, that for a third, until deeds of blood become familiar. And the man who begun his career, probably with the intention only of destroying machinery which he supposed inimical to his interest, ends it by deliberate assassination, There is something in this crime so cowardly, so foreign to the feelings of Englishmen, and so much at variance with the courage and humanity of our national character, that we are convinced, that not one man would have been found to have entered into the association, if it had previously intimated to him, that he was to exchange the character of an Englishman, for that of a cruel and cowardly Italian desperado. We would exhort and conjure those who are yet innocent of the blood of their fellow-creatures, to abjure a confederation which leads to such dreadful consequences, which sinks them below the level of civilized men, and points to the destruction of Society itself. It is at present possible to retreat; when we have next to address them, it may be too late.
 
-The Committee of the association of Merchants and Manufacturers at Huddersfield, hove voted their thanks to Mr. Cartwright, for his intrepid and gallant conduct in the defence of his Mill at Rawfolds, by which he has rendered the most essential service to his country. The Committee have also presented Fifty Guineas to the men, under the command of Mr. Cartwright, for having so bravely and steadily performed their duty in this trying occasion
+The Committee of the association of Merchants and Manufacturers at Huddersfield, have voted their thanks to Mr. Cartwright, for his intrepid and gallant conduct in the defence of his Mill at Rawfolds, by which he has rendered the most essential service to his country. The Committee have also presented Fifty Guineas to the men, under the command of Mr. Cartwright, for having so bravely and steadily performed their duty in this trying occasion
 
 ```
 
@@ -26,7 +26,7 @@ But it wasn't just the mill-owners who were threatened with violence.
 
 In *Nottingham Journal*, [Saturday 02 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120502/026/0003).
 
-Leeds, April 27.—Colonel Campbell, the Inspecting Officer of the district, has been threatened with destruction, for the official discharge of the arduous duty imposed upon him by the present unhappy disturbances. On Saturday last an attempt was made to assassinate Mr. Cartwright, the intrepid defender of Rawfold Mills, by two villains, who fired at him front behind a hedge, as he was returning from Huddersfield. The shots were discharged at nearly the same time from opposite sides of the road, but happily without effect. The diabolical attempt upon the life of this gentleman took place in open day, between the hours of four and five in the afternoon, about a mile from Huddersfield. Last Friday night, between ten and eleven o'clock, at Mr. G.Whitehead, a constable at the Paddock, near Huddersfield, was retiring to rest, a musket or blunderbuss was discharged through his stair-case window, and two slugs, two pistol-balls, and a piece of bone, were lodged in the ceiling. Mr. Whitehead fortunately received no injury.
+Leeds, April 27.—Colonel Campbell, the Inspecting Officer of the district, has been threatened with destruction, for the official discharge of the arduous duty imposed upon him by the present unhappy disturbances. On Saturday last an attempt was made to assassinate Mr. Cartwright, the intrepid defender of Rawfold Mills, by two villains, who fired at him front behind a hedge, as he was returning from Huddersfield. The shots were discharged at nearly the same time from opposite sides of the road, but happily without effect. The diabolical attempt upon the life of this gentleman took place in open day, between the hours of four and five in the afternoon, about a mile from Huddersfield. Last Friday night, between ten and eleven o'clock, at Mr. G. Whitehead, a constable at the Paddock, near Huddersfield, was retiring to rest, a musket or blunderbuss was discharged through his stair-case window, and two slugs, two pistol-balls, and a piece of bone, were lodged in the ceiling. Mr. Whitehead fortunately received no injury.
 
 ```
 
@@ -49,6 +49,10 @@ Mr. Horsfall had a very large Woollen Manufactory at Marsden, wherein about 400 
 
 A reward of £2000 will, we understand, be offered immediately to any person who will give such information as will lead to the conviction of any one or more of the four men concerned in the murder of Mr. Horsfall. 
 ```
+
+
+![https://archive.org/details/yorkcastleinnin00redegoog/page/n25/mode/1up](images/murder_horsfall_york_castle_19thc.png)
+
 
 ```{admonition} Rewards Offered, May 1812
 :class: dropdown
@@ -74,7 +78,7 @@ The sudden, departure of the North York Militia from our barracks, on Tuesday la
 
 Mr. Brierly, on Monday, received another letter from his brother, at Oldham, in Lancashire, giving a, more particular account of the riots in that town and neighbourhood. It states, that nine of the insurgents have been killed; and 27 wounded. None of the soldiers have fallen, though it appears, in one instance, they received the first fire. The farmers, and other dealers, are escorted to and from market. Messrs. Burton and Sons have abandoned their extensive concern, and sought personal safety in retirement, at some distant place.
 
-On Thursday, the 23d_ ult. as Mr. Isaac Reynor, of Southwell, in Yorkshire, was returning home from Milnsbridge, he was shot at, and the ball of the gun, that was levelled at him, passed through his hat.
+On Thursday, the 23d. ult. as Mr. Isaac Reynor, of Southwell, in Yorkshire, was returning home from Milnsbridge, he was shot at, and the ball of the gun, that was levelled at him, passed through his hat.
 
 On Tuesday last, Mr. William Horsfall, of Marsden, near Huddersfield, in Yorkshire, cloth-merchant, was shot at as he was returning from Huddersfield Market, and received four slugs in his body, which wounded him dreadfully, and soon after caused his death.
 
@@ -106,9 +110,7 @@ A few more details regarding the attack on Isaac Raynor appeared in the *Leeds I
 ```{admonition} Reward for Information Regarding Another Attack, May 1812
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 11 May 1812](britishnewspaperarchive.co.uk/viewer/bl/0000268/18120511/028/0003).
-
-(also in the editions of 18 May and 25 May)
+In *Leeds Intelligencer*, [Monday 11 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18120511/028/0003), *also in the editions of 18 May and 25 May*.
 
 Whereas it has been humbly represented unto His Royal Highness the Prince Regent, that on the Night of Thursday the Twenty-third of April, 1812, about Nine o'clock, as ISAAC RAYNOR, of Linthwaite, in the West Riding or the County of York, was returning Home from Milnsbridge, in the said Riding, in an enclosure called RYCROFT FOOT, he saw Three or more People near the Road, and upon his going towards them, one of them presented a GUN or other FIRE ARMS, and discharged the Contents thereof at him, that he heard something whistle past him, and upon getting Home, found that a Ball or some such Substance had passed through his Hat.
 
@@ -164,9 +166,9 @@ Although unconnected with the Luddite troubles, another shooting, again with fat
 
 ## Chinese Whispers
 
-TO DO - secret committee report brief mention?
+Such was the concern that the unrest in the Northern Counties might lead to or be the first signs of an open revolt, a "Secret Committee" was convened to investigate the disturbances. It made its report in mid-July, 1812.
 
-The news of a woman being assaulted to prevent her from providing information to the Magistrates about some unstated Luddite activities also appears to have taken on the nature of Chinese whispers, even finding its way into the report of the Secret Committee convened to investigate the disturbances...
+Included in the report was news of a woman being assaulted to prevent her from providing information to the Magistrates about some unstated Luddite activities, although this appears not to have appeared as a news report at the time of its occurrence, and was later challenged by the *Leeds Mercury*.
 
 ```{admonition} An Unfounded Report? July 1812
 :class: dropdown
@@ -309,7 +311,7 @@ John Bird has been committed, but not yet sent off.
 
 Jos. Thompson has been committed to Chester, charged with being concerned in the tumults at Mr. Goodair's house, at Stockport.
 
-*Committed to York Castle* —James Haigh, of Dalton, in the West Riding, cloth-dresser, charged upon the oath of Joseph Ardon, and other persons, as strongly suspected of having been one of the persons who, in the night of the 11th of April, riotously assembled and attacked the mill of Mr. W Cartwright, at Rawfolds— This man was apprehended at Methley, on Saturday week. It appears that since the attack above-mentioned, he had been at the house of a sister-in-law, at Pennistone, from whence he went to another sister at Methley. He was taken before John Radcliffe, Esq. of Milnsbridge, and after undergoing several examinations was fully committed on Thursday. He was conveyed to the Castle in a chaise and four, escorted by a party of dragoons. Two other men were apprehended as accomplices, at Hill-house, near Huddersfield, on Monday evening; after several examinations, one of them, named Stocks, was liberated, but the other, Cockroft, was remanded—On Monday night, it is strongly suspected, with a view to the rescue of the above men, the stable of Major Gordon, at Huddersfield, was set on fire, and nearly destroyed. The stratagem, however, failed; for instead of drawing away the guard which was placed over the prisoners, the officer, with great promptitude, doubled its force. Happily the fire did not communicate to any other building.
+*Committed to York Castle* —James Haigh, of Dalton, in the West Riding, cloth-dresser, charged upon the oath of Joseph Ardon, and other persons, as strongly suspected of having been one of the persons who, in the night of the 11th of April, riotously assembled and attacked the mill of Mr. W Cartwright, at Rawfolds— This man was apprehended at Methley, on Saturday week. It appears that since the attack above-mentioned, he had been at the house of a sister-in-law, at Penistone, from whence he went to another sister at Methley. He was taken before John Radcliffe, Esq. of Milnsbridge, and after undergoing several examinations was fully committed on Thursday. He was conveyed to the Castle in a chaise and four, escorted by a party of dragoons. Two other men were apprehended as accomplices, at Hill-house, near Huddersfield, on Monday evening; after several examinations, one of them, named Stocks, was liberated, but the other, Cockroft, was remanded—On Monday night, it is strongly suspected, with a view to the rescue of the above men, the stable of Major Gordon, at Huddersfield, was set on fire, and nearly destroyed. The stratagem, however, failed; for instead of drawing away the guard which was placed over the prisoners, the officer, with great promptitude, doubled its force. Happily the fire did not communicate to any other building.
 
 One of the most cold-blooded and atrocious murders ever known, was perpetrated in the neighbourhood of Huddersfield, on Tuesday evening, the 28th ult.—About half-past six o'clock, as Mr. Wm. Horsfall, of Marsden, a most respectable woollen-manufacturer, and Adjutant to the Upper Agbrigg Regt. of Local Militia, was returning from Huddersfield market, on horseback, he was fired at by four assassins, who had hid themselves in a small plantation adjoining the road on Crosland Moor, planting the muzzles of their guns through holes in the wall. Mr. Horsfall distinctly saw two of them, but too late to guard off their effect.Mr H left Huddersfield with a manufacturer of the name of Eastwood, and they proceeded together almost to the fatal spot, when the latter stopped to give his horse some water, Mr. H. going leisurely forwards—At this time the villains fired and lodged the contents of their four pieces in the left side of the unfortunate gentleman: he instantly fell, and was dragged a short distance in the stirrup, bleeding very much. Several passengers, both on horseback and foot, soon came to the spot, and after disentangling him from the stirrup, conveyed him to the Warren Inn, which is hard by.
 
@@ -335,9 +337,11 @@ The Lord Lieutenant of Cumberland has communicated to the High Sheriff, the appr
 
 Despite the magistrates' best efforts, little progress was made over the following weeks in trying to identify those responsible for the murder of William Horsfall.
 
+TO DO not like the murder of Spencer Perceval, assassinated, trial with a few days and sentenced; storynote will appear elsewhere
+
 Until, that is, a news report appeared that seemed to suggest that spies had identified where a cache of arms had been concealed, that *fifty* people had been arrested for involvement in the Luddite cause, and that one of Horsfall's assassins had been caught.
 
-```{admonition} Bow-street Officers "Twisted-in", July 1812
+```{admonition} Bow-street Officers 'Twisted-in', July 1812
 :class: dropdown
 
 In *General Evening Post*, [Tuesday 07 July 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002593/18120707/021/0004).
@@ -375,7 +379,7 @@ By September, 1812, it appears that cracks had started to appear in the otherwis
 ```{admonition} Accepting the Oath of Allegiance, September 1812
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 07 September 1812](britishnewspaperarchive.co.uk/viewer/bl/0000268/18120907/036/0003).
+In *Leeds Intelligencer*, [Monday 07 September 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18120907/036/0003).
 
 Leeds, September 7. We feel sincere pleasure in being enabled to state, that for several days past, the Magistrates of Manchester, have been humanely exerting themselves towards those unfortunate and deluded men called Luddites, numbers of whom have applied voluntarily to take the oath of Allegiance, and to be absolved from the injunction of that dreadful bond which, under the late system of terror and riot, they had become parties to. That the great mass of those who were *twisted in* did not comprehend the nature ot the connexion they were admitted into, is well ascertained; they have expressed it; and that they were the innocent dupes of more designing men. But if a doubt remained of the existence of a plot of a dangerous tendency, it is now removed by a knowledge of the fact. The Magistrates of that district are daily applied to at their own houses, to fulfil the benevolent intention of Government, in receiving back to sober reason and morals, the deluded and mistaken objects of nocturnal association; and are always employed in their pubic capacity, at the New Bayley Court-House, on appointed days in the same charitable object.
 
@@ -386,7 +390,7 @@ And by mid-October, 1812, the authorities had had the breakthrough they needed, 
 ```{admonition} Strongly Suspected, October 1812
 :class: dropdown
 
-In *Westmorland Advertiser and Kendal Chronicle*, [Saturday 24 October 1812](britishnewspaperarchive.co.uk/viewer/bl/0002309/18121024/012/0003).
+In *Westmorland Advertiser and Kendal Chronicle*, [Saturday 24 October 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002309/18121024/012/0003).
 
 George Mellor, of Longwood Bridge, clothdresser, charged with being strongly suspected of having, on the 29th day of April last, fired at, and shot Mr. William Horsfall, of Marsden, deceased, upon the King's highway; James Varley, of Lockwood, cloth-dresser, charged with having feloniously stolen and carried away divers guns, the property of William Newton, of Hagswood Hill. Joseph Brook, of Rastrick, tailor, charged with having burglariously broke and entered the dwelling-house of Benjamin Strickland, and feloniously stolen thereout out silver watch, one pocket-book, &c. have been committed to York Gaol.
 ```
@@ -433,7 +437,7 @@ For those accused of causing Horsfall's death, the verdict would be a guilty one
 ```{admonition} A Melancholy Occasion, January 1813
 :class: dropdown
 
-In *Leicester Chronicle*, [Saturday 16 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0000172/18130116/029/0006).
+In *Leicester Chronicle*, [Saturday 16 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000172/18130116/029/0006).
 
 EXECUTION.
 
@@ -443,27 +447,14 @@ The number people assembled in York, was much greater than is usual on these mel
 
 ```
 
---
-
-https://archive.org/details/yorkcastleinnin00redegoog/page/n25/mode/1up
-York castle in the nineteenth century; being an account of all the principal offences committed in Yorkshire from the year 1800 to the present period, with the lives of the capital offenders ..
-
-Murder of Horsfall (poor quality)
-
-https://ia800603.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/yorkcastleinnin00redegoog/yorkcastleinnin00redegoog_tif.zip&file=yorkcastleinnin00redegoog_tif/yorkcastleinnin00redegoog_0026.tif&id=yorkcastleinnin00redegoog&scale=4&rotate=0
-
-https://books.googleusercontent.com/books/content?req=AKW5Qad_jgKES8wcJHVxM4W7Kk7YEuqz5vOx3K_S06dXS5X3WdBVcTI0q9q7S6BI9ugKp9SWFWnr7TdHMIckc_x-UW_DYMkHgoWsRr-nPrtDyNkmKkrgIHG20PYv7fVLsj5BXHuINEbV0jxs1ZfiEp_umEw5FzB9aVpOsYrzYi-RRrG21a2g5GZmgIdeZ7LDQ2h5fxmyrsLLR-oCMl2sG73vTq8Y8ddDd1ESmIIOdZO_a6xKl0dhIzN3CN-nAEP4OuAbpJrIMROtW9e9LNdWwsmt0U7nOVb4SL9KEJeao5iSppNxrDcgo_8
-
-![](images/murder_horsfall_york_castle_19thc.png)
-
---
+## Trial and Execution
 
 A report in the *Nottingham Gazette* summarised the trial and the execution.
 
 ```{admonition} Tried at the York Special Commission, January 1813
 :class: dropdown
 
-In *Nottingham Gazette*, [Friday 15 January 1813](britishnewspaperarchive.co.uk/viewer/bl/0001099/18130115/048/0004).
+In *Nottingham Gazette*, [Friday 15 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18130115/048/0004).
 
 YORK SPECIAL COMMISSION OF ASSIZE.
 

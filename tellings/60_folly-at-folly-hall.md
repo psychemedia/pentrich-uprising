@@ -763,9 +763,7 @@ Remark was also made of a witness to the events at Folly Hall bridge, who was av
 
 ```{admonition} Thus ends the Yorkshire plot, August 1817
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003
-
-Leeds Mercury - Saturday 02 August 1817
+In *Leeds Mercury*, [Saturday 02 August 1817](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003).
 
 ### THE MERCURY.
 
@@ -787,9 +785,7 @@ We have been led into these observations by a circumstance of a very extraordina
 
 ```{admonition} The King vs. Andrew McKinley, for administering unlawful oaths, July, 1817
 :class: dropdown seealso
-https://britishnewspaperarchive.co.uk/viewer/BL/0002408/18170724/013/0003
-
-Morning Herald (London) - Thursday 24 July 1817
+In *Morning Herald (London)*, [Thursday 24 July 1817](https://britishnewspaperarchive.co.uk/viewer/BL/0002408/18170724/013/0003).
 
 HIGH COURT OF JUSTICIARY, JULY 19
 
@@ -862,9 +858,7 @@ Hearnshaw's declaration was then reprinted in full, which includes claims that H
 
 ```{admonition} Hearnshaw's declaration, August 1817
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003
-
-Leeds Mercury - Saturday 02 August 1817
+In *Leeds Mercury*, [Saturday 02 August 1817](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003).
 
 Upon this text of Mr. Baron Wood, the following declaration of Charles Hearnshaw, the witness referred to, furnishes the alarming comment: we publish the document, *verbatim*, as it has been sent to us, [with the exception of one word used sportively by the Grand Jury], chusing rather to retain even the grammatical inaccuracies, than to make any alterations in the paper itself:—
 
@@ -883,9 +877,7 @@ A brief editorial review of the trial, and the return of those accused to Hudder
 
 ```{admonition} Further editorial comment, August 1817
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003
-
-Leeds Mercury - Saturday 02 August 1817
+In *Leeds Mercury*, [Saturday 02 August 1817](https://britishnewspaperarchive.co.uk/viewer/BL/0000076/18170802/004/0003).
 
 LEEDS Saturday, Aug. 2
 

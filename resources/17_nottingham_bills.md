@@ -32,8 +32,7 @@ Four prisoners were yesterday brought in, with great parade, by three several pa
 
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120215/008/0003
-Star (London) - Saturday 15 February 1812
+In *Star (London)*, [Saturday 15 February 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120215/008/0003).
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002131/18120201/029/0003
@@ -122,8 +121,7 @@ HL Deb 02 March 1812 vol 21 cc1084-6
 
 ```{admonition} Nottingham Watch and Ward Bill, third reading, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120307/008/0002
-Nottingham Journal - Saturday 07 March 1812
+In *Nottingham Journal*, [Saturday 07 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120307/008/0002).
 
 HOUSE OF COMMONS
 
@@ -139,8 +137,7 @@ The Nottingham Watch and Ward Bill was read a third time and passed.
 
 ```{admonition} Nottingham Watch and Ward Bill, second reading, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120307/015/0003
-Nottingham Journal - Saturday 07 March 1812
+In *Nottingham Journal*, [Saturday 07 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120307/015/0003).
 
 HOUSE OF LORDS
 
@@ -150,8 +147,7 @@ Wednesday, March 4.— The Watch and Ward Bill was read a second time, and order
 
 ```{admonition} Nottingham Watch and Ward Act put into effect, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120328/013/0003
-Nottingham Journal - Saturday 28 March 1812
+In *Nottingham Journal*, [Saturday 28 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120328/013/0003).
 
 
 NOTTINGHAMSHIRE.
@@ -188,8 +184,7 @@ An Act for the more effectual Preservation of the Peace, by enforcing the Duties
 
 ```{admonition} Nottingham Frame Breakers' Bill, second reading, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120222/008/0002
-Nottingham Journal - Saturday 22 February 1812
+In *Nottingham Journal*, [Saturday 22 February 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120222/008/0002).
 
 HOUSE OF COMMONS.
 
@@ -272,8 +267,7 @@ The Nottingham Watch and Ward Bill afterwards went into a Committee, when severa
 
 ```{admonition} TO DO
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0002644/18120301/009/0003?browse=true
-National Register (London) - Sunday 01 March 1812
+In *National Register (London)*, [Sunday 01 March 1812](https://britishnewspaperarchive.co.uk/viewer/BL/0002644/18120301/009/0003?browse=true).
 
 HOUSE OF LORDS.
 
@@ -301,8 +295,7 @@ In the House of Lords, discussion of the Nottingham Frame-Breaking Prevention Bi
 
 ```{admonition} TO DO
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18120305/011/0004
-Cheltenham Chronicle - Thursday 05 March 1812
+In *Cheltenham Chronicle*, [Thursday 05 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18120305/011/0004).
 
 HOUSE OF LORDS
 
@@ -359,8 +352,7 @@ The House then resumed, and the Report was ordered to be brought up to-morrow.�
 
 ```{admonition} Nottingham Frame Breakers' Bill, third reading, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004
-Nottingham Journal - Saturday 14 March 1812
+In *Nottingham Journal*, [Saturday 14 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120314/012/0004).
 
 HOUSE OF LORDS
 
@@ -371,15 +363,13 @@ It seems, however, that the Lords did not insist on the adoption of that amendme
 
 ```{admonition} A message was received from the Lords, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120313/001/0002
-Stamford Mercury - Friday 13 March 1812
+In *Stamford Mercury*, [Friday 13 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120313/001/0002).
 
 PARLIAMENTARY PROCEEDINGS.—In the House of *Lords* on Thursday, the Frame Breaking Prevention Bill went through its remaining stages, and passed the House. On Monday, the Watch and Ward Bill was read a third time and passed. ... In the House of *Commons*...— On Monday, after a Committee was appointed to acquaint the Lords that the Commons disagreed with the amendment (relating to the punishment attending misdemeanours) which their Lordships had made in the Bill.
 
 ```{admonition} Oh, go on then..., March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120313/001/0002
-Stamford Mercury - Friday 13 March 1812
+In *Stamford Mercury*, [Friday 13 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120313/001/0002).
 
 London, Thursday, March 12.
 
@@ -390,8 +380,7 @@ Parliamentary Proceedings.
 
 ```{admonition} TO DO
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18120321/008/0003
-Sun (London) - Saturday 21 March 1812
+In *Sun (London)*, [Saturday 21 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18120321/008/0003).
 
 THE ROYAL ASSENT
 

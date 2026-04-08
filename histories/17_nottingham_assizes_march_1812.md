@@ -4,8 +4,7 @@ A report in the *Suffolk Chronicle* in the first week of 1812 brought news of va
 
 ```{admonition} "Only a beginning", January 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001324/18120104/012/0003
-Suffolk Chronicle - Saturday 04 January 1812
+In *Suffolk Chronicle*, [Saturday 04 January 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001324/18120104/012/0003).
 
 Nottingham. —The latest accounts from Nottingham continue the recital of outrages, notwithstanding the expectations that were entertained of the restoration of tranquillity, from the measures which the magistracy and the manufacturers had adopted. Saturday week two frames were broken in house at Arnold; one of which was considered the completest frame ever built, for the weaving of cotton stockings. Armed with various instruments, the guards, who protected the framebreakers, threatened death to any one that might create the smallest alarm. On Monday night the iron-works of three frames, which constitute nine-tenths their value, were taken from house the parish of Hucknall Torkard; the same night, a warp lace frame of great value was destroyed at New Radford. On Tuesday night another frame was broken at Arnold and the same night a serious affray took place at Shortwood, in the parish of Trowel. Eighteen men being on the prowl, probably for game, were attacked four well-armed keepers, one of whom, however, fled to Wollaton-hall, to alarm the nightly guard, and escaped the horrid beating bestowed upon his companions, one of whom is still considered in the greatest danger. The guard from the Hall proceeded to intersect all the roads leading from the scene of action to Nottingham, under apprehension the depredators were *Luddites* come from thence or from Radford; but no discovery was made. On Wednesday night one frame was broken at Carlton, some accounts say more; three at Snenton, and two in Nottingham. About one o’clock on Sunday morning some villains broke open the house of a widow woman, seventy years of age, who keeps a little shop of groceries, &c. in West Hallam; one part of the men rifled the shop of goods to the amount of £30. While this was transacting below, three others went, each with a lighted candle and pistols, to the room where the old woman was in bed with three grand-children, the only persons in the house: they with threats commanded her to discover where her money was, upon which she gave them a box, containing one guinea, one seven-shilling piece, in gold, one gold diamong ring, and her own ring; they obliged her to produce her purse and pockets, which they emptied of their contents, viz.5 one-pound notes, one five-shilling dollar, and some other silver, leaving her nothing in cash but one halfpenny, and a 5s. dollar which escaped their notice.— After having cleared the premises of a principal part of the goods, they cut some bacon from the flitch, which they broiled, and with bread, and two bottles of home-made wine, which they found in the pantry, sat down and regaled themselves. A letter from Derbyshire says, that few nights since, a farm-house was broken into at Stanley, in that county, by armed men, and stripped of all the money and linen they could carry away. And Saturday night last, the farm-house at Locko Grange, in the same neighbourhood, was entered by two men, armed with pistols; the family were all gone to bed, except the farmer's son: one of the miscreants presented a pistol at his head, which he snatched from him; and the other directly pointed his pistol at him, but it only snapped. The family were alarmed at the noise; and one of them coming down, the scoundrels made off, and escaped; the young man who made the gallant resistance, was much hurt in the scuffle. But the most daring attack that has been heard of, took place in the neighbourhood of Hopwell and Ockbrook, in the same part of the country, not far from Hopwell-hall. A farm-house, occupied by a person who is farmer and miller, was attacked on Monday se'nnight, about three o'clock in the morning, by eleven or twelve men, armed with pistols or bludgeons. They at first said they only wanted the man to sign a paper, respecting the price of corn, as their families were starving. He would not open his door to them, which, however, they immediately did themselves with great violence. The farmer defended his staircase with his gun as long as he could, his wife giving the alarm at the window; but a large stone thrown at her by one of the wretches, and which cut her lip asunder, soon made her desist. The farmer being overpowered, they took away his gun, and he with difficulty prevailed upon them to spare his life. They swore their families should not starve whilst money was to be had, and immediately rifled the house, taking away 37l. in money. They called themselves 'Lud's men,' and said 'That was only a beginning.'
 
@@ -17,9 +16,7 @@ Notwithstanding the nature of the many attacks that had taken place over the pre
 
 ```{admonition} Seven of the Framebreakers tried, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120320/006/0003
-
-Stamford Mercury - Friday 20 March 1812
+In *Stamford Mercury*, [Friday 20 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120320/006/0003).
 
 NOTTINGHAM ASSIZES.— Seven of the Framebreakers had been tried yesterday (Wednesday) afternoon—of whom three were sentenced to 14 years' transportation, two to 7 years' transportation, and two were acquitted. Judge Bayley informed the Jury that he could not remain at Nottingham past Friday, he should return after the conclusion of his circuit, and finish the trials of the prisoners.
 ```
@@ -27,8 +24,7 @@ NOTTINGHAM ASSIZES.— Seven of the Framebreakers had been tried yesterday (Wedn
 ```{admonition} Business transacted in the Assizes, March 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120327/007/0003
-Stamford Mercury - Friday 27 March 1812
+In *Stamford Mercury*, [Friday 27 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18120327/007/0003).
 
 NOTTINGHAM ASSIZES. —The following is a brief summary of the business transacted in the Criminal Court at these Assizes. *William Carnel*, *Joseph Maples*, *Joseph Peck*, and *Benjamin Hancock*, found guilty of framebreaking, were sentenced to fourteen years' transportation; and *Robert Poley*, *Gervas Marshall*, and *George Green*, for the same offence, to seven years' transportation. Two other frame-breakers were acquitted on trial; and several, charged with riotously assembling, were discharged by proclamation. ...
 
@@ -39,8 +35,7 @@ But Tomlinson *et al.* were maybe *not* Luddites?
 ```{admonition} convicted of burglary and robbery, March 1812
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002632/18120329/024/0003
-Englishman - Sunday 29 March 1812
+In *Englishman*, [Sunday 29 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002632/18120329/024/0003).
 
 At the Nottingham Assizes, on Wednesday se'nnight, William Barnes, one of the most respectable men in Basford, was arraigned on suspicion of conniving at the breaking of three frames in his workshop, on the 26th of January, 1812, belonging to Messrs. Haddens. Verdict— Not Guilty.
 
@@ -51,8 +46,7 @@ In the matter of the trial of WIlliam Barnes, *"one of the most respectable men 
 
 ```{admonition} Conniving in frame breaking? April 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000081/18120403/006/0006
-Liverpool Mercury - Friday 03 April 1812
+In *Liverpool Mercury*, [Friday 03 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000081/18120403/006/0006).
 
 William Barnes one of the most respectable men in Basford was arraigned on suspicion of conniving at the breaking of three frames, the property of Messrs. Haddens. There appeared some unfair proceeding on the part of the prosecution, but the learned Judge checked the counsel for the Crown in their defence of this impropriety. He had a duty, he said, to perform and would perform it: he therefore directed the Jury to acquit the prisoner.
 ```
@@ -62,8 +56,7 @@ TO DO
 ```{admonition} TO DO
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120328/014/0003
-Star (London) - Saturday 28 March 1812
+In *Star (London)*, [Saturday 28 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120328/014/0003).
 
 RIOTERS. NOTTINGHAM, MARCH 18.
 
@@ -122,8 +115,7 @@ As well as reporting on the Nottingham Assizes, the same issue of the *Star (Lon
 
 ```{admonition} TO DO
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120328/014/0003
-Star (London) - Saturday 28 March 1812
+In *Star (London)*, [Saturday 28 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120328/014/0003).
 
 DERBY, MARCH 18.
 
@@ -147,8 +139,7 @@ Judge at Nottingham suggesting if folk settle down, sentences may be mitigated; 
 ```{admonition} TO DO
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000205/18120327/007/0002?browse=true
-Leicester Journal - Friday 27 March 1812
+In *Leicester Journal*, [Friday 27 March 1812](https://britishnewspaperarchive.co.uk/viewer/BL/0000205/18120327/007/0002?browse=true).
 
 TRIAL OF THE FRAME-BREAKERS AT NOTTINGHAM
 
@@ -238,8 +229,7 @@ Sentenced to transportation, the Maples, and Carnell, along with several others 
 
 ```{admonition} At an early hour, April 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120404/016/0003
-Nottingham Journal - Saturday 04 April 1812
+In *Nottingham Journal*, [Saturday 04 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120404/016/0003).
 
 At an early hour on Monday morning last, the following persons, convicted of frame-breaking, at the late Assizes, were removed from the county gaol, under the care of Mr. Wright, assisted by Parkes, Atkin, and three other Officers front Bow Street, in order to be put on board the hulks at Woolwich, (viz.) Joseph Maples, William Carnell, Benjamin Hancock, and Joseph Peck, under sentence of transportation for fourteen years; and Gervas Marshall, Robert Poley, and George Green, under sentence of transportation for seven years each. They were escorted by a detachment of hussars to Leicester, front whence they were to be guarded by the Blues to the place of their destination.—A Petition on behalf of these unfortunate individuals was sent to the Prince Regent last week, praying for mitigation of punishment, which was signed by upwards of four thousand frame-work knitters.
 ```
@@ -248,8 +238,7 @@ The removal of the men was apparently not a simple affair, however. Fearing not 
 
 ```{admonition} Every due precaution was taken, April 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0000488/18120411/013/0004?browse=true
-Lancaster Gazette - Saturday 11 April 1812
+In *Lancaster Gazette*, [Saturday 11 April 1812](https://britishnewspaperarchive.co.uk/viewer/BL/0000488/18120411/013/0004?browse=true).
 
 NOTTINGHAM RIOTERS.
 
@@ -262,8 +251,7 @@ As far as the trial of Cook and Tomlinson were concerned, the attacks were clear
 
 ```{admonition} Two counts of burglary, March 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120328/010/0003
-Nottingham Journal - Saturday 28 March 1812
+In *Nottingham Journal*, [Saturday 28 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120328/010/0003).
 
 At Derby Assizes, Perceval Cook, and James Tomlinson, alias Fruz, for burglariously breaking into, and robbing the dwelling-house of Mr. Samuel Hunt, of Ockbrook Mill, and also for a burglary committed at the dwelling-house of Mr. John Brentnall, of Locko Grange, were capitally convicted, and are left for execution. John England, convicted of being an accessary before the fact in the burglary at Locko Grange, and an accessary after the fact in the burglary at Ockbrook Mill; and John Thompson, for burglariously entering into, robbing the dwelling-house of Mr. Thos. Theobald, at Wilstrop, were each capitally convicted, and received sentence of death, but were afterwards reprived. (Thomas Draper, an accomplice in the burglaries committed at Ockbrook Mill and Locko Grange, was admitted evidence for the Crown.)
 ```
@@ -272,9 +260,7 @@ Whilst a demand was made in one of the houses that a contract be signed regardin
 
 ```{admonition} Connected with the frame-breaking system?, April 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120411/010/0003
-
-Leeds Mercury - Saturday 11 April 1812
+In *Leeds Mercury*, [Saturday 11 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18120411/010/0003).
 
 DERBY ASSIZES.— At these assizes last week, *James Tomlinson*, *Perceval Cook*, and *John England*, were found guilty of an outrage connected with the frame-breaking system—that of forcibly entering the house of Mr. Samuel Hunt, at Ockbrook Mill, on the 23d of December last, compelling him to sign a paper that he would lower the price of corn and flour, and robbing his house of a considerable sum in bank bills and other effects. -They were all sentenced to death, and repeatedly assured by the Judge that no hope of mercy remained to them.— *John Thompson* was found guilty of a similar offence, at the house of Thomas Theobald, at Wilsthorpe. The Judge, in passing sentence of death upon him, was peculiarly impressive, and very much affected. His Lordship said he understood that the prisoner's father had ten or eleven children, and that his grandfather now lay dead in the house of a broken heart, on account of the prisoner's abandoned conduct, and the fate that hung over him. The Judge gave him hopes of mercy, in consequence of some important discoveries he had made respecting the desperate gang with which he associated.
 ```
@@ -283,8 +269,7 @@ When the death sentence was passed, it was required to be carried out within a m
 
 ```{admonition} Execution of Cook and Tomlinson
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120418/031/0003
-Nottingham Journal - Saturday 18 April 1812
+In *Nottingham Journal*, [Saturday 18 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120418/031/0003).
 
 Execution of Perceval Cook and James Tomlinson.— Perceval Cook, and James Tomlinson, alias Fruz, who were convicted of burglaries at Derby assizes, were executed about half-past twelve o'clock oa Friday se'nnight, pursuant their sentence, on a new drop erected in front of the county gaol, in the presence of a numerous concourse spectators.— From the time of their condemnation they conducted themselves with the utmost propriety, and were unremitting in their supplication obtain Divine mercy. A short time previous to their execution they received the sacrament from the hands of the Rev. N. Bayley, chaplain to the prison, (who has been most assiduous in his application to these unfortunate men), in the presence of Thomas Draper, who was admitted evidence for the Crown, and William Tomlinson (the brother of James Tomlinson), now under sentence of transportation for uttering forged Bank of England notes.—This scene, and the separation of the two brothers was truly affecting, and may be better conceived than described. James Tomlinson preserved his firmness of mind to the last, and continued to exhort Draper and his fellow-prisoners for a considerable time in the most anxious and persuasive manner to refrain from their former course of life; and after spending a short time in prayer on the platform, they met their fate with becoming fortitude,-Their bodies after hanging the usual time were given to their friends, and taken away the same evening for interment.
 
