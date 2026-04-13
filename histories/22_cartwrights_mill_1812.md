@@ -1,6 +1,6 @@
 # The Huddersfield Luddites
 
-In contrast to the stocking and lace-making trades of Nottinghamshire and Derbyshire, wool and the cloth-making trading was dominated the West Yorkshire town of Huddersfield, on the eastern edge of the Pennines.
+Whilst the stocking and lace-making trades of the industrialising Midlands and the North were centered around Nottinghamshire and Derbyshire, wool and the cloth-making trading was dominated the West Yorkshire town of Huddersfield, on the eastern edge of the Pennines.
 
 The traditional process for producing woollen cloth had been to raise the nap on the freshly woven cloth using teasels, and then cut the fuzz from the cloth, leaving it smoother, using large shears that could weight 40*lbs.* (20 kilograms) or more.
 
@@ -169,7 +169,6 @@ More outrages were committed in the neighbourhood of Huddersfield, on Sunday wee
 ```
 
 ![In Peel, Risings of the Luddites, 2d edn, https://archive.org/details/risingsluddites00peelgoog/page/n8/mode/1up](images/risingsluddites00peelgoog_0009_rot.jpg)
-
 
 As well as machinery, the cloth that was being produced on the machines also appears to have been treated as fair game to the Luddites in some of the attacks.
 
@@ -455,12 +454,40 @@ Since our last were committed to York Castle, James Oldroyd, of Dewsbury, clothi
 
 ```
 
+## The York Summer Assizes, 1812
 
-??something in Leeds Mercury c. 18th July
-Our Huddersfield correspondent...
-We have been favoured...
-[Same issue announce start of Yorkshire Summer Assizes, which will feature James Oldroyd]
 
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 18 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120718/006/0003).
+
+THE MERCURY
+
+ON Monday, in the House of Commons, LORD CASTLEREAGH introduced a Bill into Parliament founded on the Report of the Secret Committee appointed to examine and report on the Documents sent to the House by PRINCE REGENT, on the disturbed state of this and the neighbouring Counties. The main object 6f this Bill is to increase, for a limited period, the power of the Magistrates, by enabling them to search for stolen and secreted Arms, without any information upon oath;—to disperse tumultuous Assemblages without waiting an hour, as they are at present obliged to do, and to apprehend and hold to bail the persons so assembled. The Bill also provides, that the Magistrates in one of the disturbed Counties shall have a concurrent jurisdiction in the adjoining Counties. It also gives them a power, under certain limitations and conditions, of demanding the Arms of any individual, on receipts being given for the same. Though this Bill certainly vests large powers in the Magistracy— powers which, if abused, might lead to the most calamitous effects; yet, as the evil to be avoided is of great magnitude, and cannot be coped with without some legislative enactment, it is perhaps, upon the whole, a necessary evil. If, indeed, Lord Castlereagh's suggested Amendment, of introducing men unqualified, in point of property, into the Magistracy, should form a part of this Bill, it would completely alter its whole complexion, and place the liberty and safety of every man at the disposal of any minion, Administration might think proper to introduce into the commission. Such a proposal, we should suppose, would be indignantly sconted by the independent and truly respectable Magistrates of this County. We hope Lord Castlereagh will recollect that he is not legislating for Ireland.
+
+This Bill was opposed by Mr. Whitbread, and some other Members, on the grounds that the existing laws, if executed with vigour, were sufficient to restore the public peace; that a cessation of the disturbances might be expected as the result of the rescinding of the Orders in Council, and that there was no evidence to lead to the suspicion that they arose from any other cause than commercial distress.
+
+Mr WILBERFORCE, in combating these objections, insisted that these disturbances ought not to be considered as the mere ebulitions of discontent arising from the pressure of distress, but as originating in political causes—in disaffection to Government, produced by mischievous publications industriously disseminated among the lower classes of society, by which they became alienated from the Government under which they lived. This charge of disaffection preferred by the Member of Yorkshire against his Constituents, is as groundless as the cause to which he attributes it—the dissemination of mischievous publications among the people. A more unfounded assertion was never made within the walls of Parliament. And we are persuaded that every one will be convinced of this who will examine the proceedings of these violators of the public peace, from the first Frame-breaking in Nottingham, to the present moment. From such a review, it seems to us most clear, that the views of these deluded men were confined simply to the destruction of Machinery, without any reference to any form of Government, or any like or dislike to any public men. It is not impossible, indeed, that since the intermixture of the large body of Spies into the Meetings of these mislead people, some suggestions of that kind may have been made; but it is perfectly clear, that with the origin and organization of the plan, political conssiderations had no influence.
+
+WE have said, and we are convinced, neither MR. WILBERFORCE nor any other man can disprove the assertion, that politics had little or no influence in originating these unhappy disturbances; but though political *considerations* had no influence on the minds of the rioters, the riots themselves may, we believe, be traced to political *causes*, and we beg Mr. Wilberforce to make the inquiry whether his votes in Parliament are not amongst the number of those causes. He has, we know, been crying for the last twenty years, with more than ordinary zeal, in the Church of Clapham, "Give us peace in our time;" but has he not for the same period, and with equal fervour, been saying in the Chapel of St. Stephen, "Give us war in our time?" and is it not to this heart-sickening war that most of our distresses, and agitations are to be attributed? In forming his judgment upon the causes of the disturbances in the manufacturing counties, he should inquire too, how far those anti-commercial decrees which have deprived the poor of labour and bread,influenced in their effects, the conduct of the disorderly, and whether mechanics loitering about the streets for days and weeks together in idleness and want, were not likely to be devising and practising mischief, On the subject of the Orders in Council, we must, however, do our worthy Representative the justice to say, that he did not persist in error to the *last*, for on the memorable debate when his relative, Mr Stephen, the champion of retaliatory edicts *fell sick*, and when these celebrated Orders in Council were struggling under their dying throes, Mr. Wilberforce, their former advocate, gave them a home thrust by recommending their *total* abrogation,  
+
+> "This was the unkindest cut of all,"
+
+they fell; and though the agitation to which they had given rise, have like the agitations of the sea outlived the blast that put them in motion, yet we do not doubt but the tranquillising effects of the revocation will soon be felt in the disturbed counties—and that it will appear that it was not the licentiousness of the press but the distress of a famishing people, produced by the causes we have mentioned, that instigated, cherished, and extended the spirit of riot and outrage.
+```
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Mercury*, [Saturday 18 July 1812](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18120718/006/0003).
+
+Our Huddersfield Correspondent, under the date of the 16th inst. says, last Saturday evening, a number of men with their persons disguised, went to the house of Mr. Joseph Morton, of Salendine Nook, near Huddersfield, and demanded fire arms, on being told that he had not any in the house, they demanded money, and Mr. Morton, on pretence of proceeding to comply with their demand, escaped out of the back part of the house, and alarmed the neighbourhood—finding themselves foiled by this stratagem, they made off, but not till they had destroyed the clock and several other valuable articles of furniture. Last Monday evening, a great number of men visited most of the houses in Clifton, near Huddersfield, they obtained about 10 stand of arms; at Mr. Armitage's, a very respectable card-maker, they obtained possession of his gun, and asked him a number of questions, respecting a gun and mall, which had been found near that place. They then took their leave, but either from being overloaded, or from some other cause, they left Mr. Armitage's gun behind them! Nine men have been apprehended in the neighbourhood of Holmfirth, and are now in prison here on charges of gun stealing, and other depredations, one of whom has been a notorious character for 30 years. The military and police are very active, and are daily apprehending and bringing in the suspected.
+
+We have been favoured with the perusal of an official communication respecting the outrage at the village of Clifton, in which it is stated, that the body of arms stealers, who made the attack on this village about one o'clock in the morning of the 14th inst. amounted to about 30 men, supposed to be all armed; that they attacked the house of George Pratt, innkeeper, and on their mandate to extinguish the lights not being instantly complied with, fired into the house, but happily without doing any mischief; after taking Mr. Pratt's gun, they proceeded to the house of Joshua Goldthorpe, and having fired two shots into his window, compelled his son to accompany them from his dwelling house to his shop, for the purpose of fetching two guns which he happened to have at that place. On quitting the village, they took the road to Clifton, leaving orders that no person should quit their houses in less than two hours after their departure.
+```
 
 The editorial line taken by *Leeds Mercury* was too much for a correspondent to the *Leeds Intelligencer*, however, who called out Edward Baines — "the Editor of a certain provincial publication" — as an apologist for the Luddites.
 
@@ -509,7 +536,7 @@ YORKSHIRE ASSIZES.
 
 Sir Thomas Slingsby, Bart. High Sheriff.
 
-The following prisoners, in the Cattle of York, were to take their trials at these Assizes, which commenced on Saturday last. Before the Hon. Baron Wood, and the Hon. Justice Bayley:
+The following prisoners, in the Castle of York, were to take their trials at these Assizes, which commenced on Saturday last. Before the Hon. Baron Wood, and the Hon. Justice Bayley:
 
 ...
 
@@ -710,9 +737,6 @@ In *Nottingham Journal*, [Saturday 25 July 1812](https://britishnewspaperarchive
 
 The outrages of the Luddites, in the West Riding of Yorkshire, still continue:—On Friday se'nnight, some of them entered the extensive warehouses of Messrs. Fretwell and Cockshott, near the Market Place, by taking off several slates, and descending through a false roof, when they proceeded to a small barrel, containing about 14 lbs. of gunpowder, wrapped up in pound papers, which they took and got clear away with. They had also taken several papers of starch, some papers of which were found near the premises the following morning. The thieves must have known where the gunpowder was deposited, and it seems to have been their principal aim to obtain it, as the valuable articles of groceries, &c. with which the warehouses are stocked, were left untouched.—After making an ineffectual attempt to break open one of the doors, and afterwards a window (the more easily to escape), they were obliged to return through the entrance they had made in the roof.—On Tuesday night, a party visited the house of Mr. Dyson, of Stainland, near Halifax, and took from him a gun and a sword, and another gun and a sword from Mr. Mellor, in that neighbourhood. The same night, mess pretending to be Luddites, entered the house of Mr. Megson, farmer, of Whitley, and took away four guinea notes, with some beef and bread. Fortunately, Mr. Megson had paid away 100 more the day before, which probably were the booty the villains hoped to grasp.
 
-Huddersfield, *July 16*.—Last Saturday evening a number of men, with their persons disguised, went to the house of Mr. Joseph Morton, of Salendine Nook, near Huddersfield, and demanded fire-arms; on being told that he had not any in the home, they demanded money, and Mr. Morton, on pretence of complying with their demand, escaped out of the back part of the house, and alarmed the neighbourhood. Finding themselves foiled by this stratagem, they made off, but not till they had destroyed the clock, and several other valuable articles of furniture. Last Monday evening a great number of men visited most of the houses in Clifton, near Huddersfield; they obtained about ten stand of arms; at Mr. Armitage's, a very respectable card-maker, they obtained possession of his gun, and asked him a number of questions, respecting a gun and a mall, which had been found near that place. They then took their leave; but either from being overloaded, or from other cause, they left Mr. Armitage's gun behind them. Nine men have been apprehended in the neighbourhood of Holmfirth, and are now in prison here, on charges of gun stealing, and other depredations, one of whom has been a notorious character for 30 years. The military and police are very active, and are daily apprehending and bringing in the suspected.
-
-We have been favoured with the perusal of an official communication respecting the outrage at the village of Clifton, in which it is stated, that the body of arms-stealers who made the attack on this village about one o'clock in the morning of the 14th inst. amounted to about 30 men, supposed to be all armed; that they attacked the house of George Pratt, innkeeper, and on their mandate to extinguish the lights not being instantly complied with, fired into the house, but happily without doing any mischief; after taking Mr. Pratt's gun, they proceeded to the house of Joshua Goldthorpe, and having fired two shuts into his window, compelled his son to accompany them from his dwellinghouse to his shop, for the purpose of fetching two guns, which he happened to have at that place. On quitting the village they left orders that no person should quit their houses in less than two hours after their departure.
 ```
 
 James Oldroyd and and James Haigh had both walked free from the Summer Assizes, perhaps in part because of the reluctance of certain others to speak out against them. Who can say whether intimidation of potential witnesses had any role to play in framing their defence, but intimidation of witnesses *did* appear to take place, as another of the cases heard at the Assizes demonstrates.
@@ -786,6 +810,8 @@ The persons called Luddites it is said, may be divided into three classes— *Ro
 On Wednesday morning in the plantation, adjoining the house of Mr. Tootal, of Wakefield, were found an hussar jacket and pantaloons, and a butcher's knife, the former of which had been stolen from the White Hart, and the latter from the common slaughter house in the course of the night. The purpose for which these were taken is yet to us a mystery, but we cannot help surmising that is must have been a very bad one.
 ```
 
+## The Search for Depredators Continues
+
 As the magistracy continued in their efforts to identify and prosecute the murderers of William Horsfall, as well as the men who had attacked Vickerman's mill, and reports of Justice Bayley's sentiments regarding persons who would *"obstruct the course of justice"* and who had *"refused to enter into recognisance to appear and give their evidence"*, there were further reports of intimidation against anyone who might speak out against the Luddites.
 
 ```{admonition} Giving Information Respecting the Luddites, August 1812
@@ -826,7 +852,7 @@ With their committal to York Castle, it became clear that Benjamin Walker, and o
 
 ```{admonition} Committed to York Castle, October 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001279/18121031/010/0003 Hull Advertiser - Saturday 31 October 1812
+In *Hull Advertiser*, [Saturday 31 October 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001279/18121031/010/0003).
 
 Committed to York Castle, W. Thorpe and Thomas Smith, both of Huddersfield, cloth-dressers, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the attack on Mr. Cartwright's mill; and also with being two of the persons concerned in the murder of William Horsfall.—James Haigh of Dalton; Jonathan Dean of Huddersfield; Mark Hill, George Rigg, and Joseph Thornton, cloth-dressers, charged with attacking the mill of Mr. Cartwright; and the three latter with also having assembled at the workshop of Francis Vickerman, at Tailor Hill, Almondbury, and feloniously broke and destroyed divers shears and articles of machinery, the property of the said Francis Vickerman.— Also, Lazarus Naylor, of Pudsey, charged upon oath with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth.
 ```
@@ -836,8 +862,7 @@ The report of committals in the *Leeds Intelligencer* (and elsewhere) give an id
 ```{admonition} On Multiple Charges, November 1812
 :class: dropdown
 
-In *Leeds Intelligencer*, [Monday 02 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18121102/032/0003),
-also appearing in *Lancaster Gazette*, [Saturday 07 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/021/0004).
+In *Leeds Intelligencer*, [Monday 02 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18121102/032/0003), also appearing in *Lancaster Gazette*, [Saturday 07 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121107/021/0004).
 
 Committed to York Castle, W. Thorpe (No. 44) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with being a commander at, and aiding and assisting in an unlawful attack lately made upon Mr. Cartwright's mill, at Rawfolds; and also charged with being one of the men who shot and murdered Mr. William Horsfall, late of Marsden, merchant, in the month of April last. — Thomas Smith (No. 45) of Huddersfield, cloth-dresser, charged upon the oath of Benjamin Walker and others, with aiding and assisting in the above attack on Mr. Cartwright's mill; and also with being one of the persons concerned in the murder of William Horsfall. James Haigh (No. 46) of Dalton, and Jonathan Dean (No. 47) of Huddersfield, cloth dressers, charged upon the oath of William Hall and others, with having, together with divers others, unlawfully and riotously assembled at Hartshead-cum-Clifton, in April last, and then proceeded to attack the mill, at Rawfolds. — Mark Hill (No 49) and Joseph Thornton (No. 50) cloth-dressers, charged upon the oath of William Hall, with having, together with divers others, unlawfully and feloniously assembled at the mill, at Rawfolds, and attempted to break into the same; and also with having assembled at the work-shop of Francis Vickerman, at Taylor Hill, in Almondbury, breaking and destroying divers shears and articles of machinery, the property of the said Francis Vickerman. — Also, Lazarus Naylor (No. 51) of Pudsey, charged with feloniously stealing a cow, the property of William Shaw, of Grass Croft, in Saddleworth. — Eight *Luddites* passed through Leeds on Saturday, on their way to York Castle. Three more passed through on Sunday.
 ```
