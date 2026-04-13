@@ -171,8 +171,8 @@ In the matter of Carnel and Maples, frames were clearly broken, and the capital 
 
 ```{admonition} Trials on suspicion of frame breaking, March 1812
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120321/012/0003
-Leeds Mercury - Saturday 21 March 1812
+
+In *Leeds Mercury*, [Saturday 21 March 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120321/012/0003).
 
 NOTTINGHAM ASSIZES.
 
@@ -213,9 +213,8 @@ With the penalties of the Frame Breaking case not yet available to the court, it
 
 ```{admonition} The Judge explained the law of the case, March 28th
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/18120328/006/0003
 
-Northampton Mercury - Saturday 28 March 1812
+In *Northampton Mercury*, [Saturday 28 March 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/18120328/006/0003).
 
 ASSIZE INTELLIGENCE.
 
