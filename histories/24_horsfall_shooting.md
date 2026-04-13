@@ -4,14 +4,14 @@ In the aftermath of an unsuccessful Luddite attack on the mill of William Cartwr
 
 ## Several Shootings
 
-A week after the attack on William Cartwright's Mill, at Rawfolds, shots were fired at Cartwright, albeit without injury to him or his horse, as he made his way home from Huddersfield. Meanwhile, the "Committee of the association of Merchants and Manufacturers at Huddersfield" were honouring him, and rewarding the men who helped defend his mill, even as the man who refused to fire on the Luddite attackers and was sentenced at a court-martial to a severe physical punishment.
+A week after the attack on his mill, at Rawfolds, shots were fired at William Cartwright, albeit without injury to him or his horse, as he made his way home from Huddersfield. Meanwhile, the "Committee of the association of Merchants and Manufacturers at Huddersfield" were honouring him, and rewarding the men who helped defend his mill, even as the soldier who refused to fire on the Luddite attackers and was sentenced at a court-martial to a severe physical punishment.
 
 ```{admonition} Cartwright Assassination Attempt, April 1812
 :class: dropdown
 
 In *Leeds Mercury*, [Saturday 25 April 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120425/009/0003).
 
-On Saturday, a regimental Court martial was held at Huddersfield, on the private, who mis-conducted himself at the attack on Rawfolds mill, in refusing or neglecting to defend it in the manner he ought to have done, he was guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning, he was marched, escorted by a detachment of dragoons, to Rawfold the scene of action, where he was tied sip, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr. Cartwright.
+On Saturday, a regimental Court martial was held at Huddersfield, on the private, who mis-conducted himself at the attack on Rawfolds mill, in refusing or neglecting to defend it in the manner he ought to have done, he was guilty of neglect of duty, and was sentenced to receive 300 lashes. On Tuesday morning, he was marched, escorted by a detachment of dragoons, to Rawfold the scene of action, where he was tied up, and received about 25 lashes, the remainder of his punishment being remitted at the earnest and repeated intercession of Mr. Cartwright.
 
 On Saturday last, an attempt was made to assassinate Mr. Cartwright, the intrepid defender of Rawfolds Mill, by two villains who fired at him from behind an hedge, as he was returning from Huddersfield. The shots were discharged at nearly the same moment from opposite sides of the road, but happily without effect. This diabolical attempt upon the life of this gentleman, took place in open day, between the hours of four and five in the afternoon, about a mile on this side of Huddersfield. We have no words which can sufficiently describe our abhorrence of this dark and wicked attempt to murder. Surely, even the deluded followers of Gen. Ludd, cannot approve of private deliberate murder; are his troops already degenerated into a band of assassins? But wickedness is progressive, it is a downward road, the first step prepares the mind for a second, that for a third, until deeds of blood become familiar. And the man who begun his career, probably with the intention only of destroying machinery which he supposed inimical to his interest, ends it by deliberate assassination, There is something in this crime so cowardly, so foreign to the feelings of Englishmen, and so much at variance with the courage and humanity of our national character, that we are convinced, that not one man would have been found to have entered into the association, if it had previously intimated to him, that he was to exchange the character of an Englishman, for that of a cruel and cowardly Italian desperado. We would exhort and conjure those who are yet innocent of the blood of their fellow-creatures, to abjure a confederation which leads to such dreadful consequences, which sinks them below the level of civilized men, and points to the destruction of Society itself. It is at present possible to retreat; when we have next to address them, it may be too late.
 
@@ -53,13 +53,14 @@ A reward of £2000 will, we understand, be offered immediately to any person who
 
 ![https://archive.org/details/yorkcastleinnin00redegoog/page/n25/mode/1up](images/murder_horsfall_york_castle_19thc.png)
 
+A reward was duly offered for information regarding the shooting, whilst in Nottingham, another reward was on offer to anyone who might be able to assist in capturing the men responsible for the shooting of a senior hosier of that town, Mr William Trentham.
 
 ```{admonition} Rewards Offered, May 1812
 :class: dropdown
 
 In *Taunton Courier and Western Advertiser*, [Thursday 07 May 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000348/18120507/025/0007).
 
-A reward of 2000l. is offered in this Gazette, for the discovery of the four villains by one or more of whom Mr, William Horsfall, cloth-merchant, of Marsden, near Huddersfield, was shot at, returning from Huddersfield market, on the 28th April who, were seen lurking behind a wall in the plantation of Joseph Radcliffe, esq. on Crosland. Moor, and four slugs entered his body, since which the said Mr. Horsfall has died of the wounds he received; and also a reward of 600 guineas for the apprehension of both or either of those two men, who on Monday evening the 27th of April last, shot Mr. William Trentham through the breast, with a horse pistol, at his own door in Nottingham.
+A reward of 2000*l.* is offered in this Gazette, for the discovery of the four villains by one or more of whom Mr, William Horsfall, cloth-merchant, of Marsden, near Huddersfield, was shot at, returning from Huddersfield market, on the 28th April who, were seen lurking behind a wall in the plantation of Joseph Radcliffe, esq. on Crosland Moor, and four slugs entered his body, since which the said Mr. Horsfall has died of the wounds he received; and also a reward of 600 guineas for the apprehension of both or either of those two men, who on Monday evening the 27th of April last, shot Mr. William Trentham through the breast, with a horse pistol, at his own door in Nottingham.
 
 ```
 
