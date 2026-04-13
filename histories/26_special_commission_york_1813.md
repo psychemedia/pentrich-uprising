@@ -80,7 +80,28 @@ James Hay, John Hill, William Hartley, Joseph Crowther, and Nathan Hoyle, charge
 
 --
 
-Re: Joshua Haigh, the soldier: https://ludditebicentenary.blogspot.com/2012/10/18th-october-1812-stockport-solicitor.html
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121017/007/0003
+Lancaster Gazette - Saturday 17 October 1812
+
+Committed to York Castle, Joshua Haigh, private in the 51st foot, charged on his own confession, with having been concerned in the murder of Mr. W. Horsfall, in April last, and with being at the attack on Mr. Cartwright's mill, at Liversedge, and firing at the people therein.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001409/18121030/018/0003
+Kentish Weekly Post or Canterbury Journal - Friday 30 October 1812
+
+A man of the name of Joshua Haigh, a native of Huddersfield, who lately enlisted into the 51st regiment, has been taken into custody, and lodged in prison at Wakefield, on suspicion of being concerned in the murder of Mr Horsfall, near Huddersfield.
+
+
+
+---
+
+getting the time wrong...
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18121102/001/0001
+Hampshire Chronicle - Monday 02 November 1812 and elsewhere
+
+Government as well as individuals, have been using all due diligence in endeavouring to discover the murderer assassin of Mr, Horsfall, who was barbarously at mid-day, during the riotous proceedings of the *Luddites* at and near Huddersfield. Among those who have been suspected is a man of the name Joshua Haigh, a native of Huddersfield, who, during the disturbances, enlisted with a recruiting party into the 51st regiment, and a short time after the attack on the mill, which was so ably defended. He was strongly suspected to have been concerned in the attack, from the circumstance of a hat, with his name in it, being found in a brook leading from the mill. On the evening of the day Mr. Horsfall was murdered, when he went home, he appeared extremely agitated when he heard any noise. After he went to bed he was heard to talk loud his sleep, calling out loudly they were coming after him to take him. In the morning it was ascertained that he had absconded, and no doubt was entertained but he had got out of the window. No tidings were heard of him till a short time since, when the Serjeant who had enlisted him into the 51st regiment, being recruiting Ireland, met him there, and took him into custody as a deserter, and had him conveyed to depot of the regiment at Brebourn Lees, in Kent, where he was received into the regiment, with the punishment of being deprived of his bounty which he had not received when he enlisted. These circumstances getting known at Huddersfield a warrant against Haigh was sent by Mr. Radcliffe of Mill's Bridge to the Secretary of State's Office, where it was backed for the county of Kent, and Lavender the Bow-street officer was dispatched with it, and he took him into custody at the depot of the regiment at Brebourn Lees, and conveyed him from there to Wakefield, and lodged him the prison there.
 
 ---
 The following incorrectly states who will be hanged for Horsfall's murder?
@@ -161,6 +182,7 @@ LUDDITES.
 Proceedings under Special Commissions held at York, before Mr. Baron Thompson and Mr. Justice Le Blanc, for the Trial of the Luddites, 53 Geo. 3, 1813, 31 vol. 959. —Introduction to these Proceedings, containing an Account of the Disturbances in the Manufacturing Districts which gave rise to them, ibid. ib.—Mr. Baron Thompson's Charge to the Grand Jury, ibid. 966.— Trial of John Swallow, John Batley, Joseph Fisher, and John Lamb, for a Burglary, ibid, 971. — Mr. Park's Speech for the Prosecution, ibid. 972.— Mr. Baron Thompson's Charge to the Jury, ibid. 980. —The Jury find them Guilty, but recommend Lumb to Mercy, ibid. 997. — Trial of George Mellor, William Thorpe, and Thomas Smith, for the Murder of Mr. Horsfall, ibid. ib. — Mr. Park's Speech for the Prosecution, ibid. 998.—Mr. Justice. Le Blanc's Charge to the Jury, ibid. 1008.— The Jury find them Guilty, ibid. 1033.— Sentence of Death is passed upon them, ibid. ib. — They are executed, ibid 1063. — Trial of John Schofield for maliciously shooting at John Hinchliffe, ibid. 1035.— Mr. Park's Speech for the Prosecution, ibid, ib.- Mr. Baron Thompson's charge to the Jury ibid. 1047.— The Jury acquit him, ibid. 1063.—Trial of John Eadon for administering an unlawful Oath, ibid. 1064.—Mr. Park's Speech for the Prosecution, ibid. ib.— Mr. Justice Blanc's Charge to the Jury, ibid. 1068.— The Jury find him Guilty, ibid. 1073.— Trial of several other persons for administering unlawful Oaths, ibid. 1074.— Trial of James Haigh, and seven other persons for attempting destroy a Mill, ibid. 1092.— Mr. Park's Speech for the Prosecution, ibid. 1093.— Mr. Justice Le Blanc's Charge to the Jury, ibid. 1102.- The Jury find five of the Prisoners Guilty and acquit the rest, ibid. 1123.— Trial of Joseph Brook for Burglary, ibid. 1124. Mr. Park's Speech for the Prosecution, ibid, ib.— Mr. Baron Thompson's Charge to the Jury ibid. 1126.— The Jury acquit the Prisoners, ibid. 1137.— Trial of Job Hey, John Hill, and William Hartley, for a Burglary, ibid. 1137.- Mr. Justice Le Blanc's Charge to the Jury ibid. 1139.— The Jury find them Guilty ibid. 1147.— Trial of James Hey, Joseph Crowther, and Nathan Hoyle, for a Robbery in a Dwelling-House, ibid, ib.— Mr. Justice Le Blanc's Charge to the Jury, ibid. 1149.— The Jury find the Prisoners Guilty, ibid. 1159. — Mr. Baron Thompson passes Sentence upon the several Prisoners who are convicted, ibid. 1161.— Royal Proclamations connected with the Subjects of these Trials, ibid. 1166.— For the Proceedings on the Trials of the several persons called Luddites, tried under a Special Commission at Derby, in the year 1817, *see Brandreth, Jeremiah; Turner, William; Ludlam, Isaac; Weightman George*.
 
 
+14 Luddites hanged 3 (murder)/5 (mill), 6(guns), [3 opportunist]
 
 https://archive.org/details/yorkcastleinnin00redegoog/page/418/mode/2up?q=%22rendered+useless+by+a+single+blow%22
 
@@ -192,7 +214,7 @@ This was an indictment for a misdemeanour in having incited two persons to blow 
 
 Mr. Parke stated, that he believed this prisoner to have been the dupe of designing persons, and permitted him to be discharged upon his own recognizances.
 
-The King against Samuel Booths George Lodge, and Joseph Schofield.
+The King against Samuel Booths, George Lodge, and Joseph Schofield.
 
 An indictment for breaking frames. Discharged upon their own recognizances, and bail to Appear at the next sessions.
 
@@ -258,6 +280,74 @@ A notion has been entertained by some, that the disturbances have been in a grea
 
 It is now time to close these preliminary remarks, and to proceed to the report of the Trials. But there shall be first given an alphabetical list of the 64 Prisoners delivered out of York Castle upon this occasion; which, by containing a statement of their residences, occupations, and ages, and of the crimes with which they were charged, will exhibit at one view the seat of Luddism, the description of its adherents, and the offences which are immediately connected with it, or are consequential on it; and by containing the result as to each prisoner, with a reference to the relevant page, will serve as an index to the book.
 
+TO DO - CHECK TABLE TRANSCRIPTION
+
+| Name | Residence | Occupation | Age | Offences | Result | Pag. |
+|------|-----------|------------|-----|----------|--------|------|
+| ANSON, William | Elland | Shopkeeper | 25 | Charged with Burglary at Far Town, on 29 November | Discharged with Prosecution | 211 |
+| ARMITAGE, Abraham | Holmfirth | Labourer | 30 | Indicted for Burglary and stealing Arms at Foolstone, on 18 May; Charged also with four similar Burglaries, on 7, 24, & 29 June | Discharged on Bail to appear to the Indictment, when required | 205 |
+| BAINES, John, senior | Halifax | Hatter | 66 | Convicted of administering an unlawful Oath to John McDonald, at Halifax, on 8 July | Transported for 7 Years | 115, 206 |
+| BAINES, John, junior | Dº | Shoemaker | 34 | Convicted of abetting the same Offence | - - Dº - | 115, 206 |
+| BAINES, Zachariah | Dº | Labourer | 15 | Indicted for the same Offence | Acquitted | 115 |
+| BATLEY, John | Thornhill | Clothier | 31 | Convicted of Burglary and stealing sundry Goods at Kirk-Heaton, on 3 July | Hanged, January 16 | 7, 208, 211 |
+| BEAUMONT, George | Holmfirth | Labourer | 42 | Indicted for Burglary and stealing Arms at Foolstone, on 18 May; Charged also with five similar Burglaries, on 7, 24, and 29 June | Discharged on Bail, &c. | 205 |
+| BLAKEBOROUGH, William | Halifax | Shoemaker | 23 | Convicted of abetting J. Baines in administering unlawful Oath; Indicted for ripping Lead from a Building at Halifax, on 15 July | Transported for 7 Years | 115, 206 |
+| BOOTH, Samuel | Huddersfield | Cloth-dresser | 33 | Indicted for breaking Shearing-frames of J. Hirst at Lindley, on 23 February; Charged with another like Offence on 15 March | Discharged on Bail, &c. | 205 |
+| BROOK, George | Dalton | Dº | 45 | Indicted for breaking Shearing-frames of two persons at Lindley and Linthwaite, on 23 February | - - Dº - - - | 205 |
+| BROOK, George | Lockwood | Dº | 18 | Indicted for Burglary and stealing a Gun, at Wooldale, on 1 May; Charged with seven other Capital Felonies in stealing Arms, and breaking Shearing-frames | - - Dº - - - | 205 |
+| BROOK, James | Dº | Dº | 26 | Acquitted of beginning to demolish William Cartwright's Mill; Indicted for and charged with the same Offences as the preceding prisoner | - - Dº - | 134, 205 |
+| BROOK, John | Dº | Dº | 22 | The same as James Brook | - - Dº - | 134, 205 |
+| BROOK, Joseph | Raistrick | Tailor | 40 | Indicted for Burglary and stealing divers Goods at Kirk-Heaton, on 3 October | Acquitted | 167 |
+| BROOK, Thomas | Lockwood | Cloth-dresser | 32 | Convicted of beginning to demolish William Cartwright's Mill on 11 April | Hanged, January 16 | 134, 208, 211 |
+| BROOKES, George | Holmfirth | Dº | 40 | Indicted for Burglary and stealing Guns at Foolstone, on 18 May; Charged also with five similar Burglaries, on 4, 7, and 29 June | Discharged on Bail, &c. | 205 |
+| CARTER, Joseph | Greetland | Cotton-spinner | 22 | Admitted Evidence against Joseph Crowther and others | Discharged | 186, 196, 211 |
+| COCKCROFT, Charles | Huddersfield | Cloth-dresser | 19 | Charged with beginning to demolish William Cartwright's Mill | Discharged with Prosecution | 205 |
+| COOKSON, Craven | Barnsley | Weaver | 31 | Indicted for administering an unlawful Oath to Thomas Broughton, at Barnsley, on 8 August | Acquitted by consent | 114 |
+| CROWTHER, Joseph | Sowerby | Cotton-spinner | 31 | Convicted of robbing a House at Far Town, on 29 November; Charged with other Burglaries on same day | Hanged, January 16 | 191, 208, 211 |
+| DEAN, Jonathan | Huddersfield | Cloth-dresser | 28 | Convicted of beginning to demolish William Cartwright's Mill; Charged with eleven other Capital Felonies in destroying Machinery, and stealing Arms | - - Dº - - - | 134, 208, 211 |
+| DUCKWORTH, George | Halifax | Shoemaker | 23 | Convicted of abetting John Baines in administering an unlawful Oath | Transported for 7 Years | 115, 206 |
+| DYSON, James | Longroyd Bridge | Cloth-dresser | 21 | Charged with beginning to demolish William Cartwright's Mill, and with four acts of breaking Machinery | Discharged without Prosecution | 211 |
+| EADON, John | Barnsley | Weaver | 34 | Convicted of administering an unlawful Oath to Richard Howells, at Barnsley, on 21 May; Indicted for similar Offence on 8 August | Transported for 7 Years / Acquitted by consent | 104, 206, 114 |
+| FISHER, Joseph | Briestwhistle | Coal-miner | 33 | Convicted of Burglary and stealing sundry Goods at Kirk-Heaton, on 3 July | Hanged, January 16 | 7, 208, 211 |
+| FITTON, Robert | Holmfirth | Weaver | 44 | Indicted for Burglary and stealing Arms at Foolstone, on 18 May; Charged also with a similar Burglary on 29 June | Discharged on Bail, &c. | 205 |
+| GREEN, Thomas | Horbury | Carpenter | 31 | Charged with a Burglary and stealing divers Goods at Nether Shittlington, on 3 June | Discharged with Prosecution | 211 |
+| HAIGH, James | Dalton | Cloth-dresser | 28 | Convicted of beginning to demolish William Cartwright's Mill; Charged with three other Capital Felonies in breaking Machinery | Hanged, January 16 | 134, 208, 211 |
+| HAIGH, Joshua | Lockwood | Dº | 27 | Charged with beginning to demolish William Cartwright's Mill | Discharged with Prosecution | 211 |
+| HAIGH, Samuel | Holmfirth | Labourer | 34 | Indicted for Burglary and stealing Arms at Foolstone, on 18 May; Charged also with a similar Burglary on 29 June | Discharged on Bail, &c. | 205 |
+| HARLING, Samuel | Crossland | Hawker | 69 | Charged with threatening the Life of Joseph Radcliffe, Esq. | Discharged with Prosecution | 211 |
+| HARTLEY, William | Warley | Tailor | 41 | Convicted of Burglary and stealing Arms at Skircoat, on 29 August; Charged also with four other Burglaries, and with breaking Shearing-frames | Hanged, January 16 | 181, 208, 211 |
+| HEY, James | Skircoat | Woollen-spinner | 25 | Convicted of robbing in a Dwelling-house at Far Town, on 29 November; Charged with five Burglaries on same day | - - Dº - - - | 191, 208, 211 |
+| HEY, Job | Greetland | Waterman | 40 | Convicted of and charged with the same Offences as William Hartley | - - Dº - - - | 181, 208, 211 |
+| HILL, John | Dº | Cotton-spinner | 36 | The Same | - - Dº - 181, 208, 211 | |
+| HILL, Mark | Dalton | Cloth-dresser | 26 | Charged with beginning to demolish the Mill of William Cartwright | Discharged with Prosecution | 211 |
+| HINCHLIFFE, Benjamin | Holmfirth | Labourer | 24 | Indicted for Burglary and stealing Arms at Foolstone, on 18 May | Discharged on Bail, &c. | 205 |
+| HIRST, John | Liversedge | Cloth-dresser | 28 | Indicted for beginning to demolish William Cartwright's Mill | Acquitted | 134 |
+| HOBSON, Cornelius | Nether Thong | Dº | 19 | Charged with administering an unlawful Oath to Robert Harling | Discharged with Prosecution | 211 |
+| HOYLE, Nathan | Skircoat | Weaver | 46 | Convicted of and charged with the same Offences as James Hey | Hanged, 16 Jan. | 191, 208, 211 |
+| LODGE, George | Huddersfield | Cloth-dresser | 42 | Indicted for breaking the Shearing-frames of two persons at Lindley and Linthwaite, on 23 February | Discharged on Bail, &c. | 205 |
+| LUMB, John | Thornhill | Coal-miner | 32 | Convicted of Burglary and stealing divers Goods at Whitley Upper, on 4 July—but recommended to mercy by the Jury | Sentenced to be hanged, but pardoned on condition of being transported for life | 7, 208, 211 |
+| MELLOR, George | Longroyd Bridge | Cloth-dresser | 22 | Convicted of the Murder of William Horsfall, on 28 April; Indicted for beginning to demolish William Cartwright's Mill, for two cases of breaking Shearing-frames, and one case of stealing Arms; Charged with nine other Capital Felonies | Hanged, January 8 | 35, 104, 134, 205 |
+| MILNES, Charles | Halifax | Cardmaker | 22 | Convicted of abetting John Baines in administering an unlawful Oath; Indicted for ripping Lead from a Building at Halifax, on 15 July; Charged also with stealing Ball-cartridges from the Cumberland Militia | Transported for 7 Years | 115, 206 |
+| MOORHOUSE, David | Kirk-Burton | Stonemason | 26 | Indicted for a Burglary at Kirk-Burton, on 11 June | Acquitted by consent | 203 |
+| OGDEN, John | Huddersfield | Cloth-dresser | 28 | Convicted of beginning to demolish William Cartwright's Mill, on 11 April | Hanged, January 16 | 134, 208, 211 |
+| RIGGE, George | Dº | Dº | 29 | Charged with the same Offence | Discharged with Prosecution | 211 |
+| SCHOFIELD, John, jun. | Nether Thong | Cloth-dresser | 21 | Indicted for maliciously shooting at John Hinchliffe at Upper Thong, on 22 July | Acquitted | 74 |
+| SCHOFIELD, Joshua | Huddersfield | Dº | 22 | Charged with beginning to demolish Cartwright's Mill | Discharged with Prosecution | 211 |
+| SHORE, John | Holmfirth | Labourer | 32 | Charged with a Burglary at Whitley | - - Dº - - - | 211 |
+| SISWICK, Benjamin | Horbury | Dº | 25 | Charged with a Burglary at Shittlington | - - Dº - - - | 211 |
+| SMITH, John | Kirk-Burton | Butcher | 33 | Indicted for the same Offence as David Moorhouse | Acquitted by consent | 203 |
+| SMITH, Thomas | Huddersfield | Cloth-dresser | 22 | Convicted of the Murder of William Horsfall, on 28 April; Indicted for beginning to demolish Cartwright's Mill, and for two cases of breaking Shearing-frames; Charged with nine other Capital Felonies | Hanged, January 8 | 35, 104, 134, 205 |
+| STARKEY, James | Liversedge | Carpet-weaver | 22 | Indicted for inciting two men, on 5 September, to blow up Cartwright's Mill | Traversed to the next Assizes | 204 |
+| SWALLOW, John | Briestwhistle | Coalminer | 37 | Convicted of Burglary at Whitley Upper, on 4 July; Charged with five other Burglaries | Hanged, January 16 | 7, 208, 211 |
+| TAYLOR, John | Holmfirth | Labourer | 26 | Indicted for Burglary and stealing Arms at Foolstone, on 18 May | Discharged on Bail, &c. | 205 |
+| THORNTON, Charles | Lockwood | Cloth-dresser | 19 | Indicted for Burglary and stealing a Gun at Wooldale, on 1 May | - - Dº - - - | 205 |
+| THORNTON, Joseph | Huddersfield | Dº | 29 | Indicted for the same Offence as John Taylor | - - Dº - - - | 205 |
+| THORPE, William | Dº | Dº | 23 | Convicted of the Murder of William Horsfall, on 28 April; Indicted for beginning to demolish Cartwright's Mill, and two cases of breaking Shearing-frames; Charged with five other Capital Felonies | Hanged, January 8 | 35, 104, 134, 205 |
+| VARLEY, James | Lockwood | Dº | 35 | Indicted for Burglary and stealing Arms at Wooldale, on 1 May, and at Foolstone, on 18 May | Discharged on Bail, &c. | 205 |
+| WALKER, Benjamin | Longroyd Bridge | Dº | 25 | Committed as an Accomplice in the Murder of William Horsfall, and admitted Evidence for the Crown | Discharged | 50, 152, 211 |
+| WALKER, John | Dº | Dº | 31 | Convicted of beginning to demolish William Cartwright's Mill; Indicted for two cases of breaking Shearing-frames; Charged with five other Capital Felonies | Hanged, January 16 | 134, 208, 211 |
+| WALKER, John | Salford | Dº | 33 | Charged with breaking Shearing-frames at Almondbury, on 15 March | Discharged with Prosecution | 211 |
+| WHITEHEAD, William | Quick | Clothier | 26 | Charged with Robbery at Lydgate in Quick, on 20 April | - - Dº - - - | 211 |
 
 https://archive.org/details/cobbettscomplet14jardgoog/page/n493/mode/1up?q=%22John+Swallow%22
 
@@ -407,10 +497,60 @@ Our Huddersfield Correspondent under yesterday's date, says—"That this week th
 
 Special Commission at York  / Trial 1813 reports
 
+AN HISTORICAL ACCOUNT OF THE LUDDITES OF 1811, 1812, AND 1813, REPORT OF THEIR TRIALS
+AT YORK CASTLE, FROM THE 2ND TO THE 12m OF JANUARY, 1813,
+BDOBB srn ALEXANDEB THOlllPSON AND sm SI1ll0N LE BLANC,
+KNIGHTS,
+JUDGES OF THE SPECIAL COMMISSION.
 
+1862
 
-https://books.google.co.uk/books?id=07tNAQAAMAAJ&pg=PA9&dq=cowgill+luddites&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi06NzS9d-OAxVrVUEAHQYOHikQ6AF6BAgHEAM#v=onepage&q=cowgill%20luddites&f=false
-An Historical Account of the Luddites of 1811, 1812, and 1813: With Report (Cowgill ) 1862
+https://mirfieldarchive.org/Luddites/Luddites_12/
+An_Historical_Account_Of_The_Luddites_And_Their_Trials.pdf
+
+(missing p11)
+
+p iii-vi
+
+PREFACE.
+
+WE venture to predict that the re-issue of this pUblication will meet with your entire approval-the matter having been culled from the most authentic sources, and with the greatest care, to preserve the facts and most important incidents connected with that eventful period.
+
+The reasons for re-issuing this book, after a lapse of fifty years, are—First: to satisfy that natural inquisitive demand for some knowledge of the HISTORY AND TRIALS OF THE LUDDITES, caused in very many instances by the relative or friendly connection with those deluded men; as incidents by "flood or field" in the particular district in which we reside, are of more interest than those occurring in other districts; jUst so do we anticipate the general reading of this re-issue, from the close and intimate connection it does, and ever will, hold in the history of this locality. Secondly: we re-publish it that the public mind may be the better informed of the real position of those, no doubt, good but misguided men, who felt themselves much aggrieved by the introduction of machinery to supplant manual labour, and the high price of provisions at that time.
+
+...
+
+pp7-15
+
+HISTORICAL ACCOUNT AND ORIGIN or THE LUDD RIOTS.
+
+TOWARDS the close of the year 1811, a spirit of riot and insubordination manifested itself in the county of Nottingham, which, in the course of that year, extended to the counties of Derbyshire. Leicestershire, Lancashire, Cheshire, and Yorkshire, and in some degree, pervaded all the manufacturing districts of England. The insurgents. who assumed the name of "LUDDITES", probably with a view of inspiring their adherents with confidence. the malcontents gave out that they were under the command of one leader, whom they designated by the fictitious name of Ned Ludd. or General Ludd, calling themselves *Ludds*, *Ludders*, or *Luddites*. There is no reason however to believe that there was in truth anyone leader. In each district where the disaffection prevailed, the most aspiring man assumed the local superiority, and became the General Ludd of his own district.
+
+The avowed and immediate object of the Luddites was the destruction of certain articles of machinery, the use of which had superseded or diminished manual labour, in the manufacture of the articles to which they were applied. These disturbances, which had now attracted the attention of parliament, and excited apprehensions of the most alarming nature, first manifested themselves by the destruction of a great number of newly-erected stocking-frames, by small parties of men, principally stocking-weavers, who assembled in various places round the town of Nottingham. The men engaged in the disturbances were at first principally those thrown out of employment by the use of new machinery, or by their refusal to work at the rate of wages offered by the manufacturers, and they particularly sought the destruction of frames owned by those hosiers, or worked by those men who were willing to work at the lower rates. In consequence of the resistance opposed to the outrages of the rioters, in the course of which one of their number was shot, on the 11th of November, at Bullwell, near Nottingham, they became still more violent, and the magistrates found it necessary to call in the assistance of a considerable armed force, which was promptly assembled, consisting, at first, principally of local militia and volunteer yeomanry, to whom were added about four hundred special constables. The terror of this force seemed for a time to allay the spirit of insubordination; but before the end of the month of November, the outrages were renewed, and assumed a more serious systematic character. In several villages, the rioters not only destroyed the frames, but they levied contributions for subsistence, which rapidly increased their number, and enlarged their sphere of action.
+
+A considerable regular military force was now sent to Nottingham, and in January, 1812, two of the most experienced police magistrates were dispatched from London to that place for the purpose of assisting the local authorities in their endeavours to restore tranquillity in the disturbed districts. The systematic combination with which the outrages were conducted, the terror which they inspired, and the disposition of many of the lower orders to favour, rather than to oppose them, made it very difficult to discover the offenders, or to obtain evidence to convict those who were apprehended. Some, however, were afterwards proceeded against at the spring assizes of 1812, at Nottingham, and seven persons, convicted of different offences connected with the riots, were sentenced to transportation. In the meantime, acts were passed by the legislature for establishing a police in the disturbed districts, upon the ancient system of watch and ward, and for making the destruction of stocking-frames a capital crime, punishable by death.
+
+Early in the year, the spirit of riot and disturbance spread itself into Cheshire and Lancashire; at Tentwistle, in the former county, the cotton machinery in Mr. Rhodes's mill was totally destroyed; and at Stockport, the house of Mr. Goodwin was set on fire on the 14th of April, and his steam-looms destroyed. On the 20th of the same month, the manufactory of Messrs. Daniel Burton and Sons, situated at Middleton, six miles from Manchester, was attacked by a mob, consisting of several thousand persons, and although the rioters were repulsed, and four of their number killed by the military force assembled to protect the works, a second attaek was made on the following day, when Mr. Emanuel Burton'e dwelling-house was set on fire, and destroyed. About the same time riots took place in Manchester, of which the alleged cause was the high price of provisions. At West Houghton, near Bolton-le-moors, the rioters taking advantage of the absence of the military, assailed the large manufactory of Messrs. Wroe and Duncuft, and after having forced the doors, and set fire to the mill and machinery, dispersed before the soldiers could be assembled.
+
+Symptoms of the same lawless disposition appeared at Newcastle-under-line, Wigan, Warrington, and Eccles; and the contagion had spread to Carlisle, and into Yorkshire. In Nottinghamshire, the machinery obnoxious to the rioters was wide weaving frames; in Lancashire, looms wrought by steam; and in Yorkshire, gig-mills, or machinery used in the shearing of woollen cloth—all inventions of modern date, and each of them calculated to supersede or diminish the demand for manual labour. In the immediate neighbourhood of Huddersfield, in the West Riding of Yorkshire, the destruction of dressing machines beg6n early in February. In March, the machinery belonging to Mr. Francis Vickerman, in that neighbourhood, was destroyed. In April, the destruction of Bradley Mills was threatened; but the execution of these threats was frustrated by the presence of a military guard, to which the protection of that extensive concern was, for many months, confided. The inhabitants of Leeds had for some time been much alarmed by information that attacks were intended to be made on various places in that town and neighbourhood; and early in the month of January. an assemblage of insubordinate workmen, with their faces blacked, and armed with offensive weapons, took place. On the first night of their meeting, they were surprised by the vigilance of the magistrates, and prevented from committing any outrage; but on the 19th of that month the  gig0mill of Messrs. Oates, Wood, and Smithson, was wilfully set on fire, and considerable damage done to the building and machinery. This incendiary act was succeeded by a regular and systematic attack upon the mill of Messrs. Thompsons and Brothers, at Rawden, in the same neighbourhood, on the night of the 23rd of March, when the shears used in dressing the cloth were broken, and the machinery rendered useless. Previous to the attack the rioters seized and secured the watch; and when the mischief, which occupied but a few minutes in the perpetration, was effected, they assembled on a neighbouring eminence, and called over the numbers by which each man was designated, and instantly dispersed. Only two nights after, a quantity of woollen-cloth, of the value of five hundred pounds, dressed by machinery, the property of Messrs. Dickinson and Co. was cut in shreds in their dressing shops, at Leeds. At Horbury, near Wakefield, the mill of Mr. Foster was attacked by an armed body of men, supposed to consist of three hundred, who marched in regular sections to the assault, and destroyed the machinery, having previously secured two of the sons of the proprietor, by tying them together in their bedroom.
+
+These outrages which had hitherto been practised in the county of York almost with impunity, were at length doomed to receive a check: about midnight on Saturday, the 11th of April, an attack was made by a body of armed men supposed to amount to about one hundred and fifty, upon the shearing-mill of Mr. William Cartwright, situated at Cleckheaton, at about an equal distance from Leeds, Huddersfield, and Halifax. The mill was defended with so much gallantry by Mr. Cartwright, the proprietor, assisted by two soldiers, and four of his work-people, that the assailants, after a number of desperate efforts, were completely repulsed, and two of their number left upon the field mortally. wounded.
+
+From this period, the insurgents determined upon a different course of conduct; they had found one of the mills invulnerable, and it was supposed that other proprietors, animated by the success of Mr. Cartwright, would in future defend their property; it was therefore determined no longer to attack the mills, but to strike at the life of the owners: in pursuance of this sanguinary resolution, Mr. William Horsfall, a respectable merchant and mill-owner from Marsden,in the neighbourhood of
+
+[MISSING P11]
+
+disaffected was clearly manifest, all which societies were directed by a secret committee, which might be considered as the great mover of the whole machine; and it was established by the various information received from different parts of the country, that these societies were governed by their respective secret committees; that delegates and messengers were continually dispatched from place to place for the purpose of concerting plans and conveying information; `[A small weekly contribution paid by every member of these combinations formed a fund, by which the delegates and messengers were wholly or in part supported, according to the nature and extent of their services. This fund there is reason to suppose was also applied to the support of the imprisoned Luddites; and its application in this way, combined with the nature of the oath, may in some degree account for the paucity of information collected from them while in prison, and even in the prospect of death. In fact, they made no disclosures. All their secrets, whether they related to the organization of their societies, the names of their leaders, or their depots of arms, died with them.]` that an illegal oath of the most atrocious kind was extensively administered; `[Several copies of the oath were discovered, but the following appears to be the correct version:- OATH. "I, A. B., of my own voluntary will, do declare, and solemnly swear, that I never will reveal to any person or persons under the canopy of heaven, the name of the persons who compose this secret committee, their proceedings, meeting, places of abode, dress, features, complexion, or any thing else that might lead to a discovery of the same, either by word, deed, or sign, under the penalty of being sent out of the world by the first brother who shall meet me, and my name and character blotted out of existence, and never to be remembered but with contempt and abhorrence; and I further now do swear, that I will use my beat endeavours to punish by death any traitor or traitors, should any rise up among us, wherever I can find him or them, and though he should fly to the verge of nature, I will pursue him with unceasing vengeance. So help me God, and bless me to keep this my oath inviolable."]` and that secret signs were arranged, by which the persons engaged in these conspiracies were known to each other. The military organization, carried on by persons engaged in these societies, had also proceeded to an alarming length; in some parts of the country they assembled in large numbers, chiefly by night, upon heaths or commons, taking the usual precaution of paroles and counter-signs. The muster-rolls were called over by numbers, not names; they were directed by leaders, sometimes in disguise; they placed sentries to give alarm at the approach of any person, whom they might suspect of an intention to interrupt or give information of their proceedings; and they dispersed instantly at the firing of a gun, or other signal agreed upon, and so dispersed as to avoid detection. In some instances, signals were made by rockets and blue lights, by which they communicated intelligence to the parties, and the system evinced an extraordinary degree of concert, secrecy and organization. The collection of arms and ammunition, and the progress in discipline, as manifested in the attacks upon some of the mills, could not fail to produce in the country a great degree of alarm; and the system of intimidation produced by the oaths administered to the initiated; the destruction of property; and the threats held out against, and, in some cases, executed upon their opposers, greatly aggravated this alarm, and for a long time tended to baffle every effort made to bring the offenders to justice.
+
+In consequence of the report of the secret committee appointed by parliament, from which the foregoing relation is principally drawn, government determined to adopt decisive and vigorous measures against the insurgents. A bill was immediately brought into the house of commons, which made it a capital offence to administer illegal oaths; and the power of the magistrates in the disturbed districts was considerably enlarged.
+
+These measures were strongly objected to by Mr. Whitbread, Sir Frands Burdett, and several other members, on the ground that the report of the secret committee had been entirely made up from documents and evidence which were by no means entitled to implicit belief; and which ought not to guide parliament when they were about to legislate for the purpose of curtailing the liberty of the subject and increasing the number of capital crimes, already much too great in the criminal code of this country. That at any rate, if such strong and severe measures as those proposed by ministers were to be resorted to, it would be but just that government should, at the same time, as much as lay in their power, remove the cause of the disturbances which they were about to punish; that their principal cause must be sought in the extension of taxation, and destruction of commerce and manufactures; and that these, in their turn, originated in the foolish and wicked continuance of a war without object and without hopes, and in the profligate expenditure of the public money. These representations, however, had no effect; and it must be confessed, that when certain classes of the people, in any country, are so ill-advised as to have recourse to violence and force for the purpose of removing their real or imaginary grievances, it is the first and most imperious duty of government to protect the peaceable and well-disposed, and to restore public tranquillity by subduing the lawless. After order and tranquillity are restored, government have another duty to perform, equally imperious—the removal of every real and well-founded cause for complaint and dissatisfaction: and a government that with equal judgment and promptitude performs both these duties, will be at once respected and loved, and will best secure the well-being of the nation committed to its charge.
+
+The exertions of the magistrates in Lancashire and Cheshire, had, early in May, filled the gaols of those counties with prisoners, charged with various offences; and in the interval between the spring and the summer assizes, special commissions were issued to try the offenders. These commissions were opened at Lancaster on the 23d of May, before Mr. Baron Thompson and Sir Simon Le Blanc; and at Chester on the 25th of the same month, before Mr. Justice Dallas and Mr. Justice Burton. Under each of the commissions numerous convictions took place for every gradation of offence; and of the capital convicts, eight at Lancaster, and two at Chester, suffered the penalty of the law.
+
+Although the excesses in the west-riding were checked by the executions in the neighbouring counties, and by the laws passed by parliament, yet no very important discoveries were made in the county of York, earlier than the month of July. At that time some commitments took place, and information was obtained, principally through the zeal, perseverance, and energy, of that intrepid magistrate, Joseph Radcliffe, Esq. of Milns-Bridge, near Huddersfield, `[As a mark of the royal favour for the distinguished sevices rendered to the country at the period now under consideration, this gentleman was, in the course of the following year, created a baronet.]` by which sixty-four persons, charged with offences connected with the disturbances in the west-riding, were, before the close of the year, apprehended and lodged in the castle at York. Government now determined to issue a special commission for the trial of these prisoners, which was directed to Mr. Baron Thompson, and Mr. Justice Le Blanc, who appointed the 2nd of January for opening the assize. The trials exhibited a scene of moral turpitude, at which the mind shudders; of sixty-four prisoners, eighteen of which were capitally convicted; of Whom three, the murderers of Mr. Horsfall, were executed on Friday the 8th of January, and fourteen others on Saturday, the 16th of the same month, the sentence of the remaining capital convict being commuted to transportation for life. Six were convicted of administration of unlawful oaths, and sentenced to be transported for seven years; seven others put upon their trials were acquitted: seventeen, against whom bills of indictment had been found for capital offences, were discharged on bail; and sixteen others by proclamation.
+
+For some months before the special assize, the disturbances in Yorkshire, as well as in all the other manufacturing districts of the kingdom; had nearly, subsided; and this tremendous example, made to the offended laws of the country, served to confirm and render permanent the public tranquillity.
 
 
 https://babel.hathitrust.org/cgi/pt?id=umn.31951p00335898c&seq=7
@@ -488,3 +628,33 @@ The bodies having remained suspended for the usual time, they were removed, and 
 The criminal records of Yorkshire do not perhaps afford an instance of so many victims having been offered in one day to the injured laws of the country. The scene was inexpressibly awful, and the large body of soldiers, both horse and foot, who guarded the approach to the castle, and were planted in front of the fatal tree, gave to the scene a peculiar degree of terror, and exhibited the appearance of a military execution. The spectators, particularly in the morning, were unusually numerous, and their behaviour on both occasions, were strictly decorous and becoming.
 
 ```
+
+
+
+---
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18130116/017/0004
+Lancaster Gazette - Saturday 16 January 1813
+
+...
+
+There was no prosecution against Wm. Hanson, of Elland, charged with being concerned in the robberies at Fartown.
+
+Not the slightest disturbances prevailed during the sitting of the Court, or at the execution, although unusual numbers of people attended.
+
+The following persons have just been committed to the Castle.— Benj. Walker, the accomplice in the murder of Mr. Horsfall; Joseph Carter; and James Hey, charged with various felonies; Joseph Sykes and John Thornton, with robbery.
+
+The remaining prisoners in the calendar, and to whom the benefit of the above indulgence was extended, were*— Joshua Haigh, George Brookes, George Beaumont, John Shore, William Whitehead, Cornelius Hobson, Benjamin Sisswick, Thomas Green, Wm. Hanson, Nathan Hoyle, Mark Hill, George Rigge, John Hirst, James Dyson, and Samuel Hartling.
+
+
+??TH Nathan Hoyle executed
+
+*[Letter from Attentive Hearer dates Leeds, Jan. 9, 1812.]*
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000497/18130116/008/0002
+York Herald - Saturday 16 January 1813
+
+Joshua Haigh, Samuel Harling, John Shore, W. Whitehead, Cornelius Hobson, Benjamin Sisswick. Thomas Green, William Hanson, Mark Hill, George Rigge, Charles Cockcroft, John Walker, James Dyson, Benjamin Walker and Joseph Carter — Discharged by proclamation.
+
+Yesterday, an appropriate discourse was delivered by the Rev. G Brown, to the fourteen unfortunate prisoners who are to be executed this day, in which he energetically enforced the necessity of each of them preparing themselves for a future world; the text was from the 15th chapter of St Paul's 1st epistle to the Corinthians and the 33d verse;— "Be not deceived, evil communications corrupt good manners." The behaviour of the criminals was truly becoming the unfortunate situation in which they were placed; and each evinced a degree of regret for the crimes they had committed. We cannot, however, omit mentioning, that many of their relatives, who were present in the Castle yard, were deprived admission into the Chapel, by order of the Magistrates.
