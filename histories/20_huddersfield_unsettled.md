@@ -1,14 +1,54 @@
 # Huddersfield Unsettled
 
-March, 1812. The discontent that had been manifest in and around Nottinghamshire and Derbyshire has started to spread north. There have been attacks on the mills around Leeds, and at the Yorkshire Lent Assizes at York .. TO DO
+March, 1812. The discontent that had been manifest in and around Nottinghamshire and Derbyshire has started to spread north. There have been attacks on the workshops and mills around Leeds and Huddersfield, but at the Yorkshire Lent Assizes at York there is only one man on trial for a related offence that dated back to late January.
+
+
+
+```{admonition} TO DO
+:class: dropdown
+In *Sun (London)*, [Saturday 25 January 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18120125/007/0002).
+
+On Wednesday night information upon oath was given to the Magistrates of the borough of Leeds, of a conspiracy to destroy the machinery of certain mills in that town and neighbourhood, employed in the dressing of cloth. For this purpose the members of this confederacy were to assemble in a certain place to be agreed upon, and from thence to divide themselves into strong parties, and proceed to the work of destruction, provided, with the proper implements for effecting their purpose. The Magistrates, upon receiving this information, immediately assembled at the town clerk's office, and having arranged their plans, proceeded in person immediately to carry them into effect. Near the bridge, a number of persons were found assembled, many of them with their faces blacked, who dispersed on the appearance of the Magistrates, seeking their safety in flight; but one of these persons, of the name of James Shaw, was taken into custody by a Magistrate, and on the following day was examined at the Rotation-office, and committed to York Castle, under what is called the Black Act, charged with disguising his person, and having in his possession several offensive weapons, we believe a hammer and chissel. He was escorted to the castle by a party of the Scots Greys.
+```
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Lancaster Gazette*, [Saturday 25 January 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18120125/005/0003).
+
+*From the Leeds Intelligencer, Jan 20, 1812.*
+
+The greatest praise is due to the Magistrates of this Borough, for their alacrity and prompt decision in striking at the root of a dangerous conspiracy, which, if carried into effect, would seem to bear a close affinity to the disturbances of Nottinghamshire. Indeed, we have little doubt, that an organized system prevails, and that something more than the distresses of the times, is the moving cause of these conspiracies. The Magistrates fortunately had timely information that a meeting was to be held on Wednesday night, of certain cloth-workers and others, at a given place, and that they were to proceed to the destruction of the different machines, in the neighbourhood, used for the dressing of cloth. A meeting of this description wa» certainly held, but, from what cause we know not, the system of depredation was not commenced. The Magistrates were personally on the alert; and a little after one o'clock on Thursday morning, one of them seized a person of the name of James Shaw, on his return from the unlawful assembly. He had his face blacked and was armed with a hammer and a club.— Several others returning at the same time similarly armed, escaped. On the day following, the prisoner underwent a long examination before the Magistrates, at our Rotation Office, when he was fully committed to York Castle, under the Black Act, for disguising his person and being found with offensive weapons. — A party of the Scots Greys escorted the prisoner three miles out of the town. It might, however seem, that even this promptitude has been insufficient to stem the torrent of that dangerous spirit, to which we have alluded. About seven o'clock last ni|,ht, (*Sunday,*) the gig or dressing-mill of Messrs. Oates, situate near Woodhouse-Carr, was discovered to be ON FIRE! The flames spread with rapidity, and a great part of the building, about half, was destroyed. On the alarm the Scots Greys hastened to guard the property, and thousands thronged to the spot; many lamenting the calamity, the multitude shouting and proclaiming it a blessing. The day— the time of the day— the spirit which Is afloat, stamp this as as the act of incendiaries. It may not bo so: we hope it is not so: but the general opinion goes against our probability and our hope. Under such misfortunes, there is a satisfaction, which every provident man ought to secure to himself; we are happy to say that the proprietors have in this instance secured it, *the property is fully insured*.
+
+Riots at Nottingham — We are concerned to hear, that the riots in the above neighbourhood are not yet, by any means, suppressed. The frame-breakers still continue their depredations, and in the coarse of the past week they have been guilty of various acts of outrage, owing to which the country is kept in a continual state of alarm.
+```
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Statesman (London)*, [Wednesday 29 January 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002647/18120129/019/0004).
+
+The York paper states, that a conspiracy has been formed in Leeds, for the purpose of destroying certain machinery obnoxious to the shearmen; and that an assemblage of the conspirators, armed with offensive weapons, lately took place, but by the energy of the Civil Power, who had been apprized of their designs, were prevented from executing their purpose, and one of them, James Shaw, was apprehended, and committed to the Castle, under the provisions of the Black Act. It is said, that according to the information given to the Magistrates, not only the property but the lives of the proprietors of some machinery were marked out for destruction. On Sunday night the gig-mill of Messrs. Oates, Wood, and Smithson, at Oatlands, near Woodhouse Car, was discovered to be on fire; and the flames extended themselves with so much rapidity, that, notwithstanding the exertions used, the premises were destroyed.
+```
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Bury and Norwich Post*, [Wednesday 05 February 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000156/18120205/015/0004).
+
+The riots in Nottinghamshire still continue, nay rapidly increase, in defiance of the civil power, and of die large military force assembled. On Saturday two frames were broken at Bulwell, where two shots were interchanged between the rioters and soldiery — but the whole of the former got off. At Ruddington, 13 frames have been destroyed — it is calculated that on Saturday and Sunday nights, upwards of 60 frames were demolished.
+
+Five armed *Luddites* (as the Nottinghamshire rioters are called) stopped a carrier about a mile from Mansfield Turnpike, and having collected from his waggon every obnoxious article, they set fire to the same. These outrages are committed almost in the face of eight officers from Bow-street, an immense local police, and three regiments of soldiers.
+
+The York paper states, that a conspiracy has been formed in Leeds, for the purpose of destroying certain machinery obnoxious to the shearmen; and that an assemblage of the conspirators, armed with offensive weapons, lately took place, but by the energy of the Civil Power, who had been apprised of their designs, were prevented from executing their purpose, and one of them, James Shaw, was apprehended, and committed to the Castle, under the provisions of the Black Act.
+```
+
 
 Hon. Baron Thompson and Sir Simon Le Blanc, Knt., Justice of His Majesty's Court of King's Bench
 
 ```{admonition} The Influence of Bad Example, March 1812
 :class: dropdown
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120314/008/0003
-Leeds Mercury - Saturday 14 March 1812
+In *Leeds Mercury*, [Saturday 14 March 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18120314/008/0003).
 
 YORKSHIRE LENT ASSIZES
 
@@ -24,6 +64,16 @@ Mr. Justice Le BLANC addressed the Grand Jury in nearly the following terms:—
 ..."
 
 The Bill against James Shaw, of Leeds, clothdresser, charging him with having disfigured his person by blacking his face, and with being unlawfully armed with offensive weapons, was thrown out, by the Grand Jury, on Wednesday; and he was, of course, discharged without being put upon his trial.
+
+```
+
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Nottingham Journal*, [Saturday 21 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120321/015/0004).
+
+James Shaw, the man apprehended at Leeds on the night of Wednesday the 15th of January last, with his face disfigured, was liberated without trial, the Grand Jury having thrown out the bill. His offence did not come under the provisions of the black act; which require not only that the face of the offender should be blacked, but that he should also be armed with "swords, fire-arms, or other offensive weapons." It must not be supposed, from this acquittal, that the laws are unequal to the punishment of those who assemble for the destruction of the property of their neighbours. This would be a dangerous supposition, and might lead to most fatal consequences. The laws are fully equal to the punishment of the guilty—but this particular statute did not apply to Shaw's case; and in a country where law is not made to bend to expediency, a prisoner will always enjoy the advantage of any such variation between the charge and the offence, as the humane discrimination of the judge enabled him on the present occasion to point out.
 
 ```
 
@@ -50,10 +100,9 @@ Under such misfortunes, there is a satisfaction, which every provident man ought
 ```{admonition} Liberated Without Trial, March 1812
 :class: dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002634/18120320/016/0005
-London Chronicle - Friday 20 March 1812
+In *London Chronicle*, [Friday 20 March 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002634/18120320/016/0005).
 
-Also in: https://www.britishnewspaperarchive.co.uk/viewer/bl/0002131/18120321/015/0004 Nottingham Journal - Saturday 21 March 1812
+Also in *Nottingham Journal*, [Saturday 21 March 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002131/18120321/015/0004).
 
 JAMES SHAW, the man apprehended at Leeds on the night of Wednesday the 15th of January with his face disfigured, was last week liberated from York Castle without trial, the Grand Jury having thrown out the bill. His offence did not come under the provisions of the black act; which requires not only that the face of the offender should be blacked, but that he should also be armed with "swords, fire-arms, or other offensive weapons." It must not be supposed, from this acquittal, that the laws are unequal to the punishment of those who assemble for the destruction of the property of their neighbours. This would be a dangerous supposition, and might lead to most fatal consequences. The laws are fully equal to the punishment of the guilty—but this particular statute did not apply to SHAW'S case; and in a country where law is not made to bend to expediency, a prisoner will always enjoy the advantage of any such variation, between the charge and the offence, as the humane discrimination of the Judge enabled him on the present occasion to point out.
 
