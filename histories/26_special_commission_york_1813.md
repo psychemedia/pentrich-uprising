@@ -199,7 +199,7 @@ pp. 441-463
 For murder: GEORGE MELLOR, WILLIAM THORPE, AND THOMAS SMITH.
 
 pp.469-79
-Administering oaths:JOHN BAINES, the Elder, JOHN BAINES, the Younger, WILLIAM BLAKEBOROUGH, CHARLES MILNE, GEORGE DUCKWORTH, and ZACHARIAH BAINES, (a Boy.)
+Administering oaths: JOHN BAINES, the Elder, JOHN BAINES, the Younger, WILLIAM BLAKEBOROUGH, CHARLES MILNE, GEORGE DUCKWORTH, and ZACHARIAH BAINES, (a Boy.)
 
 pp. 480-505
 RIOT AND DESTRUCTION OF A MILL.
@@ -249,7 +249,7 @@ At the same time it seemed desirable to record the valuable legal doctrines pron
 
 It may not be amiss here to observe, that as both the judges rehearsed the whole of the evidence in summing up the cases to the Jury, it appeared to be unnecessary to swell the volume by giving it also in the form of question and answer.
 
-Although it is conceived that the very clear statements by which the several cases were developed to the jury, will sufficiently explain to the reader the state of the immediate neighbourhood in which the unhappy scenes were ac ted, yet it may neither be useless nor uninteresting to give a concise account of the circumstances and causes which led to a crisis, such as has seldom been exhibited, and never can be long suffered to subsist in a civilized country; a crisis little short of open rebellion.
+Although it is conceived that the very clear statements by which the several cases were developed to the jury, will sufficiently explain to the reader the state of the immediate neighbourhood in which the unhappy scenes were acted, yet it may neither be useless nor uninteresting to give a concise account of the circumstances and causes which led to a crisis, such as has seldom been exhibited, and never can be long suffered to subsist in a civilized country; a crisis little short of open rebellion.
 
 In the Spring of the year 1811, disputes arose between the masters and journeymen employed in the trade of weaving stockings and lace, which is carried on in the south-western part of Nottinghamshire, and the adjacent parts of Derbyshire and Leicestershire; and without entering into the particulars of those disputes, which would be beside the present design, suffice it to state that in the month of November 1811, the discontents had arisen to such a height, that a mob, consisting of several hundred persons, assembled at Sutton in Ashfield in open day, and broke the stocking and lace frames of various obnoxious manufacturers. Before this mob was separated, some of the ringleaders were taken into custody by a party of yeomanry cavalry, and were afterwards committed by the magistrates to Nottingham gaol. From this disaster the malcontents learnt caution; and as the frames used in this manufacture are of a very delicate texture, and rendered useless by a single blow from a heavy instrument, they seldom, from this time, carried on the work of destruction openly, or in large bodies, but watched the opportunity of effecting their purpose individually, or in small parties, undercover of the night, and in spots where the machinery was least protected. This purpose was aided by the circumstances in which the manufacture is carried on in the vicinity of Nottingham. The frames, which are of considerable value, commonly belong, not to the persons by whom they are worked, but either to the master manufacturers, or to individuals unconnected with the trade, who let them to the artisans at a weekly rent; and thus the frames ares scattered in detached houses about the country, and are usually in the custody of persons who have no interest in protecting them from violence.
 
@@ -260,7 +260,7 @@ https://babel.hathitrust.org/cgi/pt?id=umn.31951p00335898c&seq=11&redir_esc=y
 
 p. vii-xiii
 
-In the neighbourhood of Nottingham, which was the focus of turbulence, the malcontents organised themselves into regular bodies, and held nocturnal meetings, at which their future plans were arranged. And, probably with the view of inspiring their adherents with confidence, they gave out, that there were under the command of one leader, whom they designated by the fictitious name of Ned Ludd, or general Ludd, calling themselves Ludds, Ludders or Luddites. There is no reason to believe that there was, in truth, any one leader. In each district where the disaffection prevailed, the most aspiring man assumed the local superiority, and became the general Ludd of his own district. These petty tyrants doubtless took their tone from the centre of the operations, but not (so far as has been traced) from any individual.
+In the neighbourhood of Nottingham, which was the focus of turbulence, the malcontents organised themselves into regular bodies, and held nocturnal meetings, at which their future plans were arranged. And, probably with the view of inspiring their adherents with confidence, they gave out, that there were under the command of one leader, whom they designated by the fictitious name of Ned Ludd, or General Ludd, calling themselves *Ludds*, *Ludders* or *Luddites*. There is no reason to believe that there was, in truth, any one leader. In each district where the disaffection prevailed, the most aspiring man assumed the local superiority, and became the General Ludd of his own district. These petty tyrants doubtless took their tone from the centre of the operations, but not (so far as has been traced) from any individual.
 
 Under this system the Luddites, in the winter months, destroyed a very considerable number of stocking and lace frames, and infused such a terror into the owners of all, as to drive them to the precaution of removing them from the villages and lone houses, and placing them for security in warehouses, where they could be protected from injury. The evils, which the misguided journeymen proposed to remedy by their, measures, were, of necessity, much aggravated by throwing a greater number or hands out of work.
 
@@ -536,7 +536,7 @@ Symptoms of the same lawless disposition appeared at Newcastle-under-line, Wigan
 
 These outrages which had hitherto been practised in the county of York almost with impunity, were at length doomed to receive a check: about midnight on Saturday, the 11th of April, an attack was made by a body of armed men supposed to amount to about one hundred and fifty, upon the shearing-mill of Mr. William Cartwright, situated at Cleckheaton, at about an equal distance from Leeds, Huddersfield, and Halifax. The mill was defended with so much gallantry by Mr. Cartwright, the proprietor, assisted by two soldiers, and four of his work-people, that the assailants, after a number of desperate efforts, were completely repulsed, and two of their number left upon the field mortally. wounded.
 
-From this period, the insurgents determined upon a different course of conduct; they had found one of the mills invulnerable, and it was supposed that other proprietors, animated by the success of Mr. Cartwright, would in future defend their property; it was therefore determined no longer to attack the mills, but to strike at the life of the owners: in pursuance of this sanguinary resolution, Mr. William Horsfall, a respectable merchant and mill-owner from Marsden,in the neighbourhood of
+From this period, the insurgents determined upon a different course of conduct; they had found one of the mills invulnerable, and it was supposed that other proprietors, animated by the success of Mr. Cartwright, would in future defend their property; it was therefore determined no longer to attack the mills, but to strike at the life of the owners: in pursuance of this sanguinary resolution, Mr. William Horsfall, a respectable merchant and mill-owner from Marsden, in the neighbourhood of
 
 [MISSING P11]
 
@@ -616,7 +616,7 @@ At eleven o'clock on Saturday morning, the Under Sheriff went to demand the bodi
 
 Behold the Saviour of Mankind,  
 Nail'd to the shameful tree;  
-How vast the love that him inclin'd. 
+How vast the love that him inclin'd.  
 To bleed and die for me, &c.
 
 Which one of them dictated in a firm tone of voice: and in this religious service they continued on their way to the platform, and some time after they had arrived at the fatal spot. They then joined the ordinary with great fervency in the prayers appointed to be read on such occasions, and after that gentleman had taken his final leave of them, ejaculations to the throne of mercy rose from every part of the crowded platform.
