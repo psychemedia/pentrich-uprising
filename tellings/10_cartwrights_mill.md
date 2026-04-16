@@ -67,7 +67,7 @@ With no Constables to be had, the three travellers became investigators, took th
 
 And when they challenged him again: "get away wi yer. If yer've got a problem wi' me, take it up wi Cartwright. He'll vouch for me."
 
-The next day, in Dewsbury, a troop of the Queen's Bays, arrested a man by the name of James Oldroyd. He'd been out drinking in Mirfield, at the sign of the Black Bull, the evening before, and was arrested on suspicion of having been involved in the attack on Cartwright's Mill at Rawfolds. He was examined by the local Magistrate, Joseph Radcliffe, then committed to York-Castle to take his trial at the next Assizes.
+The next day, in Dewsbury, a troop of the Queen's Bays, arrested a man by the name of James Oldroyd. He'd been out drinking in Mirfield, at the sign of the Black Bull, the evening before, and was arrested on suspicion of having been involved in the attack on Cartwright's Mill at Rawfolds. He was examined by the local Magistrate, Joseph Radcliffe, then committed to York Castle to take his trial at the next Assizes.
 
 A couple of weeks later, there was another breakthrough for the forces of law and order. A corporal in one of the local militias had confessed not just to taking part in the attack on Rawfold's Mill, but also as to having been involved with the murder of William Cartwright. Which was where it had arguably all started to go wrong for the Yorkshire Luddites.
 
@@ -92,7 +92,7 @@ The second witness was a mother of two who had lodged in the same house as Oldro
 
 The Judge also observed that there was no doubt Rawfold's Mill had been attacked, but the question remained whether Oldroyd was present at it. If the Jury were convinced that the Prisoner's declaration at the public-house was true, they would have to find him guilty; but if they believed it was not true, or had a reasonable doubt upon the subject, they would acquit him.
 
-Without leaving the box, the Jury found the prisoner-NOT GUILTY.
+Without leaving the box, the Jury found the prisoner—NOT GUILTY.
 
 The verdict was received in perfect silence.
 

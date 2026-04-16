@@ -127,7 +127,7 @@ Mr. Justice ABBOTT.—I don't know that. The Court can know nothing of any newsp
 
 Mr. DENMAN—I admit, my Lord, that I was wrong. The Court could not know any thing that did not appear before them upon affidavit. But what I complain of is, that it is set forward on one side as the pretence for publishing, that these prosecutions are brought forward for the purpose of supporting a party, and that Mr. Oliver is at the bottom of them; and the other argues that the Ministers are only taking active measures for repressing the disorders of the public peace and bringing the disturbers of the public peace to justice. These arguments are made the pretence for treating with contempt the order of your Lordship, and of violating that most wholesome proceeding which the Court had adopted in the outset of its business. I can only lay before your Lordships this imperfect account of the Attorney General's speech, which I do state is calculated to prejudice the cases of the remaining prisoners, whatever effect might have been produced by an impartial statement of the whole proceedings, and I leave it with your Lordships to do what you think proper.
 
-The ATTORNEY GENERAL— I concur most entirely with my learned friend, Mr.Denman, in the justice of his complaint; and I can only say—
+The ATTORNEY GENERAL— I concur most entirely with my learned friend, Mr. Denman, in the justice of his complaint; and I can only say—
 
 The LORD CHIEF BARON—Do you follow this with any motion?
 

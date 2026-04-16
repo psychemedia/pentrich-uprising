@@ -34,7 +34,7 @@ The following Gentlemen were then sworn of the Jury.
 
 Thomas Allmack, Conduit street, bookseller.  
 Robert Nocton, Temple-bar, button-maker.  
-John Tomlinson, Covent.Garden, woollen-draper.  
+John Tomlinson, Covent Garden, woollen-draper.  
 P. Richardson. Charing-Cross, Lottery-office Keeper  
 John Briant, Wapping-street, Anchor-smith.  
 Samuel Kell. Red-Lion street, Holborn, carpenter.  

@@ -396,6 +396,32 @@ In *Westmorland Advertiser and Kendal Chronicle*, [Saturday 24 October 1812](htt
 George Mellor, of Longwood Bridge, clothdresser, charged with being strongly suspected of having, on the 29th day of April last, fired at, and shot Mr. William Horsfall, of Marsden, deceased, upon the King's highway; James Varley, of Lockwood, cloth-dresser, charged with having feloniously stolen and carried away divers guns, the property of William Newton, of Hagswood Hill. Joseph Brook, of Rastrick, tailor, charged with having burglariously broke and entered the dwelling-house of Benjamin Strickland, and feloniously stolen thereout out silver watch, one pocket-book, &c. have been committed to York Gaol.
 ```
 
+
+
+```{admonition} TO DO
+:class: dropdown
+IIn *Lancaster Gazette*, [Saturday 17 October 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18121017/007/0003).
+
+Committed to York Castle, Joshua Haigh, private in the 51st foot, charged on his own confession, with having been concerned in the murder of Mr. W. Horsfall, in April last, and with being at the attack on Mr. Cartwright's mill, at Liversedge, and firing at the people therein.
+```
+
+```{admonition} TO DO
+:class: dropdown
+In *Kentish Weekly Post or Canterbury Journal*, [Friday 30 October 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0001409/18121030/018/0003).
+
+A man of the name of Joshua Haigh, a native of Huddersfield, who lately enlisted into the 51st regiment, has been taken into custody, and lodged in prison at Wakefield, on suspicion of being concerned in the murder of Mr Horsfall, near Huddersfield.
+```
+ 
+getting the time wrong... (mid-day?)
+
+```{admonition} TO DO
+:class: dropdown
+In *Hampshire Chronicle*, [Monday 02 November 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18121102/001/0001), and elsewhere,
+
+Government as well as individuals, have been using all due diligence in endeavouring to discover the murderer assassin of Mr, Horsfall, who was barbarously at mid-day, during the riotous proceedings of the *Luddites* at and near Huddersfield. Among those who have been suspected is a man of the name Joshua Haigh, a native of Huddersfield, who, during the disturbances, enlisted with a recruiting party into the 51st regiment, and a short time after the attack on the mill, which was so ably defended. He was strongly suspected to have been concerned in the attack, from the circumstance of a hat, with his name in it, being found in a brook leading from the mill. On the evening of the day Mr. Horsfall was murdered, when he went home, he appeared extremely agitated when he heard any noise. After he went to bed he was heard to talk loud his sleep, calling out loudly they were coming after him to take him. In the morning it was ascertained that he had absconded, and no doubt was entertained but he had got out of the window. No tidings were heard of him till a short time since, when the Serjeant who had enlisted him into the 51st regiment, being recruiting Ireland, met him there, and took him into custody as a deserter, and had him conveyed to depot of the regiment at Brebourn Lees, in Kent, where he was received into the regiment, with the punishment of being deprived of his bounty which he had not received when he enlisted. These circumstances getting known at Huddersfield a warrant against Haigh was sent by Mr. Radcliffe of Mill's Bridge to the Secretary of State's Office, where it was backed for the county of Kent, and Lavender the Bow-street officer was dispatched with it, and he took him into custody at the depot of the regiment at Brebourn Lees, and conveyed him from there to Wakefield, and lodged him the prison there.
+
+```
+
 The arrests, it seems, were the result of someone, at the time un-named, who had been involved in the shooting, having turned King's evidence. With the news apparently slow to appear in the local papers, a correspondent from Huddersfield sought to bring attention to it though the (London) *Courier*.
 
 ```{admonition} A Very Important Event, November (October), 1812
@@ -526,6 +552,63 @@ Meetings were regularly held, and there were delegates from Manchester, Leeds, a
 ...
 
 ```
+
+
+
+The calendar published in the *Nottingham Gazette* a week after the trials had begun, and already seen the capital conviction of three men for the murder of William Horsfall, further confounded readers in Nottingham by mis-stating that Samuel Haigh had been hanged for that offence.
+
+```{admonition} TO DO
+:class: dropdown
+In *Nottingham Gazette*, [Friday 08 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0001099/18130108/015/0003).
+
+YORK SPECIAL COMMISSION.
+
+Saturday last, the Special Commission was opened here, by the Hon. Baron Thompson and Sir Simon Le Blanc, for the trial of offences connected with the disturbances in the west-riding of the county.—The following is a complete calendar of the prisoners in the Castle at York, from which it appears that there are 61 persons under prosecution by the Crown:
+
+Samuel Haigh, William Thorpe, Joshua Haigh, George Mellor, and Thomas Smith, charged with the murder of Mr. William Horsfall, near Huddersfield.
+
+George Brookes, Benjamin Hinchcliff, John Taylor, Robert Fritton, Abraham Armitage, George Beaumont, John Shore, James Varley, and Charles Thornton, charged with stealing arms.
+
+William Whitehead, charged with compelling John Bostock to sell flour and potatoes under the market price. John Schofield, with an attempt to murder John Hinchcliffe.
+
+John Eadon, Craven Cookson, John Baines, sen. John Bains `[*sic*; Baines]`, jun. William Blakeborough, George Duckworth, Chs. Milnes, Zachary `[*sic*; Baines]`, Cornelius Hobson, with administering unlawful oaths.
+
+John Swallow, John Batley, Joseph Fisher, John Lumb, David Moorehouse, John Smith, Benjamin Sisswick `[*sic*; Siswick]`, Joseph Brook, Thomas Green, William Hanson `[*sic*; Anson]`, Joseph Crowther, Nathan Hoyle, Job Hay, William Hartley, and John Hill, charged with divers felonies and burglaries.
+
+James Starkey, James Haigh, Jonathan Dean, Mark Hill, George Rigge, Joseph Thornton, John Ogen `[*sic*; Ogden]`, Chs. Cockcroft, George Brook, James Brook, John Brook, John Walker, Joshua Scholefield `[*sic*; Schofield]`, Thomas Brook, and John Airst `[*sic*; Hirst]`; the first charged with conspiring to blow up the mill of Mr. William Cartwright, at Rawfolds, and the others with assembling riotously and attacking the said mill.
+
+Samuel Booth, George Lodge, George Brook, John Walker, and James Dyson, charged with unlawfully breaking shears; and Samuel Harling, with threatening the life Joseph Radcliffe, Esq. of Milns-Bridge.
+
+Thursday Jan. 7th 1813.
+
+SAMUEL HAIGH and THOMAS SMITH are found Guilty of the Murder of Mr. Horsfall and will suffer death tomorrow morning.
+```
+
+
+
+```{admonition} TO DO
+:class: dropdown
+In *Star (London)*, [Saturday 09 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18130109/029/0004).
+
+YORK, WEDNESDAY, JAN. 6.
+
+MURDERERS OF MR. HORSFALL.
+
+George, Mellor, Longroyd-bridge, cloth-dresser, aged 22; William Thorpe, of Huddersfield, 23; and Themes Smith, of Huddersfield, 22; were indicted for the wilful Murder of Mr. Wm. Horsfall, of Marsden, merchant and manufacturer, at Lockwood, in the West Riding of the county of York, on Tuesday the 28th of April, 1812.
+
+*Report continues...*
+```
+
+```{admonition} TO DO
+:class: dropdown
+In *Morning Post*, [Tuesday 12 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18130112/004/0002).
+
+EXECUTION.
+
+On Friday *W. Thorpe*, *G. Mellor*, and *T. Smith*, convicted on Wednesday last before the Special Commission at York, of the murder of Mr. Horsfall, were executed on the New Drop behind the Castle at York. After the usual prayers with the Ordinary, they each of them prayed a considerable time, in which they confessed the heinousness of their crime; Mellor addressing the populace, said, "there is some people there that have brought me to this, but I freely forgive them as I hope to be forgiven."— After hanging the usual time, their bodies were taken to the York County Hospital to be dissected and anatomized, agreeably to their sentence. Since their condemnation they had behaved in a penitent and contrite manner, regretting sincerely the crime for which they suffered.— Thus have perished, in the very bloom of life, three young men; who, had they directed their talents to lawful pursuits, might have lived happy and respected.— They were young men on whose countenances nature had not imprinted the features of assassins.— On the fate of these malefactors, and on the dangerous tendency (to themselves we mean) of the association of which they were members, one observation presents itself so obvious as to force itself upon the notice of all, and yet too important to be omitted at the close of the melancholy details that we have felt it our duty to lay before the public. It will from hence appear, that men confederated for the commission of crimes, can have no well grounded confidence in each other —not even when their compact is confirmed by oaths and cemented in blood. — If this be admitted; and the history of every age and country, as well as the fate of George Mellor, William Thorpe, and Thomas Smith, confirms the truth of the observation, the inference is irresistible, that all those persons who may happen in future to be invited to became members of such confederacies, should resist such invitations, as they would avoid the greatest calamity; and all those who may have been so far infatuated as to become members of such societies, should, from this moment, and by our common consent, desist from taking another step in furtherance of their objects. They must now see that they have stood on the brink of a frightful precipice, and that another step might have plunged them into that gulph that has overwhelmed their less fortunate associates.
+```
+
+
 
  TH: see also the Attentive Hearer etc; the above seems to be made up and perhaps have been the source of the Attentive Hearer's claims. Unless they were from the same source?
 

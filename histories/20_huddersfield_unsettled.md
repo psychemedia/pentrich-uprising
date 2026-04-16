@@ -2,16 +2,14 @@
 
 March, 1812. The discontent that had been manifest in and around Nottinghamshire and Derbyshire has started to spread north. There have been attacks on the workshops and mills around Leeds and Huddersfield, but at the Yorkshire Lent Assizes at York there is only one man on trial for a related offence that dated back to late January.
 
-
-
-```{admonition} TO DO
+```{admonition} A Conspiracy to Destroy Machinery, January 1812
 :class: dropdown
 In *Sun (London)*, [Saturday 25 January 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18120125/007/0002).
 
 On Wednesday night information upon oath was given to the Magistrates of the borough of Leeds, of a conspiracy to destroy the machinery of certain mills in that town and neighbourhood, employed in the dressing of cloth. For this purpose the members of this confederacy were to assemble in a certain place to be agreed upon, and from thence to divide themselves into strong parties, and proceed to the work of destruction, provided, with the proper implements for effecting their purpose. The Magistrates, upon receiving this information, immediately assembled at the town clerk's office, and having arranged their plans, proceeded in person immediately to carry them into effect. Near the bridge, a number of persons were found assembled, many of them with their faces blacked, who dispersed on the appearance of the Magistrates, seeking their safety in flight; but one of these persons, of the name of James Shaw, was taken into custody by a Magistrate, and on the following day was examined at the Rotation-office, and committed to York Castle, under what is called the Black Act, charged with disguising his person, and having in his possession several offensive weapons, we believe a hammer and chissel. He was escorted to the castle by a party of the Scots Greys.
 ```
 
-```{admonition} TO DO
+```{admonition} Praising the Magistrates, January 1812
 :class: dropdown
 
 In *Lancaster Gazette*, [Saturday 25 January 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18120125/005/0003).
@@ -23,7 +21,7 @@ The greatest praise is due to the Magistrates of this Borough, for their alacrit
 Riots at Nottingham — We are concerned to hear, that the riots in the above neighbourhood are not yet, by any means, suppressed. The frame-breakers still continue their depredations, and in the coarse of the past week they have been guilty of various acts of outrage, owing to which the country is kept in a continual state of alarm.
 ```
 
-```{admonition} TO DO
+```{admonition} A Conspiracy in Leeds, January 1812
 :class: dropdown
 
 In *Statesman (London)*, [Wednesday 29 January 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002647/18120129/019/0004).
@@ -31,7 +29,7 @@ In *Statesman (London)*, [Wednesday 29 January 1812](https://britishnewspaperarc
 The York paper states, that a conspiracy has been formed in Leeds, for the purpose of destroying certain machinery obnoxious to the shearmen; and that an assemblage of the conspirators, armed with offensive weapons, lately took place, but by the energy of the Civil Power, who had been apprized of their designs, were prevented from executing their purpose, and one of them, James Shaw, was apprehended, and committed to the Castle, under the provisions of the Black Act. It is said, that according to the information given to the Magistrates, not only the property but the lives of the proprietors of some machinery were marked out for destruction. On Sunday night the gig-mill of Messrs. Oates, Wood, and Smithson, at Oatlands, near Woodhouse Car, was discovered to be on fire; and the flames extended themselves with so much rapidity, that, notwithstanding the exertions used, the premises were destroyed.
 ```
 
-```{admonition} TO DO
+```{admonition} Unrest in Nottinghamshire and Leeds, January 1812
 :class: dropdown
 
 In *Bury and Norwich Post*, [Wednesday 05 February 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0000156/18120205/015/0004).
@@ -42,7 +40,6 @@ Five armed *Luddites* (as the Nottinghamshire rioters are called) stopped a carr
 
 The York paper states, that a conspiracy has been formed in Leeds, for the purpose of destroying certain machinery obnoxious to the shearmen; and that an assemblage of the conspirators, armed with offensive weapons, lately took place, but by the energy of the Civil Power, who had been apprised of their designs, were prevented from executing their purpose, and one of them, James Shaw, was apprehended, and committed to the Castle, under the provisions of the Black Act.
 ```
-
 
 Hon. Baron Thompson and Sir Simon Le Blanc, Knt., Justice of His Majesty's Court of King's Bench
 
@@ -59,16 +56,17 @@ Mr. Justice Le BLANC addressed the Grand Jury in nearly the following terms:—
 "GENTLEMEN OF THE GRAND JURY,  
 "Assembled as we are at present in the ordinary discharge of a duty you have so often been called upon to perform; I should have felt it unnecessary to trouble you with any observations if a case had not occurred which seemed from its infrequency to require some notice. The list of offences, though somewhat longer than usual, does not appear to contain many cases of novelty, and I hoped to have had the pleasure of congratulating the County of York in having escaped the contagion of that system of depredation which has continued so long and occasioned such extensive mischief in a neighbouring county, but this hope has not been fully realised; I am grieved to find from a case in the Calendar, and from information received since we arrived here, that this county has not entirely escaped the influence of bad example; but I trust there will be found not only sufficient vigilance in the magistracy to suppress these disorders; but, also courage in the subjects, to protect their property from the attacks of these depredators. The advantages of machinery in manufacture has been so clearly proved, and the subject so ably discussed, that it excites surprize that any should be found so ignorant and infatuated as to imagine that the destruction of machinery should better the situation of the persons employed in manufactures. These absurd ideas have been refuted over and over again, not only by writers on the subject, but by the Judges in their different circuits, that one might have expected none could be found ignorant enough to be influenced by them, and I should have hoped no man would have been as wicked as to instil such mischievous notions into the minds of these deluded men. The Legislature has heretofore provided penalties and serious penalties for the protection of this species of property; all that is required is that the law should be put in force, which can only be by vigilance and courage in detecting offenders. I only find one case in the Calendar which has any refer to this subject, and that person, most fortunately for himself, was by the prompt exertions of a Magistrate arrested, perhaps before he had completed the offence. He will probably be prosecuted under some of the provisions of what is called the Black Act, an Act passed to repress certain enormities in the reign of George I. committed by persons armed and disguised by blacking their faces, and as prosecutions under this act are extremely rare, I take the liberty of pointing out to you the words of the Act, 'If any person or persons being armed with swords, fire-arms, or other offensive weapons, and having his or their faces blacked, or being otherwise disguised, shall appear in any forest, park, &c. *or in any high road*, and shall be convicted thereof, they shall be adjudged guilty, of felony.'
 
-"Two circumstances it will be observed are necessary to constitute this offence, that the person should be armed, and should be disguised by having his face blacked, and in the present instance perhaps it will appear, but of this you will judge when the case comes before you, that this person was discovered before the offence was completed, and that only one of these circumstances can be proved against him; he was evidently on the verge of committing a capital felony, from which he was, perhaps fortunately for himself, witheld by being taken into custody. You will therefore inquire not only as to his person being disguised, but as to the fact of his being armed with offensive weapons, as swords, fire-arms, or other weapons, calculated to injure or terrify his Majesty's subjects. I have presumed to make these observations because a case of this kind may not have come before you, and in a statute so extremely penal there ought to be satisfactory grounds for putting a person upon his trial before another Jury, who in such case will have ultimately to decide upon his guilt or innocence.
+"Two circumstances it will be observed are necessary to constitute this offence, that the person should be armed, and should be disguised by having his face blacked, and in the present instance perhaps it will appear, but of this you will judge when the case comes before you, that this person was discovered before the offence was completed, and that only one of these circumstances can be proved against him; he was evidently on the verge of committing a capital felony, from which he was, perhaps fortunately for himself, witheld by being taken into custody. You will therefore inquire not only as to his person being disguised, but as to the fact of his being armed with offensive weapons, as swords, fire-arms, or other weapons, calculated to injure or terrify his Majesty's subjects. I have presumed to make these observations because a case of this kind may not have come before you, and in a statute so extremely penal there ought to be satisfactory grounds for putting a person upon his trial before another Jury, who in such case will have ultimately to decide upon his guilt or innocence."
 
-..."
+...
 
 The Bill against James Shaw, of Leeds, clothdresser, charging him with having disfigured his person by blacking his face, and with being unlawfully armed with offensive weapons, was thrown out, by the Grand Jury, on Wednesday; and he was, of course, discharged without being put upon his trial.
 
 ```
 
+Shaw had essentially got off on a technicality: his behaviour had not fully exhibited all the conditions required to bring a prosecution under the terms of the Black Act.
 
-```{admonition} TO DO
+```{admonition} Liberated Without Trial, March 1812
 :class: dropdown
 
 In *Nottingham Journal*, [Saturday 21 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120321/015/0004).
@@ -104,6 +102,6 @@ In *London Chronicle*, [Friday 20 March 1812](https://www.britishnewspaperarchiv
 
 Also in *Nottingham Journal*, [Saturday 21 March 1812](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002131/18120321/015/0004).
 
-JAMES SHAW, the man apprehended at Leeds on the night of Wednesday the 15th of January with his face disfigured, was last week liberated from York Castle without trial, the Grand Jury having thrown out the bill. His offence did not come under the provisions of the black act; which requires not only that the face of the offender should be blacked, but that he should also be armed with "swords, fire-arms, or other offensive weapons." It must not be supposed, from this acquittal, that the laws are unequal to the punishment of those who assemble for the destruction of the property of their neighbours. This would be a dangerous supposition, and might lead to most fatal consequences. The laws are fully equal to the punishment of the guilty—but this particular statute did not apply to SHAW'S case; and in a country where law is not made to bend to expediency, a prisoner will always enjoy the advantage of any such variation, between the charge and the offence, as the humane discrimination of the Judge enabled him on the present occasion to point out.
+JAMES SHAW, the man apprehended at Leeds on the night of Wednesday the 15th of January with his face disfigured, was last week liberated from York Castle without trial, the Grand Jury having thrown out the bill. His offence did not come under the provisions of the black act; which requires not only that the face of the offender should be blacked, but that he should also be armed with "swords, fire-arms, or other offensive weapons." It must not be supposed, from this acquittal, that the laws are unequal to the punishment of those who assemble for the destruction of the property of their neighbours. This would be a dangerous supposition, and might lead to most fatal consequences. The laws are fully equal to the punishment of the guilty—but this particular statute did not apply to SHAW's case; and in a country where law is not made to bend to expediency, a prisoner will always enjoy the advantage of any such variation, between the charge and the offence, as the humane discrimination of the Judge enabled him on the present occasion to point out.
 
 ```

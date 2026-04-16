@@ -24,9 +24,7 @@ Publication date 1825
 
 pp118-
 
-THE LUDDITES
-
-OF THE MIDLAND COUNTIES.
+THE LUDDITES OF THE MIDLAND COUNTIES.
 
 A special commission was issued for the trial of some gangs of these men in Yorkshire, and opened by Baron Thompson, at York, on the 4th of January, 1813.
 

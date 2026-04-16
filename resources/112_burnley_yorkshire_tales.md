@@ -58,7 +58,7 @@ On Saturday, the 9th January, eight prisoners were charged with having (along wi
 
 Mr. Cartwright in his evidence related the details of the attack and the defence, so far as his own observation and action went, but he was not able to speak to the person of any individual concerned in the attack.
 
-Five of the prisoners—James Haigh, Jonathan Dean, John Ogden, Thomas Brook, and John Walker— were found guilty; the other three-James Brook, John Brook, and John Hirst—were acquitted.
+Five of the prisoners—James Haigh, Jonathan Dean, John Ogden, Thomas Brook, and John Walker— were found guilty; the other three—James Brook, John Brook, and John Hirst—were acquitted.
 
 On Monday, the 11th January, Joseph Brook was tried for burglary at the house of Benjamin Strickland, at Kirkheaton, but was acquitted. On the same day Job Hey, John Hill, and William Hartley were found guilty of having broken into the house of George Haigh, at Skircoat, and. demanded fire-arms in the name of General Ludd.
 
