@@ -1160,7 +1160,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003
 ## Leeds Mercury - Saturday 12 July 1817
 p3
 
-### ORIGIN OF THE LATE CONSPIRACIES.
+### ORIGIN OF THE LATE CONSPIRACIES
 
 Several attempts have been made, both in and out of Parliament, to prove that Mr Oliver was merely a *passive* agent in the late conspiracies, formed against Government in the North of England; and that he neither excited the popular discontent, nor gave vitality and organization to the conspiracies. — That this representation of the conduct of the "ministerial agent" is false and deceptive, we have already proved by a host of witnesses. But it is said that these witnesses have all acted under the influence of a disposition to traduce the character of Mr. Legh Keck's *immaculate builder*, and that therefore their evidence is not to be relied upon. This conclusion, we think, does not arise by any means out of the premises. There may, however, be those who are of a different opinion, and to such we beg leave to shoW, out of the mouth of a *Government witness*, that Mr. Oliver was the "Great Man";— that under his directions the *delegates*, so called, were appointed— that he moved and controlled every thing, and that he was, in a word, "the foreman of the concern."
 
