@@ -462,7 +462,7 @@ A man named Joseph Weightman was then sent off to Nottingham (fourteen miles dis
 
 In the course of this wild talk William Turner said, "The fact was, the badger must be drawn, and when he ran out, they would shoot him."
 
-"In my own parish, Wingfield," Turner went on to say, "we have got some little vermin to kill, and we must kill them before we leave.""
+"In my own parish, Wingfield," Turner went on to say, "we have got some little vermin to kill, and we must kill them before we leave."
 
 Upon this, Anthony Martin, an iron worker from Butterley, who had dropped into the White Horse with a friend by accident, remarked "that they should mind, for there were constables in the room, himself and a man named Shirley Asbury," upon which Brandreth's men threatened to cram the two constables up the chimney. Brandreth, too, swore they would shoot any one that opposed them, or any one that said anything about them. The men present were iron founders, stocking makers, and field labourers, and all listened eagerly to the "Nottingham Captain." The rebels, confident of success, swore that every village should kill its own vermin, for that farm-yard metaphor seemed to exactly hit their fancy. They particularly spoke of firing straw before the door of Colonel Halton, a magistrate at Wingfield, and shooting him when he came out. Then they were to march on and meet Sheffield and Chesterfield at Butterley. There they had planned to kill Mr. Jessop, Mr. Goodwin, and Mr. Wragg, of the iron-works there, and to take were several men near the mysterious possession of the place. At Nottingham, Brandreth said there would be plenty of men and a hundred guineas each for them. It would be like a journey of pleasure, and they would after that go down the river (probably the Trent), and carry the game further. Brandreth, staunch to business and indifferent to loud chatter and vapouring rant, now wanted a barrel of gunpowder, that he might show the Pentridge men the way to make cartridges, the desire to possess and to burn which seemed fast spreading in this amiable society. Now and then he drew a favoured man aside, and talked with him under breath, and so the lava began to creep and creep from the crater.
 
@@ -624,10 +624,19 @@ Thirty-one other prisoners were acquitted by the wish of the Government. With be
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001541/18801023/066/0006
+Dewsbury Reporter - Saturday 23 October 1880
+
+"The Risings of the Luddites" (Heckmondwike. T. W. Senior, *Herald* Office).— This is a most interesting book, written by Mr. Frank Peel, of Heckmondwike, a gentleman well able to deal with the subject he has taken in hand. The doings of the Luddites have frequently been narrated in magazine and newspapepr, but the accounts hitherto published have been more or less fragmentary. In the work before us the author aimed at giving a full account of what took place, and we believe he has succeeded — furnishing, as he does, a history of the machine-breaking mania, and the causes which led to it. In his introductory chapters Mr. Peel tells of the fearful state of the country when these excesses occurred. In 1812, when Cartwright’s Mill (at Rawfolds) was attacked, the average price of wheat was “155s. per quarter;" "Bonaparte had issued his famous Milan decree, by which Britain and its islands were declared in a state of blockade, and also its colonies and dependencies in every part of globe;" "our foreign trade during the whole of the century had never been so low, and our home trade had dwindled into the narrowest limits, the starving population being scarcely able to purchase enough to keep body and soul together." It was indeed a dreadful time, and made the more dreadful by the great drain in men and money for war purposes. It is not mentioned by the author, we believe, but it is nevertheless a fact that the local rates in Dewsbury, and in many other townships, about this time exceeded the rents, and then had to be added Imperial taxes. "Goaded to desperation (the writer tells us) all sense of
+
+
+loyalty was driven far from the poor, and they stood at every street corner with lips firm set, and with frowning faces, discussing wild treasonable schemes. The world had dealt hardly with them, and they blindly sought to revenge themselves." "Manufacturers were everywhere availing themselves of the many wonderful inventions that were being brought out for cheapening labour, and as the new machinery threw thousands out of employment when extensively introduced," they met in secret conclaves, and resolved to destroy that which was depriving them of a means of livelihood. These were the Luddites, and how they proceeded to out their designs Mr. Peel tells us with graphic pen. In this district, and in the valley of the Colne, where so many excesses were committed, "The Risings of the Luddites" comes as a great boon, filling up a partial void in local history, and we predict for the work a very large sale. In its pages the general public will find much to interest, instruct, and amuse. The book is well printed and handsomely bounf, and is a credit alike to author and publisher.
 
 Peel - Risings of the Luddites, Chartists and Plugdrawers serialised in Huddersfield Daily Examiner eg https://www.britishnewspaperarchive.co.uk/viewer/bl/0000901/18950413/205/0009
 
 
+The Risings of the Luddites, Chartists & Plugdrawers
+by Frank Peel, 2nd edition, 1888 https://archive.org/details/risingsluddites00peelgoog/page/n8/mode/2up
 
 ---
 

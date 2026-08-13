@@ -230,7 +230,7 @@ So also by the statute of 9 George III it is made a capital felony, for persons,
 
 I do not know whether the offences, of which any of the prisoners are accused, were committed under such circumstances as will bring them within any of the acts I have stated, so that indictments may be framed upon them; but it seemed not unnecessary to state these statutes, in order to call your attention to them, in case any such indictment should be preferred.
 
-But there is one statute, which appears to apply to the charges against the greater number of the prisoners: those who are accused of having destroyed shears employed m the woollen manufacture. By the statute of 22 Geo. III. cap. 40, if any person shall by day or night break into any house or shop, or enter by force into any house or shop, with intent to cut or destroy any serge or other woollen goods in the loom, or any tools employed in making thereof, or shall wilfully and maliciously cut or destroy any each serges or woollen goods in the loom or on the rack, or shall wilfully or maliciously break or destroy any tools used in the making any such serges or other woollen goods; every such offender shall be guilty of felony without benefit of clergy.
+But there is one statute, which appears to apply to the charges against the greater number of the prisoners: those who are accused of having destroyed shears employed in the woollen manufacture. By the statute of 22 Geo. III. cap. 40, if any person shall by day or night break into any house or shop, or enter by force into any house or shop, with intent to cut or destroy any serge or other woollen goods in the loom, or any tools employed in making thereof, or shall wilfully and maliciously cut or destroy any each serges or woollen goods in the loom or on the rack, or shall wilfully or maliciously break or destroy any tools used in the making any such serges or other woollen goods; every such offender shall be guilty of felony without benefit of clergy.
 
 Several of the charges in the calendar, will probably be brought before you in the shape of indictments, either at common law for burglaries, or robberies by violence from the person, and will deserve your serious attention. Other indictments will probably be preferred for maliciously shooting at persons; which, by the statute of Geo. I, is made a capital felony, though death does not ensue.
 
@@ -567,7 +567,7 @@ Proceedings under Special Commissions held at York, before Mr. Baron Thompson an
 ```
 
 
-## APpendix — York Special Commission Trial Outcomes
+## Appendix — York Special Commission Trial Outcomes
 
 
 In *Report of proceedings under commissions of Oyer & Terminer and Gaol Delivery, for the county of York, held at the castle of York before Sir Alexander Thomson ... and Sir Simon Le Blanc ... from the 2d to the 12th of January 1813. From the short hand notes of Mr. Gurney. To which are subjoined two proclamations, issued in consequence of the result of those proceedings*, 1813, [pp. xiv-xix](https://babel.hathitrust.org/cgi/pt?id=umn.31951p00335898c&seq=18&redir_esc=y).

@@ -4,33 +4,28 @@ One event in 1814 stands out - the appearance of James Towle, who would also rea
 
 The reporting also gives us an insight into the opposing views of the pro-Government *Nottingham Gazette* and the radical *Nottingham Review*.
 
-```{admonition} Setting the scene (telling)
-:class: dropdown seealso
-
-It's September, harvest time. And the Luddites are out again. The *Nottingham Review* wonders whether a system of alarms, in the form of rattles — as used in *that London* — to be used if ever a house or a shop is attacked, in order to attract the attention of the patrols that have started to be posted again, might help? But these are rural villages, not city streets, and attacks often take place some distance apart.
-
-It was well-known that, even though they were neighbours, and had known each other for years, Thomas Garton, a workshop owner, and James Towle, a frameworker, did not get on. Some time previously, Towle had gone with another man to pick up one of Garton's frames, and Garton had chastised him for "bringing that frame breaker Towle" with him. Another time, garton had told the same man that if any more his frames were broken in the next five years, he'd have Towle taken up.
-
-And as for Towle, he had little respect for Garton either.
-
-At the Three Crowns public-house, in Parliament-street, Nottingham, Towle, a short man, five feet two inches high, and in his early thirties, had got out of the house where his children were ill with measles. He'd just made plans to sleep at Bamford's house the following night, where he rented a frame; he had a job to do that needed a steady eye; so he needed a good night's sleep, and an early start. And he wouldn't get that at home.
-
-Over a pint, he was quizzing a man about Garton's workshop.
-
-"So "has he abated then?" meaning, had Garton reduced the mens' wages. A nod.
-
-"I knew it... and he's also killing tup mutton, forcing the men to buy it on truck; b————d; they should break 'em all." The next day, Towle's drinking partner reported his tale to Garton. That night, Garton received a visit.
-
-Later that evening, Towle called round at Growcock, the blacksmith's, in search of a crow bar. One of the blacksmith's men heard his master say "you should leave off the frame-breaking", but Towle was insistent.
-
-And then, three workshops are attacked: Thomas Ford's and James Smith's, both in the parish of Basford; and Thomas Garton's, in New Basford.
-```
+> It's September, harvest time. And the Luddites are out again. The *Nottingham Review* wonders whether a system of alarms, in the form of rattles — as used in *that London* — to be used if ever a house or a shop is attacked, in order to attract the attention of the patrols that have started to be posted again, might help? But these are rural villages, not city streets, and attacks often take place some distance apart.
+>
+> It was well-known that, even though they were neighbours, and had known each other for years, Thomas Garton, a workshop owner, and James Towle, a frameworker, did not get on. Some time previously, Towle had gone with another man to pick up one of Garton's frames, and Garton had chastised him for "bringing that frame breaker Towle" with him. Another time, garton had told the same man that if any more his frames were broken in the next five years, he'd have Towle taken up.
+> 
+> And as for Towle, he had little respect for Garton either.
+>
+> At the Three Crowns public-house, in Parliament-street, Nottingham, Towle, a short man, five feet two inches high, and in his early thirties, had got out of the house where his children were ill with measles. He'd just made plans to sleep at Bamford's house the following night, where he rented a frame; he had a job to do that needed a steady eye; so he needed a good night's sleep, and an early start. And he wouldn't get that at home.
+>
+> Over a pint, he was quizzing a man about Garton's workshop.
+>
+> "So "has he abated then?" meaning, had Garton reduced the mens' wages. A nod.
+>
+> "I knew it... and he's also killing tup mutton, forcing the men to buy it on truck; b————d; they should break 'em all." The next day, Towle's drinking partner reported his tale to Garton. That night, Garton received a visit.
+>
+> Later that evening, Towle called round at Growcock, the blacksmith's, in search of a crow bar. One of the blacksmith's men heard his master say "you should leave off the frame-breaking", but Towle was insistent.
+>
+> And then, three workshops are attacked: Thomas Ford's and James Smith's, both in the parish of Basford; and Thomas Garton's, in New Basford.
 
 ```{admonition} In need of alarms? September 1814
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18140909/061/0004
 
-Nottingham Review - Friday 09 September 1814
+In *Nottingham Review*, [Friday 09 September 1814](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18140909/061/0004).
 
 It gives us more than ordinary concern to find the baneful ravages of frame-breaking again commenced at Basford; a system which reason, policy, and every honorable and prudential feeling of the human mind forbids; which the law has rendered felony; and which can only be persevered in from a principle of the most inconsiderate and hateful revenge. In this town, the Magistrates have ordered a nightly parade of the military, headed by police officers, as a preventative to the crime; but, if every man who is in danger of these nocturnal visits, would provide himself with a stout rattle, which, by being sprung on the first alarm, (and this could always be done before the depredators could enter a well barricaded house,) all this mischief might be prevented; for, at the sound of one of the rattles which are used by the watchmen in London, a whole neighbourhood would be alarmed in a few minutes: and the depredators, for fear of detection, must depart with out having accomplished their object. Nay, the well known fact that such means of exciting alarm would be resorted to, would prevent the attempt from being made. We hope to see this measure resorted immediately; and perhaps the hosiers and magistrates would do well to order a number of large rattles to be made and sold at a moderate expense, and to use their influence for all holders of frames to possess them; in which case all suspicion would be removed, or pointedly fixed (though, perhaps generally unfounded) of such holders of frames conniving at the depredations. The public at large too, are in duty bound to prevent as much as possible, the commission of the crime, as well on the score of private interest, as on that of preventing the moral habits of society from being perverted and vitiated; for, we understand that those whose property is thus injured will recover damages from the Town or County funds; in which case near the whole individual mischief will fall upon the poor workman that holds the frames thus injured; for, though his bread be taken from himself and family, as is the case with poor Ford of Basford, he will find no redress. Therefore those who thus commit these depredations will not so much injure the hosier as their fellow-workmen, who happen to hold the frames.
 
@@ -41,10 +36,26 @@ From Ford's, the depredators proceed to the house of James Smith, in the same pa
 After the spoilation was committed at Smith's the framebreakers proceeded to the house of Thomas Garton, of New Basford, where six frames were broken, one of which belonged to himself, one to his brother, to a Mr. Hazledine of Basford, and one to Mr. Barton, of this town. To whom the other two belonged we are not acquainted. Nor have we the same means of speaking as to the prices received and paid by Garton, as we have of the other two. One person is in custody on suspicion of being concerned in the depredations, but, with the nature of the evidence against him, we are not fully acquainted.
 ```
 
+TO DO what is the Review comment????
+
+```{admonition} TO DO
+:class: dropdown
+In *Nottingham Gazette*, [09 September 1814](https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0001099%2F18140909&page=3&article=021).
+
+THE NOTTINGHAM GAZETTE
+
+FRIDAY, SEPTEMBER 9. 1814 
+
+TO DO col 1 half way down
+
+```
+
+TO DO
+
 ```{admonition} The midnight work of destruction, September 1814
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001099/18140909/021/0003
-Nottingham Gazette - Friday 09 September 1814
+
+In *Nottingham Gazette*, [Friday 09 September 1814](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001099/18140909/021/0003).
 
 It is our humiliating and painful duty to record another daring atrocity here. While the *Review* unblushingly advocates in open day the principle—yes—the *principle* upon which they act, the frame-breakers assiduously pursue their midnight work of destruction, and demolished, so late as last Sunday night, between twelve and one o'clock, not less than sixteen cotton and silk frames at Old and New Basford. The villains commenced their operations at the shop of one Smith, in old Basford, where they broke five cotton frames, and discharged a piece, happily without effect, at a man who ventured to look from his window, on hearing a noise. From Smith's they proceeded Ford's shop, in the same village, where they destroyed five more frames, two silk and one cotton. Ford, who is a most industrious man, but in ill health, with a large family, had a stone throw at his head by the villains, which knocked him down. From Ford's, the ruffians went Mr. Garton's in New Basford, where they broke six cotton frames, one the property of Mr. Garton, and another that of his brother, and carried off several articles of property.
 
@@ -53,9 +64,8 @@ Mr. Garton had several of his men sleeping in the house, but without arms, and u
 
 ```{admonition} James Towle, committed to gaol, September 1814
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001099/18140916/015/0003
 
-Nottingham Gazette - Friday 16 September 1814
+In *Nottingham Gazette*, [Friday 16 September 1814](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001099/18140916/015/0003).
 
 On Saturday last James Towle, of New Basford, was committed to the County Gaol, by the Rev. Dr. Wylde, for trial at the next Assizes, charged with burglariously breaking and entering the dwellinghouse of Thomas Garton, at Basford, in the night of the 5th inst. and therein breaking and destroying six Stocking Frames.
 ```
@@ -66,10 +76,19 @@ Thomas Garton was the leading witness against Towle, and the Luddites knew this.
 
 When the attack came, an entry was forced, and a demand was made for Garton to show himself; as the candles went out, there was confusion, and shots were fired, killing one of the Luddites, a lad named Samuel Bamford, outright. As they retreated, presumably trying to quell the fears of Mrs Garton, who was likely hysterical at the noises she could hear coming from her own home, went to the door to see what was happening. Outside, the Luddites saw him, told him to go back inside or he would have his brains blown out. Perhaps Kilby tried to object, or perhaps Mrs Garton joined the fray. But something happened. Another shot was fired, and Kilby was instantly killed.
 
+
+TO DO
+https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0001100%2F18141007&page=4&article=041&stringtohighlight=framebreaking
+Nottingham Review
+
+07 October 1814
+
+A rumour having reached us this morning of two frames having been broken in Knob-alley, Narrow-marsh, last night, we repaired to the place, and found that the *needles* of two frames had been injured, which were worked by two apprentice boys; but there were no appearances *exterior* or *interior* to indicate that any person had entered the house for the purpose of framebreaking; nor did Mr. Bowman, who holds the frames, and owns one of them, hear the smallest disturbance in the house.
+
 ```{admonition} Ambush at Garton's
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18141018/008/0003
-Morning Post - Tuesday 18 October 1814
+
+In *Morning Post*, [Tuesday 18 October 1814](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18141018/008/0003).
 
 DREADFUL OUTRAGE.
 
@@ -82,12 +101,12 @@ At the coroner's court, the two deaths received very different verdicts.
 
 ```{admonition} Wilful murder, and justifiable homicide, October 1814
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18141021/040/0004
-Nottingham Review - Friday 21 October 1814
+
+In *Nottingham Review*, [Friday 21 October 1814](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001100/18141021/040/0004).
 
 A most painful task devolves upon us this week, in the having to record and publish to our country, acts of sanguinary violence and assassination, committed in the vicinity of Nottingham, which are disgraceful to the character of Englishment, and to humanity. We allude to the foul and horrid attempt to murder Mr. Thomas Garton, and the actual murder of Mr. William Kilby, committed last Friday evening at New Basford; the circumstances of which have excited universal indignation, and sympathy in this town and neighbourhood. On of the assailants upon Mr. Garton's house (Samuel Bamford, formerly of Basford, but late of Nottingham), met his doom in the very act of commencing the attack, — he was instantaneously killed, by a shot in the head, from those who were stationed in the house for its defence, and fell grasping a pistol in his hand. Inquests were held on the bodies of the deceased, before Mr. Wright, one of the Coroners for the county, at the Plough Inn, in Basford, on Sunday last. From the evidence given, in the case of Samuel Bamford, it appeared, that about five or six weeks ago, an attack was made upon Mr. Garton's house by a number of disguised men, who broke and destroyed several frames. That upon Mr. Garton's information, one man, named James TOWLE, had been committed, and then lay in the county gaol for trial for this offence, at the next assizes,....and that in consequence of such proceeding, threats of violence against Mr. Garton had been expressed, so as to excite in him great apprehension as to his personal safety. That intimation of the probability of an early execution of these threats was providentially received by Mr. Garton, which induced him to be more particularly upon his guard, and to have in his house a force sufficient for its defence. That on Friday evening last, about half-past nine, a forcible attack was made upon the house by a body of men, disguised and armed, (of whose number we cannot learn that any accurate judgement can be formed), three of whom first broke in, (the deceased being one), and were immediately followed by others— that one of them cried out "Damn him, where is he?" and that from some of them three shots were fired in the house before the fire was turned— that the persons stationed to protect the house, then fired in the defence of their lives and of the property of Mr. Garton, and the deceased fell — that several other shots were fired, and at length the assailants retreated and made their escape, under the total darkness into which the house was thrown by the explosions of the fire-arms. The jury, without hesitation, delivered their verdict of—"*Justifiable Homicide.*"
 
-The case of Mr. William Kilby, excited great interest. It appeared that the deceased (a man of excellent character, industrious habits, and very much respected), was in his own house (about thirty yards from Mr Mr. Garton's), between nine and ten o'clock, on the evening of Friday the 14th instant, and that Mrs. Garton was there...that Mrs. Garton expressing her alarms at the noise heard in the street, the deceased went out to see what was the matter, when he was instantly shot, and fell dead at his own door. It appeared further in evidence, that preceding the firing of the piece which killed the deceased, one of the neighbours who was attracted by the sound of fire-arms from Mr. Garton's, went to the door, and was immediately addressed by a man, who swore at him, and told him to go in and shut his door, or he would blow out his brains...and that another neighbour who also went to his door from the like cause, was similarly threatened and a pistol put to his face. A ball was extracted from the wounds of the deceased, by the surgeon (Mr. Williams), and produced in evidence before the Inquest. The jury found a verdict of... "*Wilful Murder against some person or persons unknown.*"
+The case of Mr. William Kilby, excited great interest. It appeared that the deceased (a man of excellent character, industrious habits, and very much respected), was in his own house (about thirty yards from Mr. Garton's), between nine and ten o'clock, on the evening of Friday the 14th instant, and that Mrs. Garton was there...that Mrs. Garton expressing her alarms at the noise heard in the street, the deceased went out to see what was the matter, when he was instantly shot, and fell dead at his own door. It appeared further in evidence, that preceding the firing of the piece which killed the deceased, one of the neighbours who was attracted by the sound of fire-arms from Mr. Garton's, went to the door, and was immediately addressed by a man, who swore at him, and told him to go in and shut his door, or he would blow out his brains...and that another neighbour who also went to his door from the like cause, was similarly threatened and a pistol put to his face. A ball was extracted from the wounds of the deceased, by the surgeon (Mr. Williams), and produced in evidence before the Inquest. The jury found a verdict of... "*Wilful Murder against some person or persons unknown.*"
 
 The surviving perpetrators of these atrocious crimes have escaped, but, however at present they may be unknown, we hope and trust they will not elude detection, and that the just vengeance of the offended laws of their God and their country, will finally overtake them.
 ```
@@ -121,9 +140,7 @@ With little progress apparently having been made in discovering who was responsi
 
 ```{admonition} Offer of an additional reward, November 1814
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001099/18141118/021/0003
-
-Nottingham Gazette - Friday 18 November 1814
+In *Nottingham Gazette*, [Friday 18 November 1814](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001099/18141118/021/0003).
 
 Murder, &c. at New Basford.
 
@@ -176,9 +193,8 @@ And then, they returned their verdict: *not guilty*. As soon as the crowd of fra
 
 ```{admonition} James Towle, at Nottingham Lent Assizes, March 1815
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0001099/18150324/008/0002?browse=true
 
-Nottingham Gazette - Friday 24 March 1815
+In *Nottingham Gazette*, [Friday 24 March 1815](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001099/18150324/008/0002).
 
 NOTTINGHAM LENT ASSIZES
 

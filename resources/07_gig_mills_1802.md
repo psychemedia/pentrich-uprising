@@ -1,7 +1,11 @@
 # Attacks on Gig Mills, 1802
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000554/17670202/007/0002
-Salisbury and Winchester Journal - Monday 02 February 1767
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Salisbury and Winchester Journal*, [Monday 02 February 1767](https://britishnewspaperarchive.co.uk/viewer/bl/0000554/17670202/007/0002).
 
 TO DO
 
@@ -13,42 +17,82 @@ Therefore, in order to suppress those Mills called Gig Mills, so destructive in 
 
 N. B. The penalty by the Statute is five Pounds for every Cloth wrought at such Mills.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0006049/17670814/006/0002
-Exeter Flying Post - Friday 14 August 1767
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Exeter Flying Post*, [Friday 14 August 1767](https://britishnewspaperarchive.co.uk/viewer/bl/0006049/17670814/006/0002).
 
 Saturday last about 500 Shear Men from the clothing Towns of Somersetshire and Wiltshire, assembled together upon Cortley Heath, and went in a body to Hornisham, near Warminster, Wilts, and pulled down and destroyed a new Gig-Mill, just erected for dressing Broad Cloth, belonging to Mr. Everet of that Place; whereby one Man and Boy could do as much Work in two Hours as 30 Men could do in a Day.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000554/17680718/015/0003
-Salisbury and Winchester Journal - Monday 18 July 1768
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Salisbury and Winchester Journal*, [Monday 18 July 1768](https://britishnewspaperarchive.co.uk/viewer/bl/0000554/17680718/015/0003).
 
 On Thursday the sessions for this county, held at Warminster, ended. ... William Fido, for destroying a gig mill, was ordered to remain in prison for 12 months, pay a fine of 20l. and give security for his good behaviour. ...
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000554/17681010/009/0003
-Salisbury and Winchester Journal - Monday 10 October 1768
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Salisbury and Winchester Journal*, [Monday 10 October 1768](https://britishnewspaperarchive.co.uk/viewer/bl/0000554/17681010/009/0003).
 
 At the general Quarter Sessions of the Peace, which ended last Thursday at Marlborough, ... James Forest, for pulling down Mr. Everet's gig mill, is to remain till next sessions, or give bail in 100l. himself, and find two sureties in 50l. each; ...
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000219/17690119/014/0004
-Bath Chronicle and Weekly Gazette - Thursday 19 January 1769
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Bath Chronicle and Weekly Gazette*, [Thursday 19 January 1769](https://britishnewspaperarchive.co.uk/viewer/bl/0000219/17690119/014/0004).
 
 At the general quarter sessions for the county of Wilts, which ended at Salisbury on Thursday last, ... James Forrest, for pulling down Mr. Everett's gig-mill, is to remain in prison six months, to pay a fine of 20l., and find sureties in 100l. for his good behaviour for 7 years. ...
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17850315/008/0003
-Leeds Intelligencer - Tuesday 15 March 1785
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Tuesday 15 March 1785](https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17850315/008/0003).
 
 `[Missing]` at the dressing shop of a house in this town, from a board of croppers; whose avowed object is to dictate which of their body shall be employed, and which shall not.— Perhaps at a season of fuller employment, this mandate might have enforced itself. The good of the trade seems to require that such a plan of regulations be adopted amongst the masters in this branch, as may preserve to them the power of employing what workmen they please, and of dressing their goods in what manner they please.— Gig Mills arc now in general use, except at this place; and why is the benefit of their despatch and cheapness to divert a great part of the trade from its ancient channel, without any attempt to preserve it.
 
 "We the Leading Members of this Charatable Stock are Credably Informed that Jno Brownridge who Work'd With you the Last week was by you Turn'd of his Work for no offence and a Stranger not Belonging the Town or This Charitable Stock. we Who are the Ruling Members do Require you to Imploy the laid Jno Brownridge or you'll Incur our Displeasure: & we Do insist on you that are working at the Said Shop To Leave of work while the said Jno Brownridge be again Imploy'd or Some Person Belonging To this Charitable Stock."
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17870731/008/0003
-Leeds Intelligencer - Tuesday 31 July 1787
+```
 
-At the above Assizes `[York]` a cause came on before Lord Loughborough, in which John Robinson, of this town, in behalf of himself and other dresser, was Plaintiff, and Mr. Richard Atkinson, of Huddersfield, Defendant.— THe action was brought to recover a penalty under an old statute of the 6th of Edward VI. for using a machine for the purpose of perching and burling of cloth, then called a *gig-mill*; when it appeared, upon the clearest evidence, that the machine used by the said Mr. Atkinfon was a modern invention, for the purpose of *raising* cloth, upon a plan the most beneficial to the manufactory of this country; of course the Jury without hesitation, gave a verdict for the defendant, to the satisfaction of a crowded court.
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Tuesday 31 July 1787](https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17870731/008/0003).
+
+At the above Assizes `[York]` a cause came on before Lord Loughborough, in which John Robinson, of this town, in behalf of himself and other dresser, was Plaintiff, and Mr. Richard Atkinson, of Huddersfield, Defendant.— The action was brought to recover a penalty under an old statute of the 6th of Edward VI. for using a machine for the purpose of perching and burling of cloth, then called a *gig-mill*; when it appeared, upon the clearest evidence, that the machine used by the said Mr. Atkinson was a modern invention, for the purpose of *raising* cloth, upon a plan the most beneficial to the manufactory of this country; of course the Jury without hesitation, gave a verdict for the defendant, to the satisfaction of a crowded court.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17940512/002/0001
-Gloucester Journal - Monday 12 May 1794
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Gloucester Journal*, [Monday 12 May 1794](https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17940512/002/0001).
 
 GLOCESTERSHIRE.
 
@@ -64,19 +108,24 @@ By order of the Meeting,
 HENRY CLARKE,  
 Solicitor for the Cloth-Workers.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17940526/059/0002
-Gloucester Journal - Monday 26 May 1794
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Gloucester Journal*, [Monday 26 May 1794](https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17940526/059/0002).
 
 AT a Meeting of the Cloth-Workers residing in the City of London and Suburbs thereof, held at the Bell, in Basinghall-street, on Saturday the 17th day of May inst. in order to consider of the present Application to Parliament respecting the improper use of Gigg-Mills, in the working up of Fine Cloth, (pursuant to public advertisement, for that purpose) a Copy of the Petition presented to the Honourable House of Commons on Friday last, from the Cloth-Workers of the County of Gloucester, praying for a regulation of the said Gigg-Mills, (in order to limit and confine them to the working up of Coarse Cloth only) being read,
 
 *It was Resolved unanimously,*
 
-THAT the conduct and proceedings of the Cloth-Workers of the County of Glocester, in applying to Parliament for the purposes aforesaid, merit our approbation, inasmuch as it may be the means of benefiting the public at large, by rendering the drapery of the Cloth more substantial and durable — for where Gig-Mills are used in working up Cloths of superior quality (which ought to be done by hand) the texture or ground of such Fine Cloth is materially injured thereby.
+THAT the conduct and proceedings of the Cloth-Workers of the County of Gloucester, in applying to Parliament for the purposes aforesaid, merit our approbation, inasmuch as it may be the means of benefiting the public at large, by rendering the drapery of the Cloth more substantial and durable — for where Gig-Mills are used in working up Cloths of superior quality (which ought to be done by hand) the texture or ground of such Fine Cloth is materially injured thereby.
 
 THAT, in order to co-operate and assist in so laudable an undertaking, a Subscription be immediately opened, towards defraying the expences attendant upon such application to Parliament as aforesaid.
 
-THAT Mr. Samuel Sansum, Joseph Field, John Wood, Thomas Hyde, Edward Gardner, Samuel Pearce, William Tombs, and Thomas Biggs, be appointed a Committee to receive such subscriptions in London, who shall transmit the same from time to time to the Committee of the Glocestershire Cloth-Workers, to be by them applied for the purposes aforesaid.
+THAT Mr. Samuel Sansum, Joseph Field, John Wood, Thomas Hyde, Edward Gardner, Samuel Pearce, William Tombs, and Thomas Biggs, be appointed a Committee to receive such subscriptions in London, who shall transmit the same from time to time to the Committee of the Gloucestershire Cloth-Workers, to be by them applied for the purposes aforesaid.
 
 THAT Mr. Charles Sansum, of Fenchurch-street, in the City of London, be appointed Secretary to the said Committee, who shall keep an account of all subscriptions received by them, and enter the same in a book to be kept by him for that purpose.
 
@@ -87,8 +136,14 @@ THAT the above Resolutions be inserted in the Sun, Daily Advertiser, and in the 
 By order of the Meeting,  
 CHARLES SANSUM, Sec.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17940616/024/0004
-Gloucester Journal - Monday 16 June 1794
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Gloucester Journal*, [Monday 16 June 1794](https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17940616/024/0004).
 
 *To the Committee of Cloth-Workers, appointed to conduct a Bill in Parliament, for the purpose of regulating the use of Gig Mills.*
 
@@ -96,7 +151,7 @@ NEIGHBOURS,
 
 I, SOME time past, received a letter signed by two persons who are, as I understand, Members of your Committee, stating, "That the Cloth Workers had applied to Parliament for an act to regulate Gig-Mills, agreeably to the advice of his Majesty's Attorney General;" "That a Committee of Cloth-Workers was appointed to conduct the business with regularity." "That a fund was established to pay the expence;" — "That a petition had been presented the House of Commons, on the 16th of May." And finally, "requesting my assistance, so that the same might be carried through the House with effect;" — "desiring my advice on the occasion;" and informing me, "that, one of the body would wait upon me, to give me further information relative to the business."
 
-The person deputed has called upon m; I have informed myself, as far as I can, of your proceedings relative to your bill; and shall *thus publicly* give you my sentiments, that they may neither be misunderstood or misinterprated by any of you.
+The person deputed has called upon m; I have informed myself, as far as I can, of your proceedings relative to your bill; and shall *thus publicly* give you my sentiments, that they may neither be misunderstood or misinterpreted by any of you.
 
 I am ignorant as to the general merits of your case; nor am I competent to decide whether the act *you think* you have been soliciting would be advantageous, or otherwise, to yourselves and the country; but if it be necessary to your welfare, it is be wished you had proceeded in such a way, as that the merits might have come before the House.
 
@@ -106,7 +161,7 @@ What but the same spirit could have directed you, to appoint agents in town and 
 
 This letter will, I hope, convince you that I am always ready to answer your applications to the best of my judgment; but to pretend that I could give you any *assistance* under such circumstances, would be to deceive you, and make myself accomplice in the absurdity. And as to *advice*, I own, when I see number of decent orderly men, with rational understandings, who can relinquish a life of industry which produced a comfortable subsistence, and who determine to expose themselves to be dismissed by their employers, and to live *in common* on the little capital derived from the surplus of their former earnings, for the purpose *of laying a piece of useless paper on the table of the House of Commons*—I cannot but suppose that they are strongly biassed by some motive adverse to reason, and that advice which is *so cheap as to cosr nothing*, and which will not flatter their proceedings, will very coldly received.
 
-Had you asked my advice *before*, in instead of *after* you had *acted*, I might reafonably have supposed you determined tofollow it.—I should, in such a case, have told you, that if you were *sure* of making it clear, to the conviction of the Legislature, that the laws In being were defective, add injurious the *general* interests of the *whole* Community, and that, from such defect, the industrious classes, who now live by their own labour, would become an idle burthen on the Community: I should have told you, that such a case being once *made evident*, there could be no further difficulty in procuring a law to obviate the evil, without Counsellors, petitions, or funds. A bill might then readily be brought forward by those *whose duty* it is to do it; and such a law would pass without any cost to the persons benefited.
+Had you asked my advice *before*, in instead of *after* you had *acted*, I might reasonably have supposed you determined to follow it.—I should, in such a case, have told you, that if you were *sure* of making it clear, to the conviction of the Legislature, that the laws In being were defective, add injurious the *general* interests of the *whole* Community, and that, from such defect, the industrious classes, who now live by their own labour, would become an idle burthen on the Community: I should have told you, that such a case being once *made evident*, there could be no further difficulty in procuring a law to obviate the evil, without Counsellors, petitions, or funds. A bill might then readily be brought forward by those *whose duty* it is to do it; and such a law would pass without any cost to the persons benefited.
 
 But, on the other hand, if it *could not be proved* that a *general* evil would be obviated, or a *general* good obtained, I should have added, that all the *Agents*, *Counsellors*, and money of yourselves and masters, would not procure such an act; and therefore that all you could spend in the attempt would be thrown away.
 
@@ -116,25 +171,47 @@ They have submitted n obedience to the law, in confidence that the *general good
 
 G. O. Paul. *Queen-street, June 12, 1794.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17960718/010/0003
-Gloucester Journal - Monday 18 July 1796
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Gloucester Journal*, [Monday 18 July 1796](https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17960718/010/0003).
 
 At the Salisbury Assizes an action was brought by certain Shearmen of Wiltshire against Mr. Cooke of Marlborough, for using a Gig-mill, contrary the stature of 5 and 6 Edw. 6; when after a full hearing, a verdict was given for the Defendant, Mr. Cooke.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000191/17960730/004/0002
-Ipswich Journal - Saturday 30 July 1796
+TO DO
 
-At Salisbury assizes, a cause of great importance to the manufacturing interests of this country, was tried at nisi prius before Justice Grose and a fpecial Jury. An action was brought by journeyman Shearman (supported, as it is imagined, by the whole body of men of that description) against Mr. Sam. Cook, jun. of Marlborough, for erecting and using a machine, called a Raiser. The action was founded on a statute of the 5th and 6th Edw. VI. cap. 22. which prohibits the use of certain machines, then known by the name of gig-mills, and which were used for the perching and burling the cloth. The learned Judge was perfectly satisfied that neither the machine in question, nor even the gig-mills of the present day, could be the machines intended to be prohibited by the statute of Edward VI.; and he was of opinion, that the commercial interests of the country were greatly benefited by the introduction of machinery in general. The jury, without hesitation, found a verdict for the defendant.
+```{admonition} TO DO
+:class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001279/17960806/021/0003
-Hull Advertiser - Saturday 06 August 1796
+In *Ipswich Journal*, [Saturday 30 July 1796](https://britishnewspaperarchive.co.uk/viewer/bl/0000191/17960730/004/0002).
+
+At Salisbury assizes, a cause of great importance to the manufacturing interests of this country, was tried at nisi prius before Justice Grose and a special Jury. An action was brought by journeyman Shearman (supported, as it is imagined, by the whole body of men of that description) against Mr. Sam. Cook, jun. of Marlborough, for erecting and using a machine, called a Raiser. The action was founded on a statute of the 5th and 6th Edw. VI. cap. 22. which prohibits the use of certain machines, then known by the name of gig-mills, and which were used for the perching and burling the cloth. The learned Judge was perfectly satisfied that neither the machine in question, nor even the gig-mills of the present day, could be the machines intended to be prohibited by the statute of Edward VI.; and he was of opinion, that the commercial interests of the country were greatly benefited by the introduction of machinery in general. The jury, without hesitation, found a verdict for the defendant.
+
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Hull Advertiser*, [Saturday 06 August 1796](https://britishnewspaperarchive.co.uk/viewer/bl/0001279/17960806/021/0003).
 
 At Salisbury assizes a cause of great importance to the woollen manufactory was tried, before Mr. Justice Grose, and a special Jury. It was an action brought by Journeyman Shearman (supported, as it is imagined, by the whole body of men of that description) against Mr. Sam. Cooke, jun. Marlbro', for erecting machine called a Raiser, and founded on the penal statute of the 5th and 6th of Edward VI. which prohibits the of what were then called Gig-mills, for perching or raising cloth. Mr. Dallas, for the prosecution, made a most animated speech and examined eight witnesses to prove that the machine in question was within the statute.— Mr. Gibbs, for the defendant contended that this was not proved, and that he was therefore entitled to a verdict; Mr. Justice Grose coincided with Mr. Gibbs; but the Jury expressing a wish to hear the evidence for the defendant, the trial proceeded, the course of which it was proved that the machine (a model of which was before the court) was totally different in its make, application, and life, from the ancient Gig-mill,— that it neither perched nor buried the cloth;— that far from injuring the manufactory, it was highly beneficial to it; that the inventor, a Mr. Harmar of Sheffield, had obtained a patent for the sole making and selling it;—and that by the use of it, as well as other machines, the woollen manufacture was risen to an unexampled pitch greatness, and afforded an inexhaustible source of wealth to this country. The learned Judge was perfectly satisfied that this machine, nor even the gig-mill of the present day, could be the machine intended to be prohibited by the statute of Edward the 6th; and after having given a clear and distinct charge to the Jury in which he descanted the great utility and advantage of machinery in general to the commercial interests of the kingdom, the Jury, without going out of the court, gave a verdict for the defendant.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002429/18030226/015/0002
-Oracle and the Daily Advertiser - Saturday 26 February 1803
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Oracle and the Daily Advertiser*, [Saturday 26 February 1803](https://britishnewspaperarchive.co.uk/viewer/bl/0002429/18030226/015/0002).
 
 THE WOOLLEN TRADE
 
@@ -154,6 +231,12 @@ N. B. Gig-mills in some parts of England have been in constant use for time imme
 
 Through every combination amongst workmen, none is so desperate, secret, or systematic as that of the Sheermen.
 
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
 
 In *British Press*, [Friday 25 March 1803](https://britishnewspaperarchive.co.uk/viewer/bl/0002643/18030325/001/0001). Also in *Star (London)*, [Friday 25 March 1803](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18030325/007/0002).
 
@@ -173,14 +256,25 @@ Statute 2. and 3. Philip and Mary, c. 11. Sec. 2. and 3. read.
 
 CHARLES BROOKE, Esq. (a Member), Basing-hall-street, merchant, being examined, said, that the nature of his business is chiefly in the sale of Spanish wool and superfine cloth. And being asked, whether he had any information to give respecting the petition of the clothiers for the repeal or alteration of divers statutes? he said, That he conceived it would be materially detrimental that any law should be repealed which tend to protect labourers in different branches of the manufactory. That it appeared to him that extreme caution will be necessary in repealing certain restrictive acts, of which the manufacturers justly complain, that others which tend to protect the labourers be not blended in that repeal. That at one period of the war, he believes between 1797 and 1799, from the scarcity of Spanish wool, the labourers could not be employed in the manufacture of superfine cloth, and at that period a great number of the manufacturers enrolled themselves in the Militia, and entered in the army.— Subsequent to that period, the large importation of Spanish wool, and considerable orders for cloth, called for the increased introduction of machinery; and that he conceives, at the present period, those men who have returned to the clothing towns, and are capable of resuming their employment, should have that given them before any further additions are made to machinery; that those men should, he conceives, in every degree, be protected at this period, when offers are made to induce manufacturers to quit the country, in order to establish the manufacture in Spain, with all the advantages to be derived from machinery. That it is a fact within his own knowledge, that a manufacturer who is competent to introduce and establish the manufactory, on the footing in which it is conducted in this country, may have 1000 guineas per Annum secured to him for a certain number of years, or a portion of the advantages to be derived from the manufactory, at his option. That as a case in point with the Court of Spain, and to shew the good faith they have preserved, under similar circumstances, with other manufacturers, some years since, about the year 1780, a tanner was induced to go to Spain, and was offered by that government every facility to establish his business on a huge scale; he stated, that a large capital would be necessary, which was furnished him, the witness believes, to the amount of 60,000l.; that a proper situation would be necessary to establish the business, and he was desired to travel the country, and to fix on any situation most likely to answer the purpose; that he was in consequence put in possession of a convent, at a short distance from Seville; the friars of the Order of St. Jago were removed to a different situation, to make room for the labourers he thought necessary to bring from England; that nearly 40 English families did in consequence settle there, protected in their religious principles, and allowed every requisite for their comfort and convenience; and that this establishment has so far succeeded, that the export of tanned leather, which at that time was very considerable, is now reduced to a very inconsiderable quantity.—To shew how much interested Spain is in the establishment of the manufacture of woollen cloth on the principle in which it is conducted by machinery, it must be observed, that the raw material, namely, Spanish wool, can be procured at one-third less than here; and that oil and soap, two other material articles in the manufacture, may be obtained at very little more than half the cost in this country; and consequently, if our labourers, from want of employment, are driven to seek that in another country, which they are deprived of here, we must naturally lose our foreign trade for this article of superfine cloth, which can be rendered much cheaper in Spain—that without the introduction of machinery into Spain, he conceives it impracticable for them to rival this country in the manufacture of Cloth—that if machinery was established in any other country, this country could not support a competition in the foreign market—that he has from the report of manufacturers themselves, that persons are out of employment in consequence of the use of machinery, but does not know it as a fact—that he has never publicly pledged himself to use his endeavours to prevent the further intorduction of machinery. He never had any communication with the labourers in any branch of the manufacture—that he cannot state particularly as to those restrictions of which the manufacturers justly complain, but they are those which preclude the exportation of unshorn cloth, and as to the measuring and folding of cloth, and others.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18030509/024/0004
-Sun (London) - Monday 09 May 1803
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Sun (London)*, [Monday 09 May 1803](https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18030509/024/0004).
 
 At Pontefract Sessions came on to he heard, an Appeal made by Thomas Haight, William Cowgill, Joseph Shaw, John Calton, Joseph Trotter, James Hurst, and Thomas Marshall, ail of Huddersfield, or the neighbourhood thereof, journeymen croppers, against the conviction of Joseph Radcliffe, Esq. (a most active and worthy Magistrate) for having beaten and attempted to force some of the workmen to leave the employ of Messrs. Atkinson, of Bradley Mill, because they used what is termed a Gig. Mill, which they have worked upwards of sixty years.—The respectable Bench of Justices confirmed the conviction, and all the above Appellants were committed to the House of Correction for two months, there to be kept to hard labour.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002643/18030702/006/0001
-British Press - Saturday 02 July 1803
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *British Press*, [Saturday 02 July 1803](https://britishnewspaperarchive.co.uk/viewer/bl/0002643/18030702/006/0001).
 
 TO DO
 
@@ -190,9 +284,16 @@ Mr. DICKENSON moved, that the Woollen Clothiers' Bill should be now read a third
 
 Mr. BROOKES moved, that the words "three months" should be substituted for the word "no." `[now?]`
 
-Mr. HURST expressed himself friendly to the present Bill. It was founded on the free spirit of trade and commerce, that the old Statutes from Richard 11. to George H.. should be repealed. They had been enacted upon the then existing state of the trade, and were totally unnecessary at present. He observed, that one year's apprenticeship was sufficient for a lad who was capable of learning his business. There were sufficient hands already to work the machinery, and the numbers ought not to be in. creased while soldiers were wanted for the army, and sailors for the navy. Surely if these could be spared for any purpose of industry, those employed in agriculture were mist in request He thought' the Statute-books had been well cleared of the rubbish with which they had been filled upon this subject; they were of no service, but to give practice to attornies, who were but too ready to take advantage of them. He wa? duidedly in favour of the 811. ' Mr. PETER MOORE said, he opposed the Bill for the same reasons the Honourable Gentleman supported it. It seemed to be considered, that three were only two parties concerned in the measure, but he conceived there was a third, whose interests were material. He referred to that period of the sixteenth century at which the woollen trade had been introduced into this country, and contended that it had been owing to the system of apprenticeship we owed its prosperity. He supported his opinion by to the sentiments of Dr. Adam Smith. It was, he said, a productive system, that yielded 24,000,0001. to the country. He objected to the repeal of the old laws, unless better ones were substituted for them. He though - . was a subject of great importance to the State. Mr. BROOKES said, he hoped the soldiers and salon that were wanted, would be provided by more constitutional means than taking them from our manufactures. Mr. ISAAC HAWKINS BROWN proposed that this should be merely a Bill of experiment, and that 'it should be limited .to two years; if this was agreed to, he should give his vote for the measure. Mr. WILBERFORCE also wished for some• compromise ;- he had not brought his mind to a conclusion, but he was rather inclined to its being a Bill of expieriment. Admiral BERKELEY supported 'ha measure.; he entreated the House to pus the Bill, observing, that if it was not passed, thay might besuaded mr from what had been said relative to the C.rgy Bill. how merciful the attornies would be, there would - no doubt be an hundred aelions. With regard to regulations, the workmen should find him as zealous m supporting those for their benefit, as for their : masters. He did not find that any regulations whatever were introduced, consequently lie was for the Bill going on. Dr. LAWRENCE contended, that the Bill was necessary upon the evidence of the petitioners themselves. He argued, that in a commercial country, the use of machinery was necessary. Their own evidence proved, that the use of machinery rendered the manufactures cheaper. It was by the adoption of such machines the woollen manufacture of this country had arrived at its present height. It was necessary the state of enmity and irritation which pervaded this branch of our manufactures should be put an end to, by the Legislature putting an end to the laws which referred to a period when it was in its infancy. He referred to a pamphlet and a letter, which had been transmitted to him by the petitioners, the contents of which he conceived disrespeCtful towards the House, and generally supported the Bill. Mr. SHERIDAN sail, he did net rise to enter into the merits of the question, such arguments had been used on both sides. Something had fallen Irvin the Learned Gentleman, which was rather injurious to the petitioners. He had stated, that his intention had been first called to the subject by a pamphlet and a letter. Now the petitioners had 'also sent him the same pamphlet; it was a common practice for persons concerned in Bills before the House to do so, and was perfeCtly right. The latter contained nothing more than a complaint that the House was going to pass the Bill without knowing precisely the question. The evidence taken before the Committee had been ordered to be printed, and before a man in the House had seen a page of it, the Bill was proposed to pass. These petitioners had a right to state their disapprobation of a proceeding they considered precipitate. The Learned Gentleman had said, that all he knew of the subject was from the evidence, consequently if he had not had an opportunity of seeing the evidence before the Bill ;seised, the House would have 'Loa the benefit of his speech.
+Mr. HURST expressed himself friendly to the present Bill. It was founded on the free spirit of trade and commerce, that the old Statutes from Richard 11. to George H.. should be repealed. They had been enacted upon the then existing state of the trade, and were totally unnecessary at present. He observed, that one year's apprenticeship was sufficient for a lad who was capable of learning his business. There were sufficient hands already to work the machinery, and the numbers ought not to be in. creased while soldiers were wanted for the army, and sailors for the navy. Surely if these could be spared for any purpose of industry, those employed in agriculture were mist in request He thought' the Statute-books had been well cleared of the rubbish with which they had been filled upon this subject; they were of no service, but to give practice to attornies, who were but too ready to take advantage of them. He was decidedly in favour of the 811. ' Mr. PETER MOORE said, he opposed the Bill for the same reasons the Honourable Gentleman supported it. It seemed to be considered, that three were only two parties concerned in the measure, but he conceived there was a third, whose interests were material. He referred to that period of the sixteenth century at which the woollen trade had been introduced into this country, and contended that it had been owing to the system of apprenticeship we owed its prosperity. He supported his opinion by to the sentiments of Dr. Adam Smith. It was, he said, a productive system, that yielded 24,000,000*l*. to the country. He objected to the repeal of the old laws, unless better ones were substituted for them. He though - . was a subject of great importance to the State. Mr. BROOKES said, he hoped the soldiers and salon that were wanted, would be provided by more constitutional means than taking them from our manufactures. Mr. ISAAC HAWKINS BROWN proposed that this should be merely a Bill of experiment, and that 'it should be limited .to two years; if this was agreed to, he should give his vote for the measure. Mr. WILBERFORCE also wished for some• compromise ;- he had not brought his mind to a conclusion, but he was rather inclined to its being a Bill of experiment. Admiral BERKELEY supported 'ha measure.; he entreated the House to pus the Bill, observing, that if it was not passed, they might besuaded mr from what had been said relative to the C.rgy Bill. how merciful the attornies would be, there would - no doubt be an hundred aelions. With regard to regulations, the workmen should find him as zealous in supporting those for their benefit, as for their : masters. He did not find that any regulations whatever were introduced, consequently lie was for the Bill going on. Dr. LAWRENCE contended, that the Bill was necessary upon the evidence of the petitioners themselves. He argued, that in a commercial country, the use of machinery was necessary. Their own evidence proved, that the use of machinery rendered the manufactures cheaper. It was by the adoption of such machines the woollen manufacture of this country had arrived at its present height. It was necessary the state of enmity and irritation which pervaded this branch of our manufactures should be put an end to, by the Legislature putting an end to the laws which referred to a period when it was in its infancy. He referred to a pamphlet and a letter, which had been transmitted to him by the petitioners, the contents of which he conceived disrespeCtful towards the House, and generally supported the Bill. Mr. SHERIDAN sail, he did net rise to enter into the merits of the question, such arguments had been used on both sides. Something had fallen Irvin the Learned Gentleman, which was rather injurious to the petitioners. He had stated, that his intention had been first called to the subject by a pamphlet and a letter. Now the petitioners had 'also sent him the same pamphlet; it was a common practice for persons concerned in Bills before the House to do so, and was perfectly right. The latter contained nothing more than a complaint that the House was going to pass the Bill without knowing precisely the question. The evidence taken before the Committee had been ordered to be printed, and before a man in the House had seen a page of it, the Bill was proposed to pass. These petitioners had a right to state their disapprobation of a proceeding they considered precipitate. The Learned Gentleman had said, that all he knew of the subject was from the evidence, consequently if he had not had an opportunity of seeing the evidence before the Bill ;seised, the House would have 'Loa the benefit of his speech.
 
 Mr. BRAGGE said, there was no occasion to add arguments to those which had not been answered; nor was it necessary to enter into details of that which lay in a narrow compass. This Bill did no more than repeal the Statute of Henry `[sic]` VI. relating to a machine, which was supposed no longer to exist; he meant the gig-mill, to which that Statute referred. It had been proved before a Jury at Salisbury, and a very able Judge, that the gig-mill meant by that Statute was out of use—a had bee indicted for using a gig-mill and had been acquitted. The Statute did not relate to machines in general. The gig-machine was scarcely used in Gloucestershire, very little in Yorkshire, and principally in Wiltshire and Somersetshire. He was of opinion the House could not do better than pass the Act in its present state. It would not prevent discussing the subject in the ensuing Parliament. Enough had been said to sanction the present measure and the House was not pledging itself to making perennial.
+
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
 
 In *Salisbury and Winchester Journal*, [Monday 04 July 1803](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18030704/011/0004). Also in *Gloucester Journal*, [Monday 04 July 1803](https://britishnewspaperarchive.co.uk/viewer/bl/0000532/18030704/016/0003).
 
@@ -208,18 +309,29 @@ On the question for the third reading the Woollen Clothiers' Bill,
 
 The Bill was then read a third time, and passed. The several other orders were then disposed of, and the House adjourned.
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000817/18061210/016/0002
-Hibernian Journal; or, Chronicle of Liberty - Wednesday 10 December 1806
+TO DO
 
-The activity of the woollen manufatcturers in the north and west of England, is a good deal quickened. The demand for the light cloth which it has been usual to manufacture for the West India market, has been of late greatly increased. The general use of the spring-shuttle enabling one man to perform the work of two in weaving; of the gig-mill for dressing and mosing, which at once abbreviates the labour and improves the execution; of the shearing-machine, to finish the dressed cloths for sale, has exceedingly advanced the manufacture within these few years, in the counties of Gloucester, Wilts, and Somerset. The quantity of the labour employed in these counties is now, in fact, three times as great that which they employed but a few years since.
+```{admonition} TO DO
+:class: dropdown
+In *Hibernian Journal; or, Chronicle of Liberty*, [Wednesday 10 December 1806](https://britishnewspaperarchive.co.uk/viewer/bl/0000817/18061210/016/0002).
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18070606/005/0003
-Sun (London) - Saturday 06 June 1807
+The activity of the woollen manufacturers in the north and west of England, is a good deal quickened. The demand for the light cloth which it has been usual to manufacture for the West India market, has been of late greatly increased. The general use of the spring-shuttle enabling one man to perform the work of two in weaving; of the gig-mill for dressing and mosing, which at once abbreviates the labour and improves the execution; of the shearing-machine, to finish the dressed cloths for sale, has exceedingly advanced the manufacture within these few years, in the counties of Gloucester, Wilts, and Somerset. The quantity of the labour employed in these counties is now, in fact, three times as great that which they employed but a few years since.
+
+
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Sun (London)*, [Saturday 06 June 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18070606/005/0003).
 
 YORKSHIRE ELECTION. [FROM A CORRESPONDENT.]
 
-Lord MILTON has now been for three days advancing on Mr. Lascelles, and having attained a majority over him of 52, it is expeded that Lord MILTON will carry his election.
+Lord MILTON has now been for three days advancing on Mr. Lascelles, and having attained a majority over him of 52, it is expected that Lord MILTON will carry his election.
 
 At the close of the Poll on Wednesday Lord MILTON congratulated the Freeholders, that the County of York was found "to act whenever the Constitution was in danger"; and observed, "that if the people failed to watch the Ministry, we might soon become the subjects of a profligate King, and of a corrupt and Weak Ministry." His Lordship then alluded to the reigns of Charles II. and James II. He complained of his antagonists having made use of the sacred name of the King, and of the Arms of England, as a watch-word to a Party; and observed that he was as good a friend both to the King and the balance of the Constitution, as his competitors.
 
@@ -229,16 +341,22 @@ Mr. Lascelles observed, that his friends appeared to have given offence to his L
 
 We have already briefly adverted to the subject of the Clothiers' Bill, on which the Yorkshire Election appears likely to turn, as Mr. LASCELLES intimated. A few more words of explanation seem now, however, to be necessary. A contest has for some years subsisted between the small independent Manufacturers of cloth, who are a most numerous body, and a few great master manufacturers, who have begun to introduce, on a very large scale, a new system of workmanship. The small independent men have wished to enforce some obsolete laws, tending to enforce apprenticeship, and have even proposed to limit the number of looms in Yorkshire. The West of England was first in a ferment, and the North caught the infection. The Yorkshire croppers (or finishers) have at the same time taken the opportunity to urge the abolition of gig-mills. In short, the question has been the old one respecting the prohibition of improvements. A very able Report of a Committee of the House of Commons has been made on this subject, to which Mr. LASCELLES, as well, indeed, as Mr. WILBERFORCE, was a party, and which is in favour of the great manufaCturers; and a Bill, in pursuance of the Report, was prepared when the late Parliament was dissolved, in perfect accordance, as we have understood, with the sentiments of Mr. FAWKES. The same Bill will doubtless be revived in the present Parliament, and under the auspices, we presume, of the two new Members for Yorkshire, whoever they may be. Both Mr. WILBERFORCE and Mr. LASCELLES have suffered from this measure, though chiefly Mr. L. who declined standing for Yorkshire about a year ago, in consequence chiefly of the strength of the Clothiers' prejudice. Lord MILTON has not clearly declared himself on this topic, but he has certainly gained some thousand votes by the violent hostility to Mr. LASCELLES, of the great populous districts of Leeds, Halifax, Bradford, &c: from which quarter almost the whole of Lord MILTON'S majority during the last three days has proceeded.
 
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000236/18070615/003/0002
-Leeds Intelligencer - Monday 15 June 1807
+```
 
 TO DO
 
-the FREEHOLDERS of YORKSHIRE. A Few Remarks the Subject of this Extraordinary Election shall here be offered to the Public. Lord Milton as the Heir Apparent to a great and powerful Family, has-undoubtedly a high Claim to the Representative the greatest County in the Kingdom : The very Magnitude however, both of his Purse and his Influence in Yorkshire, is one Cirnimftab.ee ham. The fame Lord or Lord Milton, who his Property commands by his Purse command Yorkshire,. because the Expence of well fought Contest, in So. extended and populous a County, deters almost every Competitor. That this Observation is no one will deny, who knows that even the popular Sir George Saville fay, that he was returned for the County, not in the Castle-Yard> but in the Parlour of Lord Rockingham.— The Independent. Freeholders Yorkshire, and especially the manufacturing Classes were fenuble this in the Year when they rose nearly as one Man in Favour Mr. Wilberforce, and they have reaped the Benefit of their Choice, by Twenty-four Years of the most assiduous Attention bestowed by that Gentleman upon their Interests.—- Whenever this Spirit of Independence (hall loft in York* the County will converted into " one thofc dcfiraMc Appendages" which belong certain Freehold Estates, imd are sold with them ether Words will come under the Character Close Boroughs, with this Difference indeed, that the Proprietor vi ill the Honour of representing so vast a County to he a very distinguished Feather his Cap, and will to both his Political Party, and the County, and the Public, that the Freeholders whp have chosen him are peculiar* ly Independent, and that he is a truer of the People than any other, inasmuch as his is the County in the Kingdom. The late Election for Yorkshire has hroiight us nearer to. this Point. An unfortunate Misunderstanding between Mr. Lascelles and the Clothiers, which has also some Degree affected Mr. Wilberforce's Reputation for Strength, has led to the Reversal that Conduct which was adopted »he Mercantile Body in the Instance, the towering Family of Wentworth Fitzwilliam has been eagerly Supported the Clothiers. Coalition has been formed between an Oppositionist, whose principles are clearly those of niere Minority of the County, with a Body of Mercantile Men who think little of Politics, and are out of Temper, on Account having failed to acquire some absurd Privileges, which would ultimately ruinous even themselves, and which every Man the House Commons, not excepting Mr. Fawkes, faw the Folly of grunting. The Cry of " "No Coalition,' has been raiSed Mr. Lascelles and Mr. Wilberforce ? Might not retort the and call out for " No Coalition" in a much more important Sense. Ought not at least, these Manufacturers to have taken Care, that the YOUNG Nobleman whom they preferred in this evil Hour, Should be a Man who Stood engaged to that Bill in Parliament, which they deemed ruiflous to their Interests? Mr. Lascelles indeed has led out for this Pledge—But his Lordship, we know from the Party, hates Pledges, and not only hates Pledged he also hates Questions, on this Subject, and does not to answer them. He this Day admitted indeed his Obligation to the Clothiers ; he corroborated Mr. Lascelles's antecedent Observations respecting the true his Lordship's Superiority on the Poll, and his Lordship added, "When I forget the Clothiers, may my Right Hand forget her Cunning."— But did fay explicitly, that would Support their CauSe, and endeavour to reverie the which had turned out Mr. Lascelles. Not a Word of this kind escaped his Lips. is indeed estranged from the Subject. Talk to him about the Ln'ttle "Independent" Clothiers, —he declaims abr>iit Political "Independence." Speak to him about limiting the Number of Apprentices, he thinks only of limiting the Power Ministers. to him Gig Mills and Croppers. is meditating on the Number of his Coaches, his Chaifcs, and his (Jigs, and of the Number of Crops whom he has riding in them. His Lordship really seems not to have Three Ideas on this Subject, which is interesting to his Constituents. one Day indeed said a Word about prefering "the proper Balance between the and the Servant." are persuaded that he was thinking at that Time of the Balance of the Constitution. The History this Election is really curious. About a Month ago the Parliament was dissolved, and Mr. Wilberforce naturally offered himself again for Yorkshire. Mr. hastily declined. Mr. Lascelles now came forward, and it was expected that Mr. W. apd he over the Course. To the Surprise of every one, Lord Milton declared himself. Not a Man imagined that he could Succeed. Mr. W. had; at this Time, Nine-tenths of the County his Favour; for even the Oppositionists, in general, declared plainly for him, and Promise upon Promise crowded in from every Quarter. He was now Safe a= to Votes, but not so as to Money. Lord Milton's Committee faw Mr. W.s Difficulty at this Moment, and they deserve great Credit for their Penetration. His Lordship declared that would stand out the Poll. An urgent came the Committee of Mr. W. inquiring whether would undertake to pay his Half of all Lord Milton's Second Votes. The Committee hesitated ; they were afraid being involved, the Compliance, an indefinite Expence, when their Means were definite. They would have been answerable in their own Pockets the whole Extent of this immeasurable Engagement. This Hesitation was to the Public in a Hand Bill, Signed by Lord Milton's Committee, as to pear to Symptom Disaffection Lord Milton, and of Unfairness between the Parties; and it remarkable that the Hand Bill was propagated at Time when an Offer had been made place Lord Milton precisely the fume Footing With Mr. Lascelles, to which Offer not the AU lufion was made in the Hand Bill. The very Determination of Lord Milton to (land-, had spread Panic in the whole Camp Mr. Wilberforce for the Powers his Purse were tremendous. It was like the News of Invasion by Bonaparte. Mr. W. had instantly to provide his Ways and Means, to call together his Volunteers, and to defend himself a mere Army Mafic, against any Attack or Demonstrations of Hostility, which might be made by the regular, well organized, well paid and well fud Army of his Competitor. The of Mr. Wilberforce continued gradually advancing, till it reached Sum, trifling indeed to Lord Milton, of about or 60,c001. With great Economy this Sum might confidently be expected to hold out through the Contest. The Very great Multitude, however, of Mr. W. Votes, was a little dreaded as a Source of Expence. Lord Milton's Agents were so good as to causasde Mr. W. this Fear; by the Cry partly of no Coalition, by inserting Milton's Plumper in the Card of every Miltonite's Hat, by giving Popish Absolution to all who had proruiled Wilberforce, by Stirring the Hatred the Clothiers against the Supporters that horrible Bill which was likely to come before Parliament, by infilling that Lord Milton was at as good a Friend to the Abolition the Slave Trade as Mr. Wilberforce, by claiming Merit to him, in this Respect, the Son Lord Fitzwilliam, who had been President the Council in that Administration which effected the Abolition, forgetting that Lord F. was himself the greatest the Slave Trader, the seeming Popularity was transferred from Wilberforce to Lord Milton, and especially the Clothing Districts, which are uSually Mr. W.'s strong Hold, as well as in his other strong Hold, we mean the Hustings, where his Eloquence has been used charm every Ear. Here indeed his Voice began now to be regularly drowned by the Cry No Coalition," a Cry to which Lord Milton's Friend Mellisu and the Young Ruffian, and few other honest Fellow s from London, not a little contributed. We fay then again, that we admire the Dexterity Lord Milton and his Agents. They have evidently played the whole Game, and they deserve the Prize for the Skill, which from first to last they have manifested. Still, however, it must be remembered that Money was the chief Ally to which they trusted. Money gets Agents. Agents can raise a Cry either of "Popery" or Fopery," of "Coalition" or "No Coalition." Money makes Ride to York, from the greatest Diftar.ce to become extremely commodious and agreeable it can turn Water into strong Beer, or Beer into Wine, and a of Wine into a Bottle or a Couple of Bottles: not only produces Abundance of Yellow Ribbons in the Hats, but (as a York Orator, at Window observed the other Day,) the Yellow get also into the Pocket. Money can also produce Squibs, Puffs, Hand Bills of all Sorts and Sizes, and can secure the Circulation of them; it can command the Prefsj can secure the exact Orgazination of all Committee Business, can supply multiplied Lifts of polled and unpolled Votes, and ensure in every Hamlet and Village County, the most perfect Canvas. It can glean what poorer Candidate has left ungleaned, and the Close the Poll, It can bring Voters from the North and from the South, from the East and from the West, from Scotland or from Cornwall; And if Parliament would but consent to give a little more Time for Polling, from the East Indies and from the West Indies; it moreover can purchase Sense; it can provide Six Counsel instead of Two to contend against the Two Counsel of the Adversaries, and to assist the Two other Counsel of the Sheriff, and it can provide Double Sets of Attornies in the Towns of Yorkshire; the one to contend by Day and the other by Night, against the mere voluntary Agents of a Wilberforce.
+```{admonition} TO DO
+:class: dropdown
+
+In *Leeds Intelligencer*, [Monday 15 June 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0000236/18070615/003/0002).
+
+TO DO
+
+the FREEHOLDERS of YORKSHIRE. A Few Remarks the Subject of this Extraordinary Election shall here be offered to the Public. Lord Milton as the Heir Apparent to a great and powerful Family, has-undoubtedly a high Claim to the Representative the greatest County in the Kingdom : The very Magnitude however, both of his Purse and his Influence in Yorkshire, is one Circumstance ham. The fame Lord or Lord Milton, who his Property commands by his Purse command Yorkshire, because the Expence of well fought Contest, in So. extended and populous a County, deters almost every Competitor. That this Observation is no one will deny, who knows that even the popular Sir George Saville fay, that he was returned for the County, not in the Castle-Yard> but in the Parlour of Lord Rockingham.— The Independent. Freeholders Yorkshire, and especially the manufacturing Classes were fenuble this in the Year when they rose nearly as one Man in Favour Mr. Wilberforce, and they have reaped the Benefit of their Choice, by Twenty-four Years of the most assiduous Attention bestowed by that Gentleman upon their Interests.— Whenever this Spirit of Independence (hall loft in York* the County will converted into " one those dcfiraMc Appendages" which belong certain Freehold Estates, and are sold with them ether Words will come under the Character Close Boroughs, with this Difference indeed, that the Proprietor vi ill the Honour of representing so vast a County to he a very distinguished Feather his Cap, and will to both his Political Party, and the County, and the Public, that the Freeholders who have chosen him are peculiarly Independent, and that he is a truer of the People than any other, inasmuch as his is the County in the Kingdom. The late Election for Yorkshire has brought us nearer to. this Point. An unfortunate Misunderstanding between Mr. Lascelles and the Clothiers, which has also some Degree affected Mr. Wilberforce's Reputation for Strength, has led to the Reversal that Conduct which was adopted »he Mercantile Body in the Instance, the towering Family of Wentworth Fitzwilliam has been eagerly Supported the Clothiers. Coalition has been formed between an Oppositionist, whose principles are clearly those of niere Minority of the County, with a Body of Mercantile Men who think little of Politics, and are out of Temper, on Account having failed to acquire some absurd Privileges, which would ultimately ruinous even themselves, and which every Man the House Commons, not excepting Mr. Fawkes, faw the Folly of grunting. The Cry of " "No Coalition,' has been raiSed Mr. Lascelles and Mr. Wilberforce ? Might not retort the and call out for " No Coalition" in a much more important Sense. Ought not at least, these Manufacturers to have taken Care, that the YOUNG Nobleman whom they preferred in this evil Hour, Should be a Man who Stood engaged to that Bill in Parliament, which they deemed ruinous to their Interests? Mr. Lascelles indeed has led out for this Pledge—But his Lordship, we know from the Party, hates Pledges, and not only hates Pledged he also hates Questions, on this Subject, and does not to answer them. He this Day admitted indeed his Obligation to the Clothiers ; he corroborated Mr. Lascelles's antecedent Observations respecting the true his Lordship's Superiority on the Poll, and his Lordship added, "When I forget the Clothiers, may my Right Hand forget her Cunning."— But did fay explicitly, that would Support their CauSe, and endeavour to reverie the which had turned out Mr. Lascelles. Not a Word of this kind escaped his Lips. is indeed estranged from the Subject. Talk to him about the Ln'ttle "Independent" Clothiers, —he declaims abr>iit Political "Independence." Speak to him about limiting the Number of Apprentices, he thinks only of limiting the Power Ministers. to him Gig Mills and Croppers. is meditating on the Number of his Coaches, his Chaises, and his (Jigs, and of the Number of Crops whom he has riding in them. His Lordship really seems not to have Three Ideas on this Subject, which is interesting to his Constituents. one Day indeed said a Word about preferring "the proper Balance between the and the Servant." are persuaded that he was thinking at that Time of the Balance of the Constitution. The History this Election is really curious. About a Month ago the Parliament was dissolved, and Mr. Wilberforce naturally offered himself again for Yorkshire. Mr. hastily declined. Mr. Lascelles now came forward, and it was expected that Mr. W. and he over the Course. To the Surprise of every one, Lord Milton declared himself. Not a Man imagined that he could Succeed. Mr. W. had; at this Time, Nine-tenths of the County his Favour; for even the Oppositionists, in general, declared plainly for him, and Promise upon Promise crowded in from every Quarter. He was now Safe a= to Votes, but not so as to Money. Lord Milton's Committee faw Mr. W.s Difficulty at this Moment, and they deserve great Credit for their Penetration. His Lordship declared that would stand out the Poll. An urgent came the Committee of Mr. W. inquiring whether would undertake to pay his Half of all Lord Milton's Second Votes. The Committee hesitated ; they were afraid being involved, the Compliance, an indefinite Expence, when their Means were definite. They would have been answerable in their own Pockets the whole Extent of this immeasurable Engagement. This Hesitation was to the Public in a Hand Bill, Signed by Lord Milton's Committee, as to pear to Symptom Disaffection Lord Milton, and of Unfairness between the Parties; and it remarkable that the Hand Bill was propagated at Time when an Offer had been made place Lord Milton precisely the fume Footing With Mr. Lascelles, to which Offer not the AU lufion was made in the Hand Bill. The very Determination of Lord Milton to (land-, had spread Panic in the whole Camp Mr. Wilberforce for the Powers his Purse were tremendous. It was like the News of Invasion by Bonaparte. Mr. W. had instantly to provide his Ways and Means, to call together his Volunteers, and to defend himself a mere Army Mafic, against any Attack or Demonstrations of Hostility, which might be made by the regular, well organized, well paid and well fud Army of his Competitor. The of Mr. Wilberforce continued gradually advancing, till it reached Sum, trifling indeed to Lord Milton, of about or 60,c001. With great Economy this Sum might confidently be expected to hold out through the Contest. The Very great Multitude, however, of Mr. W. Votes, was a little dreaded as a Source of Expence. Lord Milton's Agents were so good as to causasde Mr. W. this Fear; by the Cry partly of no Coalition, by inserting Milton's Plumper in the Card of every Miltonite's Hat, by giving Popish Absolution to all who had proruiled Wilberforce, by Stirring the Hatred the Clothiers against the Supporters that horrible Bill which was likely to come before Parliament, by infilling that Lord Milton was at as good a Friend to the Abolition the Slave Trade as Mr. Wilberforce, by claiming Merit to him, in this Respect, the Son Lord Fitzwilliam, who had been President the Council in that Administration which effected the Abolition, forgetting that Lord F. was himself the greatest the Slave Trader, the seeming Popularity was transferred from Wilberforce to Lord Milton, and especially the Clothing Districts, which are uSually Mr. W.'s strong Hold, as well as in his other strong Hold, we mean the Hustings, where his Eloquence has been used charm every Ear. Here indeed his Voice began now to be regularly drowned by the Cry No Coalition," a Cry to which Lord Milton's Friend Mellisu and the Young Ruffian, and few other honest Fellow s from London, not a little contributed. We fay then again, that we admire the Dexterity Lord Milton and his Agents. They have evidently played the whole Game, and they deserve the Prize for the Skill, which from first to last they have manifested. Still, however, it must be remembered that Money was the chief Ally to which they trusted. Money gets Agents. Agents can raise a Cry either of "Popery" or Fopery," of "Coalition" or "No Coalition." Money makes Ride to York, from the greatest Diftar.ce to become extremely commodious and agreeable it can turn Water into strong Beer, or Beer into Wine, and a of Wine into a Bottle or a Couple of Bottles: not only produces Abundance of Yellow Ribbons in the Hats, but (as a York Orator, at Window observed the other Day,) the Yellow get also into the Pocket. Money can also produce Squibs, Puffs, Hand Bills of all Sorts and Sizes, and can secure the Circulation of them; it can command the Prefsj can secure the exact Orgazination of all Committee Business, can supply multiplied Lifts of polled and unpolled Votes, and ensure in every Hamlet and Village County, the most perfect Canvas. It can glean what poorer Candidate has left ungleaned, and the Close the Poll, It can bring Voters from the North and from the South, from the East and from the West, from Scotland or from Cornwall; And if Parliament would but consent to give a little more Time for Polling, from the East Indies and from the West Indies; it moreover can purchase Sense; it can provide Six Counsel instead of Two to contend against the Two Counsel of the Adversaries, and to assist the Two other Counsel of the Sheriff, and it can provide Double Sets of Attornies in the Towns of Yorkshire; the one to contend by Day and the other by Night, against the mere voluntary Agents of a Wilberforce.
 
 A FREEHOLDER. York, June 5 1807.
+
+```
 
 TH:
 
@@ -296,7 +414,7 @@ CAP. XXIX
 
 *WHEREAS by an act passed in the first year of the reign of his late majesty King George the First, intituled, "An act for preventing tumults and riotous assemblies, and for the more speedy and effectual punishing the rioters", it is, among other things, enacted, That if any persons unlawfully, riotously, and tumultuously assembled together, to the disturbance of the publick peace, shall unlawfully and with force demolish or pull down, or begin to demolish or pull down, any church or chapel, or any building for religious worship, certified and registered according to the statute made in the first year of the reign of the late King William and Queen Mary, intituled, "An act for exempting their Majesties protestant subjects dissenting from the church of England from the penalties of certain laws", or any dwelling-house, barn, stable, or other outhouse; that then, every such demolishing or pulling down, or beginning to demolish or pull down, shall be adjudged felony without benefit of clergy; and the offenders therein shall be adjudged felons, and shall suffer death as in cases of felony without benefit of clergy: and whereas some doubts have arisen whether the said act extends to the pulling down and demolishing of mills:* therefore, for remedying the mischiefs which may ensue therefrom, and for the more effectual punishment of such offenders, be it enacted by the King's most excellent majesty, by and with the advice and consent of the lords spiritual and temporal, and commons, in this present parliament assembled, and by the authority of the same, That if any person or persons unlawfully, riotously, and tumultuously assembled together, to the disturbance of the public peace, shall, at any time after the first day of *July*, one thousand seven hundred and sixty nine  unlawfully and with force demolish or pull down, or begin to pull down, any wind saw mill, or other wind mill, or any water mill, or other mill which shall have been or shall be erected, or any of the works thereto respectively belonging; that then every such demolishing or pulling down, or beginning to demolish or pull down, shall be adjudged felony without benefit of clergy, and the offenders therein shall be adjudged felons, and shall suffer death as in case of felony without benefit of clergy.
 
-II. *And whereas no effectual provision bath heretofore been made for preventing the burning of mills,* be it therefore enacted by the authority aforesaid, That if any person or persons shall from and after the first day of *July*, one thousand seven hundred and sixty nine, wilfully or maliciously burn, or set fire to, any wind saw mill or other wind mill, or any water mill, or other mill; such person so offending, being lawfully convicted thereof, shall be adjudged guilty of felony without benefit of clergy, and shall suffer death as in case of felony without benefit of clergy.
+II. *And whereas no effectual provision hath heretofore been made for preventing the burning of mills,* be it therefore enacted by the authority aforesaid, That if any person or persons shall from and after the first day of *July*, one thousand seven hundred and sixty nine, wilfully or maliciously burn, or set fire to, any wind saw mill or other wind mill, or any water mill, or other mill; such person so offending, being lawfully convicted thereof, shall be adjudged guilty of felony without benefit of clergy, and shall suffer death as in case of felony without benefit of clergy.
 
 III. *And for more effectually preventing the destroying of engines for draining collieries, coal mines, and other mines, and bridges and waggon ways used in conveying coals, lead, and other minerals from thence; and also fences made or to be made for inclosing lands by virtue of acts of parliament;* be it further enacted by the authority aforesaid, That if any person or persons shall at any time after the first day of *July*, one thousand seven hundred and sixty nine, wilfully or maliciously set fire to, burn, demolish, pull down, or otherwise destroy or damage, any fire engine or other engine erected, or to be erected, for draining water from collieries or coal mines; or for drawing coals out of the same; or for draining water from any mine of lead, tin, copper, or other mineral; or any bridge, waggon way, or trunk erected, or to be erected, for conveying coals from any colliery or coal mine, or staith for depositing the same; or any bridge or waggon way erected or to be erected, for conveying lead, tin, copper, or other mineral, from any such mine; or any fence or fences that are or shall be erected, set up, provided, or made, for dividing or inclosing any common waste or other lands or grounds, in pursuance of any act or acts of parliament; every such person, being lawfully convicted of any or either of the said several offences, or of causing or procuring the same to be done, shall be adjudged guilty of felony, and shall be subject to the like pains and penalties as in cases of felony; and the court by or before whom such person shall be tried, shall have power and authority to transport such felon for the term of seven years, in like manner as other felons are directed to be transported by the laws and statutes of this realm.
 

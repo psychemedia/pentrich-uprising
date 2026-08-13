@@ -68,7 +68,7 @@ Why do you lead these men about the streets?
 Shakespeare.
 
 Why at this dead and perilous hour are met  
-These haggard aud these darkened visages?  
+These haggard and these darkened visages?  
 What dread intent is lowering in their eyes?  
 They mutter, but they tell not their designs;  
 This silence speaks against them.

@@ -219,9 +219,6 @@ Yesterday morning additional troops of the Horse Guards (Blue) marched from Read
 ...
 
 
----
-
-
 
 --
 

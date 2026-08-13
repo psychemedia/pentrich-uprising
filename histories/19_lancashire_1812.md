@@ -40,7 +40,7 @@ No lives were lost during this short but shameful disturbance; and it was a most
 
 The Sheffield, Rotherham, and Kiveton troops of West Riding Yeomanry Cavalry, and the Sheffield Regiment of Local Militia were soon under arms.
 
-THe acting and auxiliary constables were also  in attendance; and it gives us pleasure to state, that the Magistrates, the 15th Dragoons, the Yeomanry Cavalry, and the Local Militia, have all done their duty.
+The acting and auxiliary constables were also  in attendance; and it gives us pleasure to state, that the Magistrates, the 15th Dragoons, the Yeomanry Cavalry, and the Local Militia, have all done their duty.
 
 About seven o'clock in the evening of the disturbance, four of the rioters were sent off to York Castle, to take their trial at the next Assizes. They were conveyed from the Town Hall in two chaises, and escorted by a guard of the 15th Light Horse a considerable distance.
 

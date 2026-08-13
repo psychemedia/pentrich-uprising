@@ -4,8 +4,7 @@ Following the arrests at Thornhill Lees, questions arose surrounding the discove
 
 ```{admonition} How did the magistrates know?, June 1817
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
-Leeds Mercury - Saturday 14 June 1817
+In *Leeds Mercury*, [Saturday 14 June 1817](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003).
 
 PROJECTED INSURRECTION IN YORKSHIRE
 
@@ -21,9 +20,7 @@ What was even more worthy of note was the question: was the spy also the *instig
 
 ```{admonition} A highly important fact, June 1817
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003
-Leeds Mercury - Saturday 14 June 1817
-p3
+In *Leeds Mercury*, [Saturday 14 June 1817](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003), p3.
 
 SECOND EDITION
 
@@ -65,9 +62,7 @@ The Secret Committee of the House of Commons, which is expected to recommend the
 
 ```{admonition} The mission of an arch traitor, June 1817
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170705/008/0003
-Leeds Mercury - Saturday 05 July 1817
-p3
+In *Leeds Mercury*, [Saturday 05 July 1817](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170705/008/0003), p3.
 
 OLIVER THE SPY.-
 
@@ -85,9 +80,7 @@ Despite claims that Oliver was "merely a *passive* agent", the editor of the *Le
 
 ```{admonition} A merely passive agent? July 1917
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003
-Leeds Mercury - Saturday 12 July 1817
-p3
+In *Leeds Mercury*, [Saturday 12 July 1817](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170712/008/0003), p3.
 
 ORIGIN OF THE LATE CONSPIRACIES.
 
@@ -111,11 +104,10 @@ For the accuracy of this portion of the evidence, we appeal to the Magistrates p
 
 
 ---
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170719/010/0003
-## Leeds Mercury - Saturday 19 July 1817
-p3
 
-### THE HUDDERSFIELD INSURRECTION
+In *Leeds Mercury*, [Saturday 19 July 1817](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170719/010/0003), p3.
+
+THE HUDDERSFIELD INSURRECTION
 
 An inflated and highly exaggerated account of the state of the town and neighbourhood of Huddersfield, during the past month, has been published in the Leeds Intelligencer, and copied into the London Ministerial papers. Such a publication, on the eve of the trial at York, we hold to be extremely reprehensible, and must, as far as it is believed, have a tendency to prejudice the minds of the jury appointed to sit in judgement upon the lives of the accused. To assert in a public print before the trials come on, and of course on *ex parte* evidence, that the object of the prisoners was "massacre," and that their plans were to be consummated by "plunder, fire, and carnage, to a fearful extent," is to prejudge their cause, and to deprive these unfortunate men of the benefit of that salutary maxim of the English law, which holds every man to be innocent till a jury of his countrymen has pronounced him guilty. Without pretending to be at all in the secrets of the insurgents, we must say, we have too favourable an opinion of our species and of our countrymen, to believe that any numerous body of them in a particular neighbourhood, could be brought to be the actors in a sedition, that was to inflict "massacre, plunder, fire, and carnage," upon their neighbours, "to a fearful extent." The intention of the insurgents, as far as we can learn, was to effect a "bloodless revolution," and the purpose of seizing and *disarming* the military, as stated is the account before us, seems to favour that supposition. That a bloodless revolution could have been effected, is, to be sure, a supposition too gross to be entertained by any set of men of common understanding; but Mr. Oliver, it seems, had the address to persuade the leaders that a project of this kind was practicable, and his dupes were so utterly ignorant as to adopt the absurdity. This fact may serve to shew of what kind of materials the Huddersfield branch of the conspiracy was formed. How many men and boys (for there was, it seems, a considerable proportion of the latter) assembled at *Folly*-hall-bridge, near Huddersfield, on the night of the 8th, we cannot learn with any degree of certainty, but some estimate may be formed of their strength from the fact, that a detachment of newly-raised Yeomanry Cavalry put to flight and entirely dispersed the insurgent army! while the only blood that flowed on the occasion on either side, was the blood of a horse, and the only other mark of violence inflicted was, as the Intelligencer states, the mark of a bail which struck a deserted house! We do not wish to speak with levity of a proceeding which every friend to his country must condemn, but when we see a local act of popular violence, exaggerated to the bulk of a wide spreading insurrection, we feel it to be our duty to remove the deception, by lowering down the colouring to the standard of truth.
 
@@ -129,12 +121,11 @@ The Magistrates, who appear to have displayed a more than ordinary share of vigo
 
 ---
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170719/006/0002
 
-## Leeds Mercury - Saturday 19 July 1817
-p2
 
-### MINISTERIAL JUSTIFICATION OF OLIVER
+In *Leeds Mercury*, [Saturday 19 July 1817](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18170719/006/0002), p2.
+
+MINISTERIAL JUSTIFICATION OF OLIVER
 
 *(From the Times)*
 

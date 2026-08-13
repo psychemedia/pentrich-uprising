@@ -6,12 +6,14 @@ by Thornbury, Walter
 
 Publication date 1879
 
+TO DO
+
 pp. 242-255
 THE CATO STREET CONSPIRACY (1820).
 
 On the accession of George the Fourth to the throne, January 29th, 1820, Lord Harrowby, President of the Privy Council, issued invitations to the cabinet ministers to dine with him on February 23rd, according to prescribed custom, at his house, No. 39, Grosvenor Square. The death and funeral of the old king in January had, it may be mentioned, led to the suspension of cabinet dinners. The following well-known persons were the guests invited: the Earl of Liverpool, Lord Chancellor Eldon, Mr. Vansittart, Earl Bathurst, Lord Castlereagh,Lord Sidmouth, the Earl of Westmoreland, Lord Melville, the Duke of Wellington, Mr. Canning, Mr. Robinson, Mr. Bathurst, Mr. Wellesley Pole, and the Earl of Mulgrave.
 
-The year 1819 had been a troublous one. The dissipation and reckless extravagance of the Bogent, the dearness of bread, the oppressive taxation, the Spafields riots, and, lastly, the unnecessary brutality of the Lancashire yeomen and the soldiers at tho Peterloo meeting, had combined to irritate the poorer people and render them disaffected to tho Government. Reform and education had become subjects of discussion with all enlightened men ; the desperate and the fanatical brooded over revolution, conspiracy, and violence.
+The year 1819 had been a troublous one. The dissipation and reckless extravagance of the Regent, the dearness of bread, the oppressive taxation, the Spafields riots, and, lastly, the unnecessary brutality of the Lancashire yeomen and the soldiers at the Peterloo meeting, had combined to irritate the poorer people and render them disaffected to the Government. Reform and education had become subjects of discussion with all enlightened men ; the desperate and the fanatical brooded over revolution, conspiracy, and violence.
 
 Spies had been at work fomenting and urging forward plots, and the ministers, for many weeks, had had inklings of some impending danger. There had been apprehensions of ^ rising on the night of the old king^s funeral, but the conspirators, it was ascertained, had then altered their plans and projected a more cruel and wholesale massacre, urged on by the Government spies, who had pretended to enlist themselves in their cause only the sooner to drag them to the scaffold.
 
@@ -27,7 +29,7 @@ defined purpose) in two bags bought for the horrible occasion. Ings's cry, as th
 
 Well, my lords, I have'got as good men here as the Manchester yeomanry. Citizens, do your duty."
 
-These words are significant. The citizens evidently meant to renew the horrors of the French Kevolution, Mieving the popular disaffection to be general ; and the allusion io Peterloo showed how deeply the cruelties of that day had struck into the hearts of the poorer classes.
+These words are significant. The citizens evidently meant to renew the horrors of the French Revolution, believing the popular disaffection to be general; and the allusion io Peterloo showed how deeply the cruelties of that day had struck into the hearts of the poorer classes.
 
 In the mean time, other persons besides Hiden had betrayed the conspirators. Dwyer, an Irish bricklayer, who had been employed to muster his countrymen, and to carry off the firearms from the Foundling, had informed ,*he Secretary of State by means of a Major James. An infamous informer, named Edwards, a modeller and image-seller at Windsor, had also spoken to a gentleman of the king's household.
 
@@ -61,7 +63,7 @@ At the same time he sent for cartridge-paper, on which proclamations could be wr
 
 "February 23, 1820."
 
-These bills were to be pasted up near the houses that were to be set on fire, and would, it was supposed, arouse the people. When Thistlewood had written three of the bills he said he was tired, and did not know what was the matter with him ; he could write no more. Another man then wrote a fourth. In the mean time Ings, with butcherly eagerness for blood, was preparing himself for action. He put on a black belt to bold two pistols, a bolt round his shoulder for a cutlass, and two large canvas haversacks, iu which, he swore, he intended to carry the heads of Lord Castlereagh and Lord Sidmouth, before setting them on pikes and carrying them before the captured cannon. When he had done all this, he viewed himself complacently, and said, with professional jocosity —
+These bills were to be pasted up near the houses that were to be set on fire, and would, it was supposed, arouse the people. When Thistlewood had written three of the bills he said he was tired, and did not know what was the matter with him ; he could write no more. Another man then wrote a fourth. In the mean time Ings, with butcherly eagerness for blood, was preparing himself for action. He put on a black belt to bold two pistols, a bolt round his shoulder for a cutlass, and two large canvas haversacks, in which, he swore, he intended to carry the heads of Lord Castlereagh and Lord Sidmouth, before setting them on pikes and carrying them before the captured cannon. When he had done all this, he viewed himself complacently, and said, with professional jocosity —
 
 "I have not got my steel— I am not complete ; but never mind."
 
@@ -93,7 +95,7 @@ Brunt had just produced a gin^bottle from his pocket to prime the assassins, whe
 
 Yes, the toils had long slowly been gathering round these desperate wretches. Into that loft, as into a full rat-pit, the sharp-toothed terriers of the law were ready to dash. In other rooms besides that of Cato Street cutlasses had been that morning ground, and pistol-flints fitted. The Bow Street officers had already been lurking about the Horse and Groom public-house, and had secured a pike-stave left by one of the conspirators. About half-past eight, twelve of thora\ had met by appointment near John Street, and moved on together towards the well-marked stable. In t^e mean time. Lieutenant Fitzclareiice, with a picquet of the Coldstream Guards, had been sent by Mr. Birnio, the police magistrate, to wait in John Street till they were called. Buthven (a tall, sandy Scotchman), Smithers, Ellice, and others of the patrol found the stable-door watched by two or throe men. The man of colour, Davidson, and Ings were guarding the stairs, with blunderbusses on their shoulders and swords by their sides. Bnthven instantly ordered these men to be? secured, and mounted the ladder, followed by Ellice, Smithers, and three or four others.
 
-There were about five and twenty men iu the room, eating bread and cheese and drinking porter, or selecting arms from a long carijen tor's bench which stood close by the wall. Just at that juncture, Thistle wood, hearing a noise, and some one calling, "Hallo! Show a light!" took a candle, and looked down the stairs to see who was coming, and on seeing that there was a surprise he put the candle back on the bench, seized a sword, and, with three or four others, retreated stealthily to the further of the inner rooms — the one that bad a window looking out into Cato Street. At that moment, ono of the men seized Mow called up to warn his comrades — Look out there, above!"
+There were about five and twenty men in the room, eating bread and cheese and drinking porter, or selecting arms from a long carpenter's bench which stood close by the wall. Just at that juncture, Thistle wood, hearing a noise, and some one calling, "Hallo! Show a light!" took a candle, and looked down the stairs to see who was coming, and on seeing that there was a surprise he put the candle back on the bench, seized a sword, and, with three or four others, retreated stealthily to the further of the inner rooms — the one that bad a window looking out into Cato Street. At that moment, ono of the men seized Mow called up to warn his comrades — Look out there, above!"
 
 At the same time two of the constables, at first almost unnoticed, appeared at the top of the ladder, and presenting their pistols, said:—
 

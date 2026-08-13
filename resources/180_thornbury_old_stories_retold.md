@@ -42,7 +42,7 @@ Illustrated London News - Saturday 24 June 1876
 
 THE LATE MR. THORNBURY.
 
-George Walter Thornbury, a well-known and popular author, whose death we announced last week, was born in 1828, the son of Mr. Thornbury, a solicitor. His numerous contributions to the literature of the day were highly appreciated; the best remembered are—"Monarchs of the Main,"Shakspeare's England during the Reign of Elizabeth," ‘Songs of Cavaliers and Roundheads," "True as Steel," "British Artists from Hogarth to Turner," "Ice Bound," "Wildfire," "Haunted London," "Old Stories Retold," and "Tales for the Marines." He was formerly art critic to the Atheneum, and, for some time, a constant writer in *All the Year Round*.
+George Walter Thornbury, a well-known and popular author, whose death we announced last week, was born in 1828, the son of Mr. Thornbury, a solicitor. His numerous contributions to the literature of the day were highly appreciated; the best remembered are—"Monarchs of the Main," Shakspeare's England during the Reign of Elizabeth," "Songs of Cavaliers and Roundheads," "True as Steel," "British Artists from Hogarth to Turner," "Ice Bound," "Wildfire," "Haunted London," "Old Stories Retold," and "Tales for the Marines." He was formerly art critic to the Atheneum, and, for some time, a constant writer in *All the Year Round*.
 
 His funeral in Nunhead Cemetery took a on Tuesday week.
 
