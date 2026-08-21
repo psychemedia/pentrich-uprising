@@ -641,3 +641,31 @@ TO DO - CHECK TABLE TRANSCRIPTION
 | WALKER, John | Dº | Dº | 31 | Convicted of beginning to demolish William Cartwright's Mill; Indicted for two cases of breaking Shearing-frames; Charged with five other Capital Felonies | Hanged, January 16 | 134, 208, 211 |
 | WALKER, John | Salford | Dº | 33 | Charged with breaking Shearing-frames at Almondbury, on 15 March | Discharged with Prosecution | 211 |
 | WHITEHEAD, William | Quick | Clothier | 26 | Charged with Robbery at Lydgate in Quick, on 20 April | - - Dº - - - | 211 |
+
+
+---
+
+hanged
+
+
+
+| Name | Residence | Occupation | Age | Offences | Result | Pag. |
+|------|-----------|------------|-----|----------|--------|------|
+| BATLEY, John | Thornhill | Clothier | 31 | Convicted of Burglary and stealing sundry Goods at Kirk-Heaton, on 3 July | Hanged, January 16 | 7, 208, 211 |
+| BROOK, Thomas | Lockwood | Cloth-dresser | 32 | Convicted of beginning to demolish William Cartwright's Mill on 11 April | Hanged, January 16 | 134, 208, 211 |
+| CROWTHER, Joseph | Sowerby | Cotton-spinner | 31 | Convicted of robbing a House at Far Town, on 29 November; Charged with other Burglaries on same day | Hanged, January 16 | 191, 208, 211 |
+| DEAN, Jonathan | Huddersfield | Cloth-dresser | 28 | Convicted of beginning to demolish William Cartwright's Mill; Charged with eleven other Capital Felonies in destroying Machinery, and stealing Arms | - - Dº - - - | 134, 208, 211 |
+| FISHER, Joseph | Briestwhistle | Coal-miner | 33 | Convicted of Burglary and stealing sundry Goods at Kirk-Heaton, on 3 July | Hanged, January 16 | 7, 208, 211 |
+| HAIGH, James | Dalton | Cloth-dresser | 28 | Convicted of beginning to demolish William Cartwright's Mill; Charged with three other Capital Felonies in breaking Machinery | Hanged, January 16 | 134, 208, 211 |
+| HARTLEY, William | Warley | Tailor | 41 | Convicted of Burglary and stealing Arms at Skircoat, on 29 August; Charged also with four other Burglaries, and with breaking Shearing-frames | Hanged, January 16 | 181, 208, 211 |
+| HEY, James | Skircoat | Woollen-spinner | 25 | Convicted of robbing in a Dwelling-house at Far Town, on 29 November; Charged with five Burglaries on same day | - - Dº - - - | 191, 208, 211 |
+| HEY, Job | Greetland | Waterman | 40 | Convicted of and charged with the same Offences as William Hartley | - - Dº - - - | 181, 208, 211 |
+| HILL, John | Dº | Cotton-spinner | 36 | The Same | - - Dº - 181, 208, 211 | |
+| HOYLE, Nathan | Skircoat | Weaver | 46 | Convicted of and charged with the same Offences as James Hey | Hanged, 16 Jan. | 191, 208, 211 |
+| LUMB, John | Thornhill | Coal-miner | 32 | Convicted of Burglary and stealing divers Goods at Whitley Upper, on 4 July—but recommended to mercy by the Jury | Sentenced to be hanged, but pardoned on condition of being transported for life | 7, 208, 211 |
+| MELLOR, George | Longroyd Bridge | Cloth-dresser | 22 | Convicted of the Murder of William Horsfall, on 28 April; Indicted for beginning to demolish William Cartwright's Mill, for two cases of breaking Shearing-frames, and one case of stealing Arms; Charged with nine other Capital Felonies | Hanged, January 8 | 35, 104, 134, 205 |
+| OGDEN, John | Huddersfield | Cloth-dresser | 28 | Convicted of beginning to demolish William Cartwright's Mill, on 11 April | Hanged, January 16 | 134, 208, 211 |
+| SMITH, Thomas | Huddersfield | Cloth-dresser | 22 | Convicted of the Murder of William Horsfall, on 28 April; Indicted for beginning to demolish Cartwright's Mill, and for two cases of breaking Shearing-frames; Charged with nine other Capital Felonies | Hanged, January 8 | 35, 104, 134, 205 |
+| SWALLOW, John | Briestwhistle | Coalminer | 37 | Convicted of Burglary at Whitley Upper, on 4 July; Charged with five other Burglaries | Hanged, January 16 | 7, 208, 211 |
+| THORPE, William | Dº | Dº | 23 | Convicted of the Murder of William Horsfall, on 28 April; Indicted for beginning to demolish Cartwright's Mill, and two cases of breaking Shearing-frames; Charged with five other Capital Felonies | Hanged, January 8 | 35, 104, 134, 205 |
+| WALKER, John | Dº | Dº | 31 | Convicted of beginning to demolish William Cartwright's Mill; Indicted for two cases of breaking Shearing-frames; Charged with five other Capital Felonies | Hanged, January 16 | 134, 208, 211 |
