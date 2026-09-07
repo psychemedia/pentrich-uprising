@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="../_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="../_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="../_static/documentation_options.js?v=a8e58a58"></script>
     <script src="../_static/doctools.js?v=9a2dae69"></script>
     <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="../_static/copybutton.js?v=f281be69"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="../_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="../_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,39 +61,37 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'tellings/61_unjustified_detention';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://protest-days-luddites.montystoryteller.org/tellings/61_unjustified_detention.html" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="prev" title="Folly at Folly Hall" href="60_folly-at-folly-hall.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="../_static/searchtools.js"></script>
+    <script src="../_static/language_data.js"></script>
+    <script src="../searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -98,7 +99,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -106,15 +106,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -123,7 +167,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -153,15 +198,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -183,6 +224,14 @@
 <li class="toctree-l1"><a class="reference internal" href="../histories/53_topham_1816.html">Benjamin Topham’s Frames Broken Again</a></li>
 <li class="toctree-l1"><a class="reference internal" href="07_tale_of_benjamin_topham.html">The Conjoined Tales of Benjamin Topham, and Chettle and Glover</a></li>
 </ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">The Yorkshire Luddites</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../histories/20_huddersfield_unsettled.html">Huddersfield Unsettled</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../histories/22_cartwrights_mill_1812.html">The Huddersfield Luddites</a></li>
+<li class="toctree-l1"><a class="reference internal" href="10_cartwrights_mill.html">Cartwright’s Mill</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../histories/24_horsfall_shooting.html">The Shooting of William Horsfall</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../histories/26_special_commission_york_1813.html">The Special Commission at York</a></li>
+</ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">The Tragedy of James Towle</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../resources/20_James_Towle_1814.html">Introducing James Towle</a></li>
@@ -193,6 +242,10 @@
 <li class="toctree-l1"><a class="reference internal" href="50_march_of_the_blanketeers.html">The Blanketeers (Fairy Tale Style Telling)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../resources/62_march_1817.html">The March of the Blanketeers</a></li>
 <li class="toctree-l1"><a class="reference internal" href="52_spa_fields_trial.html">The Spa Fields Trial</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Last of the Luddites</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../resources/65_april_1817.html">Loughborough Luddites Trial</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">An Ill-Fated Rebellion</span></p>
 <ul class="current nav bd-sidenav">
@@ -207,9 +260,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -292,7 +350,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -306,25 +364,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -346,7 +396,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-case-of-benjamin-whiteley">The Case of Benjamin Whiteley</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#and-the-case-of-thomas-riley">And the Case of Thomas Riley</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lee-s-case-continues-to-generate-interest">Lee’s Case Continues to Generate Interest</a></li>
@@ -365,7 +415,7 @@ document.write(`
 <h1>The Remand of Riley and Lee<a class="headerlink" href="#the-remand-of-riley-and-lee" title="Link to this heading">#</a></h1>
 <p>In report of the trials surrounding the Folly Hall Affair, two names crop up of men who were remanded back to prison apparently by order of Lord Sidmouth under the Suspension Act: <em>Thomas Riley</em> and <em>Richard Lee</em>, perhaps the same Richard Lee who had appeared as a witness for the defence in the state trial at York in January, 1813. Around the same time, Mr. Benjamin Whiteley, of Holmfirth, was also taken up under the same powers.</p>
 <div class="dropdown admonition">
-<p class="admonition-title">Committed to York Castle on suspicion of High Treason, August 1817</p>
+<p class="admonition-title">Committed on suspicion of High Treason, August 1817</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000172/18170802/011/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0000172/18170802/011/0003</a>
 Leicester Chronicle - Saturday 02 August 1817</p>
 <p>The Governor of York Castle, Mr. Staveley, has received warrants from Lord Sidmouth charging Thomas Riley of Crosland-Moor, near Huddersfield, tailor; and Richard Lee, of Holmfirth, clothier (which had been committed to York Castle on a charge of procuring riotous assemblies to be held) on suspicion of high treason. — <em>Leeds Mercury.</em></p>
@@ -398,7 +448,7 @@ Cambridge Chronicle and Journal - Friday 12 December 1817</p>
 <p>On Friday morning, Mr. Staveley, of York Castle, received a warrant from Lord Sidmouth, Secretary of State, authorising him to discharge out of custody, Richard Lee, a state prisoner, upon condition that he should enter into recognizance of £100, to appear on the first day of the next term, in the Court of King’s Bench.</p>
 </div>
 <div class="dropdown admonition">
-<p class="admonition-title">Summoned to the next Court of the King’s Bench, December 1817</p>
+<p class="admonition-title">Summoned to the Court of the King’s Bench, Dec. 1817</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18171218/003/0002">https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18171218/003/0002</a>
 Cheltenham Chronicle - Thursday 18 December 1817</p>
 <p>On Friday week Mr. Stavely, of York Castle received a warrant from the Right Honourable Secretary of State, authorising him to discharge out of custody Richard Lee, a state prisoner, upon condition that he should enter into recognizance of 100<em>l.</em> to appear on the first day of next Term in the Court of King’s Bench, and not to depart without leave of the said Court. He, having confirmed to such order, was on the same day discharged accordingly.</p>
@@ -416,7 +466,7 @@ Globe - Wednesday 25 February 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003">https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003</a>
 Leeds Intelligencer - Monday 09 March 1818</p>
 <p><em>Mercurii 25 die Februarii, 1818.</em></p>
-<p>A petition of Richard Lee, of Holmfirth, in the parish of Kirkburton, and County of York, was presented and read; setting forth, that the Petitioner is by trade a clothier, and hath never committed any crimes against the laws and country, being in every case a true subject of His Majesty King George; that on 13th June 1817, a number of men entered his house, with one <em>Matthew Bradley</em> at their head, while the Petitioner was at his work; and the said <em>M. Bradley</em> said, in a very insulting manner to the Petitioner, “You must go along with us;” the Petitioner replied, “Very well, but you will let me wash and clean myself first;” when the Petitioner had so done, the said <em>Matthew Bradley</em> drew a pistol out of his pocket, and said he would blow the Petitioner’s brains out; they then took the Petitioner to an inn near his own house, where he begged to speak to his wife respecting his affairs; but, when she came for that purpose, the said <em>Bradley</em> said, the Petitioner must go immediately to Huddersfield, as they were ready and would not wait, and that she, meaning the Petitioner’s wife, might follow the Petitioner to Huddersfield if they had any thing to say together; to which town they dragged the Petitioner, guarded by a number of ?? soldiers, and lodged him in a stinking dungeon without a bed or fire, although the Petitioner was wet through; that when the Petitioner’s wife came afterwards to see the petitioner next day to Huddersfield, at great charge and hazard, in her situation, being then unwell with a complaint in her breast, which was afterwards cut for a cancer; she was not allowed to see the Petitioner at all; that on the next morning, in this uncomfortable state of mind and body, ill at ease on account of his family, he was brought some refreshment, but he could not eat, and about noon he was taken before a Magistrate, <em>Mr. B. H. Allen</em>, who said that the Petitioner was charged with High Treason, and must be hanged; whereupon the Petitioner said, “You make my case very black, it is time to be prepared I think;” he replied, “Yes it is:” about the hour of seven o’clock in the evening, the Petitioner said, “Is’t not dinner time?” to this <em>Mr Thomas Atkinson</em>, who was present, said, “You shall have your dinner in my room, and sleep in it also:” the Petitioner replied that would be very acceptable, as he had no sleep the last night, but the said <em>Atkinson</em> then said, “You must make a man of yourself, and tell me all you know;” to which the Petitioner replied, as the truth was, “I know nothing;” that the said B. H. Allen then called the said Atkinson aside, and said, as the Petitioner could hear, “We must tow?er Lee again;” so, about eight o’clock, the Petitioner was remanded to the dungeon again, and about ten o’clock they came and began searching him while he was fast asleep, owing to his fatigue and want of rest: but being awoke by the search, the Petitioner asked, “What are you about?” but no answer was given to him, and they returned to him a three-shilling piece they had taken from his pocket just as he awoke, and kept him in this offensive dungeon five successive nights, and would not permit his wife to speak to him during that time, nor was he allowed to see her for three weeks afterwards: that the Petitioner was afterwards put into an empty room, where he remained six days without any bed or bedding, save only a handful of straw to lie upon, but no covering of any sort whatsoever but his own clothes that he had on: that on the 16th of July he was removed to York Castle like a felon, and ironed, in which state he was kept during the whole of his confinement, being twenty weeks and two days, five days of which time he was obliged to live in the same place, and sleep in the same room and bed with a man charged and afterwards executed for murder, with no other allowance than that of the prison, namely, bread and sixpence per week for nine weeks: that one <em>Thomas Riley</em>, confined in the same cell with the Petitioner, on a similar charge of a suspicion of High Treason, no doubt in a fit of derangement of mind, brought on by his confinement, cut his throat in the said prison, and on the day following, the Petitioner and another prisoner whom the Petitioner understood to be a convicted felon, were removed unto the very same cell in which the said <em>Riley</em> cut his throat, while the blood of the said <em>Riley</em> was still lying all over the floor, in a hard and congealed state: and the Petitioner and the said other prisoner were compelled to clean the same out with only a mop and broom, which,not being sufficient to remove the said blood, the Petitioner was obliged to scrape and take it up with his hands: that by this treatment his affairs and health are very much injured: to remedy things as far as he was able, he signed on the 5th of December a paper called a recognisance, although unconscious of any offence: wherefore, the Petitioner’s circumstances being in a ruined state, and his health declining, he is led to pray for such relief as to the wisdom of the House shall seem meet: and that the House will cause inquiry to be made into the conduct of those by whom the Petitioner has been so cruelly treated, and will not pass any Bill of Indemnity to screen them from answering at Law for such unjust treatment of the Petitioner.”</p>
+<p>A petition of Richard Lee, of Holmfirth, in the parish of Kirkburton, and County of York, was presented and read; setting forth, that the Petitioner is by trade a clothier, and hath never committed any crimes against the laws and country, being in every case a true subject of His Majesty King George; that on 13th June 1817, a number of men entered his house, with one <em>Matthew Bradley</em> at their head, while the Petitioner was at his work; and the said <em>M. Bradley</em> said, in a very insulting manner to the Petitioner, “You must go along with us;” the Petitioner replied, “Very well, but you will let me wash and clean myself first;” when the Petitioner had so done, the said <em>Matthew Bradley</em> drew a pistol out of his pocket, and said he would blow the Petitioner’s brains out; they then took the Petitioner to an inn near his own house, where he begged to speak to his wife respecting his affairs; but, when she came for that purpose, the said <em>Bradley</em> said, the Petitioner must go immediately to Huddersfield, as they were ready and would not wait, and that she, meaning the Petitioner’s wife, might follow the Petitioner to Huddersfield if they had any thing to say together; to which town they dragged the Petitioner, guarded by a number of ?? soldiers, and lodged him in a stinking dungeon without a bed or fire, although the Petitioner was wet through; that when the Petitioner’s wife came afterwards to see the petitioner next day to Huddersfield, at great charge and hazard, in her situation, being then unwell with a complaint in her breast, which was afterwards cut for a cancer; she was not allowed to see the Petitioner at all; that on the next morning, in this uncomfortable state of mind and body, ill at ease on account of his family, he was brought some refreshment, but he could not eat, and about noon he was taken before a Magistrate, <em>Mr. B. H. Allen</em>, who said that the Petitioner was charged with High Treason, and must be hanged; whereupon the Petitioner said, “You make my case very black, it is time to be prepared I think;” he replied, “Yes it is:” about the hour of seven o’clock in the evening, the Petitioner said, “Is’t not dinner time?” to this <em>Mr Thomas Atkinson</em>, who was present, said, “You shall have your dinner in my room, and sleep in it also:” the Petitioner replied that would be very acceptable, as he had no sleep the last night, but the said <em>Atkinson</em> then said, “You must make a man of yourself, and tell me all you know;” to which the Petitioner replied, as the truth was, “I know nothing;” that the said B. H. Allen then called the said Atkinson aside, and said, as the Petitioner could hear, “We must tow?er Lee again;” so, about eight o’clock, the Petitioner was remanded to the dungeon again, and about ten o’clock they came and began searching him while he was fast asleep, owing to his fatigue and want of rest: but being awoke by the search, the Petitioner asked, “What are you about?” but no answer was given to him, and they returned to him a three-shilling piece they had taken from his pocket just as he awoke, and kept him in this offensive dungeon five successive nights, and would not permit his wife to speak to him during that time, nor was he allowed to see her for three weeks afterwards: that the Petitioner was afterwards put into an empty room, where he remained six days without any bed or bedding, save only a handful of straw to lie upon, but no covering of any sort whatsoever but his own clothes that he had on: that on the 16th of July he was removed to York Castle like a felon, and ironed, in which state he was kept during the whole of his confinement, being twenty weeks and two days, five days of which time he was obliged to live in the same place, and sleep in the same room and bed with a man charged and afterwards executed for murder, with no other allowance than that of the prison, namely, bread and sixpence per week for nine weeks: that one <em>Thomas Riley</em>, confined in the same cell with the Petitioner, on a similar charge of a suspicion of High Treason, no doubt in a fit of derangement of mind, brought on by his confinement, cut his throat in the said prison, and on the day following, the Petitioner and another prisoner whom the Petitioner understood to be a convicted felon, were removed unto the very same cell in which the said <em>Riley</em> cut his throat, while the blood of the said <em>Riley</em> was still lying all over the floor, in a hard and congealed state: and the Petitioner and the said other prisoner were compelled to clean the same out with only a mop and broom, which, not being sufficient to remove the said blood, the Petitioner was obliged to scrape and take it up with his hands: that by this treatment his affairs and health are very much injured: to remedy things as far as he was able, he signed on the 5th of December a paper called a recognisance, although unconscious of any offence: wherefore, the Petitioner’s circumstances being in a ruined state, and his health declining, he is led to pray for such relief as to the wisdom of the House shall seem meet: and that the House will cause inquiry to be made into the conduct of those by whom the Petitioner has been so cruelly treated, and will not pass any Bill of Indemnity to screen them from answering at Law for such unjust treatment of the Petitioner.”</p>
 </div>
 <p>Reports of the response of the members of the Livery Committee were widely reported:</p>
 <div class="dropdown admonition">
@@ -440,14 +490,14 @@ Drakard’s Stamford News - Friday 27 February 1818</p>
 <p>After thanks to Messrs. Favell, Waithman, and the lord mayor, the hall was adjourned.</p>
 </div>
 <div class="dropdown admonition">
-<p class="admonition-title">A Commons Hall of the liverymen of London assembled, Marh 1818</p>
+<p class="admonition-title">A Commons Hall of the liverymen of London, March 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0002412/18180301/012/0003">https://britishnewspaperarchive.co.uk/viewer/BL/0002412/18180301/012/0003</a>
 Weekly Intelligence - Sunday 01 March 1818</p>
 <p>COMMUNITY HALL</p>
 <p>On Tuesday, a Commons Hall of the liverymen of London assembled pursuant to a requisition, to petition both Houses of Parliament against any indemnity bill, and against the conduct of administration during the suspension of thy Habeus Corpus Act.</p>
 <p>Mr. FAVELL said there had been many dreadful instances of abuse in the conduct of administration; some, indeed, so dreadful that one could scarcely think of them without shuddering. He was always unwilling to take up the time of the Hall, but there was something that had come to him that day of the most extraordinary and important nature. He alluded to two letters that had been put into hands, the subject of which, he had been told, was to be agitated in Parliament by the noble lard, the member for Yorkshire. [The worthy gentleman then read the following documents:—]</p>
 <p>“Catherine-house, Jan. 26, 1818.</p>
-<p>“My Lord,— I beg leave to lay before your lordship a most distressing case of the widow and family of ten children of the late Thomas Riley, who was, in my opinion, unjustly committed to York Castle in July last, by order of Lord Sidmouth, as stated by B. H. Allen, Esq. but contradicted by my Lord Sidmouth, when questioned afterwards by Mr. Barclay, M.P.; who said he knew nothing against him, although the before—mentioned magistrate had stated to a respectable merchant of Huddersfield, that they had no charge against him there, but that he was ordered to be detained by the Secretary of State tor the Home Department, and committed to prison. At the following assizes his solicitor had prepared his defence, but he was refused a trial, for reasons well known to your lordship, the palladium of British liberty being at that time, and still continuing, suspended. He remained in prison until the seventh of October, when he put a period to his existence by cutting his throat, occasioned by depression of spirits brought on by confinement. Although a petition, numerously and respectably signed by his friends at Huddersfield, and a certificate from his medical attendants accompanying such petition, had been laid before Lord Sidmouth, of the danger of his further confinement, and of his acknowledged industry, and respectability of character and loyalty in his own neighbourhood; and although Mr. Barclay pressed necessity of his liberation upon the noble Secretary, yet his case was neglected, and he could not bear so ignominious incarceration without being allowed an opportunity of exculpating himself from charges yet unknown, and believed never to have existed. Under these circumstances, can I prevail upon your lordship to lay this case before the executive Government of the country, and intercede for some annual assistance, as either the Huddersfield magistrates or the Secretary of State must have been the cause of robbing this family of their present as well of all future prospect of support and protection from their natural parent and guardian. Begging your pardon for this intrusion, I remain, “Your lordship’s most obedient humble servant,<br />
+<p>“My Lord,— I beg leave to lay before your lordship a most distressing case of the widow and family of ten children of the late Thomas Riley, who was, in my opinion, unjustly committed to York Castle in July last, by order of Lord Sidmouth, as stated by B. H. Allen, Esq. but contradicted by my Lord Sidmouth, when questioned afterwards by Mr. Barclay, M.P.; who said he knew nothing against him, although the before—mentioned magistrate had stated to a respectable merchant of Huddersfield, that they had no charge against him there, but that he was ordered to be detained by the Secretary of State for the Home Department, and committed to prison. At the following assizes his solicitor had prepared his defence, but he was refused a trial, for reasons well known to your lordship, the palladium of British liberty being at that time, and still continuing, suspended. He remained in prison until the seventh of October, when he put a period to his existence by cutting his throat, occasioned by depression of spirits brought on by confinement. Although a petition, numerously and respectably signed by his friends at Huddersfield, and a certificate from his medical attendants accompanying such petition, had been laid before Lord Sidmouth, of the danger of his further confinement, and of his acknowledged industry, and respectability of character and loyalty in his own neighbourhood; and although Mr. Barclay pressed necessity of his liberation upon the noble Secretary, yet his case was neglected, and he could not bear so ignominious incarceration without being allowed an opportunity of exculpating himself from charges yet unknown, and believed never to have existed. Under these circumstances, can I prevail upon your lordship to lay this case before the executive Government of the country, and intercede for some annual assistance, as either the Huddersfield magistrates or the Secretary of State must have been the cause of robbing this family of their present as well of all future prospect of support and protection from their natural parent and guardian. Begging your pardon for this intrusion, I remain, “Your lordship’s most obedient humble servant,<br />
 “M.S.<br />
 “Right Hon. Lord Milton, M. P., &amp;c.”</p>
 <p>Such was the substance of the letter which the brother of this unfortunate man had addressed to the member for Yorkshire. The other documents stated, that—</p>
@@ -456,12 +506,12 @@ Weekly Intelligence - Sunday 01 March 1818</p>
 <p>Mr. FAVELL then moved the resolutions.</p>
 <p>Mr. WAITHMAN seconded the resolutions.</p>
 <p>Mr. WOOLER moved a series of resolutions in an amendment.</p>
-<p>Mr. HUNT, in reading the amendment, alluded to the trials at Derby. He would not defend the persons who were engaged in the riots that had taken place in that county; but they were only paupers instigated by the villain Oliver. They might have been convicted, one for murder, some for burglary, and some for robbery; but that would not do—they wanted convictions for high treason. They got the under-sheriff to pack a jury, in order to get them convicted and execated for high treason. Mr. Lockett had canvassed the neighbourhood, and examined who was on the right side and who was not, and then resigned the office of undersheriff, and became solicitor for the prosecution against all law and all justice. He got a jury of who had been terrified with Luddism, that they would have found the men guilty of bigamy had that been the charge against them. After the first verdict, the Judge rose up and said, “Gentlemen, I am very sorry that you have more cases to come before you; but, gentlemen, you have rendered an incalculable service to your country.” He had heard the Judge use those expressions, and a juryman sitting beside him had said, “that’s a pretty good hint to the rest of us, however!” but they were to be betrayed by their own counsel as well as by others: for one of them had promised to move an arrest of judgment which had never been done.</p>
+<p>Mr. HUNT, in reading the amendment, alluded to the trials at Derby. He would not defend the persons who were engaged in the riots that had taken place in that county; but they were only paupers instigated by the villain Oliver. They might have been convicted, one for murder, some for burglary, and some for robbery; but that would not do—they wanted convictions for high treason. They got the under-sheriff to pack a jury, in order to get them convicted and executed for high treason. Mr. Lockett had canvassed the neighbourhood, and examined who was on the right side and who was not, and then resigned the office of undersheriff, and became solicitor for the prosecution against all law and all justice. He got a jury of who had been terrified with Luddism, that they would have found the men guilty of bigamy had that been the charge against them. After the first verdict, the Judge rose up and said, “Gentlemen, I am very sorry that you have more cases to come before you; but, gentlemen, you have rendered an incalculable service to your country.” He had heard the Judge use those expressions, and a juryman sitting beside him had said, “that’s a pretty good hint to the rest of us, however!” but they were to be betrayed by their own counsel as well as by others: for one of them had promised to move an arrest of judgment which had never been done.</p>
 <p>The amendments were put and negatived, and the original resolutions carried almost unanimously.</p>
 <p>It was then agreed that petitions founded on the resolutions should be presented to both houses of Parliament, to the House of Commons by Mr. Alderman Wood, and the other city members were instructed to support the petition.</p>
 <p>The thanks were then given to Mr. Favell and Mr. Waithman, for their services, and to the Lord Mayor for his conduct in the chair, and the Hall broke up.</p>
 </div>
-<p>So what were the actual reaolutions that were moved by Mr. Favell?</p>
+<p>So what were the actual resolutions that were moved by Mr. Favell?</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Stating the Resolutions, March 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0002757/18180301/024/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0002757/18180301/024/0003</a>
@@ -503,7 +553,7 @@ Duckett’s Dispatch - Monday 02 March 1818</p>
 <p>Once the petition was presented to Parliament, the <em>Leeds Intelligencer</em> saw an opportunity to disclose it’s take on the character and suicide of Thomas Riley.</p>
 <p><em>Several editions of the Leeds Mercury over this period are missing from the British Newspaper Archive.</em></p>
 <div class="dropdown admonition">
-<p class="admonition-title">One of the greatest firebrands in the neighbourhood, March 1818</p>
+<p class="admonition-title">A great firebrand of the neighbourhood, March 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003">https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003</a>
 Leeds Intelligencer - Monday 09 March 1818</p>
 <p>In the House of Commons, on Thursday, there was another long debate, in which Lords Lascelles and Milton took part, respecting the proceedings of Ministers under the Habeas Corpus Suspension Act, the employment and character of Oliver, and the allegations of the different persons who have been recently discharged from imprisonment.</p>
@@ -520,7 +570,7 @@ Leeds Intelligencer - Monday 09 March 1818</p>
 <p>A medical gentleman, of Huddersfield, of the first respectability, attended the examination of Riley before the Magistrates, and pronounced him to be of perfectly sound mind.</p>
 <p>But the torments of his guilty conscience could not be endured; and, in York Castle, with a razor purloined from a fellow prisoner, he accomplished the dreadful act of self-destruction, which he had failed to effect at Huddersfield.</p>
 <p>We are in possession of many facts respecting his past life, but we wish not to rake up more than are sufficient to shew the kind of grounds on which Mr. Michael Stocks can prevail on Lord Milton to obtrude  upon Parliament causeless complaints of the conduct of Ministers.</p>
-<p>The fellow-prisoner of Riley, Richard Lee, has lived to send up a string of misrepresentations as to his own treatment. The following documents, being his position, the deposition of Richard Carlson, observations, &amp;c. unveil another of the vile outrages offerred to the dignity and good sense of the Legislature.</p>
+<p>The fellow-prisoner of Riley, Richard Lee, has lived to send up a string of misrepresentations as to his own treatment. The following documents, being his position, the deposition of Richard Carlson, observations, &amp;c. unveil another of the vile outrages offered to the dignity and good sense of the Legislature.</p>
 </div>
 <div class="dropdown admonition">
 <p class="admonition-title">The Leeds Intelligencer says…, March 1818</p>
@@ -528,7 +578,7 @@ Leeds Intelligencer - Monday 09 March 1818</p>
 Royal Cornwall Gazette - Saturday 14 March 1818</p>
 <p>Thomas Riley. — The <em>Leeds Intelligencer</em> says: “In the <em>Mercury</em> we have upwards of a column chiefly respecting Riley, the object of which is to make it appear that that unhappy wretch was unjustly charged with high treason, and that he put an end to his existence in York Castle, on the 7th of October last, not from feelings of conscious guilt, but in consequence of the hardships to which he was subjected by his imprisonment. In reply to all this trash, it is only necessary to state, that before Riley was imprisoned at York, that is, on the day after his apprehension at Huddersfield, in June last, he attempted to hang himself.”</p>
 </div>
-<p>The <em>Intelligencer</em> then reprinted Lee’s petition (as included above), a statement by <em>Richard Carlton</em>, who had shared a cell with Lee and claimed to have been the person who cleared up Riley’s cell, and observations by the clerk to the Hudderfield magistrates, and of Lee’s gaoler at York.</p>
+<p>The <em>Intelligencer</em> then reprinted Lee’s petition (as included above), a statement by <em>Richard Carlton</em>, who had shared a cell with Lee and claimed to have been the person who cleared up Riley’s cell, and observations by the clerk to the Huddersfield magistrates, and of Lee’s gaoler at York.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">The statement of Richard Carlton, March 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003">https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003</a>
@@ -542,7 +592,7 @@ Leeds Intelligencer - Monday 09 March 1818</p>
 Sworn before me, Thomas C. R. Read, one of the visiting Magistrates at the Castle, at York, March 4th, 1818.</p>
 </div>
 <div class="dropdown admonition">
-<p class="admonition-title">Observations by Mr. Allis, Clerk to the Magistrates at Huddersfield, March 1818</p>
+<p class="admonition-title">Observations by the Clerk to the Magistrates, March 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003">https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180309/021/0003</a>
 Leeds Intelligencer - Monday 09 March 1818</p>
 <p>Observations by Mr. Allis, Clerk to the Magistrates, at Huddersfield, on the first part of Richard Lee’s Petition.</p>
@@ -567,7 +617,7 @@ Leeds Intelligencer - Monday 09 March 1818</p>
 <p>Lee looked extremely well when he was discharged.</p>
 </div>
 <div class="dropdown admonition">
-<p class="admonition-title">Lord Lascelle’s comments on Lee’s petition and Burdett’s reply, March 1818</p>
+<p class="admonition-title">Lord Lascelle comments, March 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18180311/017/0004">https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18180311/017/0004</a>
 Sun (London) - Wednesday 11 March 1818</p>
 <p>…</p>
@@ -576,15 +626,14 @@ Sun (London) - Wednesday 11 March 1818</p>
 <p>…</p>
 </div>
 <div class="dropdown admonition">
-<p class="admonition-title">On Lee’s claims being investigated by Magistrates, March 1818</p>
-<p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003</a></p>
-<p>Public Ledger and Daily Advertiser - Wednesday 25 March 1818</p>
+<p class="admonition-title">On Lee’s claims being investigated, March 1818</p>
+<p>In <em>Public Ledger and Daily Advertiser</em>, <a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0001255/18180325/018/0003">Wednesday 25 March 1818</a>.</p>
 <p>RICHARD LEE.— The following account is given in the <em>Leeds Intelligencer</em> of an investigation, at the recent Quarter Sessions, at York, respecting the contents of Richard Lee’s Petition to the House of Commons:—</p>
 <p>“We have more than once alluded to the Petition to the House of Commons of <em>Richard Lee</em>, of Holmfirth, one of the men apprehended under the Suspension Act, in which the Petitioner complains of the injustice of his arrest, and of cruel and vindictive treatment during his imprisonment in York Castle. The deservedly high character of Mr. Staveley, Governor of the Castle, and the well-known excellent management of the prison, were alone sufficient to repel the aspersions of <em>Lee</em>. But, we are happy to state, that <em>Lee</em> himself has been personally examined, and that the result has been that of indelibly stamping the allegations of his Petition as false. At the General County Sessions, holden on the 12th inst. at York, it was agreed upon by above 70 Magistrates, that a Committee should be appointed for the purpose of thoroughly investigating the case. He accordingly appeared, in consequence of notice sent to him express, before 15 Magistrates, who assembled at the Castle on Monday last; and who in vain endeavoured to draw from him any charge against Mr. Staveley, or against the worthy Gentleman’s management of the prison, or any complaint as to the treatment received by himself while in his custody. In the face of the audacious assertions contained in his own Petition, he now denied that he had ever made any complaint against Mr. Staveley, or that he had any complaint to offer.— Scarce any other answer to questions could be obtained from him, but that his complaint was against those who had caused his imprisonment, <em>who were not there to vindicate themselves</em>, and not against Mr. Staveley, who <em>had the means of refuting his former assertions</em>. The Magistrates, very properly, were not satisfied with those answers, but proceeded, notwithstanding, to a most strict and careful examination of the most minute charges contained in the Petition.—The result was the utter confusion of Lee, who cut a most despicable figure during the examination, it being ascertained beyond a doubt, that his treatment had been in every respect humane—and that the only step taken for the security of his person, had been to put a single iron upon one of his legs—a precaution which the exposed situation of the gaol rendered indispensable.</p>
 </div>
-<p>The full editorial provided in the <em>Leeds Intellgencer</em> of <a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180323/018/0003">Monday 23 March 1818</a> was also reprinted in the London press:</p>
+<p>The full editorial provided in the <em>Leeds Intelligencer</em> of <a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/BL/0000268/18180323/018/0003">Monday 23 March 1818</a> was also reprinted in the London press:</p>
 <div class="dropdown admonition">
-<p class="admonition-title">Another take on the Intelligencer’s report of Lee’s Meeting with the Magistrates, March 1818</p>
+<p class="admonition-title">Another take on the Intelligencer’s report, March 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18180324/008/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18180324/008/0003</a>
 Sun (London) - Tuesday 24 March 1818</p>
 <p>PARLIAMENTARY PETITIONERS.</p>
@@ -595,7 +644,7 @@ Sun (London) - Tuesday 24 March 1818</p>
 <p>“Though the deservedly high character of Mr. Stavely, Governor of the Castle, and the well-known excellent management of the prison, were alone sufficient to repel the aspersions of Lee, we accompanied the publication of his petition with several documents, which completely proved the falsehood of his allegations.</p>
 <p>“It having been insinuated, however, by some, that the evidence was all on one side, we are happy to state that Lee himself has been personally examined, and that the result has been that of indelibly stamping the allegations of his petition as false.</p>
 <p>“At the General County Sessions, holden on 12th inst. at York, it was agreed upon, by above seventy Magistrates, that a Committee should be appointed, for the purpose of thoroughly investigating his case. He accordingly appeared, in consequence of notice sent to him express, before 15 Magistrates, who assembled at the Castle on Monday last; and who in vain endeavoured to draw from him any charge against Mr. Stavely, or against that worthy gentleman’s management of the Prison, or any complaint as to the treatment received by himself while in his custody. In the face of the audacious assertions contained in his own petition, he now denied that he had ever made any complaint against Mr. Stavely, or that he had any complaint to offer: Scarce any other answer to questions could be obtained from him, but that his complaint was against those who caused his imprisonment, who were not there to vindicate themselves, and not against Mr. Stavely, who had the means of refuting his former assertions. The Magistrates, very properly, were not satisfied with those answers, but proceeded, notwithstanding, to a most strict and careful examination of the most minute charges contained in the Petition.</p>
-<p>“The result was to the utter confusion of Lee, who cut a most despicable figure during the examination, it being ascertained beyond a doubt, that his treatment had been in every respect humane—” and that the only step taken for the security of his person had been to put a single iron upon one of his legs, a precaution which the exposed situation of the gaol rendered indispensable.</p>
+<p>“The result was to the utter confusion of Lee, who cut a most despicable figure during the examination, it being ascertained beyond a doubt, that his treatment had been in every respect humane—“and that the only step taken for the security of his person had been to put a single iron upon one of his legs, a precaution which the exposed situation of the gaol rendered indispensable.</p>
 <p>“Thus it is with the cases of those worthy <em>Patriots</em> when their vile fabrications are put to the  test. Contemptible as the men themselves are, we think the Members of the Legislature who have condescended to re-echo their falsehoods within the walls of Parliament have debased themselves still lower.”</p>
 </div>
 <section id="the-case-of-benjamin-whiteley">
@@ -659,7 +708,7 @@ Leeds Intelligencer - Monday 30 March 1818</p>
 </div>
 <div class="seealso admonition">
 <p class="admonition-title">The Frank Ward Libel</p>
-<p>Frank Ward was accused in a report of November, 1817, of having been a potential leader in the supposed national revolt of which the Derbyshre uprising played a part earlier that year. Ward prosecuted a libel case against the publisher in January, 1819, and was successful in his claim.</p>
+<p>Frank Ward was accused in a report of November, 1817, of having been a potential leader in the supposed national revolt of which the Derbyshire uprising played a part earlier that year. Ward prosecuted a libel case against the publisher in January, 1819, and was successful in his claim.</p>
 </div>
 <div class="dropdown admonition">
 <p class="admonition-title">A correction follows, April 1818</p>
@@ -673,8 +722,7 @@ Leeds Intelligencer - Monday 06 April 1818</p>
 <p>Following the presentation of his petition, William Staveley, the gaoler at York Castle, felt compelled to publicly deny some of the claims made in it against him:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">In refutation of a character attack, April 1818</p>
-<p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180418/007/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180418/007/0003</a></p>
-<p>York Herald - Saturday 18 April 1818</p>
+<p>In <em>York Herald</em>, <a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180418/007/0003">Saturday 18 April 1818</a>.</p>
 <p>To the Editor of the York Herald,</p>
 <p>Sir,<br />
 My numerous friends being very desirous to know the result of the Investigation that has lately taken place in consequence of Richard Lee’s petition to the House of Commons, I hope I shall not be thought of acting improperly, to intrude upon the public, in refutation of the vile attack on my character, by stating, that upon the conclusion of the personal inquiry of the said Richard Lee, by the Committee of Magistrates deputed for that purpose, the Chairman read to me, by their desire, the Report they were about to make, and which as far as my memory serves, was in substance, that they were unanimously of opinion, that no blame whatever attached to me or any of those under my orders, but that considering the important duty I had to perform, the treatment of Richard Lee, in York Castle, was in every respect humane and proper. I hope I may also be further allowed to state, that Richard Lee, in my hearing (during his examination), declared to the Magistrates that he had no complaint whatever to make against me, nor did he ever mean to do so, although the Copy of his Petition was at that time read over to him.</p>
@@ -710,7 +758,7 @@ MONDAY APRIL 20</p>
 <p>Richard Lee, one of the men recently confined in York Castle, under the Suspension Act, the falsehood of whose petition to Parliament we irrefragably established, by the publication of official documents, has endeavoured to palm a wretched case, in his own favour, upon the Public, which has evidently been drawn up by some one of the skulking Traitors, whose chief employment is to manufacture sham petitions for Reform, and to excite disaffection and outrage in the country.— Even the Leeds Mercury seems to have been conscious that this miserable document had not a leg to stand upon, or, instead of its publication being postponed for so long a time, under the pretence of want of room, there can be no doubt that it would have been ushered forth with all the pomp and ceremony, and all the precipitate haste and malignant zeal, with which every attempt to revile the Government or their Officers, is transmitted through the columns of that disaffected journal.</p>
 <p>On Lee’s own shewing, or rather on the shewing of the person, who has perhaps <em>paid</em> Lee for permission to use his name, and who we strongly suspect resides not far from Briggate, in this town, it is evident he has nothing to offer against the testimony of the Magistrates at Huddersfield, of their Clerk, Mr. Allison, of the persons upon whose oaths Lee was apprehended, of the officers by whom he was taken and kept in custody at Huddersfield, of the Committee of fifteen Magistrates by whom his case was investigated, of Mr. Staveley, and of his deputy, Mr. Wilson, of the respectable solicitor from his own neighbourhood, and of Captain Moorhouse, of the Under Turnkey, Minton, and even of his fellow prisoner Carlton, &amp;c. &amp;c.—that he has nothing to offer against all this evidence <em>but his own unsupported assertion</em>—and what his assertion is worth has been long since proved.</p>
 <p>The fact is, the attempt would be too contemptible for notice, were it not that the more contemptible the parties and occasions are which furnish grounds of attack upon Government, the more congenial do they seem to the grovelling malignity of jacobinism. It is on this account only, that we join in Mr. Staveley’s wish that this fellow’s case, however despicable, should be again brought before Parliament, in order that the infamy of the calumniators, who secretly circulate their poison in his name, may be complete:—We beg to refer our Readers to two letters from Mr. Staveley, in this day’s paper, one in the front page,—the other in a subsequent column.</p>
-<p><em><code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">letter</span> <span class="pre">referred</span> <span class="pre">to</span> <span class="pre">as</span> <span class="pre">being</span> <span class="pre">on</span> <span class="pre">the</span> <span class="pre">front</span> <span class="pre">page</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Intelligencer</span> <span class="pre">was</span> <span class="pre">a</span> <span class="pre">duplicate</span> <span class="pre">of</span> <span class="pre">Staveley's</span> <span class="pre">letter</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">editor</span> <span class="pre">of</span> <span class="pre">the</span>&#160; <span class="pre">York</span> <span class="pre">Herald</span> <span class="pre">on</span> <span class="pre">Saturday</span> <span class="pre">18</span> <span class="pre">April</span> <span class="pre">1818,</span> <span class="pre">albeit</span> <span class="pre">this</span> <span class="pre">time</span> <span class="pre">addressed</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">editor</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Leeds</span> <span class="pre">Intelligencer.</span></code></em></p>
+<p><em><code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">letter</span> <span class="pre">referred</span> <span class="pre">to</span> <span class="pre">as</span> <span class="pre">being</span> <span class="pre">on</span> <span class="pre">the</span> <span class="pre">front</span> <span class="pre">page</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Intelligencer</span> <span class="pre">was</span> <span class="pre">a</span> <span class="pre">duplicate</span> <span class="pre">of</span> <span class="pre">Staveley's</span> <span class="pre">letter</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">editor</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">York</span> <span class="pre">Herald</span> <span class="pre">on</span> <span class="pre">Saturday</span> <span class="pre">18</span> <span class="pre">April</span> <span class="pre">1818,</span> <span class="pre">albeit</span> <span class="pre">this</span> <span class="pre">time</span> <span class="pre">addressed</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">editor</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Leeds</span> <span class="pre">Intelligencer.</span></code></em></p>
 </div>
 <p>Lee, in turn, felt compelled to respond to Staveley’s letter:</p>
 <div class="dropdown admonition">
@@ -728,10 +776,9 @@ RICHARD LEE.</p>
 </div>
 <p>It seems, however, that Lee’s testimony did not necessarily have the support of the local clergy:</p>
 <div class="dropdown admonition">
-<p class="admonition-title">The vilest ingratitude and an alleged innocency of conduct, April 1818</p>
-<p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180427/026/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180427/026/0003</a></p>
-<p>Leeds Intelligencer - Monday 27 April 1818</p>
-<p>Also in : <a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180502/016/0004">https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180502/016/0004</a> York Herald - Saturday 02 May 1818</p>
+<p class="admonition-title">The vilest ingratitude, April 1818</p>
+<p>In <em>Leeds Intelligencer</em>, <a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180427/026/0003">Monday 27 April 1818</a>.</p>
+<p>Also in: <a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180502/016/0004">https://britishnewspaperarchive.co.uk/viewer/bl/0000498/18180502/016/0004</a> York Herald - Saturday 02 May 1818</p>
 <p>To the Editor of the Leeds Intelligencer.</p>
 <p>Sir—With considerable pain and indignation, I have of late perused the several publications in the columns of the Leeds Mercury, with the names of Richard Lee, and Benjamin Whiteley, affixed to them, who are residents in my parish, at Holmfirth, which certainly tend not only to mislead, but also to inflame, the public mind against his Majesty’s Government, and to the manifest prejudice of individuals who are attached to it. Nothing short of an imperious sense of my public duty could induce me to meddle in an affair of this nature, which, otherwise, would prove extremely adverse to my feelings, and be incompatible with that forbearance, which it peculiarly becomes a clergyman to practise. The facts I am about to relate, I am ready also to substantiate by oath, should I be legally required so to do; therefore I will not be tempted to notice, much less to answer, any comment thereon, that may be made by the aforesaid Richard Lee, Benjamin Whiteley, or their co-adjutors.—First, to the case of Richard Lee.</p>
 <p>A few days previous to his liberation from York Castle, his wife called on me to request I would write to my Lord Sidmouth in behalf of her husband, that he might be one of the first of the State Prisoners, whom his Majesty’s Government proposed to liberate. I positively refused to interfere in an affair, in which I could have no influence, and added, independently of this objection, I knew Richard Lee her husband’s conduct to have been so very reprehensible, that I was determined to have nothing to do with him, directly or indirectly. She in reply observed, I had no need to be afraid of appearing her husband’s friend, since the Governor of York Castle (wherein he was then confined) had formed a very favourable opinion of him, from his uniform good behaviour within the walls, treated him with great kindness, and <em>(mark what follows)</em> even had promised to write in conjunction with the Chaplain of the Prison, to Lord Sidmouth, in his <em>behalf</em> and <em>commendation</em>, or in words to this effect. Now, if this representation made by his wife, of the indulgent and compassionate treatment he experienced in York Castle, be compared with Mr. Staveley’s statement of the same (as it appears in your weekly paper of 20th inst.) of whom I have not the slightest knowledge, but by name, they do so intimately correspond and assimilate, that I think the veracity of Richard Lee’s petition to the House of Commons, complaining of ill treatment, when in the Castle of York, must fall to the ground; not only so, but also in the opinion of every upright man, must impute to him the vilest ingratitude to his benefactors. And with respect to Richard Lee’s alleged innocency of conduct, let the following tale suffice, which designates the man in his proper colours.</p>
@@ -746,7 +793,7 @@ Holmfirth, April 23, 1818</p>
 </div>
 <p>But just as William Keeling took issue with Richard Lee, Richard Lee in turn took issue with that curate from Holmfirth:</p>
 <div class="dropdown admonition">
-<p class="admonition-title">The busiest mortal alive, in sowing discord and strife. May 1818</p>
+<p class="admonition-title">Sowing discord and strife, May 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18180509/014/0004">https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18180509/014/0004</a>
 Leeds Mercury - Saturday 09 May 1818</p>
 <p>To the EDITOR of the LEEDS MERCURY.</p>
@@ -762,9 +809,9 @@ Leeds Mercury - Saturday 09 May 1818</p>
 <p>I am Sir, your obedient Servant,<br />
 RICHARD LEE.</p>
 </div>
-<p>The final word on the matter that I have found to date seems to side <em>against</em> Richard Lee. But then, we might expect nothing less of an aliased correspondent in the <em>Leeds Intelligenecer</em>:</p>
+<p>The final word on the matter that I have found to date seems to side <em>against</em> Richard Lee. But then, we might expect nothing less of an aliased correspondent in the <em>Leeds Intelligencer</em>:</p>
 <div class="dropdown admonition">
-<p class="admonition-title">Master-pieces of falsehood and misrepresentation?, May 1818</p>
+<p class="admonition-title">Falsehood and misrepresentation? May 1818</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180518/022/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0000268/18180518/022/0003</a>
 Leeds Intelligencer - Monday 18 May 1818</p>
 <p>To the Editor of the Leeds Intelligencer.</p>
@@ -822,15 +869,17 @@ Leeds Intelligencer - Monday 18 May 1818</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-case-of-benjamin-whiteley">The Case of Benjamin Whiteley</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#and-the-case-of-thomas-riley">And the Case of Thomas Riley</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lee-s-case-continues-to-generate-interest">Lee’s Case Continues to Generate Interest</a></li>
@@ -858,7 +907,7 @@ By Tony Hirst
 
   <p class="copyright">
     
-      © Copyright 2024.
+      © Copyright 2024-2026.
       <br/>
     
   </p>
@@ -882,8 +931,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="../_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>
