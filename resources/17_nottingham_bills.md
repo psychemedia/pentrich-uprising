@@ -7,6 +7,17 @@ But as the frame-breaking outbreaks continued through the first few weeks of 181
 More severe punishments for the act of frame-breaking itself were also called for, under the argument that this would act as a deterrent. For men found guilty of frame-breaking, which was classed as a simple felony, the maximum sentence that could be applied was transportation; but if it could be proven that the men had entered with an intention of burglary, then the penalty was a capital one. And the capital sentence was now being sought for frame-breaking in its own right.
 
 
+https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0001100%2F18120110&page=4&article=044&stringtohighlight=framebreaking
+
+Nottingham Review
+10 January 1812
+
+The night before out last paper went to press a frame was broken neat Wollaton Toll-bar; the iron work of which was cast into the canal. On Friday evening nine were broken at Basford, and another was destroyed at three o'clock the next afternoon, in the same village. On the same afternoon, two were broken at Bulwell, while they were about to be removed to Nottingham, as a place of greater security; where numbers of frames continue to be brought in from the country villages, on the same account. On Saturday night seven frames were broken at Huchnall Torkard; and the iron works of two of them were carried clean away. The same evening one lace frame was broken on Pomfret-street, and one of the same kind in Earl-street, in Nottingham; and on Sunday morning at six o'clock, two other large frames were broken in Old-street; and when the depredators had done their work, they fired off four pistols or muskets, in open defiance of the civil power. These four frames belonged to a person, who, we understand, has been in the lawless practice of paying his workmen partly in goods, and had thus excited indignation.
+
+On Sunday night two frames were broken at Old Radford; and on Monday night thirteen more at the same place. And, we understand, that five have been broken at Arnold during the course of the week. Outrageous as this practice is, it falls far short in moral turpitude to that of setting fire to property, which, from its exposed situation, is impossible to be protected. A stack containing twenty tons of valuable hay, was, we understand, set fire to at Mansfield on Sunday evening: the flames of which drew a part of a congregation from the Methodist chapel in that place, during divine service. And on Wednesday evening a large wooden hovel containing a quantity of straw, the property of Mrs. Daykin of Bagthorpe, was set fire to as Basford, the whole of which was consumed. We cannot record these circumstances without feeling the utmost horror and indignation; dreading the consequences which may ensue from men being inured to such crimes. Much might be said here about the cause, but we forbear; though we cannot help dreading a return of the days of Richard II. `[TH: is that the Peasants' Revolt?]`
+
+The frame breaking at Basford on Friday night produced results which have created considerable sensation. An elderly woman, the wife of a person who held seven of these Frames, has sworn to several persons, as being concerned in the outrage; (two of whom are committed,) on which account, such was the indignation excited against her among some of the stocking-makers of Basford, that it was judged expedient to remove the family with their furniture, escorted by the military, to Nottingham, as a place of refuge, lest they should fall a sacrifice to the vengeance of the rioters.
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002646/18120130/017/0003
 Star (London) - Thursday 30 January 1812
 
@@ -55,7 +66,7 @@ WE, the under-signed Workmen of the above-named George Ball, do hereby certify, 
 
 TO DO
 
-40 Gauge, Maid's, Single Shape, 29 Shillings Thos. Raw :Jar. Two-plain, per Dozen. Mr. Braithwaite. - - 36 Gauge, Men's, Single Shape,l 29 Shillings IJ. Jackson George Ball. Ner. Two-plan, per Dozen, - 38 Gauge, Maid's, I E: Ge Single Shape, 26 Shillings T. Naylor orge Ball. Nar. 'Two-ylain, per Dozen, N. The other two Frames were worked to another Hosier, bu, et the full Price•
+40 Gauge, Maid's, Single Shape, 29 Shillings Thos. Raw :Jar. Two-plain, per Dozen. Mr. Braithwaite. - - 36 Gauge, Men's, Single Shape, 29 Shillings IJ. Jackson George Ball. Ner. Two-plan, per Dozen, - 38 Gauge, Maid's, I E: Ge Single Shape, 26 Shillings T. Naylor orge Ball. Nar. 'Two-ylain, per Dozen, N. The other two Frames were worked to another Hosier, bu, et the full Price•
 
 THOMAS REW. JOHN JACKSON. THOMAS NAYLOR, Nottingham, 25th January, 1812.
 
@@ -495,3 +506,24 @@ No. 5. — Statement, by the Framework-Knitters, of the Grounds of their petitio
 No. 6. — Schedule of Plain Silk Stockings - - - - - - "P-%-
 
 TO DO - lots of pages of evidence
+
+
+---
+https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0001100%2F18131210&page=4&article=054&stringtohighlight=framebreaking
+Nottingham Review
+
+10 December 1813
+
+Our readers will see, by our parliamentary report, that the punishment proposed to be inflicted for frame-breaking, by the bill, which has just passed the House of Commons, is converted from death into transportation for life, with a power in the hands of the Judge to mitigate the punishment to seven years' transportation.
+
+
+https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0001100%2F18131210&page=2
+Nottingham Review
+
+10 December 1813
+
+Framework Knitters Bill
+
+The further consideration of the Report of the Bill having been moved by Mr. H. Addington.
+
+TO DO LOTS
