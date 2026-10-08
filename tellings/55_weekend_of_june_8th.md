@@ -9,8 +9,7 @@ The June 7 1817 edition of the *Leeds Mercury* is not available in the British N
 
 ```{admonition} Rumours of threatened insurrection, June 1817
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18170610/035/0004
-Morning Herald (London) - Tuesday 10 June 1817
+In *Morning Herald (London)*, [Tuesday 10 June 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18170610/035/0004).
 
 The *Leeds Mercury* of Saturday, states the detection of a Conspiracy in the West Riding of Yorkshire, and the arrest of ten persons near Dewsbury, charged with treasonable practices, as will be seen by the following letter:
 
@@ -24,8 +23,7 @@ The information relating to the time of meeting, anti the objects contemplated b
 
 ```{admonition} Presuming reports to be correct, June 1817
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002785/18170610/027/0004
-Commercial Chronicle (London) - Tuesday 10 June 1817
+In *Commercial Chronicle (London)*, [Tuesday 10 June 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0002785/18170610/027/0004).
 
 [In the report of the STATE TRIALS]
 
@@ -46,8 +44,7 @@ The Camnbridge Chronicle of Friday, June 13, carried a piece by the *Leeds Intel
 
 ```{admonition} Rumours by persons in official situations, June 1817
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000420/18170613/005/0002
-Cambridge Chronicle and Journal - Friday 13 June 1817
+In *Cambridge Chronicle and Journal*, [Friday 13 June 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000420/18170613/005/0002).
 
 LEEDS, SATURDAY JUNE 7.
 
@@ -72,7 +69,7 @@ A more comprehensive report of events from the week before appeared in the *Leed
 
 ```{admonition} Projected Insurrection in Yorkshire, June 1817
 :class: dropdown
-[Leeds Mercury - Saturday 14 June 1817](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003)
+In *Leeds Mercury*, [Saturday 14 June 1817](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18170614/006/0003).
 
 PROJECTED INSURRECTION IN YORKSHIRE
 

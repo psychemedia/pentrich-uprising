@@ -257,7 +257,7 @@ God Save the King.
 :class: dropdown
 In *The Daily Gazetteer*, [1736-04-22: Iss 256](https://archive.org/details/sim_daily-gazetteer_1736-04-22_256/mode/2up?q=riot+ledbury).
 
-Worcester, Aprilig. This Day William Bithell and William Morgan, who were condemn'd for cutting down the Turnpikes at Ledbury in Herefordthire, were executed here. Morgan died a Papist. The Sheriff being apprehenfive ot fome Difturbance, desired that a Detachment of the Soldiers quartered in this Place might be present to assist him in keeping the Peace; and he was accordingly attended by a Captain and Eighty Men. There was not the least Insult offered, most of the Spectators were Women; and the great Quietness at this Execution was owing to the Conduct of the married Women, who had the Prudence to prevail with their Husbands to stay at Home. There was a great Alarm of Numbers of Forest Men that would do mighty Feats; but the Report and the Men vanish'd together. THe Night the Judges went away, about a Dozen Fellows went through the principal Parts of this City, and endeavour'd to get a Mob together; but they were not join'd by one Person, and upon this Disappointment soon separated. We haev been in perfect Peace, and hope, from these Examples, to continue so.
+Worcester, April 19. This Day William Bithell and William Morgan, who were condemn'd for cutting down the Turnpikes at Ledbury in Herefordshire, were executed here. Morgan died a Papist. The Sheriff being apprehensive ot some Disturbance, desired that a Detachment of the Soldiers quartered in this Place might be present to assist him in keeping the Peace; and he was accordingly attended by a Captain and Eighty Men. There was not the least Insult offered, most of the Spectators were Women; and the great Quietness at this Execution was owing to the Conduct of the married Women, who had the Prudence to prevail with their Husbands to stay at Home. There was a great Alarm of Numbers of Forest Men that would do mighty Feats; but the Report and the Men vanish'd together. THe Night the Judges went away, about a Dozen Fellows went through the principal Parts of this City, and endeavour'd to get a Mob together; but they were not join'd by one Person, and upon this Disappointment soon separated. We haev been in perfect Peace, and hope, from these Examples, to continue so.
 
 Thomas Hale, who received sentence of Death at the same Time with Bithell and Morgan, is reprieved for Transportation.
 ```
@@ -275,8 +275,9 @@ At the Assizes which ended yesterday se'nnight at Worcester, the three following
 
 TO DO - any more on William Bithell, Thomas Hall, William Morgan
 
+Relevant clause in the Black Act:
 
-if any person or persons, ..., being armed with swords, fire-arms, or other offensive weapons, and having his or their faces blacked, or being otherwise disguised, shall appear ... in any high road, open heath, common or down
+> if any person or persons, ..., being armed with swords, fire-arms, or other offensive weapons, and having his or their faces blacked, or being otherwise disguised, shall appear ... in any high road, open heath, common or down
 
 ## The Trial and (Half-)Execution of Thomas Reynolds
 
@@ -296,6 +297,50 @@ In *Kentish Weekly Post or Canterbury Journal*, [Tuesday, 10 July 1736](https://
 
 Yesterday came on in the Court of King's-Bench, Westminster, by a Special jury, the Trial of James Baylis and Thomas Reynolds, who were accus'd some time since of pulling down and destroying Ledbury Turnpikes in the County of Hereford; but they were not tried particularly for that Crime, but on the Black Act, for going in Disguise, and arm'd with Offensive Weapons, contrary to the said Act; and several Witnesses being produced and examined, which gave a satisfactory Account to the Court, the Jury, after a Trial of four Hours, found them guilty, and accordingly they were remanded back to Newgate; and on Saturday next they are to be brought up, in order to receive Sentence.
 ```
+
+```{admonition} TO DO
+:class: dropdown
+In *The Gentleman's Magazine*, 1736-04: Vol 6 Iss 4, [p229](https://archive.org/details/sim_gentlemans-magazine_1736-04_6_4/page/228/mode/2up).
+
+Historical Chronicle, 1736.
+
+April.
+
+Friday, 9
+
+Worcefter for cutting down, in Company
+*Wm. Bithell* and *Wm. Morgan*, were Hang'd at *Worcester* for cutting down, in Company with other Rioters, *Ledbury* Turnpikes. *Morgan* died a Papist. The Turnpike Levellers having been very Tumultuous at the Trial, a Party of Soldiers attended the Execution; on which it pass'd without Disturbance.
+
+```
+
+```{admonition} TO DO
+:class: dropdown
+In *The Gentleman's Magazine*, 1736-06: Vol 6 Iss 6, [https://archive.org/details/sim_gentlemans-magazine_1736-06_6_6/page/352/mode/2up](p353).
+
+Historical Chronicle, 1736.
+
+June.
+
+Monday, 7.
+
+The Grand Jury for the County of *Middlesex* found a Bill of Indictment against *James Bayley* and *Tho. Reynolds*, on the *Black Act*, for going arm'd and disguis'd, and cutting down Ledbury Turnpike. See p. 229, E.
+
+```
+
+```{admonition} TO DO
+:class: dropdown
+In *The Gentleman's Magazine*, 1736-07: Vol 6 Iss 7, [p422](https://archive.org/details/sim_gentlemans-magazine_1736-07_6_7/page/422/mode/2up).
+
+Historical Chronicle, 1736.
+
+July.
+
+Monday, 26.
+
+One *Reynolds*, a Turnpike Leveller, condemn’d with *Bayley* on the 10th (See p. 353.) (on the Act against going arm'd and disguised) was hang'd at *Tyburn*. He was cut down by the Executioner as usual, but as the Coffin was fast'ning he thrust back the Lid, upon which the executioner would have tyed him up again, but the Mob prevented it, and carried him to a House where he vomited three Pints of Blood, but on giving him a Glass of Wine, he died. *Bayley* was repriev'd.
+...
+```
+
 
 ```{admonition} TO DO
 :class: dropdown
