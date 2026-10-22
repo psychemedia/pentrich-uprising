@@ -369,6 +369,38 @@ The criminal records of Yorkshire do not perhaps afford an instance of so many v
 ```
 
 
+https://archive.org/details/30105586.1809.emory.edu/page/n23/mode/2up?q=%22Behold+the+Saviour+of+Mankind%22
+A pocket hymn book for the use of Christians of all denominations [microform]
+by Wesley, John, 1703-1791. EMU10000113681
+
+Publication date 1809
+
+p21-2
+
+*Describing; the Goodness of God*
+
+HYMN 17. *[Fetter-Lane, C. M.*
+
+1 BEHOLD the Saviour of Mankind,  
+Nail’d to the shameful tree!  
+How vast the love that him inclin'd  
+To bleed and die for thee!
+
+2 Hark, how he growns! while nature shakes,  
+And earth’s strong-pillars bend!  
+The temple's veil in sunder breaks,  
+The solid marbles rend.
+
+3 'Tis done; the precious ransom’s paid,  
+"Receive my soul," he cries!  
+See where he bows his sacred head!  
+He bows his head and dies.
+
+4 But soon he'll break Death’s envious chain,  
+And in full glory shine:  
+O Lamb of God! was ever pain,  
+Was ever love like thine!
+
 
 In *Sussex Advertiser*, [Monday 25 January 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000263/18130125/012/0004).
 
@@ -445,7 +477,6 @@ Joseph Brook - burglary against Benjamin Strickland, October 4th.
 Samuel Booth, George Brook, George Lodge, and Joshua Schofield [along with George Mellor, Thomas Smith, William Thorpe, Jonathan Dean, and John Walker] broken frames at Linley of John Hirst and James Balderstone on 23rd of February
 
 Jambs Varley, Joseph Thornton, George Brooks, George Beaumont, Abraham Armitage, Samuel Haigh, Benjamin Hinchliffe, John Taylor and Robert Fitton, + Gorge Mellor, breaking into WIlliam Newton, Foolstone
-
 
 
 *[Letter from Attentive Hearer dates Leeds, Jan. 9, 1812.]*
