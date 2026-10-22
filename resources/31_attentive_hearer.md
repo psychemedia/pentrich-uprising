@@ -69,7 +69,7 @@ In *Nottingham Gazette*, [Friday 15 January 1813](https://britishnewspaperarchiv
 
 TO DO includes reference to reading things in newspaper (in trial transcript?)
 
-eg conversations of the most inflammatory lind passed with respect to the transactions at Nottingham, which these men were unfortunately in the habit of *reading in the* NEWSPAPERS, and attack upon Mr. Cartwright's mill, which some persons were 
+eg conversations of the most inflammatory kind passed with respect to the transactions at Nottingham, which these men were unfortunately in the habit of *reading in the* NEWSPAPERS, and attack upon Mr. Cartwright's mill, which some persons were 
 
 ...
 
