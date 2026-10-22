@@ -226,6 +226,13 @@ At Nottingham assizes, William Carnel, aged 22, and Joseph Maples, aged 16, for 
 
 Sentenced to transportation, the Maples, and Carnell, along with several others under similar sentence, were transported off to the hulks.
 
+```{admonition} Taking leave with utmost anxiety, April 1812
+:class: dropdown
+In *Nottingham Review*, [Friday, 3 April 1812](https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0001100%2F18120403&page=4&article=045&stringtohighlight=gervas+marshall).
+
+It was learnt, late on Sunday evening, that Benjamin Hancock, William Carnel, Joseph Maples, and Joseph Perk, transported for fourteen years at the late Assizes for frame-breaking, and Gervas Marshall, Robert Poley, and George Green, transported for seven years for a like offence, were to be sent away early on Monday morning. Their friends pressed with the utmost anxiety to take their leave of them; and on Monday morning at six they were conducted away by Mr. Wright, Gaoler, and Parks, Atkins and three other Bow-street officers; the whole being escorted by a Serjeant and twelve hussars.
+```
+
 ```{admonition} At an early hour, April 1812
 :class: dropdown
 In *Nottingham Journal*, [Saturday 04 April 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002131/18120404/016/0003).
