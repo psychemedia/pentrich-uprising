@@ -55,6 +55,28 @@ TO DO
 
 ```{admonition} TO DO
 :class: dropdown
+In *Nottingham Journal*, [Saturday, 29 February 1812](https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0002131%2F18120229&page=3&article=016&stringtohighlight=john+slaney).
+
+On the 13th inst. John Slaney, of Basford, framework knitter, was committed to the county gaol, to take his trial at the ensuing assizes, on a charge of wickedly and unlawfully soliciting and inciting two soldiers in the Royal Berks militia, to break and destroy a certain frame, used in the hosiery manufactory, at the parish of Basford aforesaid, on the 27th of January last, without the consent of the owners thereof.
+```
+
+```{admonition} TO DO
+:class: dropdown
+In *Nottingham Journal*, [Saturday, 21 March 1812](https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0002131%2F18120321&page=3&article=009&stringtohighlight=francis+betts).
+
+The trials of the felon prisoners commenced on Monday at the County Hall, and such was the interest excited in the fate of the persons accused of riot and frame-breaking, that the Court and avenues were crowded each day almost to suffocation. The Grand Jury having returned a true bill of indictment against Wm. Carnel, aged 22, and Joseph Maples, aged 16, for entering by force into the dwelling house and shop of John Braithwaite, at Basford, on the 3d of January last, and therein breaking and destroying seven stocking frames, they were put upon their trials, and after a patient hearing, were found guilty. The Judge explained the law of the case, which applied equally to the cases of all the other prisoners, namely, that should the Jury be of opinion that if the prisoners entered the house with violence for the purpose of frame breaking only, the crime amounted to simple felony; but if they were of opinion they had entered the premises with other designs, and that they had done other damage, then the offence was capital. The Jury brought in a verdict, finding the prisoners guilty of framebreaking, and they were both sentenced to 14 years transportation.—Two enter prisoners, viz. Benjamin Hancock, aged 21, and Joseph Peck, aged 17, for riot and framebreaking, at Sutton-in-Ashfield received a similar sentence. Gervas Marshall, aged 17, George Poley, aged 16, and George Green (the latter a prisoner on bail), for framebreaking, at Sutton aforesaid, were sentenced to 7 years transportation each.—William Barnes, indicted for breaking two stocking frames, at Basford, and John Osborne, for breaking one frame at Eastwood, were found not guilty;— William Bellamy, charged with unlawfully entering the dwelling house of Francis Betts, at Sutton in Ashfield, in company with many other persons, and stealing from thence, one quart bottle of elder wine; John Bradbury, charged with disturbing the King's peace; and John Godfrey, charged with unlawfully inciting persons to destroy stocking frames, at Arnold, were severally delivered by proclamation.—John Clarke, and Wm. Fell, charged with riotously disturbing the King's peace; and John Slaney, charged with unlawfully soliciting and inciting two soldiers in the Royal Berks militia, to break a stocking frame at Basford, severally entered into recognizance to try their traverses at the next Assizes.
+
+...
+
+We understand that the Commission of Appeal still remains open, and will continue so for an indefinite period, that in case of any further disturbance in this town or neighbourhood, the Judge may immediately come down, and administer summary justice on the delinquents.
+
+While we express our deep concern at being compelled to record the numerous offences committed by many of the misguided inhabitants of this county, we feel real satisfaction in being enabled to state, that on Tuesday the 17th inst. the Lord Lieutenant, attended by a number of highly respectable Noblemen and Gentlemen, who had assembled at the Assizes with a determination to use every endeavour for preserving the peace, communicated to Mr. Stevens, of Mansfield. the determination of the Committee to request his acceptance of a Piece of Plate, value one hundred guineas, as a testimony of approbation for his commendable zeal and indefatigable exertions in aiding the Civil Power during the late disturbances.—It is earnestly to be wished, that this tribute, conferred on meritorious services, will stimulate others to equal deserves.
+
+```
+
+
+```{admonition} TO DO
+:class: dropdown
 
 In *Star (London)*, [Saturday 28 March 1812](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18120328/014/0003).
 
