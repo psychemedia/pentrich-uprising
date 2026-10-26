@@ -1,8 +1,17 @@
 # Nottinghamshire Summer 1812
 
 
-George Spray, 
-John Stanley 
+https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0001100%2F18120327&page=4&article=040&stringtohighlight=damaging+a+stocking+frame
+Nottingham Review
+
+Published Friday, 27 March 1812
+
+Joseph Falconbridge was committed to the county gaol on Saturday, charged with breaking a stocking-frame on the 13th of Novemeber, 1811, at Sutton-in-Ashfield.
+
+...
+
+We have received a letter from our Correspondent at Leeds this morning. He says, "Contrary to my expectations, I have to inform you of further depredations committed by the populace. On Tuesday night, the warehouse of Messrs. Dickenson and Shann, in the Meadow-lane, of this town, was entered by the roof, and cloth to the value of £500 was cut and damaged. Messrs. Thompson and Co. thought it necessary to guard their gig-mill at Rawden, but on Monday evening, the watchmen were all surprised and secured, and the obnoxious part of the machinery was destroyed. Various reports are in circulation of damage done in other places, one report states that cloth to the amount of £4000 has been destroyed at Elland, near Halifax; most probably this is an exaggeration, but I believe there is some truth in it."
+
 
 https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0000052%2F18120723&page=3&article=005&stringtohighlight=john+stanley
 Derby Mercury
