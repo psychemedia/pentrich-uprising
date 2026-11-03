@@ -34,5 +34,7 @@ parts:
   - file: tellings/72_telling_pentrich-rising
   - file: tellings/60_folly-at-folly-hall
   - file: tellings/61_unjustified_detention
-
+- caption: Turnpike Tales
+  chapters:
+  - file: tellings/ledbury_turnpike_back_from_dead
 
